@@ -1,152 +1,152 @@
 T0	Compound-class 198 208	Triterpene
 T1	Compound-class 4362 4372	Triterpene
-T2	Compound-class 213 220	Sterols
-T3	Compound-class 4377 4384	Sterols
-T4	Species 226 241	Premna nauseosa
-T5	Species 1161 1176	Premna nauseosa
-T6	Species 1397 1412	Premna nauseosa
-T7	Species 1476 1491	Premna nauseosa
-T8	Species 1647 1662	Premna nauseosa
-T9	Species 1769 1784	Premna nauseosa
-T10	Species 1843 1858	Premna nauseosa
-T11	Species 2122 2137	Premna nauseosa
-T12	Species 2348 2363	Premna nauseosa
-T13	Species 2828 2843	Premna nauseosa
-T14	Species 3715 3730	Premna nauseosa
-T15	Species 3746 3761	Premna nauseosa
-T16	Species 4512 4527	Premna nauseosa
-T17	Species 4703 4718	Premna nauseosa
-T18	Species 7527 7542	Premna nauseosa
-T19	Species 7705 7720	Premna nauseosa
-T20	Species 8025 8040	Premna nauseosa
-T21	Species 8160 8175	Premna nauseosa
-T22	Compound 258 265	Apostol
-T23	Location 384 395	Taft Avenue
-T24	Location 397 403	Manila
-T25	Location 652 658	Manila
-T26	Location 775 781	Manila
-T27	Location 410 421	Philippines
-T28	Location 523 534	Philippines
-T29	Location 670 681	Philippines
-T30	Location 788 799	Philippines
-T31	Location 1056 1067	Philippines
-T32	Location 1620 1631	Philippines
-T33	Location 2902 2913	Philippines
-T34	Location 453 464	Civic Drive
-T35	Location 492 499	Alabang
-T36	Location 501 516	Muntinlupa City
-T37	Location 642 650	SampaLocation
-T38	Location 902 905	Sec
-T39	Location 909 915	Taipei
-T40	Location 921 927	Taiwan
-T41	Location 1031 1041	Binan City
-T42	Location 1043 1049	Laguna
-T43	Compound 1134 1149	dichloromethane
-T44	Compound 2095 2110	dichloromethane
-T45	Compound 7678 7693	dichloromethane
-T46	Preparation 1150 1157	extract
-T47	Preparation 1832 1839	extract
-T48	Preparation 2000 2007	extract
-T49	Preparation 2111 2118	extract
-T50	Preparation 3922 3929	extract
-T51	Preparation 4678 4685	extract
-T52	Preparation 7516 7523	extract
-T53	Preparation 7694 7701	extract
-T54	Compound 1193 1201	squalene
-T55	Compound 1290 1298	squalene
-T56	Compound 1434 1442	squalene
-T57	Compound 2153 2161	squalene
-T58	Compound 2232 2240	squalene
-T59	Compound 4127 4135	squalene
-T60	Compound 4464 4472	squalene
-T61	Compound 4728 4736	squalene
-T62	Compound 4792 4800	squalene
-T63	Compound 4861 4869	squalene
-T64	Compound 5133 5141	squalene
-T65	Compound 5194 5202	squalene
-T66	Compound 5386 5394	squalene
-T67	Compound 5877 5885	squalene
-T68	Compound 6002 6010	squalene
-T69	Compound 6126 6134	squalene
-T70	Compound 7729 7737	squalene
-T71	Compound 7948 7956	squalene
-T72	Compound 1219 1234	beta-sitosterol
-T73	Compound 1300 1315	beta-sitosterol
-T74	Compound 1444 1459	beta-sitosterol
-T75	Compound 2179 2194	beta-sitosterol
-T76	Compound 2242 2257	beta-sitosterol
-T77	Compound 4550 4565	beta-sitosterol
-T78	Compound 4871 4886	beta-sitosterol
-T79	Compound 4892 4907	beta-sitosterol
-T80	Compound 4977 4992	beta-sitosterol
-T81	Compound 5099 5114	beta-sitosterol
-T82	Compound 5396 5411	beta-sitosterol
-T83	Compound 7740 7755	beta-sitosterol
-T84	Compound 7882 7897	beta-sitosterol
-T85	Compound 7962 7977	beta-sitosterol
-T86	Compound 8071 8086	beta-sitosterol
-T87	Compound 1239 1251	stigmasterol
-T88	Compound 1461 1473	stigmasterol
-T89	Compound 2199 2211	stigmasterol
-T90	Compound 3826 3838	stigmasterol
-T91	Compound 3930 3942	stigmasterol
-T92	Compound 4494 4506	stigmasterol
-T93	Compound 4571 4583	stigmasterol
-T94	Compound 4758 4770	stigmasterol
-T95	Compound 4913 4925	stigmasterol
-T96	Compound 4931 4943	stigmasterol
-T97	Compound 4998 5010	stigmasterol
-T98	Compound 5163 5175	stigmasterol
-T99	Compound 7234 7246	stigmasterol
-T100	Compound 7760 7772	stigmasterol
-T101	Family 1421 1432	Verbenaceae
-T102	Family 1506 1517	Verbenaceae
-T103	Common-plant-name 1537 1549	alagau-gubat
-T104	Location 1613 1618	Luzon
-T105	Speciespart 1637 1643	leaves
-T106	Speciespart 2138 2144	leaves
-T107	Speciespart 2818 2824	leaves
-T108	Speciespart 3762 3768	leaves
-T109	Speciespart 4693 4699	leaves
-T110	Body-part 1689 1696	stomach
-T111	Speciespart 1811 1815	leaf
-T112	Cell-line 1943 1950	HCT-116
-T113	Cell-line 7607 7614	HCT-116
-T114	Cell-line 8049 8056	HCT-116
-T115	Compound 2751 2759	vanillin
-T116	Location 2883 2891	Odiongan
-T117	Location 2893 2900	Romblon
-T118	Compound 3239 3246	acetone
-T119	Compound 4007 4014	acetone
-T120	Compound 4153 4160	acetone
-T121	Speciespart 3705 3711	Leaves
-T122	Preparation 3784 3790	ground
-T123	Preparation 3854 3862	filtered
-T124	Compound 4475 4489	betasitosterol
-T125	Compound 4739 4753	betasitosterol
-T126	Compound 5461 5469	Squalene
-T127	Compound 5661 5669	Squalene
-T128	Biological-activity 5797 5808	antioxidant
-T129	Biological-activity 7456 7467	antioxidant
-T130	Compound 5850 5862	tocotrienols
-T131	Body-part 5937 5943	breast
-T132	Body-part 6226 6232	breast
-T133	Compound 6154 6169	Beta-Sitosterol
-T134	Compound 6276 6291	Beta-Sitosterol
-T135	Compound 6369 6384	Beta-Sitosterol
-T136	Compound 6493 6508	Beta-Sitosterol
-T137	Compound 6563 6578	Beta-Sitosterol
-T138	Compound 6676 6691	Beta-Sitosterol
-T139	Cell-line 6233 6238	MCF-7
-T140	Compound 6416 6428	beta-catenin
-T141	Biological-activity 6521 6531	anticancer
-T142	Compound 6800 6806	murine
-T143	Compound 6827 6839	Stigmasterol
-T144	Compound 6999 7011	Stigmasterol
-T145	Cell-line 6875 6882	Ehrlich
-T146	Compound-class 7088 7094	sterol
-T147	Compound 7154 7163	bile acid
-T148	Cell-line 7282 7287	Hep-2
-T149	Cell-line 7292 7297	McCoy
-T150	Biological-activity 7558 7567	cytotoxic
-T151	Biological-activity 8003 8012	cytotoxic
+T2	Compound-class 214 221	Sterols
+T3	Compound-class 4379 4386	Sterols
+T4	Species 228 243	Premna nauseosa
+T5	Species 1163 1178	Premna nauseosa
+T6	Species 1399 1414	Premna nauseosa
+T7	Species 1478 1493	Premna nauseosa
+T8	Species 1649 1664	Premna nauseosa
+T9	Species 1771 1786	Premna nauseosa
+T10	Species 1845 1860	Premna nauseosa
+T11	Species 2124 2139	Premna nauseosa
+T12	Species 2350 2365	Premna nauseosa
+T13	Species 2830 2845	Premna nauseosa
+T14	Species 3717 3732	Premna nauseosa
+T15	Species 3748 3763	Premna nauseosa
+T16	Species 4516 4531	Premna nauseosa
+T17	Species 4707 4722	Premna nauseosa
+T18	Species 7531 7546	Premna nauseosa
+T19	Species 7709 7724	Premna nauseosa
+T20	Species 8029 8044	Premna nauseosa
+T21	Species 8164 8179	Premna nauseosa
+T22	Compound 261 268	Apostol
+T23	Location 388 399	Taft Avenue
+T24	Location 402 408	Manila
+T25	Location 657 663	Manila
+T26	Location 780 786	Manila
+T27	Location 416 427	Philippines
+T28	Location 529 540	Philippines
+T29	Location 677 688	Philippines
+T30	Location 796 807	Philippines
+T31	Location 1064 1075	Philippines
+T32	Location 1631 1642	Philippines
+T33	Location 2919 2930	Philippines
+T34	Location 460 471	Civic Drive
+T35	Location 500 507	Alabang
+T36	Location 510 525	Muntinlupa City
+T37	Location 653 661	Sampaloc
+T38	Location 918 921	Sec
+T39	Location 926 932	Taipei
+T40	Location 939 945	Taiwan
+T41	Location 1050 1060	Binan City
+T42	Location 1063 1069	Laguna
+T43	Compound 1156 1171	dichloromethane
+T44	Compound 2124 2139	dichloromethane
+T45	Compound 7718 7733	dichloromethane
+T46	Preparation 1173 1180	extract
+T47	Preparation 1861 1868	extract
+T48	Preparation 2030 2037	extract
+T49	Preparation 2142 2149	extract
+T50	Preparation 3959 3966	extract
+T51	Preparation 4718 4725	extract
+T52	Preparation 7557 7564	extract
+T53	Preparation 7737 7744	extract
+T54	Compound 1218 1226	squalene
+T55	Compound 1315 1323	squalene
+T56	Compound 1460 1468	squalene
+T57	Compound 2189 2197	squalene
+T58	Compound 2268 2276	squalene
+T59	Compound 4169 4177	squalene
+T60	Compound 4508 4516	squalene
+T61	Compound 4775 4783	squalene
+T62	Compound 4839 4847	squalene
+T63	Compound 4908 4916	squalene
+T64	Compound 5180 5188	squalene
+T65	Compound 5241 5249	squalene
+T66	Compound 5433 5441	squalene
+T67	Compound 5924 5932	squalene
+T68	Compound 6049 6057	squalene
+T69	Compound 6173 6181	squalene
+T70	Compound 7781 7789	squalene
+T71	Compound 8000 8008	squalene
+T72	Compound 1245 1260	beta-sitosterol
+T73	Compound 1327 1342	beta-sitosterol
+T74	Compound 1473 1488	beta-sitosterol
+T75	Compound 2219 2234	beta-sitosterol
+T76	Compound 2283 2298	beta-sitosterol
+T77	Compound 4602 4617	beta-sitosterol
+T78	Compound 4928 4943	beta-sitosterol
+T79	Compound 4949 4964	beta-sitosterol
+T80	Compound 5034 5049	beta-sitosterol
+T81	Compound 5156 5171	beta-sitosterol
+T82	Compound 5456 5471	beta-sitosterol
+T83	Compound 7809 7824	beta-sitosterol
+T84	Compound 7951 7966	beta-sitosterol
+T85	Compound 8032 8047	beta-sitosterol
+T86	Compound 8142 8157	beta-sitosterol
+T87	Compound 1266 1278	stigmasterol
+T88	Compound 1493 1505	stigmasterol
+T89	Compound 2243 2255	stigmasterol
+T90	Compound 3877 3889	stigmasterol
+T91	Compound 3982 3994	stigmasterol
+T92	Compound 4550 4562	stigmasterol
+T93	Compound 4629 4641	stigmasterol
+T94	Compound 4819 4831	stigmasterol
+T95	Compound 4978 4990	stigmasterol
+T96	Compound 4996 5008	stigmasterol
+T97	Compound 5064 5076	stigmasterol
+T98	Compound 5231 5243	stigmasterol
+T99	Compound 7308 7320	stigmasterol
+T100	Compound 7841 7853	stigmasterol
+T101	Family1452 1463	Verbenaceae
+T102	Family1541 1552	Verbenaceae
+T103	Common-plant-name 1574 1586	alagau-gubat
+T104	Location 1651 1656	Luzon
+T105	Plant-part 1677 1683	leaves
+T106	Plant-part 2186 2192	leaves
+T107	Plant-part 2872 2878	leaves
+T108	Plant-part 3820 3826	leaves
+T109	Plant-part 4763 4769	leaves
+T110	Body-part 1731 1738	stomach
+T111	Plant-part 1855 1859	leaf
+T112	Cell-line 1990 1997	HCT-116
+T113	Cell-line 7707 7714	HCT-116
+T114	Cell-line 8159 8166	HCT-116
+T115	Compound 2810 2818	vanillin
+T116	Location 2945 2953	Odiongan
+T117	Location 2956 2963	Romblon
+T118	Compound 3304 3311	acetone
+T119	Compound 4078 4085	acetone
+T120	Compound 4225 4232	acetone
+T121	Plant-part 3771 3777	Leaves
+T122	Preparation 3854 3860	ground
+T123	Preparation 3926 3934	filtered
+T124	Compound 4556 4570	betasitosterol
+T125	Compound 4828 4842	betasitosterol
+T126	Compound 5567 5575	Squalene
+T127	Compound 5767 5775	Squalene
+T128	Biological-activity 5905 5916	antioxidant
+T129	Biological-activity 7568 7579	antioxidant
+T130	Compound 5959 5971	tocotrienols
+T131	Body-part 6048 6054	breast
+T132	Body-part 6339 6345	breast
+T133	Compound 6268 6283	Beta-Sitosterol
+T134	Compound 6391 6406	Beta-Sitosterol
+T135	Compound 6484 6499	Beta-Sitosterol
+T136	Compound 6608 6623	Beta-Sitosterol
+T137	Compound 6678 6693	Beta-Sitosterol
+T138	Compound 6791 6806	Beta-Sitosterol
+T139	Cell-line 6349 6354	MCF-7
+T140	Compound 6535 6547	beta-catenin
+T141	Biological-activity 6642 6652	anticancer
+T142	Compound 6924 6930	murine
+T143	Compound 6952 6964	Stigmasterol
+T144	Compound 7124 7136	Stigmasterol
+T145	Cell-line 7001 7008	Ehrlich
+T146	Compound-class 7216 7222	sterol
+T147	Compound 7283 7292	bile acid
+T148	Cell-line 7413 7418	Hep-2
+T149	Cell-line 7424 7429	McCoy
+T150	Biological-activity 7694 7703	cytotoxic
+T151	Biological-activity 8149 8158	cytotoxic

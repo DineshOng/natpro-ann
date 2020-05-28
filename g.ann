@@ -1,169 +1,169 @@
 T0	Location 186 195	USA CODEN
-T1	Species 257 271	Duranta erecta
-T2	Species 916 930	Duranta erecta
-T3	Species 1190 1204	Duranta erecta
-T4	Species 1308 1322	Duranta erecta
-T5	Species 1576 1590	Duranta erecta
-T6	Species 4165 4179	Duranta erecta
-T7	Species 4371 4385	Duranta erecta
-T8	Species 4861 4875	Duranta erecta
-T9	Species 5827 5841	Duranta erecta
-T10	Species 5856 5870	Duranta erecta
-T11	Species 7022 7036	Duranta erecta
-T12	Speciespart 275 282	Flowers
-T13	Speciespart 5816 5823	Flowers
-T14	Compound 378 394	triacylglycerols
-T15	Compound 1068 1084	triacylglycerols
-T16	Compound 1288 1304	triacylglycerols
-T17	Compound 4128 4144	triacylglycerols
-T18	Compound 4334 4350	triacylglycerols
-T19	Compound 6403 6419	triacylglycerols
-T20	Compound 6533 6549	triacylglycerols
-T21	Compound 7288 7304	triacylglycerols
-T22	Compound 7310 7326	triacylglycerols
-T23	Location 450 461	Taft Avenue
-T24	Location 538 549	Taft Avenue
-T25	Location 463 469	Manila
-T26	Location 551 557	Manila
-T27	Location 476 487	Philippines
-T28	Location 564 575	Philippines
-T29	Location 829 840	Philippines
-T30	Location 677 680	Sec
-T31	Location 684 690	Taipei
-T32	Location 696 702	Taiwan
-T33	Location 804 814	Binan City
-T34	Location 816 822	Laguna
-T35	Location 4906 4912	Laguna
-T36	Compound 874 889	dichloromethane
-T37	Compound 6981 6996	dichloromethane
-T38	Preparation 890 897	extract
-T39	Preparation 2161 2168	extract
-T40	Preparation 2189 2196	extract
-T41	Preparation 2569 2576	extract
-T42	Preparation 3690 3697	extract
-T43	Preparation 3737 3744	extract
-T44	Preparation 3953 3960	extract
-T45	Preparation 6041 6048	extract
-T46	Preparation 6997 7004	extract
-T47	Speciespart 905 912	flowers
-T48	Speciespart 4154 4161	flowers
-T49	Speciespart 4360 4367	flowers
-T50	Speciespart 4850 4857	flowers
-T51	Speciespart 5871 5878	flowers
-T52	Compound 962 976	oleanolic acid
-T53	Compound 1219 1233	oleanolic acid
-T54	Compound 1974 1988	oleanolic acid
-T55	Compound 2832 2846	oleanolic acid
-T56	Compound 4036 4050	oleanolic acid
-T57	Compound 4255 4269	oleanolic acid
-T58	Compound 6049 6063	oleanolic acid
-T59	Compound 6865 6879	oleanolic acid
-T60	Compound 7070 7084	oleanolic acid
-T61	Compound 992 1004	alpha-amyrin
-T62	Compound 1261 1273	alpha-amyrin
-T63	Compound 4066 4078	alpha-amyrin
-T64	Compound 4272 4284	alpha-amyrin
-T65	Compound 7178 7190	alpha-amyrin
-T66	Compound 1009 1020	beta-amyrin
-T67	Compound 1275 1286	beta-amyrin
-T68	Compound 2328 2339	beta-amyrin
-T69	Compound 4083 4094	beta-amyrin
-T70	Compound 4289 4300	beta-amyrin
-T71	Compound 6696 6707	beta-amyrin
-T72	Compound 7197 7208	beta-amyrin
-T73	Compound 7376 7387	beta-amyrin
-T74	Compound 7560 7571	beta-amyrin
-T75	Compound 1037 1061	phytyl fatty acid esters
-T76	Compound 1235 1259	phytyl fatty acid esters
-T77	Compound 2624 2648	phytyl fatty acid esters
-T78	Compound 4097 4121	phytyl fatty acid esters
-T79	Compound 4303 4327	phytyl fatty acid esters
-T80	Compound 5933 5957	phytyl fatty acid esters
-T81	Compound 6377 6401	phytyl fatty acid esters
-T82	Compound 6881 6905	phytyl fatty acid esters
-T83	Compound 7227 7251	phytyl fatty acid esters
-T84	Compound 7257 7281	phytyl fatty acid esters
-T85	Compound 7520 7544	phytyl fatty acid esters
-T86	Compound 7589 7613	phytyl fatty acid esters
-T87	Family 1206 1217	Verbenaceae
-T88	Family 1364 1375	Verbenaceae
-T89	Species 1331 1345	Duranta repens
-T90	Species 1920 1934	Duranta repens
-T91	Species 2580 2594	Duranta repens
-T92	Species 2753 2767	Duranta repens
-T93	Species 3275 3289	Duranta repens
-T94	Species 3701 3715	Duranta repens
-T95	Species 3978 3992	Duranta repens
-T96	Location 1420 1433	South America
-T97	Speciespart 1460 1466	fruits
-T98	Speciespart 2200 2206	fruits
-T99	Speciespart 3968 3974	fruits
-T100	Speciespart 1510 1516	leaves
-T101	Speciespart 1566 1572	leaves
-T102	Speciespart 1910 1916	leaves
-T103	Speciespart 2743 2749	leaves
-T104	Speciespart 7012 7018	leaves
-T105	Compound 1607 1617	glucosides
-T106	Compound 1619 1638	duranterectosides A
-T107	Compound 1640 1659	duranterectosides B
-T108	Compound 1661 1680	duranterectosides C
-T109	Compound 1686 1705	duranterectosides D
-T110	Compound 1707 1721	durantosides I
-T111	Compound 1726 1741	durantosides II
-T112	Compound 1816 1831	durantosides II
-T113	Compound 1743 1750	lamiide
-T114	Compound 2490 2497	lamiide
-T115	Compound 2690 2697	lamiide
-T116	Compound 3540 3547	lamiide
-T117	Compound 1752 1763	lamiidoside
-T118	Compound 1859 1870	lamiidoside
-T119	Compound 1768 1780	verbascoside
-T120	Compound 1837 1853	durantosides III
-T121	Speciespart 1899 1904	stems
-T122	Compound 1943 1957	durantoside IV
-T123	Compound 1959 1972	durantoside V
-T124	Compound 1990 2002	ursolic acid
-T125	Compound 2023 2065	beta-sitosteryl-3-O-beta-D-glucopyranoside
-T126	Compound 2095 2104	kusaginin
-T127	Compound 2131 2145	durantoside II
-T128	Speciespart 2172 2176	stem
-T129	Compound 2344 2355	12-oleanene
-T130	Compound 2363 2374	21beta-diol
-T131	Biological-activity 2419 2432	antimicrobial
-T132	Compound 2457 2476	glycoside acteoside
-T133	Compound 2506 2532	saponin pseudo-ginsenoside
-T134	Compound 2560 2568	methanol
-T135	Compound 3944 3952	methanol
-T136	Compound 2596 2605	Acteoside
-T137	Compound 2776 2789	durantanin IV
-T138	Compound 2794 2806	durantanin V
-T139	Compound 2823 2830	saponin
-T140	Compound-class 2879 2889	flavonoids
-T141	Compound-class 2935 2945	flavonoids
-T142	Compound 3072 3081	xyflavone
-T143	Compound-class 3086 3096	diterpenes
-T144	Compound 3304 3335	24-ethylcholest-5-en-3-alpha-ol
-T145	Compound 3337 3347	naringenin
-T146	Compound 3487 3538	rhamnopyranosyl-4-O-caffeoyl-alpha-D-glucopyranosid
-T147	Compound 3549 3569	alpha-glucopyranosyl
-T148	Compound 3621 3641	alpha-glucopyranosyl
-T149	Compound 3808 3827	acids methyl esters
-T150	Compound 3832 3843	fatty acids
-T151	Compound 3849 3862	palmitic acid
-T152	Compound 3902 3921	trans-cinnamic acid
-T153	Compound 4772 4780	vanillin
-T154	Location 4896 4904	Sta Rosa
-T155	Location 4914 4923	Plippines
-T156	Compound 5249 5256	acetone
-T157	Compound 6129 6136	acetone
-T158	Compound 6184 6191	acetone
-T159	Compound 6567 6574	acetone
-T160	Compound 6760 6767	acetone
-T161	Preparation 5891 5897	ground
-T162	Preparation 5973 5981	filtered
-T163	Compound 6679 6690	alphaamyrin
-T164	Compound 7161 7172	alphaamyrin
-T165	Compound 7360 7371	alphaamyrin
-T166	Compound 7491 7502	alphaamyrin
-T167	Compound 7145 7158	olenolic acid
-T168	Compound 7214 7224	betaamyrin
+T1	Species 258 272	Duranta erecta
+T2	Species 917 931	Duranta erecta
+T3	Species 1191 1205	Duranta erecta
+T4	Species 1309 1323	Duranta erecta
+T5	Species 1577 1591	Duranta erecta
+T6	Species 4166 4180	Duranta erecta
+T7	Species 4372 4386	Duranta erecta
+T8	Species 4862 4876	Duranta erecta
+T9	Species 5828 5842	Duranta erecta
+T10	Species 5857 5871	Duranta erecta
+T11	Species 7023 7037	Duranta erecta
+T12	Plant-part 277 284	Flowers
+T13	Plant-part 5825 5832	Flowers
+T14	Compound 381 397	triacylglycerols
+T15	Compound 1072 1088	triacylglycerols
+T16	Compound 1293 1309	triacylglycerols
+T17	Compound 4135 4151	triacylglycerols
+T18	Compound 4342 4358	triacylglycerols
+T19	Compound 6416 6432	triacylglycerols
+T20	Compound 6546 6562	triacylglycerols
+T21	Compound 7302 7318	triacylglycerols
+T22	Compound 7324 7340	triacylglycerols
+T23	Location 454 465	Taft Avenue
+T24	Location 542 553	Taft Avenue
+T25	Location 468 474	Manila
+T26	Location 557 563	Manila
+T27	Location 482 493	Philippines
+T28	Location 572 583	Philippines
+T29	Location 837 848	Philippines
+T30	Location 687 690	Sec
+T31	Location 695 701	Taipei
+T32	Location 708 714	Taiwan
+T33	Location 817 827	Binan City
+T34	Location 830 836	Laguna
+T35	Location 4932 4938	Laguna
+T36	Compound 890 905	dichloromethane
+T37	Compound 7014 7029	dichloromethane
+T38	Preparation 907 914	extract
+T39	Preparation 2184 2191	extract
+T40	Preparation 2212 2219	extract
+T41	Preparation 2592 2599	extract
+T42	Preparation 3713 3720	extract
+T43	Preparation 3760 3767	extract
+T44	Preparation 3976 3983	extract
+T45	Preparation 6073 6080	extract
+T46	Preparation 7032 7039	extract
+T47	Plant-part 923 930	flowers
+T48	Plant-part 4185 4192	flowers
+T49	Plant-part 4393 4400	flowers
+T50	Plant-part 4884 4891	flowers
+T51	Plant-part 5910 5917	flowers
+T52	Compound 982 996	oleanolic acid
+T53	Compound 1241 1255	oleanolic acid
+T54	Compound 1999 2013	oleanolic acid
+T55	Compound 2860 2874	oleanolic acid
+T56	Compound 4067 4081	oleanolic acid
+T57	Compound 4289 4303	oleanolic acid
+T58	Compound 6094 6108	oleanolic acid
+T59	Compound 6912 6926	oleanolic acid
+T60	Compound 7120 7134	oleanolic acid
+T61	Compound 1013 1025	alpha-amyrin
+T62	Compound 1285 1297	alpha-amyrin
+T63	Compound 4102 4114	alpha-amyrin
+T64	Compound 4312 4324	alpha-amyrin
+T65	Compound 7237 7249	alpha-amyrin
+T66	Compound 1031 1042	beta-amyrin
+T67	Compound 1301 1312	beta-amyrin
+T68	Compound 2360 2371	beta-amyrin
+T69	Compound 4122 4133	beta-amyrin
+T70	Compound 4333 4344	beta-amyrin
+T71	Compound 6754 6765	beta-amyrin
+T72	Compound 7261 7272	beta-amyrin
+T73	Compound 7442 7453	beta-amyrin
+T74	Compound 7626 7637	beta-amyrin
+T75	Compound 1060 1084	phytyl fatty acid esters
+T76	Compound 1261 1285	phytyl fatty acid esters
+T77	Compound 2660 2684	phytyl fatty acid esters
+T78	Compound 4140 4164	phytyl fatty acid esters
+T79	Compound 4352 4376	phytyl fatty acid esters
+T80	Compound 5992 6016	phytyl fatty acid esters
+T81	Compound 6438 6462	phytyl fatty acid esters
+T82	Compound 6946 6970	phytyl fatty acid esters
+T83	Compound 7298 7322	phytyl fatty acid esters
+T84	Compound 7328 7352	phytyl fatty acid esters
+T85	Compound 7594 7618	phytyl fatty acid esters
+T86	Compound 7664 7688	phytyl fatty acid esters
+T87	Family1232 1243	Verbenaceae
+T88	Family1396 1407	Verbenaceae
+T89	Species 1364 1378	Duranta repens
+T90	Species 1955 1969	Duranta repens
+T91	Species 2620 2634	Duranta repens
+T92	Species 2794 2808	Duranta repens
+T93	Species 3317 3331	Duranta repens
+T94	Species 3744 3758	Duranta repens
+T95	Species 4023 4037	Duranta repens
+T96	Location 1455 1468	South America
+T97	Plant-part 1496 1502	fruits
+T98	Plant-part 2241 2247	fruits
+T99	Plant-part 4020 4026	fruits
+T100	Plant-part 1547 1553	leaves
+T101	Plant-part 1603 1609	leaves
+T102	Plant-part 1948 1954	leaves
+T103	Plant-part 2790 2796	leaves
+T104	Plant-part 7100 7106	leaves
+T105	Compound 1647 1657	glucosides
+T106	Compound 1660 1679	duranterectosides A
+T107	Compound 1682 1701	duranterectosides B
+T108	Compound 1704 1723	duranterectosides C
+T109	Compound 1730 1749	duranterectosides D
+T110	Compound 1752 1766	durantosides I
+T111	Compound 1772 1787	durantosides II
+T112	Compound 1862 1877	durantosides II
+T113	Compound 1790 1797	lamiide
+T114	Compound 2545 2552	lamiide
+T115	Compound 2748 2755	lamiide
+T116	Compound 3602 3609	lamiide
+T117	Compound 1800 1811	lamiidoside
+T118	Compound 1908 1919	lamiidoside
+T119	Compound 1817 1829	verbascoside
+T120	Compound 1888 1904	durantosides III
+T121	Plant-part 1952 1957	stems
+T122	Compound 1999 2013	durantoside IV
+T123	Compound 2016 2029	durantoside V
+T124	Compound 2049 2061	ursolic acid
+T125	Compound 2083 2125	beta-sitosteryl-3-O-beta-D-glucopyranoside
+T126	Compound 2156 2165	kusaginin
+T127	Compound 2193 2207	durantoside II
+T128	Plant-part 2236 2240	stem
+T129	Compound 2412 2423	12-oleanene
+T130	Compound 2432 2443	21beta-diol
+T131	Biological-activity 2489 2502	antimicrobial
+T132	Compound 2528 2547	glycoside acteoside
+T133	Compound 2579 2605	saponin pseudo-ginsenoside
+T134	Compound 2634 2642	methanol
+T135	Compound 4030 4038	methanol
+T136	Compound 2673 2682	Acteoside
+T137	Compound 2858 2871	durantanin IV
+T138	Compound 2877 2889	durantanin V
+T139	Compound 2907 2914	saponin
+T140	Compound-class 2965 2975	flavonoids
+T141	Compound-class 3021 3031	flavonoids
+T142	Compound 3160 3169	xyflavone
+T143	Compound-class 3175 3185	diterpenes
+T144	Compound 3395 3426	24-ethylcholest-5-en-3-alpha-ol
+T145	Compound 3429 3439	naringenin
+T146	Compound 3580 3631	rhamnopyranosyl-4-O-caffeoyl-alpha-D-glucopyranosid
+T147	Compound 3644 3664	alpha-glucopyranosyl
+T148	Compound 3716 3736	alpha-glucopyranosyl
+T149	Compound 3908 3927	acids methyl esters
+T150	Compound 3933 3944	fatty acids
+T151	Compound 3951 3964	palmitic acid
+T152	Compound 4005 4024	trans-cinnamic acid
+T153	Compound 4894 4902	vanillin
+T154	Location 5021 5029	Sta Rosa
+T155	Location 5041 5050	Plippines
+T156	Compound 5377 5384	acetone
+T157	Compound 6264 6271	acetone
+T158	Compound 6319 6326	acetone
+T159	Compound 6705 6712	acetone
+T160	Compound 6899 6906	acetone
+T161	Preparation 6024 6030	ground
+T162	Preparation 6108 6116	filtered
+T163	Compound 6823 6834	alphaamyrin
+T164	Compound 7314 7325	alphaamyrin
+T165	Compound 7519 7530	alphaamyrin
+T166	Compound 7651 7662	alphaamyrin
+T167	Compound 7299 7312	olenolic acid
+T168	Compound 7372 7382	betaamyrin
