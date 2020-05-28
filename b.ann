@@ -1,494 +1,494 @@
 T0	Compound-class 120 131	Triterpenes
-T1	Compound-class 2523 2534	Triterpenes
-T2	Compound-class 5483 5494	Triterpenes
-T3	Compound-class 7297 7308	Triterpenes
-T4	Compound-class 14431 14442	Triterpenes
-T5	Compound-class 16701 16712	Triterpenes
-T6	Compound-class 137 144	Sterols
-T7	Compound-class 2541 2548	Sterols
-T8	Compound-class 5502 5509	Sterols
-T9	Compound-class 7317 7324	Sterols
-T10	Compound-class 14452 14459	Sterols
-T11	Plant-part 151 157	Leaves
-T12	Plant-part 2556 2562	Leaves
-T13	Plant-part 5518 5524	Leaves
-T14	Plant-part 9576 9582	Leaves
-T15	Species 162 175	Hoya meliflua
-T16	Species 1571 1584	Hoya meliflua
-T17	Species 1879 1892	Hoya meliflua
-T18	Species 2568 2581	Hoya meliflua
-T19	Species 2867 2880	Hoya meliflua
-T20	Species 3240 3253	Hoya meliflua
-T21	Species 3602 3615	Hoya meliflua
-T22	Species 3736 3749	Hoya meliflua
-T23	Species 3796 3809	Hoya meliflua
-T24	Species 3950 3963	Hoya meliflua
-T25	Species 4006 4019	Hoya meliflua
-T26	Species 5531 5544	Hoya meliflua
-T27	Species 8019 8032	Hoya meliflua
-T28	Species 8648 8661	Hoya meliflua
-T29	Species 10928 10941	Hoya meliflua
-T30	Species 13132 13145	Hoya meliflua
-T31	Species 13334 13347	Hoya meliflua
-T32	Species 19013 19026	Hoya meliflua
-T33	Species 20154 20167	Hoya meliflua
-T34	Species 20607 20620	Hoya meliflua
-T35	Species 20715 20728	Hoya meliflua
-T36	Location 1151 1155	Hoya
-T37	Location 1498 1502	Hoya
-T38	Location 1971 1975	Hoya
-T39	Location 2378 2382	Hoya
-T40	Location 2596 2600	Hoya
-T41	Location 2795 2799	Hoya
-T42	Location 2906 2910	Hoya
-T43	Location 3695 3699	Hoya
-T44	Location 3790 3794	Hoya
-T45	Location 3861 3865	Hoya
-T46	Location 5731 5735	Hoya
-T47	Location 5933 5937	Hoya
-T48	Location 6326 6330	Hoya
-T49	Location 6595 6599	Hoya
-T50	Location 6678 6682	Hoya
-T51	Location 7051 7055	Hoya
-T52	Location 7117 7121	Hoya
-T53	Location 7530 7534	Hoya
-T54	Location 7738 7742	Hoya
-T55	Location 19117 19121	Hoya
-T56	Location 19123 19127	Hoya
-T57	Location 19140 19144	Hoya
-T58	Location 19159 19163	Hoya
-T59	Location 19180 19184	Hoya
-T60	Location 19237 19241	Hoya
-T61	Location 19255 19259	Hoya
-T62	Location 19272 19276	Hoya
-T63	Location 19291 19295	Hoya
-T64	Location 19308 19312	Hoya
-T65	Location 19321 19325	Hoya
-T66	Location 19344 19348	Hoya
-T67	Location 19384 19388	Hoya
-T68	Location 19402 19406	Hoya
-T69	Location 19422 19426	Hoya
-T70	Location 19466 19470	Hoya
-T71	Location 19480 19484	Hoya
-T72	Location 19497 19501	Hoya
-T73	Location 19550 19554	Hoya
-T74	Location 19567 19571	Hoya
-T75	Location 19622 19626	Hoya
-T76	Location 19644 19648	Hoya
-T77	Location 19694 19698	Hoya
-T78	Location 19712 19716	Hoya
-T79	Location 19729 19733	Hoya
-T80	Location 19743 19747	Hoya
-T81	Location 19756 19760	Hoya
-T82	Location 19775 19779	Hoya
-T83	Location 19792 19796	Hoya
-T84	Location 19808 19812	Hoya
-T85	Location 19831 19835	Hoya
-T86	Location 19900 19904	Hoya
-T87	Location 19918 19922	Hoya
-T88	Location 19931 19935	Hoya
-T89	Location 19953 19957	Hoya
-T90	Location 20044 20048	Hoya
-T91	Location 20463 20467	Hoya
-T92	Location 20528 20532	Hoya
-T93	Location 20820 20824	Hoya
-T94	Family1226 1237	Apocynaceae
-T95	Family4042 4053	Apocynaceae
+T1	Compound-class 2539 2550	Triterpenes
+T2	Compound-class 5523 5534	Triterpenes
+T3	Compound-class 7344 7355	Triterpenes
+T4	Compound-class 14516 14527	Triterpenes
+T5	Compound-class 16800 16811	Triterpenes
+T6	Compound-class 136 143	Sterols
+T7	Compound-class 2555 2562	Sterols
+T8	Compound-class 5539 5546	Sterols
+T9	Compound-class 7360 7367	Sterols
+T10	Compound-class 14532 14539	Sterols
+T11	Plant-part 149 155	Leaves
+T12	Plant-part 2568 2574	Leaves
+T13	Plant-part 5552 5558	Leaves
+T14	Plant-part 9630 9636	Leaves
+T15	Species 159 172	Hoya meliflua
+T16	Species 1577 1590	Hoya meliflua
+T17	Species 1888 1901	Hoya meliflua
+T18	Species 2578 2591	Hoya meliflua
+T19	Species 2881 2894	Hoya meliflua
+T20	Species 3257 3270	Hoya meliflua
+T21	Species 3619 3632	Hoya meliflua
+T22	Species 3754 3767	Hoya meliflua
+T23	Species 3815 3828	Hoya meliflua
+T24	Species 3969 3982	Hoya meliflua
+T25	Species 4026 4039	Hoya meliflua
+T26	Species 5562 5575	Hoya meliflua
+T27	Species 8058 8071	Hoya meliflua
+T28	Species 8691 8704	Hoya meliflua
+T29	Species 10985 10998	Hoya meliflua
+T30	Species 13197 13210	Hoya meliflua
+T31	Species 13400 13413	Hoya meliflua
+T32	Species 19111 19124	Hoya meliflua
+T33	Species 20254 20267	Hoya meliflua
+T34	Species 20709 20722	Hoya meliflua
+T35	Species 20818 20831	Hoya meliflua
+T36	Location 1152 1156	Hoya
+T37	Location 1502 1506	Hoya
+T38	Location 1977 1981	Hoya
+T39	Location 2387 2391	Hoya
+T40	Location 2603 2607	Hoya
+T41	Location 2804 2808	Hoya
+T42	Location 2915 2919	Hoya
+T43	Location 3705 3709	Hoya
+T44	Location 3800 3804	Hoya
+T45	Location 3871 3875	Hoya
+T46	Location 5751 5755	Hoya
+T47	Location 5954 5958	Hoya
+T48	Location 6348 6352	Hoya
+T49	Location 6618 6622	Hoya
+T50	Location 6702 6706	Hoya
+T51	Location 7076 7080	Hoya
+T52	Location 7143 7147	Hoya
+T53	Location 7555 7559	Hoya
+T54	Location 7764 7768	Hoya
+T55	Location 19197 19201	Hoya
+T56	Location 19203 19207	Hoya
+T57	Location 19220 19224	Hoya
+T58	Location 19239 19243	Hoya
+T59	Location 19260 19264	Hoya
+T60	Location 19317 19321	Hoya
+T61	Location 19335 19339	Hoya
+T62	Location 19352 19356	Hoya
+T63	Location 19371 19375	Hoya
+T64	Location 19388 19392	Hoya
+T65	Location 19401 19405	Hoya
+T66	Location 19424 19428	Hoya
+T67	Location 19464 19468	Hoya
+T68	Location 19482 19486	Hoya
+T69	Location 19502 19506	Hoya
+T70	Location 19546 19550	Hoya
+T71	Location 19560 19564	Hoya
+T72	Location 19577 19581	Hoya
+T73	Location 19630 19634	Hoya
+T74	Location 19647 19651	Hoya
+T75	Location 19702 19706	Hoya
+T76	Location 19724 19728	Hoya
+T77	Location 19774 19778	Hoya
+T78	Location 19792 19796	Hoya
+T79	Location 19809 19813	Hoya
+T80	Location 19823 19827	Hoya
+T81	Location 19836 19840	Hoya
+T82	Location 19855 19859	Hoya
+T83	Location 19872 19876	Hoya
+T84	Location 19888 19892	Hoya
+T85	Location 19911 19915	Hoya
+T86	Location 19980 19984	Hoya
+T87	Location 19998 20002	Hoya
+T88	Location 20011 20015	Hoya
+T89	Location 20033 20037	Hoya
+T90	Location 20125 20129	Hoya
+T91	Location 20545 20549	Hoya
+T92	Location 20611 20615	Hoya
+T93	Location 20902 20906	Hoya
+T94	Family 1226 1237	Apocynaceae
+T95	Family 4041 4052	Apocynaceae
 T96	Common-plant-name 1256 1266	wax plants
-T97	Common-plant-name 2630 2640	wax plants
-T98	Plant-part 1304 1310	leaves
-T99	Plant-part 2345 2351	leaves
-T100	Plant-part 2679 2685	leaves
-T101	Plant-part 3245 3251	leaves
-T102	Plant-part 5735 5741	leaves
-T103	Plant-part 5938 5944	leaves
-T104	Plant-part 6332 6338	leaves
-T105	Plant-part 6509 6515	leaves
-T106	Plant-part 6816 6822	leaves
-T107	Plant-part 7060 7066	leaves
-T108	Plant-part 7498 7504	leaves
-T109	Plant-part 7710 7716	leaves
-T110	Plant-part 7986 7992	leaves
-T111	Plant-part 8044 8050	leaves
-T112	Plant-part 8699 8705	leaves
-T113	Plant-part 9638 9644	leaves
-T114	Plant-part 10955 10961	leaves
-T115	Plant-part 13857 13863	leaves
-T116	Plant-part 1316 1323	flowers
-T117	Plant-part 2693 2700	flowers
+T97	Common-plant-name 2631 2641	wax plants
+T98	Plant-part 1303 1309	leaves
+T99	Plant-part 2349 2355	leaves
+T100	Plant-part 2678 2684	leaves
+T101	Plant-part 3247 3253	leaves
+T102	Plant-part 5741 5747	leaves
+T103	Plant-part 5944 5950	leaves
+T104	Plant-part 6338 6344	leaves
+T105	Plant-part 6515 6521	leaves
+T106	Plant-part 6821 6827	leaves
+T107	Plant-part 7066 7072	leaves
+T108	Plant-part 7501 7507	leaves
+T109	Plant-part 7713 7719	leaves
+T110	Plant-part 7989 7995	leaves
+T111	Plant-part 8048 8054	leaves
+T112	Plant-part 8705 8711	leaves
+T113	Plant-part 9651 9657	leaves
+T114	Plant-part 10975 10981	leaves
+T115	Plant-part 13885 13891	leaves
+T116	Plant-part 1314 1321	flowers
+T117	Plant-part 2689 2696	flowers
 T118	Plant-part 6262 6269	flowers
-T119	Location 1456 1467	Philippines
-T120	Location 1734 1745	Philippines
-T121	Location 2761 2772	Philippines
-T122	Location 8981 8992	Philippines
-T123	Location 13249 13260	Philippines
-T124	Location 1608 1614	Apayao
-T125	Location 1617 1623	Bataan
-T126	Location 1626 1632	Laguna
-T127	Location 1826 1832	Laguna
-T128	Location 4925 4931	Laguna
-T129	Location 1635 1643	La Union
-T130	Location 1649 1654	Rizal
-T131	Location 1659 1671	Luzon Island
-T132	Location 1680 1685	Leyte
-T133	Location 1688 1695	Mindoro
-T134	Location 1698 1704	Negros
-T135	Location 1707 1714	Palawan
-T136	Location 1720 1725	Panay
-T137	Compound 2279 2287	lupenone
-T138	Compound 3412 3420	lupenone
-T139	Compound 6986 6994	lupenone
-T140	Compound 7609 7617	lupenone
-T141	Compound 8180 8188	lupenone
-T142	Compound 10462 10470	lupenone
-T143	Compound 11138 11146	lupenone
-T144	Compound 11648 11656	lupenone
-T145	Compound 11662 11670	lupenone
-T146	Compound 12231 12239	lupenone
-T147	Compound 12418 12426	lupenone
-T148	Compound 14423 14431	lupenone
-T149	Compound 15936 15944	lupenone
-T150	Compound 19532 19540	lupenone
-T151	Compound 20376 20384	lupenone
-T152	Compound 2293 2299	lupeol
-T153	Compound 2316 2322	lupeol
-T154	Compound 2478 2484	lupeol
-T155	Compound 2515 2521	lupeol
-T156	Compound 3357 3363	lupeol
-T157	Compound 6436 6442	lupeol
-T158	Compound 6606 6612	lupeol
-T159	Compound 6756 6762	lupeol
-T160	Compound 7294 7300	lupeol
-T161	Compound 7329 7335	lupeol
-T162	Compound 7623 7629	lupeol
-T163	Compound 7819 7825	lupeol
-T164	Compound 7912 7918	lupeol
-T165	Compound 8153 8159	lupeol
-T166	Compound 10677 10683	lupeol
-T167	Compound 11088 11094	lupeol
-T168	Compound 11587 11593	lupeol
-T169	Compound 11599 11605	lupeol
-T170	Compound 11806 11812	lupeol
-T171	Compound 11946 11952	lupeol
-T172	Compound 12124 12130	lupeol
-T173	Compound 14403 14409	lupeol
-T174	Compound 14636 14642	lupeol
-T175	Compound 14693 14699	lupeol
-T176	Compound 14797 14803	lupeol
-T177	Compound 14899 14905	lupeol
-T178	Compound 15212 15218	lupeol
-T179	Compound 15471 15477	lupeol
-T180	Compound 15483 15489	lupeol
-T181	Compound 15572 15578	lupeol
-T182	Compound 16269 16275	lupeol
-T183	Compound 19462 19468	lupeol
-T184	Compound 20300 20306	lupeol
-T185	Plant-part 2310 2315	roots
-T186	Plant-part 6220 6225	roots
-T187	Compound 2327 2335	squalene
-T188	Compound 3306 3314	squalene
-T189	Compound 5679 5687	squalene
-T190	Compound 6303 6311	squalene
-T191	Compound 6452 6460	squalene
-T192	Compound 6558 6566	squalene
-T193	Compound 7964 7972	squalene
-T194	Compound 8129 8137	squalene
-T195	Compound 10085 10093	squalene
-T196	Compound 11049 11057	squalene
-T197	Compound 11845 11853	squalene
-T198	Compound 17492 17500	squalene
-T199	Compound 17618 17626	squalene
-T200	Compound 17742 17750	squalene
-T201	Compound 20129 20137	squalene
-T202	Compound 20369 20377	squalene
-T203	Compound 2341 2356	beta-sitosterol
-T204	Compound 3554 3569	beta-sitosterol
-T205	Compound 4231 4246	beta-sitosterol
-T206	Compound 5692 5707	beta-sitosterol
-T207	Compound 5889 5904	beta-sitosterol
-T208	Compound 6052 6067	beta-sitosterol
-T209	Compound 6171 6186	beta-sitosterol
-T210	Compound 6317 6332	beta-sitosterol
-T211	Compound 6467 6482	beta-sitosterol
-T212	Compound 6574 6589	beta-sitosterol
-T213	Compound 6780 6795	beta-sitosterol
-T214	Compound 6939 6954	beta-sitosterol
-T215	Compound 7015 7030	beta-sitosterol
-T216	Compound 7650 7665	beta-sitosterol
-T217	Compound 7847 7862	beta-sitosterol
-T218	Compound 7981 7996	beta-sitosterol
-T219	Compound 8289 8304	beta-sitosterol
-T220	Compound 10877 10892	beta-sitosterol
-T221	Compound 11305 11320	beta-sitosterol
-T222	Compound 11866 11881	beta-sitosterol
-T223	Compound 12902 12917	beta-sitosterol
-T224	Compound 20017 20032	beta-sitosterol
-T225	Compound 20230 20245	beta-sitosterol
-T226	Compound 2380 2387	betulin
-T227	Compound 4912 4919	betulin
-T228	Plant-part 2398 2403	stems
-T229	Plant-part 5675 5680	stems
-T230	Plant-part 5884 5889	stems
-T231	Plant-part 6172 6177	stems
-T232	Plant-part 6659 6664	stems
-T233	Plant-part 6907 6912	stems
-T234	Plant-part 7008 7013	stems
-T235	Plant-part 7315 7320	stems
-T236	Plant-part 7735 7740	stems
-T237	Plant-part 7977 7982	stems
-T238	Plant-part 8792 8797	stems
-T239	Compound 2494 2506	alpha-amyrin
-T240	Compound 2541 2553	alpha-amyrin
-T241	Compound 3350 3362	alpha-amyrin
-T242	Compound 3482 3494	alpha-amyrin
-T243	Compound 4117 4129	alpha-amyrin
-T244	Compound 4192 4204	alpha-amyrin
-T245	Compound 5717 5729	alpha-amyrin
-T246	Compound 6143 6155	alpha-amyrin
-T247	Compound 6272 6284	alpha-amyrin
-T248	Compound 6499 6511	alpha-amyrin
-T249	Compound 6815 6827	alpha-amyrin
-T250	Compound 7237 7249	alpha-amyrin
-T251	Compound 7342 7354	alpha-amyrin
-T252	Compound 7497 7509	alpha-amyrin
-T253	Compound 7927 7939	alpha-amyrin
-T254	Compound 8189 8201	alpha-amyrin
-T255	Compound 8272 8284	alpha-amyrin
-T256	Compound 10285 10297	alpha-amyrin
-T257	Compound 10714 10726	alpha-amyrin
-T258	Compound 11129 11141	alpha-amyrin
-T259	Compound 11261 11273	alpha-amyrin
-T260	Compound 11615 11627	alpha-amyrin
-T261	Compound 11633 11645	alpha-amyrin
-T262	Compound 11793 11805	alpha-amyrin
-T263	Compound 11821 11833	alpha-amyrin
-T264	Compound 11994 12006	alpha-amyrin
-T265	Compound 12154 12166	alpha-amyrin
-T266	Compound 12608 12620	alpha-amyrin
-T267	Compound 12795 12807	alpha-amyrin
-T268	Compound 13686 13698	alpha-amyrin
-T269	Compound 13883 13895	alpha-amyrin
-T270	Compound 14032 14044	alpha-amyrin
-T271	Compound 14193 14205	alpha-amyrin
-T272	Compound 14377 14389	alpha-amyrin
-T273	Compound 14456 14468	alpha-amyrin
-T274	Compound 14539 14551	alpha-amyrin
-T275	Compound 16921 16933	alpha-amyrin
-T276	Compound 19383 19395	alpha-amyrin
-T277	Compound 19775 19787	alpha-amyrin
-T278	Compound 20447 20459	alpha-amyrin
-T279	Compound 20530 20542	alpha-amyrin
-T280	Compound 2510 2521	beta-amyrin
-T281	Compound 3338 3349	beta-amyrin
-T282	Compound 3461 3472	beta-amyrin
-T283	Compound 4108 4119	beta-amyrin
-T284	Compound 4174 4185	beta-amyrin
-T285	Compound 5653 5664	beta-amyrin
-T286	Compound 5848 5859	beta-amyrin
-T287	Compound 6101 6112	beta-amyrin
-T288	Compound 6253 6264	beta-amyrin
-T289	Compound 6523 6534	beta-amyrin
-T290	Compound 6536 6547	beta-amyrin
-T291	Compound 6840 6851	beta-amyrin
-T292	Compound 7271 7282	beta-amyrin
-T293	Compound 7369 7380	beta-amyrin
-T294	Compound 7546 7557	beta-amyrin
-T295	Compound 7918 7929	beta-amyrin
-T296	Compound 8190 8201	beta-amyrin
-T297	Compound 8264 8275	beta-amyrin
-T298	Compound 10279 10290	beta-amyrin
-T299	Compound 10719 10730	beta-amyrin
-T300	Compound 11134 11145	beta-amyrin
-T301	Compound 11257 11268	beta-amyrin
-T302	Compound 11551 11562	beta-amyrin
-T303	Compound 11623 11634	beta-amyrin
-T304	Compound 11766 11777	beta-amyrin
-T305	Compound 11793 11804	beta-amyrin
-T306	Compound 12005 12016	beta-amyrin
-T307	Compound 12148 12159	beta-amyrin
-T308	Compound 12611 12622	beta-amyrin
-T309	Compound 12784 12795	beta-amyrin
-T310	Compound 13816 13827	beta-amyrin
-T311	Compound 14046 14057	beta-amyrin
-T312	Compound 14208 14219	beta-amyrin
-T313	Compound 14393 14404	beta-amyrin
-T314	Compound 14476 14487	beta-amyrin
-T315	Compound 14550 14561	beta-amyrin
-T316	Compound 16404 16415	beta-amyrin
-T317	Compound 16934 16945	beta-amyrin
-T318	Compound 19404 19415	beta-amyrin
-T319	Compound 19740 19751	beta-amyrin
-T320	Compound 20470 20481	beta-amyrin
-T321	Compound 20531 20542	beta-amyrin
-T322	Compound 3245 3260	dichloromethane
-T323	Compound 6750 6765	dichloromethane
-T324	Compound 7202 7217	dichloromethane
-T325	Compound 7626 7641	dichloromethane
-T326	Compound 7840 7855	dichloromethane
-T327	Compound 8130 8145	dichloromethane
-T328	Compound 11060 11075	dichloromethane
-T329	Preparation 3262 3269	extract
-T330	Preparation 8152 8159	extract
-T331	Preparation 9296 9303	extract
-T332	Preparation 9929 9936	extract
-T333	Preparation 11083 11090	extract
-T334	Compound 3407 3415	oleanone
-T335	Compound 8255 8263	oleanone
-T336	Compound 10545 10553	oleanone
-T337	Compound 11232 11240	oleanone
-T338	Compound 11728 11736	oleanone
-T339	Compound 11742 11750	oleanone
-T340	Compound 12350 12358	oleanone
-T341	Compound 12487 12495	oleanone
-T342	Compound 14563 14571	oleanone
-T343	Compound 3419 3427	ursenone
-T344	Compound 8268 8276	ursenone
-T345	Compound 10558 10566	ursenone
-T346	Compound 11247 11255	ursenone
-T347	Compound 11758 11766	ursenone
-T348	Compound 11772 11780	ursenone
-T349	Compound 12368 12376	ursenone
-T350	Compound 12531 12539	ursenone
-T351	Compound 14583 14591	ursenone
-T352	Compound 20710 20718	ursenone
-T353	Compound 3520 3537	lupenyl cinnamate
-T354	Compound 8344 8361	lupenyl cinnamate
-T355	Compound 10364 10381	lupenyl cinnamate
-T356	Compound 11351 11368	lupenyl cinnamate
-T357	Compound 11920 11937	lupenyl cinnamate
-T358	Compound 12720 12737	lupenyl cinnamate
-T359	Compound 12929 12946	lupenyl cinnamate
-T360	Compound 14668 14685	lupenyl cinnamate
-T361	Compound 16610 16627	lupenyl cinnamate
-T362	Compound 16823 16840	lupenyl cinnamate
-T363	Compound 17050 17067	lupenyl cinnamate
-T364	Compound 19963 19980	lupenyl cinnamate
-T365	Compound 20670 20687	lupenyl cinnamate
-T366	Compound 3590 3602	stigmasterol
-T367	Compound 5772 5784	stigmasterol
-T368	Compound 5935 5947	stigmasterol
-T369	Compound 6099 6111	stigmasterol
-T370	Compound 6633 6645	stigmasterol
-T371	Compound 6871 6883	stigmasterol
-T372	Compound 7005 7017	stigmasterol
-T373	Compound 7083 7095	stigmasterol
-T374	Compound 7728 7740	stigmasterol
-T375	Compound 7928 7940	stigmasterol
-T376	Compound 8066 8078	stigmasterol
-T377	Compound 8387 8399	stigmasterol
-T378	Compound 10986 10998	stigmasterol
-T379	Compound 11424 11436	stigmasterol
-T380	Compound 11999 12011	stigmasterol
-T381	Compound 13050 13062	stigmasterol
-T382	Compound 13366 13378	stigmasterol
-T383	Compound 19016 19028	stigmasterol
-T384	Compound 20193 20205	stigmasterol
-T385	Compound 20407 20419	stigmasterol
-T386	Compound-class 3764 3775	triterpenes
-T387	Compound-class 3781 3788	sterols
-T388	Compound 4109 4117	Squalene
-T389	Compound 17256 17264	Squalene
-T390	Compound 17456 17464	Squalene
-T391	Compound 4149 4155	Lupeol
-T392	Compound 4158 4166	Oleanone
-T393	Compound 20745 20753	Oleanone
-T394	Compound 20831 20839	Oleanone
-T395	Compound 4169 4177	Ursenone
-T396	Compound 4180 4188	Lupenone
-T397	Compound 15808 15816	Lupenone
-T398	Compound 15909 15917	Lupenone
-T399	Compound 4240 4257	Lupenyl Cinnamate
-T400	Compound 4278 4290	Stigmasterol
-T401	Compound 18636 18648	Stigmasterol
-T402	Compound 18809 18821	Stigmasterol
-T403	Location 4527 4538	Taft Avenue
-T404	Location 5096 5107	Taft Avenue
-T405	Location 4541 4547	Manila
-T406	Location 5111 5117	Manila
-T407	Location 21428 21434	Manila
-T408	Location 4622 4627	Osaka
-T409	Location 4640 4645	Osaka
-T410	Location 21259 21264	Osaka
-T411	Location 4658 4663	JAPAN
-T412	Location 4799 4818	Commonwealth Avenue
-T413	Location 4830 4841	Quezon City
-T414	Location 4972 4982	Binan City
-T415	Compound 5769 5778	bauerenol
-T416	Compound 6914 6923	bauerenol
-T417	Compound 5782 5788	lutein
-T418	Compound 5909 5918	taraxerol
-T419	Compound 5973 5982	taraxerol
-T420	Compound 6162 6171	taraxerol
-T421	Compound 6247 6256	taraxerol
-T422	Compound 6673 6682	taraxerol
-T423	Compound 6949 6958	taraxerol
-T424	Compound 7052 7061	taraxerol
-T425	Compound 7342 7351	taraxerol
-T426	Compound 5986 5999	triglycerides
-T427	Compound 6005 6018	chlorophyll a
-T428	Compound 8122 8135	chlorophyll a
-T429	Compound 6178 6188	taraxerone
-T430	Compound 6268 6278	taraxerone
-T431	Compound 7138 7160	2-hydroxyethylbenzoate
-T432	Compound 7166 7190	fatty acid methyl esters
-T433	Compound 7371 7388	taraxeryl acetate
-T434	Compound 7795 7814	dihydrocanaric acid
-T435	Compound 7839 7862	2-hydroxyethyl benzoate
-T436	Compound 8813 8821	vanillin
-T437	Location 9141 9156	Quezon Province
-T438	Preparation 9859 9865	ground
-T439	Preparation 9922 9930	filtered
-T440	Compound 10104 10111	acetone
-T441	Compound 10259 10266	acetone
-T442	Compound 10496 10503	acetone
-T443	Compound 10700 10707	acetone
-T444	Compound 10909 10916	acetone
-T445	Compound 13278 13292	beta-sitoterol
-T446	Compound 13831 13842	Beta-Amyrin
-T447	Compound 16267 16278	Beta-Amyrin
-T448	Biological-activity 13887 13904	anti-inflammatory
-T449	Biological-activity 15488 15505	anti-inflammatory
-T450	Biological-activity 16590 16607	anti-inflammatory
-T451	Biological-activity 16817 16834	anti-inflammatory
-T452	Biological-activity 19273 19290	anti-inflammatory
-T453	Compound-class 13939 13949	Triterpene
-T454	Compound-class 15139 15149	Triterpene
-T455	Compound-class 16681 16691	Triterpene
-T456	Biological-activity 13972 13982	antifungal
-T457	Biological-activity 15068 15078	antifungal
-T458	Compound 14131 14141	grape-vine
-T459	Species 14152 14166	Vitis vinifera
-T460	Body-part 14882 14886	hand
-T461	Body-part 15281 15287	breast
-T462	Body-part 17800 17806	breast
-T463	Body-part 18091 18097	breast
-T464	Body-part 16369 16372	ear
-T465	Body-part 16394 16397	ear
-T466	Body-part 16480 16483	ear
-T467	Body-part 16506 16509	ear
-T468	Body-part 16683 16686	ear
-T469	Body-part 16771 16774	ear
-T470	Compound 16516 16538	alpha-Amyrin cinnamate
-T471	Compound-class 16788 16798	triterpene
-T472	Cell-line 17255 17259	Raji
-T473	Biological-activity 17668 17679	antioxidant
-T474	Biological-activity 19339 19350	antioxidant
-T475	Compound 17722 17734	tocotrienols
-T476	Compound 18032 18047	Beta-Sitosterol
-T477	Compound 18154 18169	Beta-Sitosterol
-T478	Compound 18247 18262	Beta-Sitosterol
-T479	Compound 18371 18386	Beta-Sitosterol
-T480	Compound 18441 18456	Beta-Sitosterol
-T481	Compound 18554 18569	Beta-Sitosterol
-T482	Cell-line 18113 18118	MCF-7
-T483	Compound 18298 18310	beta-catenin
-T484	Biological-activity 18405 18415	anticancer
-T485	Compound 18688 18694	murine
-T486	Cell-line 18766 18773	Ehrlich
-T487	Compound-class 18983 18989	sterol
-T488	Compound 19049 19058	bile acid
-T489	Cell-line 19179 19184	Hep-2
-T490	Cell-line 19190 19195	McCoy
-T491	Compound 21656 21671	Dichloromethane
-T492	Compound 21681 21694	Ethyl acetate
-T493	Compound 21703 21710	Diethyl
+T119	Location 1455 1466	Philippines
+T120	Location 1732 1743	Philippines
+T121	Location 2757 2768	Philippines
+T122	Location 8971 8982	Philippines
+T123	Location 13255 13266	Philippines
+T124	Location 1605 1611	Apayao
+T125	Location 1613 1619	Bataan
+T126	Location 1621 1627	Laguna
+T127	Location 1821 1827	Laguna
+T128	Location 4913 4919	Laguna
+T129	Location 1629 1637	La Union
+T130	Location 1642 1647	Rizal
+T131	Location 1651 1663	Luzon Island
+T132	Location 1671 1676	Leyte
+T133	Location 1678 1685	Mindoro
+T134	Location 1687 1693	Negros
+T135	Location 1695 1702	Palawan
+T136	Location 1707 1712	Panay
+T137	Compound 2267 2275	lupenone
+T138	Compound 3392 3400	lupenone
+T139	Compound 6964 6972	lupenone
+T140	Compound 7582 7590	lupenone
+T141	Compound 8150 8158	lupenone
+T142	Compound 10443 10451	lupenone
+T143	Compound 11120 11128	lupenone
+T144	Compound 11632 11640	lupenone
+T145	Compound 11646 11654	lupenone
+T146	Compound 12216 12224	lupenone
+T147	Compound 12403 12411	lupenone
+T148	Compound 14416 14424	lupenone
+T149	Compound 15937 15945	lupenone
+T150	Compound 19535 19543	lupenone
+T151	Compound 20359 20367	lupenone
+T152	Compound 2280 2286	lupeol
+T153	Compound 2303 2309	lupeol
+T154	Compound 2464 2470	lupeol
+T155	Compound 2501 2507	lupeol
+T156	Compound 3336 3342	lupeol
+T157	Compound 6414 6420	lupeol
+T158	Compound 6583 6589	lupeol
+T159	Compound 6732 6738	lupeol
+T160	Compound 7267 7273	lupeol
+T161	Compound 7302 7308	lupeol
+T162	Compound 7592 7598	lupeol
+T163	Compound 7787 7793	lupeol
+T164	Compound 7880 7886	lupeol
+T165	Compound 8119 8125	lupeol
+T166	Compound 10653 10659	lupeol
+T167	Compound 11064 11070	lupeol
+T168	Compound 11564 11570	lupeol
+T169	Compound 11576 11582	lupeol
+T170	Compound 11781 11787	lupeol
+T171	Compound 11922 11928	lupeol
+T172	Compound 12100 12106	lupeol
+T173	Compound 14385 14391	lupeol
+T174	Compound 14616 14622	lupeol
+T175	Compound 14674 14680	lupeol
+T176	Compound 14779 14785	lupeol
+T177	Compound 14882 14888	lupeol
+T178	Compound 15196 15202	lupeol
+T179	Compound 15456 15462	lupeol
+T180	Compound 15468 15474	lupeol
+T181	Compound 15558 15564	lupeol
+T182	Compound 16258 16264	lupeol
+T183	Compound 19455 19461	lupeol
+T184	Compound 20269 20275	lupeol
+T185	Plant-part 2296 2301	roots
+T186	Plant-part 6195 6200	roots
+T187	Compound 2311 2319	squalene
+T188	Compound 3280 3288	squalene
+T189	Compound 5655 5663	squalene
+T190	Compound 6275 6283	squalene
+T191	Compound 6422 6430	squalene
+T192	Compound 6527 6535	squalene
+T193	Compound 7917 7925	squalene
+T194	Compound 8080 8088	squalene
+T195	Compound 10043 10051	squalene
+T196	Compound 11008 11016	squalene
+T197	Compound 11799 11807	squalene
+T198	Compound 17454 17462	squalene
+T199	Compound 17581 17589	squalene
+T200	Compound 17706 17714	squalene
+T201	Compound 20064 20072	squalene
+T202	Compound 20303 20311	squalene
+T203	Compound 2324 2339	beta-sitosterol
+T204	Compound 3524 3539	beta-sitosterol
+T205	Compound 4195 4210	beta-sitosterol
+T206	Compound 5665 5680	beta-sitosterol
+T207	Compound 5861 5876	beta-sitosterol
+T208	Compound 6023 6038	beta-sitosterol
+T209	Compound 6142 6157	beta-sitosterol
+T210	Compound 6285 6300	beta-sitosterol
+T211	Compound 6432 6447	beta-sitosterol
+T212	Compound 6537 6552	beta-sitosterol
+T213	Compound 6740 6755	beta-sitosterol
+T214	Compound 6899 6914	beta-sitosterol
+T215	Compound 6974 6989	beta-sitosterol
+T216	Compound 7600 7615	beta-sitosterol
+T217	Compound 7795 7810	beta-sitosterol
+T218	Compound 7927 7942	beta-sitosterol
+T219	Compound 8230 8245	beta-sitosterol
+T220	Compound 10828 10843	beta-sitosterol
+T221	Compound 11252 11267	beta-sitosterol
+T222	Compound 11809 11824	beta-sitosterol
+T223	Compound 12844 12859	beta-sitosterol
+T224	Compound 19942 19957	beta-sitosterol
+T225	Compound 20150 20165	beta-sitosterol
+T226	Compound 2361 2368	betulin
+T227	Compound 4877 4884	betulin
+T228	Plant-part 2378 2383	stems
+T229	Plant-part 5644 5649	stems
+T230	Plant-part 5850 5855	stems
+T231	Plant-part 6135 6140	stems
+T232	Plant-part 6609 6614	stems
+T233	Plant-part 6853 6858	stems
+T234	Plant-part 6954 6959	stems
+T235	Plant-part 7257 7262	stems
+T236	Plant-part 7669 7674	stems
+T237	Plant-part 7907 7912	stems
+T238	Plant-part 8716 8721	stems
+T239	Compound 2472 2484	alpha-amyrin
+T240	Compound 2518 2530	alpha-amyrin
+T241	Compound 3319 3331	alpha-amyrin
+T242	Compound 3449 3461	alpha-amyrin
+T243	Compound 4077 4089	alpha-amyrin
+T244	Compound 4152 4164	alpha-amyrin
+T245	Compound 5682 5694	alpha-amyrin
+T246	Compound 6103 6115	alpha-amyrin
+T247	Compound 6229 6241	alpha-amyrin
+T248	Compound 6449 6461	alpha-amyrin
+T249	Compound 6757 6769	alpha-amyrin
+T250	Compound 7172 7184	alpha-amyrin
+T251	Compound 7275 7287	alpha-amyrin
+T252	Compound 7427 7439	alpha-amyrin
+T253	Compound 7849 7861	alpha-amyrin
+T254	Compound 8104 8116	alpha-amyrin
+T255	Compound 8185 8197	alpha-amyrin
+T256	Compound 10205 10217	alpha-amyrin
+T257	Compound 10635 10647	alpha-amyrin
+T258	Compound 11047 11059	alpha-amyrin
+T259	Compound 11177 11189	alpha-amyrin
+T260	Compound 11532 11544	alpha-amyrin
+T261	Compound 11550 11562	alpha-amyrin
+T262	Compound 11706 11718	alpha-amyrin
+T263	Compound 11734 11746	alpha-amyrin
+T264	Compound 11905 11917	alpha-amyrin
+T265	Compound 12064 12076	alpha-amyrin
+T266	Compound 12516 12528	alpha-amyrin
+T267	Compound 12703 12715	alpha-amyrin
+T268	Compound 13597 13609	alpha-amyrin
+T269	Compound 13794 13806	alpha-amyrin
+T270	Compound 13943 13955	alpha-amyrin
+T271	Compound 14105 14117	alpha-amyrin
+T272	Compound 14290 14302	alpha-amyrin
+T273	Compound 14370 14382	alpha-amyrin
+T274	Compound 14451 14463	alpha-amyrin
+T275	Compound 16835 16847	alpha-amyrin
+T276	Compound 19302 19314	alpha-amyrin
+T277	Compound 19677 19689	alpha-amyrin
+T278	Compound 20329 20341	alpha-amyrin
+T279	Compound 20411 20423	alpha-amyrin
+T280	Compound 2487 2498	beta-amyrin
+T281	Compound 3305 3316	beta-amyrin
+T282	Compound 3425 3436	beta-amyrin
+T283	Compound 4064 4075	beta-amyrin
+T284	Compound 4129 4140	beta-amyrin
+T285	Compound 5615 5626	beta-amyrin
+T286	Compound 5805 5816	beta-amyrin
+T287	Compound 6054 6065	beta-amyrin
+T288	Compound 6202 6213	beta-amyrin
+T289	Compound 6463 6474	beta-amyrin
+T290	Compound 6476 6487	beta-amyrin
+T291	Compound 6771 6782	beta-amyrin
+T292	Compound 7194 7205	beta-amyrin
+T293	Compound 7289 7300	beta-amyrin
+T294	Compound 7462 7473	beta-amyrin
+T295	Compound 7826 7837	beta-amyrin
+T296	Compound 8090 8101	beta-amyrin
+T297	Compound 8161 8172	beta-amyrin
+T298	Compound 10182 10193	beta-amyrin
+T299	Compound 10622 10633	beta-amyrin
+T300	Compound 11033 11044	beta-amyrin
+T301	Compound 11153 11164	beta-amyrin
+T302	Compound 11447 11458	beta-amyrin
+T303	Compound 11519 11530	beta-amyrin
+T304	Compound 11656 11667	beta-amyrin
+T305	Compound 11683 11694	beta-amyrin
+T306	Compound 11891 11902	beta-amyrin
+T307	Compound 12032 12043	beta-amyrin
+T308	Compound 12492 12503	beta-amyrin
+T309	Compound 12664 12675	beta-amyrin
+T310	Compound 13697 13708	beta-amyrin
+T311	Compound 13926 13937	beta-amyrin
+T312	Compound 14088 14099	beta-amyrin
+T313	Compound 14273 14284	beta-amyrin
+T314	Compound 14356 14367	beta-amyrin
+T315	Compound 14427 14438	beta-amyrin
+T316	Compound 16279 16290	beta-amyrin
+T317	Compound 16812 16823	beta-amyrin
+T318	Compound 19286 19297	beta-amyrin
+T319	Compound 19606 19617	beta-amyrin
+T320	Compound 20313 20324	beta-amyrin
+T321	Compound 20372 20383	beta-amyrin
+T322	Compound 3214 3229	dichloromethane
+T323	Compound 6674 6689	dichloromethane
+T324	Compound 7115 7130	dichloromethane
+T325	Compound 7527 7542	dichloromethane
+T326	Compound 7736 7751	dichloromethane
+T327	Compound 8017 8032	dichloromethane
+T328	Compound 10942 10957	dichloromethane
+T329	Preparation 3230 3237	extract
+T330	Preparation 8033 8040	extract
+T331	Preparation 9170 9177	extract
+T332	Preparation 9807 9814	extract
+T333	Preparation 10958 10965	extract
+T334	Compound 3368 3376	oleanone
+T335	Compound 8128 8136	oleanone
+T336	Compound 10419 10427	oleanone
+T337	Compound 11096 11104	oleanone
+T338	Compound 11584 11592	oleanone
+T339	Compound 11598 11606	oleanone
+T340	Compound 12192 12200	oleanone
+T341	Compound 12328 12336	oleanone
+T342	Compound 14394 14402	oleanone
+T343	Compound 3379 3387	ursenone
+T344	Compound 8139 8147	ursenone
+T345	Compound 10429 10437	ursenone
+T346	Compound 11107 11115	ursenone
+T347	Compound 11608 11616	ursenone
+T348	Compound 11622 11630	ursenone
+T349	Compound 12203 12211	ursenone
+T350	Compound 12364 12372	ursenone
+T351	Compound 14405 14413	ursenone
+T352	Compound 20488 20496	ursenone
+T353	Compound 3476 3493	lupenyl cinnamate
+T354	Compound 8210 8227	lupenyl cinnamate
+T355	Compound 10233 10250	lupenyl cinnamate
+T356	Compound 11204 11221	lupenyl cinnamate
+T357	Compound 11758 11775	lupenyl cinnamate
+T358	Compound 12543 12560	lupenyl cinnamate
+T359	Compound 12750 12767	lupenyl cinnamate
+T360	Compound 14478 14495	lupenyl cinnamate
+T361	Compound 16419 16436	lupenyl cinnamate
+T362	Compound 16634 16651	lupenyl cinnamate
+T363	Compound 16859 16876	lupenyl cinnamate
+T364	Compound 19754 19771	lupenyl cinnamate
+T365	Compound 20438 20455	lupenyl cinnamate
+T366	Compound 3544 3556	stigmasterol
+T367	Compound 5719 5731	stigmasterol
+T368	Compound 5878 5890	stigmasterol
+T369	Compound 6040 6052	stigmasterol
+T370	Compound 6554 6566	stigmasterol
+T371	Compound 6784 6796	stigmasterol
+T372	Compound 6916 6928	stigmasterol
+T373	Compound 6991 7003	stigmasterol
+T374	Compound 7617 7629	stigmasterol
+T375	Compound 7812 7824	stigmasterol
+T376	Compound 7944 7956	stigmasterol
+T377	Compound 8250 8262	stigmasterol
+T378	Compound 10848 10860	stigmasterol
+T379	Compound 11272 11284	stigmasterol
+T380	Compound 11829 11841	stigmasterol
+T381	Compound 12864 12876	stigmasterol
+T382	Compound 13182 13194	stigmasterol
+T383	Compound 18824 18836	stigmasterol
+T384	Compound 19962 19974	stigmasterol
+T385	Compound 20170 20182	stigmasterol
+T386	Compound-class 3716 3727	triterpenes
+T387	Compound-class 3732 3739	sterols
+T388	Compound 4054 4062	Squalene
+T389	Compound 17036 17044	Squalene
+T390	Compound 17237 17245	Squalene
+T391	Compound 4091 4097	Lupeol
+T392	Compound 4099 4107	Oleanone
+T393	Compound 20475 20483	Oleanone
+T394	Compound 20560 20568	Oleanone
+T395	Compound 4109 4117	Ursenone
+T396	Compound 4119 4127	Lupenone
+T397	Compound 15585 15593	Lupenone
+T398	Compound 15687 15695	Lupenone
+T399	Compound 4176 4193	Lupenyl Cinnamate
+T400	Compound 4212 4224	Stigmasterol
+T401	Compound 18413 18425	Stigmasterol
+T402	Compound 18587 18599	Stigmasterol
+T403	Location 4461 4472	Taft Avenue
+T404	Location 5033 5044	Taft Avenue
+T405	Location 4474 4480	Manila
+T406	Location 5046 5052	Manila
+T407	Location 21144 21150	Manila
+T408	Location 4555 4560	Osaka
+T409	Location 4573 4578	Osaka
+T410	Location 20972 20977	Osaka
+T411	Location 4589 4594	JAPAN
+T412	Location 4730 4749	Commonwealth Avenue
+T413	Location 4760 4771	Quezon City
+T414	Location 4901 4911	Binan City
+T415	Compound 5696 5705	bauerenol
+T416	Compound 6802 6811	bauerenol
+T417	Compound 5708 5714	lutein
+T418	Compound 5831 5840	taraxerol
+T419	Compound 5892 5901	taraxerol
+T420	Compound 6077 6086	taraxerol
+T421	Compound 6159 6168	taraxerol
+T422	Compound 6568 6577	taraxerol
+T423	Compound 6833 6842	taraxerol
+T424	Compound 6934 6943	taraxerol
+T425	Compound 7215 7224	taraxerol
+T426	Compound 5903 5916	triglycerides
+T427	Compound 5921 5934	chlorophyll a
+T428	Compound 7958 7971	chlorophyll a
+T429	Compound 6088 6098	taraxerone
+T430	Compound 6174 6184	taraxerone
+T431	Compound 7005 7027	2-hydroxyethylbenzoate
+T432	Compound 7032 7056	fatty acid methyl esters
+T433	Compound 7230 7247	taraxeryl acetate
+T434	Compound 7638 7657	dihydrocanaric acid
+T435	Compound 7680 7703	2-hydroxyethyl benzoate
+T436	Compound 8627 8635	vanillin
+T437	Location 8954 8969	Quezon Province
+T438	Preparation 9673 9679	ground
+T439	Preparation 9735 9743	filtered
+T440	Compound 9916 9923	acetone
+T441	Compound 10072 10079	acetone
+T442	Compound 10307 10314	acetone
+T443	Compound 10509 10516	acetone
+T444	Compound 10716 10723	acetone
+T445	Compound 13027 13041	beta-sitoterol
+T446	Compound 13581 13592	Beta-Amyrin
+T447	Compound 16000 16011	Beta-Amyrin
+T448	Biological-activity 13635 13652	anti-inflammatory
+T449	Biological-activity 15220 15237	anti-inflammatory
+T450	Biological-activity 16319 16336	anti-inflammatory
+T451	Biological-activity 16547 16564	anti-inflammatory
+T452	Biological-activity 19005 19022	anti-inflammatory
+T453	Compound-class 13686 13696	Triterpene
+T454	Compound-class 14871 14881	Triterpene
+T455	Compound-class 16408 16418	Triterpene
+T456	Biological-activity 13717 13727	antifungal
+T457	Biological-activity 14798 14808	antifungal
+T458	Compound 13874 13884	grape-vine
+T459	Species 13893 13907	Vitis vinifera
+T460	Body-part 14610 14614	hand
+T461	Body-part 15005 15011	breast
+T462	Body-part 17515 17521	breast
+T463	Body-part 17807 17813	breast
+T464	Body-part 16090 16093	ear
+T465	Body-part 16115 16118	ear
+T466	Body-part 16201 16204	ear
+T467	Body-part 16227 16230	ear
+T468	Body-part 16401 16404	ear
+T469	Body-part 16488 16491	ear
+T470	Compound 16233 16255	alpha-Amyrin cinnamate
+T471	Compound-class 16499 16509	triterpene
+T472	Cell-line 16961 16965	Raji
+T473	Biological-activity 17373 17384	antioxidant
+T474	Biological-activity 19046 19057	antioxidant
+T475	Compound 17427 17439	tocotrienols
+T476	Compound 17735 17750	Beta-Sitosterol
+T477	Compound 17857 17872	Beta-Sitosterol
+T478	Compound 17951 17966	Beta-Sitosterol
+T479	Compound 18075 18090	Beta-Sitosterol
+T480	Compound 18146 18161	Beta-Sitosterol
+T481	Compound 18260 18275	Beta-Sitosterol
+T482	Cell-line 17814 17819	MCF-7
+T483	Compound 17998 18010	beta-catenin
+T484	Biological-activity 18103 18113	anticancer
+T485	Compound 18385 18391	murine
+T486	Cell-line 18462 18469	Ehrlich
+T487	Compound-class 18678 18684	sterol
+T488	Compound 18743 18752	bile acid
+T489	Cell-line 18872 18877	Hep-2
+T490	Cell-line 18882 18887	McCoy
+T491	Compound 21288 21303	Dichloromethane
+T492	Compound 21312 21325	Ethyl acetate
+T493	Compound 21333 21340	Diethyl

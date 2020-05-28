@@ -1,341 +1,341 @@
-T0	Species 191 214	Andrographis paniculata
-T1	Species 1114 1137	Andrographis paniculata
-T2	Species 1322 1345	Andrographis paniculata
-T3	Species 5489 5512	Andrographis paniculata
-T4	Species 5955 5978	Andrographis paniculata
-T5	Species 6451 6474	Andrographis paniculata
-T6	Species 6629 6652	Andrographis paniculata
-T7	Species 7507 7530	Andrographis paniculata
-T8	Species 13654 13677	Andrographis paniculata
-T9	Species 24731 24754	Andrographis paniculata
-T10	Species 24939 24962	Andrographis paniculata
-T11	Species 25476 25499	Andrographis paniculata
-T12	Species 26036 26059	Andrographis paniculata
-T13	Plant-part 227 232	roots
-T14	Plant-part 1360 1365	roots
-T15	Plant-part 6310 6315	roots
-T16	Plant-part 6660 6665	roots
-T17	Plant-part 23482 23487	roots
-T18	Plant-part 26073 26078	roots
-T19	Compound 1438 1455	skullcapflavone I
+T0	Species 193 216	Andrographis paniculata
+T1	Species 1121 1144	Andrographis paniculata
+T2	Species 1330 1353	Andrographis paniculata
+T3	Species 5518 5541	Andrographis paniculata
+T4	Species 5986 6009	Andrographis paniculata
+T5	Species 6483 6506	Andrographis paniculata
+T6	Species 6662 6685	Andrographis paniculata
+T7	Species 7544 7567	Andrographis paniculata
+T8	Species 13729 13752	Andrographis paniculata
+T9	Species 24852 24875	Andrographis paniculata
+T10	Species 25061 25084	Andrographis paniculata
+T11	Species 25602 25625	Andrographis paniculata
+T12	Species 26165 26188	Andrographis paniculata
+T13	Plant-part 228 233	roots
+T14	Plant-part 1365 1370	roots
+T15	Plant-part 6337 6342	roots
+T16	Plant-part 6686 6691	roots
+T17	Plant-part 23588 23593	roots
+T18	Plant-part 26189 26194	roots
+T19	Compound 1441 1458	skullcapflavone I
 T20	Compound 488 504	gamma-sitosterol
-T21	Compound 2033 2049	gamma-sitosterol
-T22	Compound 3020 3036	gamma-sitosterol
-T23	Compound 10669 10685	gamma-sitosterol
-T24	Compound 12279 12295	gamma-sitosterol
-T25	Compound 12397 12413	gamma-sitosterol
-T26	Compound 12767 12783	gamma-sitosterol
-T27	Compound 14127 14143	gamma-sitosterol
-T28	Compound 14231 14247	gamma-sitosterol
-T29	Compound 14598 14614	gamma-sitosterol
-T30	Compound 17561 17577	gamma-sitosterol
-T31	Compound 18160 18176	gamma-sitosterol
-T32	Compound 18972 18988	gamma-sitosterol
-T33	Compound 19504 19520	gamma-sitosterol
-T34	Compound 21705 21721	gamma-sitosterol
-T35	Compound 23737 23753	gamma-sitosterol
-T36	Compound 28864 28880	gamma-sitosterol
-T37	Compound 31483 31499	gamma-sitosterol
-T38	Location 554 560	Manila
-T39	Location 798 804	Manila
-T40	Location 4215 4221	Manila
-T41	Location 563 574	Philippines
-T42	Location 808 819	Philippines
-T43	Location 1005 1016	Philippines
-T44	Location 4226 4237	Philippines
-T45	Location 5158 5169	Philippines
-T46	Location 7614 7625	Philippines
-T47	Location 7836 7847	Philippines
-T48	Location 630 635	Osaka
-T49	Location 673 678	Osaka
-T50	Location 32748 32753	Osaka
-T51	Location 664 672	Toyonaka
-T52	Location 683 688	Japan
-T53	Location 12660 12665	Japan
-T54	Location 14926 14931	Japan
-T55	Location 908 914	Taipei
-T56	Location 917 923	Taiwan
-T57	Location 1001 1011	Binan City
-T58	Species 1166 1185	Naja philippinensis
-T59	Species 1561 1580	Naja philippinensis
-T60	Species 4892 4911	Naja philippinensis
-T61	Species 6563 6582	Naja philippinensis
-T62	Species 6867 6886	Naja philippinensis
-T63	Species 7731 7750	Naja philippinensis
-T64	Species 9724 9743	Naja philippinensis
-T65	Species 15593 15612	Naja philippinensis
-T66	Species 22554 22573	Naja philippinensis
-T67	Species 30005 30024	Naja philippinensis
-T68	Compound 1388 1403	dichloromethane
-T69	Compound 2164 2179	dichloromethane
-T70	Compound 6630 6645	dichloromethane
-T71	Compound 8009 8024	dichloromethane
-T72	Compound 16444 16459	dichloromethane
-T73	Compound 16494 16509	dichloromethane
-T74	Compound 20569 20584	dichloromethane
-T75	Compound 25186 25201	dichloromethane
-T76	Compound-class 1855 1863	flavones
-T77	Compound-class 16968 16976	flavones
-T78	Compound-class 24592 24600	flavones
-T79	Compound-class 32340 32348	flavones
-T80	Compound 2029 2048	n-hexadecanoic acid
-T81	Compound 7946 7965	n-hexadecanoic acid
-T82	Compound 9121 9140	n-hexadecanoic acid
-T83	Compound 9967 9986	n-hexadecanoic acid
-T84	Compound 10662 10681	n-hexadecanoic acid
-T85	Compound 10756 10775	n-hexadecanoic acid
-T86	Compound 17051 17070	n-hexadecanoic acid
-T87	Compound 17120 17139	n-hexadecanoic acid
-T88	Compound 17177 17196	n-hexadecanoic acid
-T89	Compound 17417 17436	n-hexadecanoic acid
-T90	Compound 17437 17456	n-hexadecanoic acid
-T91	Compound 17624 17643	n-hexadecanoic acid
-T92	Compound 18809 18828	n-hexadecanoic acid
-T93	Compound 18867 18886	n-hexadecanoic acid
-T94	Compound 20028 20047	n-hexadecanoic acid
-T95	Compound 20096 20115	n-hexadecanoic acid
-T96	Compound 20217 20236	n-hexadecanoic acid
-T97	Compound 20338 20357	n-hexadecanoic acid
-T98	Compound 21678 21697	n-hexadecanoic acid
-T99	Compound 22193 22212	n-hexadecanoic acid
-T100	Compound 22306 22325	n-hexadecanoic acid
-T101	Compound 22481 22500	n-hexadecanoic acid
-T102	Compound 23768 23787	n-hexadecanoic acid
-T103	Compound 26931 26950	n-hexadecanoic acid
-T104	Compound 29363 29382	n-hexadecanoic acid
-T105	Compound 29506 29525	n-hexadecanoic acid
-T106	Compound 29539 29558	n-hexadecanoic acid
-T107	Compound 29758 29777	n-hexadecanoic acid
-T108	Compound 29916 29935	n-hexadecanoic acid
-T109	Compound 31519 31538	n-hexadecanoic acid
-T110	Common-plant-name 2444 2448	PLA2
-T111	Common-plant-name 2606 2610	PLA2
-T112	Common-plant-name 7124 7128	PLA2
-T113	Common-plant-name 7461 7465	PLA2
-T114	Common-plant-name 9961 9965	PLA2
-T115	Common-plant-name 12277 12281	PLA2
-T116	Common-plant-name 26370 26374	PLA2
-T117	Common-plant-name 26576 26580	PLA2
-T118	Common-plant-name 26794 26798	PLA2
-T119	Common-plant-name 26878 26882	PLA2
-T120	Common-plant-name 27708 27712	PLA2
-T121	Common-plant-name 28049 28053	PLA2
-T122	Common-plant-name 28802 28806	PLA2
-T123	Common-plant-name 28928 28932	PLA2
-T124	Common-plant-name 29172 29176	PLA2
-T125	Common-plant-name 30120 30124	PLA2
-T126	Common-plant-name 30286 30290	PLA2
-T127	Common-plant-name 31124 31128	PLA2
-T128	Common-plant-name 31792 31796	PLA2
-T129	Body-part 3887 3892	heart
-T130	Compound 4059 4065	casein
-T131	Compound 4068 4078	hemoglobin
-T132	Location 5395 5404	Sashidhar
-T133	Illness 5654 5659	fever
-T134	Body-part 5675 5681	throat
-T135	Compound-class 5766 5778	diterpenoids
-T136	Compound-class 5781 5791	flavonoids
-T137	Compound-class 5798 5809	polyphenols
-T138	Compound 5915 5938	14-deoxyandrographolide
-T139	Compound 6075 6098	14-deoxyandrographolide
-T140	Compound 6454 6477	14-deoxyandrographolide
-T141	Plant-part 5989 5995	leaves
-T142	Plant-part 6193 6199	leaves
-T143	Compound 6060 6075	andrographolide
-T144	Compound 6139 6154	beta-sitosterol
-T145	Compound 6204 6219	beta-sitosterol
-T146	Compound 6362 6377	beta-sitosterol
-T147	Compound 24436 24451	beta-sitosterol
-T148	Compound 6157 6169	stigmasterol
-T149	Compound 6223 6235	stigmasterol
-T150	Compound 17615 17627	stigmasterol
-T151	Compound 24460 24472	stigmasterol
-T152	Compound 6287 6309	trans-cinnamate esters
-T153	Compound 6316 6349	beta-sitosteryl fatty acid esters
-T154	Compound 6386 6416	monogalactosyl diacylglycerols
-T155	Compound 6419 6425	lupeol
-T156	Compound 6432 6448	triacylglycerols
-T157	Plant-part 6459 6463	pods
-T158	Plant-part 6504 6509	stems
-T159	Family7610 7621	Acanthaceae
-T160	Location 7660 7666	Bataan
-T161	Preparation 8009 8015	ground
-T162	Preparation 8100 8108	filtered
-T163	Compound 8507 8513	phenyl
-T164	Location 9974 9979	Abcam
-T165	Location 9982 9991	Cambridge
-T166	Location 9994 9996	UK
-T167	Compound 10175 10190	free fatty acid
-T168	Compound 10220 10236	arachidonic acid
-T169	Compound 10593 10604	polystyrene
-T170	Compound 10621 10631	microplate
-T171	Preparation 10798 10804	mixing
-T172	Preparation 12816 12822	mixing
-T173	Compound 12665 12675	Microplate
-T174	Compound 14933 14943	Microplate
-T175	Location 12720 12727	Ibaraki
-T176	Location 14989 14996	Ibaraki
-T177	Compound 13924 13932	methanol
-T178	Compound 13937 13955	dimethyl sulfoxide
-T179	Compound 15347 15357	100CONTROL
-T180	Plant-part 16432 16436	root
-T181	Plant-part 24096 24100	root
-T182	Plant-part 24534 24538	root
-T183	Preparation 16714 16721	extract
-T184	Preparation 20668 20675	extract
-T185	Preparation 24082 24089	extract
-T186	Preparation 24542 24549	extract
-T187	Preparation 25620 25627	extract
-T188	Compound 17087 17108	4H-1-benzopyran-4-one
-T189	Compound 17215 17236	4H-1-benzopyran-4-one
-T190	Compound 17341 17362	4H-1-benzopyran-4-one
-T191	Compound 21728 21749	4H-1-benzopyran-4-one
-T192	Compound-class 17322 17331	flavonoid
-T193	Compound-class 24078 24087	flavonoid
-T194	Compound 17333 17342	glycoside
-T195	Compound 19236 19245	glycoside
-T196	Compound-class 17609 17616	sterols
-T197	Compound 17728 17740	diarylethene
-T198	Compound 17791 17801	polyprenol
-T199	Compound 17926 17935	yangambin
-T200	Compound 2017 2027	isocyanate
-T201	Compound 3012 3022	isocyanate
-T202	Compound 3134 3144	isocyanate
-T203	Compound 4827 4837	isocyanate
-T204	Compound 8262 8272	isocyanate
-T205	Compound 8731 8741	isocyanate
-T206	Compound 8880 8890	isocyanate
-T207	Compound 10051 10061	isocyanate
-T208	Compound 11106 11116	isocyanate
-T209	Compound 11400 11410	isocyanate
-T210	Compound 14127 14137	isocyanate
-T211	Compound 14161 14171	isocyanate
-T212	Compound 14575 14585	isocyanate
-T213	Compound 14609 14619	isocyanate
-T214	Compound 16864 16874	isocyanate
-T215	Compound 16972 16982	isocyanate
-T216	Compound 17591 17601	isocyanate
-T217	Compound 17898 17908	isocyanate
-T218	Compound 17954 17964	isocyanate
-T219	Compound 17985 17995	isocyanate
-T220	Compound 18070 18080	isocyanate
-T221	Compound 18343 18353	isocyanate
-T222	Compound 18473 18483	isocyanate
-T223	Compound 18617 18627	isocyanate
-T224	Compound 18660 18670	isocyanate
-T225	Compound 18684 18694	isocyanate
-T226	Compound 18807 18817	isocyanate
-T227	Compound 19057 19067	isocyanate
-T228	Compound 19279 19289	isocyanate
-T229	Compound 19791 19801	isocyanate
-T230	Compound 19859 19869	isocyanate
-T231	Compound 20030 20040	isocyanate
-T232	Compound 20624 20634	isocyanate
-T233	Compound 20947 20957	isocyanate
-T234	Compound 21585 21595	isocyanate
-T235	Compound 22157 22167	isocyanate
-T236	Compound 22219 22229	isocyanate
-T237	Compound 23847 23857	isocyanate
-T238	Compound 25391 25401	isocyanate
-T239	Compound 29360 29370	isocyanate
-T240	Compound 29536 29546	isocyanate
-T241	Compound 29765 29775	isocyanate
-T242	Compound 29934 29944	isocyanate
-T243	Compound 30181 30191	isocyanate
-T244	Compound 31625 31635	isocyanate
-T245	Compound 32127 32137	isocyanate
-T246	Compound 32214 32224	isocyanate
-T247	Compound 18028 18039	alkyl ester
-T248	Compound 18042 18056	propanoic acid
-T249	Compound 19925 19939	propanoic acid
-T250	Compound 20849 20863	propanoic acid
-T251	Compound 21655 21669	propanoic acid
-T252	Compound 22207 22221	propanoic acid
+T21	Compound 2039 2055	gamma-sitosterol
+T22	Compound 3031 3047	gamma-sitosterol
+T23	Compound 10712 10728	gamma-sitosterol
+T24	Compound 12331 12347	gamma-sitosterol
+T25	Compound 12450 12466	gamma-sitosterol
+T26	Compound 12823 12839	gamma-sitosterol
+T27	Compound 14191 14207	gamma-sitosterol
+T28	Compound 14295 14311	gamma-sitosterol
+T29	Compound 14665 14681	gamma-sitosterol
+T30	Compound 17642 17658	gamma-sitosterol
+T31	Compound 18241 18257	gamma-sitosterol
+T32	Compound 19054 19070	gamma-sitosterol
+T33	Compound 19587 19603	gamma-sitosterol
+T34	Compound 21795 21811	gamma-sitosterol
+T35	Compound 23838 23854	gamma-sitosterol
+T36	Compound 28990 29006	gamma-sitosterol
+T37	Compound 31620 31636	gamma-sitosterol
+T38	Location 553 559	Manila
+T39	Location 799 805	Manila
+T40	Location 4228 4234	Manila
+T41	Location 561 572	Philippines
+T42	Location 807 818	Philippines
+T43	Location 1006 1017	Philippines
+T44	Location 4236 4247	Philippines
+T45	Location 5172 5183	Philippines
+T46	Location 7632 7643	Philippines
+T47	Location 7856 7867	Philippines
+T48	Location 628 633	Osaka
+T49	Location 671 676	Osaka
+T50	Location 32864 32869	Osaka
+T51	Location 661 669	Toyonaka
+T52	Location 678 683	Japan
+T53	Location 12696 12701	Japan
+T54	Location 14972 14977	Japan
+T55	Location 902 908	Taipei
+T56	Location 910 916	Taiwan
+T57	Location 994 1004	Binan City
+T58	Species 1157 1176	Naja philippinensis
+T59	Species 1550 1569	Naja philippinensis
+T60	Species 4894 4913	Naja philippinensis
+T61	Species 6568 6587	Naja philippinensis
+T62	Species 6870 6889	Naja philippinensis
+T63	Species 7738 7757	Naja philippinensis
+T64	Species 9741 9760	Naja philippinensis
+T65	Species 15637 15656	Naja philippinensis
+T66	Species 22614 22633	Naja philippinensis
+T67	Species 30097 30116	Naja philippinensis
+T68	Compound 1377 1392	dichloromethane
+T69	Compound 2154 2169	dichloromethane
+T70	Compound 6631 6646	dichloromethane
+T71	Compound 8010 8025	dichloromethane
+T72	Compound 16486 16501	dichloromethane
+T73	Compound 16536 16551	dichloromethane
+T74	Compound 20612 20627	dichloromethane
+T75	Compound 25247 25262	dichloromethane
+T76	Compound-class 1843 1851	flavones
+T77	Compound-class 17006 17014	flavones
+T78	Compound-class 24646 24654	flavones
+T79	Compound-class 32427 32435	flavones
+T80	Compound 2018 2037	n-hexadecanoic acid
+T81	Compound 7943 7962	n-hexadecanoic acid
+T82	Compound 9124 9143	n-hexadecanoic acid
+T83	Compound 9974 9993	n-hexadecanoic acid
+T84	Compound 10673 10692	n-hexadecanoic acid
+T85	Compound 10766 10785	n-hexadecanoic acid
+T86	Compound 17087 17106	n-hexadecanoic acid
+T87	Compound 17156 17175	n-hexadecanoic acid
+T88	Compound 17213 17232	n-hexadecanoic acid
+T89	Compound 17453 17472	n-hexadecanoic acid
+T90	Compound 17473 17492	n-hexadecanoic acid
+T91	Compound 17659 17678	n-hexadecanoic acid
+T92	Compound 18844 18863	n-hexadecanoic acid
+T93	Compound 18902 18921	n-hexadecanoic acid
+T94	Compound 20062 20081	n-hexadecanoic acid
+T95	Compound 20130 20149	n-hexadecanoic acid
+T96	Compound 20251 20270	n-hexadecanoic acid
+T97	Compound 20372 20391	n-hexadecanoic acid
+T98	Compound 21718 21737	n-hexadecanoic acid
+T99	Compound 22235 22254	n-hexadecanoic acid
+T100	Compound 22348 22367	n-hexadecanoic acid
+T101	Compound 22524 22543	n-hexadecanoic acid
+T102	Compound 23817 23836	n-hexadecanoic acid
+T103	Compound 26989 27008	n-hexadecanoic acid
+T104	Compound 29435 29454	n-hexadecanoic acid
+T105	Compound 29578 29597	n-hexadecanoic acid
+T106	Compound 29611 29630	n-hexadecanoic acid
+T107	Compound 29830 29849	n-hexadecanoic acid
+T108	Compound 29988 30007	n-hexadecanoic acid
+T109	Compound 31599 31618	n-hexadecanoic acid
+T110	Common-plant-name 2431 2435	PLA2
+T111	Common-plant-name 2594 2598	PLA2
+T112	Common-plant-name 7119 7123	PLA2
+T113	Common-plant-name 7457 7461	PLA2
+T114	Common-plant-name 9965 9969	PLA2
+T115	Common-plant-name 12290 12294	PLA2
+T116	Common-plant-name 26402 26406	PLA2
+T117	Common-plant-name 26608 26612	PLA2
+T118	Common-plant-name 26827 26831	PLA2
+T119	Common-plant-name 26912 26916	PLA2
+T120	Common-plant-name 27746 27750	PLA2
+T121	Common-plant-name 28089 28093	PLA2
+T122	Common-plant-name 28848 28852	PLA2
+T123	Common-plant-name 28975 28979	PLA2
+T124	Common-plant-name 29220 29224	PLA2
+T125	Common-plant-name 30163 30167	PLA2
+T126	Common-plant-name 30330 30334	PLA2
+T127	Common-plant-name 31172 31176	PLA2
+T128	Common-plant-name 31843 31847	PLA2
+T129	Body-part 3879 3884	heart
+T130	Compound 4051 4057	casein
+T131	Compound 4059 4069	hemoglobin
+T132	Location 5386 5395	Sashidhar
+T133	Illness 5645 5650	fever
+T134	Body-part 5665 5671	throat
+T135	Compound-class 5756 5768	diterpenoids
+T136	Compound-class 5770 5780	flavonoids
+T137	Compound-class 5786 5797	polyphenols
+T138	Compound 5903 5926	14-deoxyandrographolide
+T139	Compound 6063 6086	14-deoxyandrographolide
+T140	Compound 6441 6464	14-deoxyandrographolide
+T141	Plant-part 5976 5982	leaves
+T142	Plant-part 6179 6185	leaves
+T143	Compound 6046 6061	andrographolide
+T144	Compound 6123 6138	beta-sitosterol
+T145	Compound 6187 6202	beta-sitosterol
+T146	Compound 6344 6359	beta-sitosterol
+T147	Compound 24443 24458	beta-sitosterol
+T148	Compound 6140 6152	stigmasterol
+T149	Compound 6204 6216	stigmasterol
+T150	Compound 17616 17628	stigmasterol
+T151	Compound 24463 24475	stigmasterol
+T152	Compound 6266 6288	trans-cinnamate esters
+T153	Compound 6294 6327	beta-sitosteryl fatty acid esters
+T154	Compound 6361 6391	monogalactosyl diacylglycerols
+T155	Compound 6393 6399	lupeol
+T156	Compound 6405 6421	triacylglycerols
+T157	Plant-part 6431 6435	pods
+T158	Plant-part 6474 6479	stems
+T159	Family 7575 7586	Acanthaceae
+T160	Location 7624 7630	Bataan
+T161	Preparation 7971 7977	ground
+T162	Preparation 8060 8068	filtered
+T163	Compound 8470 8476	phenyl
+T164	Location 9941 9946	Abcam
+T165	Location 9948 9957	Cambridge
+T166	Location 9959 9961	UK
+T167	Compound 10138 10153	free fatty acid
+T168	Compound 10183 10199	arachidonic acid
+T169	Compound 10557 10568	polystyrene
+T170	Compound 10584 10594	microplate
+T171	Preparation 10759 10765	mixing
+T172	Preparation 12785 12791	mixing
+T173	Compound 12632 12642	Microplate
+T174	Compound 14908 14918	Microplate
+T175	Location 12687 12694	Ibaraki
+T176	Location 14963 14970	Ibaraki
+T177	Compound 13894 13902	methanol
+T178	Compound 13906 13924	dimethyl sulfoxide
+T179	Compound 15319 15329	100CONTROL
+T180	Plant-part 16408 16412	root
+T181	Plant-part 24067 24071	root
+T182	Plant-part 24505 24509	root
+T183	Preparation 16689 16696	extract
+T184	Preparation 20628 20635	extract
+T185	Preparation 24052 24059	extract
+T186	Preparation 24510 24517	extract
+T187	Preparation 25591 25598	extract
+T188	Compound 17061 17082	4H-1-benzopyran-4-one
+T189	Compound 17187 17208	4H-1-benzopyran-4-one
+T190	Compound 17312 17333	4H-1-benzopyran-4-one
+T191	Compound 21692 21713	4H-1-benzopyran-4-one
+T192	Compound-class 17291 17300	flavonoid
+T193	Compound-class 24042 24051	flavonoid
+T194	Compound 17301 17310	glycoside
+T195	Compound 19196 19205	glycoside
+T196	Compound-class 17573 17580	sterols
+T197	Compound 17688 17700	diarylethene
+T198	Compound 17750 17760	polyprenol
+T199	Compound 17884 17893	yangambin
+T200	Compound 2006 2016	isocyanate
+T201	Compound 3001 3011	isocyanate
+T202	Compound 3122 3132	isocyanate
+T203	Compound 4818 4828	isocyanate
+T204	Compound 8222 8232	isocyanate
+T205	Compound 8694 8704	isocyanate
+T206	Compound 8843 8853	isocyanate
+T207	Compound 10014 10024	isocyanate
+T208	Compound 11067 11077	isocyanate
+T209	Compound 11362 11372	isocyanate
+T210	Compound 14096 14106	isocyanate
+T211	Compound 14130 14140	isocyanate
+T212	Compound 14545 14555	isocyanate
+T213	Compound 14579 14589	isocyanate
+T214	Compound 16839 16849	isocyanate
+T215	Compound 16947 16957	isocyanate
+T216	Compound 17555 17565	isocyanate
+T217	Compound 17856 17866	isocyanate
+T218	Compound 17911 17921	isocyanate
+T219	Compound 17942 17952	isocyanate
+T220	Compound 18027 18037	isocyanate
+T221	Compound 18299 18309	isocyanate
+T222	Compound 18429 18439	isocyanate
+T223	Compound 18574 18584	isocyanate
+T224	Compound 18617 18627	isocyanate
+T225	Compound 18641 18651	isocyanate
+T226	Compound 18764 18774	isocyanate
+T227	Compound 19012 19022	isocyanate
+T228	Compound 19233 19243	isocyanate
+T229	Compound 19744 19754	isocyanate
+T230	Compound 19812 19822	isocyanate
+T231	Compound 19983 19993	isocyanate
+T232	Compound 20574 20584	isocyanate
+T233	Compound 20896 20906	isocyanate
+T234	Compound 21539 21549	isocyanate
+T235	Compound 22111 22121	isocyanate
+T236	Compound 22173 22183	isocyanate
+T237	Compound 23805 23815	isocyanate
+T238	Compound 25343 25353	isocyanate
+T239	Compound 29322 29332	isocyanate
+T240	Compound 29497 29507	isocyanate
+T241	Compound 29724 29734	isocyanate
+T242	Compound 29892 29902	isocyanate
+T243	Compound 30138 30148	isocyanate
+T244	Compound 31587 31597	isocyanate
+T245	Compound 32089 32099	isocyanate
+T246	Compound 32176 32186	isocyanate
+T247	Compound 17965 17976	alkyl ester
+T248	Compound 17978 17992	propanoic acid
+T249	Compound 19846 19860	propanoic acid
+T250	Compound 20764 20778	propanoic acid
+T251	Compound 21573 21587	propanoic acid
+T252	Compound 22124 22138	propanoic acid
 T253	Compound 334 342	2-methyl
-T254	Compound 9359 9367	2-methyl
-T255	Compound 13583 13591	2-methyl
-T256	Compound 16242 16250	2-methyl
-T257	Compound 18059 18067	2-methyl
-T258	Compound 18122 18130	2-methyl
-T259	Compound 18745 18753	2-methyl
-T260	Compound 18802 18810	2-methyl
-T261	Compound 18865 18873	2-methyl
-T262	Compound 19977 19985	2-methyl
-T263	Compound 20902 20910	2-methyl
-T264	Compound 21272 21280	2-methyl
-T265	Compound 21393 21401	2-methyl
-T266	Compound 21707 21715	2-methyl
-T267	Compound 22228 22236	2-methyl
-T268	Compound 22291 22299	2-methyl
-T269	Compound 22406 22414	2-methyl
-T270	Compound 25244 25252	2-methyl
-T271	Compound 26601 26609	2-methyl
-T272	Compound 28059 28067	2-methyl
-T273	Compound 29176 29184	2-methyl
-T274	Compound 29456 29464	2-methyl
-T275	Compound 29632 29640	2-methyl
-T276	Compound 29742 29750	2-methyl
-T277	Compound 29862 29870	2-methyl
-T278	Compound 30032 30040	2-methyl
-T279	Compound 30569 30577	2-methyl
-T280	Compound 18793 18807	Propanoic acid
-T281	Compound 18914 18925	Alkyl ester
-T282	Compound 18961 18980	n-Hexadecanoic acid
-T283	Compound 19009 19029	Saturated fatty acid
-T284	Compound 19115 19141	polyunsaturated fatty acid
-T285	Compound 19175 19196	4H-1-Benzopyran-4-one
-T286	Compound 20133 20154	4H-1-Benzopyran-4-one
-T287	Compound 20324 20345	4H-1-Benzopyran-4-one
-T288	Compound-class 19276 19285	Flavonoid
-T289	Compound 19380 19392	Diarylethene
-T290	Compound 19459 19473	Methoxyflavone
-T291	Compound 20254 20268	Methoxyflavone
-T292	Compound 20426 20440	Methoxyflavone
-T293	Compound 19561 19573	Androsterone
-T294	Compound 19854 19864	Polyprenol
-T295	Compound 20285 20297	Stigmasterol
-T296	Compound-class 20307 20318	Phytosterol
-T297	Compound-class 20505 20516	Phytosterol
-T298	Compound 20462 20478	gamma-Sitosterol
-T299	Compound 20533 20542	Yangambin
-T300	Compound 22511 22529	mostly fatty acids
-T301	Preparation 23176 23185	extracted
-T302	Preparation 31530 31539	extracted
-T303	Compound 23401 23407	natrin
-T304	Compound 23410 23421	disintegrin
-T305	Compound-class 24097 24105	Flavones
-T306	Plant-part 24204 24208	bark
-T307	Species 24213 24236	Parinari curatellifolia
-T308	Species 24309 24324	Echis carinatus
-T309	Compound 24379 24396	aristolochic acid
-T310	Species 24659 24673	Pluchea indica
-T311	Compound 24712 24722	superoxide
-T312	Species 24880 24894	Bothrops asper
-T313	Plant-part 24977 24981	leaf
-T314	Preparation 24983 24989	powder
-T315	Preparation 25232 25238	powder
-T316	Location 25068 25078	Tamil Nadu
-T317	Location 25081 25086	India
-T318	Location 25197 25202	India
-T319	Location 25163 25169	Khamti
-T320	Location 25180 25197	Arunachal Pradesh
-T321	Plant-part 25233 25237	seed
-T322	Biological-activity 25806 25823	anti-inflammatory
-T323	Biological-activity 26160 26169	cytotoxic
-T324	Biological-activity 32431 32440	cytotoxic
-T325	Cell-line 26246 26250	HDFn
-T326	Cell-line 32475 32479	HDFn
-T327	Species 27077 27093	Naja sagittifera
-T328	Species 29560 29576	Naja sagittifera
-T329	Species 27909 27918	Naja naja
-T330	Species 29972 29981	Naja naja
+T254	Compound 9317 9325	2-methyl
+T255	Compound 13543 13551	2-methyl
+T256	Compound 16203 16211	2-methyl
+T257	Compound 17994 18002	2-methyl
+T258	Compound 18056 18064	2-methyl
+T259	Compound 18674 18682	2-methyl
+T260	Compound 18731 18739	2-methyl
+T261	Compound 18793 18801	2-methyl
+T262	Compound 19896 19904	2-methyl
+T263	Compound 20814 20822	2-methyl
+T264	Compound 21187 21195	2-methyl
+T265	Compound 21309 21317	2-methyl
+T266	Compound 21621 21629	2-methyl
+T267	Compound 22140 22148	2-methyl
+T268	Compound 22202 22210	2-methyl
+T269	Compound 22316 22324	2-methyl
+T270	Compound 25152 25160	2-methyl
+T271	Compound 26510 26518	2-methyl
+T272	Compound 27972 27980	2-methyl
+T273	Compound 29093 29101	2-methyl
+T274	Compound 29372 29380	2-methyl
+T275	Compound 29546 29554	2-methyl
+T276	Compound 29654 29662	2-methyl
+T277	Compound 29773 29781	2-methyl
+T278	Compound 29941 29949	2-methyl
+T279	Compound 30476 30484	2-methyl
+T280	Compound 18715 18729	Propanoic acid
+T281	Compound 18832 18843	Alkyl ester
+T282	Compound 18877 18896	n-Hexadecanoic acid
+T283	Compound 18923 18943	Saturated fatty acid
+T284	Compound 19027 19053	polyunsaturated fatty acid
+T285	Compound 19085 19106	4H-1-Benzopyran-4-one
+T286	Compound 20036 20057	4H-1-Benzopyran-4-one
+T287	Compound 20225 20246	4H-1-Benzopyran-4-one
+T288	Compound-class 19186 19195	Flavonoid
+T289	Compound 19287 19299	Diarylethene
+T290	Compound 19365 19379	Methoxyflavone
+T291	Compound 20151 20165	Methoxyflavone
+T292	Compound 20321 20335	Methoxyflavone
+T293	Compound 19466 19478	Androsterone
+T294	Compound 19756 19766	Polyprenol
+T295	Compound 20178 20190	Stigmasterol
+T296	Compound-class 20199 20210	Phytosterol
+T297	Compound-class 20393 20404	Phytosterol
+T298	Compound 20350 20366	gamma-Sitosterol
+T299	Compound 20418 20427	Yangambin
+T300	Compound 22383 22401	mostly fatty acids
+T301	Preparation 23049 23058	extracted
+T302	Preparation 31393 31402	extracted
+T303	Compound 23275 23281	natrin
+T304	Compound 23283 23294	disintegrin
+T305	Compound-class 23969 23977	Flavones
+T306	Plant-part 24072 24076	bark
+T307	Species 24080 24103	Parinari curatellifolia
+T308	Species 24175 24190	Echis carinatus
+T309	Compound 24245 24262	aristolochic acid
+T310	Species 24521 24535	Pluchea indica
+T311	Compound 24573 24583	superoxide
+T312	Species 24740 24754	Bothrops asper
+T313	Plant-part 24837 24841	leaf
+T314	Preparation 24842 24848	powder
+T315	Preparation 25090 25096	powder
+T316	Location 24925 24935	Tamil Nadu
+T317	Location 24937 24942	India
+T318	Location 25054 25059	India
+T319	Location 25019 25025	Khamti
+T320	Location 25035 25052	Arunachal Pradesh
+T321	Plant-part 25085 25089	seed
+T322	Biological-activity 25655 25672	anti-inflammatory
+T323	Biological-activity 26010 26019	cytotoxic
+T324	Biological-activity 32271 32280	cytotoxic
+T325	Cell-line 26095 26099	HDFn
+T326	Cell-line 32313 32317	HDFn
+T327	Species 26922 26938	Naja sagittifera
+T328	Species 29410 29426	Naja sagittifera
+T329	Species 27756 27765	Naja naja
+T330	Species 29812 29821	Naja naja
 T331	Compound 254 269	skullcapflavone
-T332	Compound 28223 28238	skullcapflavone
-T333	Compound 28435 28443	carbonyl
-T334	Compound 28486 28494	carbonyl
-T335	Compound 28596 28604	carbonyl
-T336	Compound 28651 28659	carbonyl
-T337	Compound 28808 28816	carbonyl
-T338	Compound 28864 28870	phenol
-T339	Biological-activity 31603 31612	Antivenom
-T340	Compound-class 32573 32585	phytosterols
+T332	Compound 28070 28085	skullcapflavone
+T333	Compound 28281 28289	carbonyl
+T334	Compound 28332 28340	carbonyl
+T335	Compound 28443 28451	carbonyl
+T336	Compound 28499 28507	carbonyl
+T337	Compound 28657 28665	carbonyl
+T338	Compound 28708 28714	phenol
+T339	Biological-activity 31431 31440	Antivenom
+T340	Compound-class 32397 32409	phytosterols

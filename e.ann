@@ -1,421 +1,421 @@
 T0	Compound 86 98	trilinolenin
-T1	Compound 1394 1406	trilinolenin
-T2	Compound 1798 1810	trilinolenin
-T3	Compound 3222 3234	trilinolenin
-T4	Compound 3523 3535	trilinolenin
-T5	Compound 3857 3869	trilinolenin
-T6	Compound 4307 4319	trilinolenin
-T7	Compound 5200 5212	trilinolenin
-T8	Compound 7963 7975	trilinolenin
-T9	Compound 8056 8068	trilinolenin
-T10	Compound 8460 8472	trilinolenin
-T11	Compound 8638 8650	trilinolenin
-T12	Compound 9179 9191	trilinolenin
-T13	Compound 9281 9293	trilinolenin
-T14	Compound 11796 11808	trilinolenin
-T15	Compound 14053 14065	trilinolenin
-T16	Compound 14160 14172	trilinolenin
-T17	Compound 14317 14329	trilinolenin
-T18	Compound 14597 14609	trilinolenin
-T19	Compound 14702 14714	trilinolenin
-T20	Compound 14905 14917	trilinolenin
-T21	Compound 15206 15218	trilinolenin
-T22	Compound 16087 16099	trilinolenin
-T23	Compound 20074 20086	trilinolenin
-T24	Location 149 154	CODEN
-T25	Location 156 159	USA
-T26	Compound-class 175 182	Sterols
-T27	Compound 185 198	triglycerides
-T28	Compound 1039 1052	triglycerides
+T1	Compound 1399 1411	trilinolenin
+T2	Compound 1804 1816	trilinolenin
+T3	Compound 3237 3249	trilinolenin
+T4	Compound 3540 3552	trilinolenin
+T5	Compound 3874 3886	trilinolenin
+T6	Compound 4327 4339	trilinolenin
+T7	Compound 5226 5238	trilinolenin
+T8	Compound 8008 8020	trilinolenin
+T9	Compound 8101 8113	trilinolenin
+T10	Compound 8507 8519	trilinolenin
+T11	Compound 8685 8697	trilinolenin
+T12	Compound 9231 9243	trilinolenin
+T13	Compound 9334 9346	trilinolenin
+T14	Compound 11867 11879	trilinolenin
+T15	Compound 14133 14145	trilinolenin
+T16	Compound 14240 14252	trilinolenin
+T17	Compound 14397 14409	trilinolenin
+T18	Compound 14678 14690	trilinolenin
+T19	Compound 14785 14797	trilinolenin
+T20	Compound 14989 15001	trilinolenin
+T21	Compound 15291 15303	trilinolenin
+T22	Compound 16177 16189	trilinolenin
+T23	Compound 20192 20204	trilinolenin
+T24	Location 148 153	CODEN
+T25	Location 154 157	USA
+T26	Compound-class 172 179	Sterols
+T27	Compound 181 194	triglycerides
+T28	Compound 1037 1050	triglycerides
 T29	Compound 1474 1487	triglycerides
-T30	Compound 1773 1786	triglycerides
-T31	Compound 3652 3665	triglycerides
-T32	Compound 6308 6321	triglycerides
-T33	Compound 8284 8297	triglycerides
-T34	Compound 9798 9811	triglycerides
-T35	Compound 9870 9883	triglycerides
-T36	Compound 10333 10346	triglycerides
-T37	Compound 10494 10507	triglycerides
-T38	Compound 11191 11204	triglycerides
-T39	Compound 11263 11276	triglycerides
-T40	Compound 11519 11532	triglycerides
-T41	Compound 12050 12063	triglycerides
-T42	Compound 12637 12650	triglycerides
-T43	Compound 12794 12807	triglycerides
-T44	Compound 13427 13440	triglycerides
-T45	Compound 13596 13609	triglycerides
-T46	Compound 14146 14159	triglycerides
-T47	Compound 14572 14585	triglycerides
-T48	Compound 14870 14883	triglycerides
-T49	Compound 15126 15139	triglycerides
-T50	Compound 16068 16081	triglycerides
-T51	Compound 17450 17463	triglycerides
-T52	Compound 19091 19104	triglycerides
-T53	Compound 20316 20329	triglycerides
-T54	Compound 20619 20632	triglycerides
-T55	Compound 204 224	essential fatty acid
-T56	Compound 1167 1187	essential fatty acid
-T57	Compound 6332 6352	essential fatty acid
-T58	Species 242 259	Brassica oleracea
-T59	Species 840 857	Brassica oleracea
-T60	Species 900 917	Brassica oleracea
-T61	Species 958 975	Brassica oleracea
-T62	Species 1568 1585	Brassica oleracea
-T63	Species 1624 1641	Brassica oleracea
-T64	Species 1667 1684	Brassica oleracea
-T65	Species 1929 1946	Brassica oleracea
-T66	Species 1986 2003	Brassica oleracea
-T67	Species 2030 2047	Brassica oleracea
-T68	Species 2348 2365	Brassica oleracea
-T69	Species 2619 2636	Brassica oleracea
-T70	Species 2734 2751	Brassica oleracea
+T30	Compound 1774 1787	triglycerides
+T31	Compound 3661 3674	triglycerides
+T32	Compound 6330 6343	triglycerides
+T33	Compound 8317 8330	triglycerides
+T34	Compound 9840 9853	triglycerides
+T35	Compound 9913 9926	triglycerides
+T36	Compound 10378 10391	triglycerides
+T37	Compound 10541 10554	triglycerides
+T38	Compound 11242 11255	triglycerides
+T39	Compound 11315 11328	triglycerides
+T40	Compound 11572 11585	triglycerides
+T41	Compound 12105 12118	triglycerides
+T42	Compound 12694 12707	triglycerides
+T43	Compound 12852 12865	triglycerides
+T44	Compound 13487 13500	triglycerides
+T45	Compound 13656 13669	triglycerides
+T46	Compound 14207 14220	triglycerides
+T47	Compound 14632 14645	triglycerides
+T48	Compound 14931 14944	triglycerides
+T49	Compound 15187 15200	triglycerides
+T50	Compound 16133 16146	triglycerides
+T51	Compound 17524 17537	triglycerides
+T52	Compound 19175 19188	triglycerides
+T53	Compound 20409 20422	triglycerides
+T54	Compound 20713 20726	triglycerides
+T55	Compound 199 219	essential fatty acid
+T56	Compound 1164 1184	essential fatty acid
+T57	Compound 6348 6368	essential fatty acid
+T58	Species 236 253	Brassica oleracea
+T59	Species 836 853	Brassica oleracea
+T60	Species 896 913	Brassica oleracea
+T61	Species 954 971	Brassica oleracea
+T62	Species 1564 1581	Brassica oleracea
+T63	Species 1620 1637	Brassica oleracea
+T64	Species 1663 1680	Brassica oleracea
+T65	Species 1924 1941	Brassica oleracea
+T66	Species 1981 1998	Brassica oleracea
+T67	Species 2025 2042	Brassica oleracea
+T68	Species 2344 2361	Brassica oleracea
+T69	Species 2617 2634	Brassica oleracea
+T70	Species 2733 2750	Brassica oleracea
 T71	Species 2873 2890	Brassica oleracea
-T72	Species 3741 3758	Brassica oleracea
-T73	Species 3973 3990	Brassica oleracea
-T74	Species 5956 5973	Brassica oleracea
-T75	Species 6021 6038	Brassica oleracea
-T76	Species 6054 6071	Brassica oleracea
-T77	Species 6393 6410	Brassica oleracea
-T78	Species 7193 7210	Brassica oleracea
-T79	Species 7250 7267	Brassica oleracea
-T80	Species 7296 7313	Brassica oleracea
-T81	Species 7525 7542	Brassica oleracea
-T82	Species 7717 7734	Brassica oleracea
-T83	Species 7871 7888	Brassica oleracea
-T84	Species 7936 7953	Brassica oleracea
-T85	Species 8031 8048	Brassica oleracea
-T86	Species 13258 13275	Brassica oleracea
-T87	Species 13318 13335	Brassica oleracea
-T88	Species 13376 13393	Brassica oleracea
-T89	Species 272 287	Brassica juncea
-T90	Species 1211 1226	Brassica juncea
-T91	Species 1716 1731	Brassica juncea
-T92	Species 2083 2098	Brassica juncea
-T93	Species 3785 3800	Brassica juncea
-T94	Species 5069 5084	Brassica juncea
-T95	Species 5281 5296	Brassica juncea
-T96	Species 5393 5408	Brassica juncea
-T97	Species 6115 6130	Brassica juncea
-T98	Species 6442 6457	Brassica juncea
-T99	Species 6540 6555	Brassica juncea
-T100	Species 7585 7600	Brassica juncea
-T101	Species 13928 13943	Brassica juncea
-T102	Species 293 309	Raphanus sativus
-T103	Species 1250 1266	Raphanus sativus
-T104	Species 1745 1761	Raphanus sativus
-T105	Species 2117 2133	Raphanus sativus
-T106	Species 3810 3826	Raphanus sativus
-T107	Species 5522 5538	Raphanus sativus
-T108	Species 6153 6169	Raphanus sativus
-T109	Species 6472 6488	Raphanus sativus
-T110	Species 7790 7806	Raphanus sativus
-T111	Species 13984 14000	Raphanus sativus
-T112	Location 582 592	Binan City
-T113	Location 595 601	Laguna
-T114	Location 604 615	Philippines
-T115	Location 688 699	Philippines
-T116	Location 7440 7451	Philippines
-T117	Location 7680 7691	Philippines
-T118	Location 668 679	Taft Avenue
-T119	Location 682 688	Manila
-T120	Location 7435 7441	Manila
-T121	Location 7676 7682	Manila
-T122	Location 774 777	Sec
-T123	Location 782 788	Taipei
-T124	Location 795 801	Taiwan
-T125	Compound 810 825	dichloromethane
-T126	Compound 5930 5945	dichloromethane
-T127	Compound 13276 13291	dichloromethane
-T128	Compound 13920 13935	dichloromethane
-T129	Compound 20236 20251	dichloromethane
-T130	Plant-part 843 849	leaves
-T131	Plant-part 1250 1256	leaves
-T132	Plant-part 1400 1406	leaves
-T133	Plant-part 7922 7928	leaves
-T134	Plant-part 8496 8502	leaves
-T135	Plant-part 8676 8682	leaves
-T136	Plant-part 11543 11549	leaves
-T137	Plant-part 11792 11798	leaves
-T138	Plant-part 13313 13319	leaves
-T139	Plant-part 13956 13962	leaves
-T140	Plant-part 14143 14149	leaves
-T141	Plant-part 966 970	stem
-T142	Plant-part 1163 1167	stem
-T143	Plant-part 4789 4793	stem
-T144	Plant-part 13444 13448	stem
-T145	Plant-part 13626 13630	stem
-T146	Compound 1027 1042	beta-sitosterol
-T147	Compound 1789 1804	beta-sitosterol
-T148	Compound 3848 3863	beta-sitosterol
-T149	Compound 5343 5358	beta-sitosterol
-T150	Compound 20404 20419	beta-sitosterol
-T151	Compound 1107 1119	stigmasterol
-T152	Compound 1870 1882	stigmasterol
-T153	Compound 3445 3457	stigmasterol
-T154	Compound 3884 3896	stigmasterol
-T155	Compound 8408 8420	stigmasterol
-T156	Compound 10052 10064	stigmasterol
-T157	Compound 10357 10369	stigmasterol
-T158	Compound 10952 10964	stigmasterol
-T159	Compound 11225 11237	stigmasterol
-T160	Compound 11594 11606	stigmasterol
-T161	Compound 11844 11856	stigmasterol
-T162	Compound 12326 12338	stigmasterol
-T163	Compound 12677 12689	stigmasterol
-T164	Compound 13269 13281	stigmasterol
-T165	Compound 13577 13589	stigmasterol
-T166	Compound 13719 13731	stigmasterol
-T167	Compound 13890 13902	stigmasterol
-T168	Compound 16201 16213	stigmasterol
-T169	Compound 17010 17022	stigmasterol
-T170	Compound 1212 1225	linoleic acid
-T171	Compound 1825 1838	linoleic acid
-T172	Compound 3728 3741	linoleic acid
-T173	Compound 3903 3916	linoleic acid
-T174	Compound 13924 13937	linoleic acid
-T175	Compound 14786 14799	linoleic acid
-T176	Compound 15238 15251	linoleic acid
-T177	Compound 15586 15599	linoleic acid
-T178	Compound 15823 15836	linoleic acid
-T179	Plant-part 1295 1300	roots
-T180	Plant-part 1484 1489	roots
-T181	Plant-part 7741 7746	roots
-T182	Plant-part 8558 8563	roots
-T183	Plant-part 8737 8742	roots
-T184	Plant-part 12657 12662	roots
-T185	Plant-part 12873 12878	roots
-T186	Plant-part 13122 13127	roots
-T187	Plant-part 14042 14047	roots
-T188	Plant-part 14262 14267	roots
-T189	Compound 1311 1326	Beta-Sitosterol
-T190	Compound 3428 3443	Beta-Sitosterol
-T191	Compound 8967 8982	Beta-Sitosterol
-T192	Compound 10045 10060	Beta-Sitosterol
-T193	Compound 10668 10683	Beta-Sitosterol
-T194	Compound 11433 11448	Beta-Sitosterol
-T195	Compound 12226 12241	Beta-Sitosterol
-T196	Compound 12976 12991	Beta-Sitosterol
-T197	Compound 12993 13008	Beta-Sitosterol
-T198	Compound 13537 13552	Beta-Sitosterol
-T199	Compound 13713 13728	Beta-Sitosterol
-T200	Compound 14095 14110	Beta-Sitosterol
-T201	Compound 16204 16219	Beta-Sitosterol
-T202	Compound 16355 16370	Beta-Sitosterol
-T203	Compound 16477 16492	Beta-Sitosterol
-T204	Compound 16570 16585	Beta-Sitosterol
-T205	Compound 16694 16709	Beta-Sitosterol
-T206	Compound 16764 16779	Beta-Sitosterol
-T207	Compound 16877 16892	Beta-Sitosterol
-T208	Compound 19108 19123	Beta-Sitosterol
-T209	Compound 1337 1358	essential fatty acids
-T210	Compound 14132 14153	essential fatty acids
-T211	Compound 20515 20536	essential fatty acids
-T212	Compound 20819 20840	essential fatty acids
-T213	Compound 1360 1373	Linoleic acid
-T214	Compound 3605 3618	Linoleic acid
-T215	Compound 8437 8450	Linoleic acid
-T216	Compound 8535 8548	Linoleic acid
-T217	Compound 9832 9845	Linoleic acid
-T218	Compound 10833 10846	Linoleic acid
-T219	Compound 11033 11046	Linoleic acid
-T220	Compound 12444 12457	Linoleic acid
-T221	Compound 13176 13189	Linoleic acid
-T222	Compound 13263 13276	Linoleic acid
-T223	Compound 13691 13704	Linoleic acid
-T224	Compound 13777 13790	Linoleic acid
-T225	Compound 14157 14170	Linoleic acid
-T226	Compound 16267 16280	Linoleic acid
-T227	Compound 17854 17867	Linoleic acid
-T228	Compound 17904 17917	Linoleic acid
-T229	Compound 17991 18004	Linoleic acid
-T230	Compound 1380 1400	alpha-linolenic acid
-T231	Compound 3622 3642	alpha-linolenic acid
-T232	Compound 3946 3966	alpha-linolenic acid
-T233	Compound 8362 8382	alpha-linolenic acid
-T234	Compound 8474 8494	alpha-linolenic acid
-T235	Compound 12471 12491	alpha-linolenic acid
-T236	Compound 12789 12809	alpha-linolenic acid
-T237	Compound 13292 13312	alpha-linolenic acid
-T238	Compound 14189 14209	alpha-linolenic acid
-T239	Compound 14367 14387	alpha-linolenic acid
-T240	Compound 14526 14546	alpha-linolenic acid
-T241	Compound 14606 14626	alpha-linolenic acid
-T242	Compound 14986 15006	alpha-linolenic acid
-T243	Compound 15222 15242	alpha-linolenic acid
-T244	Compound 15605 15625	alpha-linolenic acid
-T245	Compound 15843 15863	alpha-linolenic acid
-T246	Compound 16182 16202	alpha-linolenic acid
-T247	Compound 16311 16331	alpha-linolenic acid
-T248	Compound 18228 18248	alpha-linolenic acid
-T249	Compound 18716 18736	alpha-linolenic acid
-T250	Compound 19061 19081	alpha-linolenic acid
-T251	Compound 1449 1455	lutein
-T252	Compound 1894 1900	lutein
-T253	Compound 3672 3678	lutein
-T254	Compound 3972 3978	lutein
-T255	Compound 11902 11908	lutein
-T256	Compound 12526 12532	lutein
-T257	Compound 14267 14273	lutein
-T258	Compound 14399 14405	lutein
-T259	Compound 14560 14566	lutein
-T260	Compound 14711 14717	lutein
-T261	Compound 15206 15212	lutein
-T262	Compound 15482 15488	lutein
-T263	Compound 15745 15751	lutein
-T264	Compound 15774 15780	lutein
-T265	Compound 15984 15990	lutein
-T266	Compound 16013 16019	lutein
-T267	Compound 16351 16357	lutein
-T268	Compound 19374 19380	lutein
-T269	Compound 19594 19600	lutein
-T270	Compound 19774 19780	lutein
-T271	Compound 1461 1474	beta-carotene
-T272	Compound 1904 1917	beta-carotene
-T273	Compound 3987 4000	beta-carotene
-T274	Compound 4203 4216	beta-carotene
-T275	Compound 14285 14298	beta-carotene
-T276	Compound 14580 14593	beta-carotene
-T277	Compound 20036 20049	beta-carotene
-T278	Compound 20136 20149	beta-carotene
-T279	Biological-activity 1569 1579	anticancer
-T280	Biological-activity 3002 3012	anticancer
-T281	Biological-activity 6324 6334	anticancer
-T282	Biological-activity 6669 6679	anticancer
-T283	Biological-activity 16403 16413	anticancer
-T284	Biological-activity 16796 16806	anticancer
-T285	Biological-activity 20668 20678	anticancer
-T286	Biological-activity 20701 20711	anticancer
-T287	Compound 1866 1880	linolenic acid
-T288	Compound 3762 3776	linolenic acid
-T289	Compound 5862 5876	linolenic acid
-T290	Compound 15297 15311	linolenic acid
-T291	Family1947 1959	Brassicaceae
-T292	Plant-part 2383 2387	leaf
-T293	Plant-part 2656 2660	leaf
-T294	Compound-class 2461 2470	alkaloids
-T295	Compound 2492 2499	phenols
-T296	Compound 2502 2512	glycosides
-T297	Compound-class 2540 2550	flavonoids
-T298	Compound-class 4141 4151	flavonoids
-T299	Preparation 2567 2574	extract
-T300	Preparation 2667 2674	extract
-T301	Preparation 9739 9746	extract
-T302	Preparation 10285 10292	extract
-T303	Preparation 10978 10985	extract
-T304	Preparation 11172 11179	extract
-T305	Preparation 11624 11631	extract
-T306	Preparation 11875 11882	extract
-T307	Preparation 12084 12091	extract
-T308	Preparation 12716 12723	extract
-T309	Preparation 12934 12941	extract
-T310	Preparation 13186 13193	extract
-T311	Cell-line 3041 3045	HeLa
-T312	Compound 3153 3166	glucosinolate
-T313	Compound 3360 3366	phenyl
-T314	Compound-class 3380 3389	flavonols
-T315	Compound 3671 3684	Beta-carotene
-T316	Compound 8753 8766	Beta-carotene
-T317	Compound 11739 11752	Beta-carotene
-T318	Compound 12300 12313	Beta-carotene
-T319	Compound 14455 14468	Beta-carotene
-T320	Compound 15121 15134	Beta-carotene
-T321	Compound 19921 19934	Beta-carotene
-T322	Compound 3907 3919	triglyceride
-T323	Compound 13980 13992	triglyceride
-T324	Compound 14697 14709	triglyceride
-T325	Compound 15222 15234	triglyceride
-T326	Compound 15450 15462	triglyceride
-T327	Compound 15637 15649	triglyceride
-T328	Compound 17338 17350	triglyceride
-T329	Compound 17427 17439	triglyceride
-T330	Compound 17498 17510	triglyceride
-T331	Compound 17541 17553	triglyceride
-T332	Compound 4023 4038	beta-Sitosterol
-T333	Compound-class 4051 4057	sterol
-T334	Compound 4244 4259	alphatocopherol
-T335	Compound 4315 4332	indole-3-carbinol
-T336	Compound 4672 4684	sulforaphane
-T337	Compound 4954 4966	sulforaphane
-T338	Species 4805 4827	Pseudomonas aeruginosa
-T339	Body-part 4874 4880	breast
-T340	Body-part 16550 16556	breast
-T341	Body-part 18146 18152	breast
-T342	Cell-line 4922 4926	MCF7
-T343	Plant-part 5144 5149	seeds
-T344	Location 5192 5197	Hebei
-T345	Location 5200 5207	Shaanxi
-T346	Location 5213 5230	Shandong Province
-T347	Compound 5243 5257	isothiocyanate
-T348	Compound 5307 5321	isothiocyanate
-T349	Compound 5268 5286	diallyl trisulfide
-T350	Plant-part 5390 5394	seed
-T351	Plant-part 5766 5770	seed
-T352	Compound 5427 5438	campesterol
-T353	Compound 5444 5458	brassicasterol
-T354	Compound 5561 5575	brassicasterol
-T355	Compound 5542 5548	folate
-T356	Compound-class 5554 5561	sterols
-T357	Compound-class 6432 6439	sterols
-T358	Compound-class 20925 20932	sterols
-T359	Compound-class 5581 5591	sitosterol
-T360	Compound 5752 5769	major fatty acids
-T361	Compound 5857 5874	major fatty acids
-T362	Compound 5932 5943	erucic acid
-T363	Compound 5959 5972	palmitic acid
-T364	Compound 7130 7138	vanillin
-T365	Location 7514 7528	Quirino Avenue
-T366	Location 7756 7770	Quirino Avenue
-T367	Location 7623 7638	Barangay Palola
-T368	Location 7641 7647	Lucban
-T369	Location 7650 7656	Quezon
-T370	Plant-part 8181 8186	stems
-T371	Plant-part 11018 11023	stems
-T372	Preparation 8272 8278	ground
-T373	Preparation 8674 8680	ground
-T374	Preparation 8336 8344	filtered
-T375	Preparation 8739 8747	filtered
-T376	Compound 8966 8973	acetone
-T377	Compound 9711 9718	acetone
-T378	Compound 10250 10257	acetone
-T379	Compound 10950 10957	acetone
-T380	Compound 11152 11159	acetone
-T381	Compound 11598 11605	acetone
-T382	Compound 11851 11858	acetone
-T383	Compound 12068 12075	acetone
-T384	Compound 12697 12704	acetone
-T385	Compound 12916 12923	acetone
-T386	Compound 13169 13176	acetone
-T387	Compound 10487 10500	ethyl acetate
-T388	Compound 10610 10623	ethyl acetate
-T389	Compound 10717 10730	ethyl acetate
-T390	Compound 10877 10890	ethyl acetate
-T391	Compound 12686 12693	diethyl
-T392	Compound 14009 14023	betasitosterol
-T393	Compound 15158 15167	methylene
-T394	Body-part 15503 15507	hand
-T395	Body-part 17223 17227	hand
-T396	Compound 15918 15929	fatty acids
-T397	Compound 16159 16170	fatty acids
-T398	Compound 18059 18070	fatty acids
-T399	Compound 18298 18309	fatty acids
-T400	Cell-line 16613 16618	MCF-7
-T401	Compound 16799 16811	beta-catenin
-T402	Compound 17188 17194	murine
-T403	Cell-line 17285 17292	Ehrlich
-T404	Compound 17427 17438	trilinolein
-T405	Cell-line 17712 17716	A549
-T406	Compound 17962 17974	Trilinolenin
-T407	Compound 18333 18354	eicosapentaenoic acid
-T408	Compound 18363 18383	docosahexaenoic acid
-T409	Compound 18429 18458	their fatty acid ethyl esters
-T410	Biological-activity 18478 18491	antibacterial
-T411	Species 18544 18564	Streptococcus mutans
-T412	Species 18567 18583	Candida albicans
-T413	Species 18586 18623	Aggregatibacter actinomycetemcomitans
-T414	Species 18626 18649	Fusobacterium nucleatum
-T415	Species 18656 18680	Porphyromonas gingivalis
-T416	Biological-activity 18700 18717	anti-inflammatory
-T417	Compound 19125 19137	arachidonate
-T418	Compound 19208 19228	Gamma-Linolenic acid
-T419	Compound 19729 19742	retinoic acid
-T420	Compound 20340 20348	cytokine
+T72	Species 3743 3760	Brassica oleracea
+T73	Species 3974 3991	Brassica oleracea
+T74	Species 5969 5986	Brassica oleracea
+T75	Species 6034 6051	Brassica oleracea
+T76	Species 6067 6084	Brassica oleracea
+T77	Species 6406 6423	Brassica oleracea
+T78	Species 7213 7230	Brassica oleracea
+T79	Species 7270 7287	Brassica oleracea
+T80	Species 7316 7333	Brassica oleracea
+T81	Species 7547 7564	Brassica oleracea
+T82	Species 7741 7758	Brassica oleracea
+T83	Species 7896 7913	Brassica oleracea
+T84	Species 7961 7978	Brassica oleracea
+T85	Species 8055 8072	Brassica oleracea
+T86	Species 13298 13315	Brassica oleracea
+T87	Species 13358 13375	Brassica oleracea
+T88	Species 13416 13433	Brassica oleracea
+T89	Species 265 280	Brassica juncea
+T90	Species 1203 1218	Brassica juncea
+T91	Species 1705 1720	Brassica juncea
+T92	Species 2068 2083	Brassica juncea
+T93	Species 3772 3787	Brassica juncea
+T94	Species 5062 5077	Brassica juncea
+T95	Species 5274 5289	Brassica juncea
+T96	Species 5387 5402	Brassica juncea
+T97	Species 6109 6124	Brassica juncea
+T98	Species 6435 6450	Brassica juncea
+T99	Species 6534 6549	Brassica juncea
+T100	Species 7583 7598	Brassica juncea
+T101	Species 13936 13951	Brassica juncea
+T102	Species 285 301	Raphanus sativus
+T103	Species 1240 1256	Raphanus sativus
+T104	Species 1731 1747	Raphanus sativus
+T105	Species 2098 2114	Raphanus sativus
+T106	Species 3792 3808	Raphanus sativus
+T107	Species 5509 5525	Raphanus sativus
+T108	Species 6138 6154	Raphanus sativus
+T109	Species 6455 6471	Raphanus sativus
+T110	Species 7777 7793	Raphanus sativus
+T111	Species 13979 13995	Raphanus sativus
+T112	Location 574 584	Binan City
+T113	Location 586 592	Laguna
+T114	Location 594 605	Philippines
+T115	Location 678 689	Philippines
+T116	Location 7416 7427	Philippines
+T117	Location 7656 7667	Philippines
+T118	Location 657 668	Taft Avenue
+T119	Location 670 676	Manila
+T120	Location 7408 7414	Manila
+T121	Location 7648 7654	Manila
+T122	Location 760 763	Sec
+T123	Location 767 773	Taipei
+T124	Location 779 785	Taiwan
+T125	Compound 794 809	dichloromethane
+T126	Compound 5904 5919	dichloromethane
+T127	Compound 13254 13269	dichloromethane
+T128	Compound 13894 13909	dichloromethane
+T129	Compound 20233 20248	dichloromethane
+T130	Plant-part 826 832	leaves
+T131	Plant-part 1229 1235	leaves
+T132	Plant-part 1379 1385	leaves
+T133	Plant-part 7886 7892	leaves
+T134	Plant-part 8456 8462	leaves
+T135	Plant-part 8635 8641	leaves
+T136	Plant-part 11516 11522	leaves
+T137	Plant-part 11765 11771	leaves
+T138	Plant-part 13288 13294	leaves
+T139	Plant-part 13926 13932	leaves
+T140	Plant-part 14112 14118	leaves
+T141	Plant-part 946 950	stem
+T142	Plant-part 1142 1146	stem
+T143	Plant-part 4757 4761	stem
+T144	Plant-part 13408 13412	stem
+T145	Plant-part 13588 13592	stem
+T146	Compound 1005 1020	beta-sitosterol
+T147	Compound 1757 1772	beta-sitosterol
+T148	Compound 3810 3825	beta-sitosterol
+T149	Compound 5308 5323	beta-sitosterol
+T150	Compound 20380 20395	beta-sitosterol
+T151	Compound 1084 1096	stigmasterol
+T152	Compound 1834 1846	stigmasterol
+T153	Compound 3410 3422	stigmasterol
+T154	Compound 3843 3855	stigmasterol
+T155	Compound 8356 8368	stigmasterol
+T156	Compound 10006 10018	stigmasterol
+T157	Compound 10313 10325	stigmasterol
+T158	Compound 10910 10922	stigmasterol
+T159	Compound 11185 11197	stigmasterol
+T160	Compound 11553 11565	stigmasterol
+T161	Compound 11802 11814	stigmasterol
+T162	Compound 12285 12297	stigmasterol
+T163	Compound 12637 12649	stigmasterol
+T164	Compound 13229 13241	stigmasterol
+T165	Compound 13531 13543	stigmasterol
+T166	Compound 13671 13683	stigmasterol
+T167	Compound 13842 13854	stigmasterol
+T168	Compound 16148 16160	stigmasterol
+T169	Compound 16962 16974	stigmasterol
+T170	Compound 1186 1199	linoleic acid
+T171	Compound 1789 1802	linoleic acid
+T172	Compound 3688 3701	linoleic acid
+T173	Compound 3858 3871	linoleic acid
+T174	Compound 13859 13872	linoleic acid
+T175	Compound 14714 14727	linoleic acid
+T176	Compound 15166 15179	linoleic acid
+T177	Compound 15514 15527	linoleic acid
+T178	Compound 15752 15765	linoleic acid
+T179	Plant-part 1266 1271	roots
+T180	Plant-part 1454 1459	roots
+T181	Plant-part 7687 7692	roots
+T182	Plant-part 8497 8502	roots
+T183	Plant-part 8674 8679	roots
+T184	Plant-part 12601 12606	roots
+T185	Plant-part 12816 12821	roots
+T186	Plant-part 13065 13070	roots
+T187	Plant-part 13970 13975	roots
+T188	Plant-part 14188 14193	roots
+T189	Compound 1281 1296	Beta-Sitosterol
+T190	Compound 3387 3402	Beta-Sitosterol
+T191	Compound 8900 8915	Beta-Sitosterol
+T192	Compound 9985 10000	Beta-Sitosterol
+T193	Compound 10608 10623	Beta-Sitosterol
+T194	Compound 11374 11389	Beta-Sitosterol
+T195	Compound 12164 12179	Beta-Sitosterol
+T196	Compound 12911 12926	Beta-Sitosterol
+T197	Compound 12928 12943	Beta-Sitosterol
+T198	Compound 13466 13481	Beta-Sitosterol
+T199	Compound 13639 13654	Beta-Sitosterol
+T200	Compound 14013 14028	Beta-Sitosterol
+T201	Compound 16116 16131	Beta-Sitosterol
+T202	Compound 16265 16280	Beta-Sitosterol
+T203	Compound 16388 16403	Beta-Sitosterol
+T204	Compound 16482 16497	Beta-Sitosterol
+T205	Compound 16606 16621	Beta-Sitosterol
+T206	Compound 16677 16692	Beta-Sitosterol
+T207	Compound 16791 16806	Beta-Sitosterol
+T208	Compound 19034 19049	Beta-Sitosterol
+T209	Compound 1306 1327	essential fatty acids
+T210	Compound 14038 14059	essential fatty acids
+T211	Compound 20427 20448	essential fatty acids
+T212	Compound 20731 20752	essential fatty acids
+T213	Compound 1328 1341	Linoleic acid
+T214	Compound 3559 3572	Linoleic acid
+T215	Compound 8370 8383	Linoleic acid
+T216	Compound 8468 8481	Linoleic acid
+T217	Compound 9769 9782	Linoleic acid
+T218	Compound 10768 10781	Linoleic acid
+T219	Compound 10968 10981	Linoleic acid
+T220	Compound 12374 12387	Linoleic acid
+T221	Compound 13101 13114	Linoleic acid
+T222	Compound 13188 13201	Linoleic acid
+T223	Compound 13606 13619	Linoleic acid
+T224	Compound 13689 13702	Linoleic acid
+T225	Compound 14061 14074	Linoleic acid
+T226	Compound 16162 16175	Linoleic acid
+T227	Compound 17752 17765	Linoleic acid
+T228	Compound 17803 17816	Linoleic acid
+T229	Compound 17891 17904	Linoleic acid
+T230	Compound 1347 1367	alpha-linolenic acid
+T231	Compound 3574 3594	alpha-linolenic acid
+T232	Compound 3889 3909	alpha-linolenic acid
+T233	Compound 8295 8315	alpha-linolenic acid
+T234	Compound 8404 8424	alpha-linolenic acid
+T235	Compound 12393 12413	alpha-linolenic acid
+T236	Compound 12709 12729	alpha-linolenic acid
+T237	Compound 13207 13227	alpha-linolenic acid
+T238	Compound 14080 14100	alpha-linolenic acid
+T239	Compound 14254 14274	alpha-linolenic acid
+T240	Compound 14412 14432	alpha-linolenic acid
+T241	Compound 14493 14513	alpha-linolenic acid
+T242	Compound 14872 14892	alpha-linolenic acid
+T243	Compound 15107 15127	alpha-linolenic acid
+T244	Compound 15489 15509	alpha-linolenic acid
+T245	Compound 15727 15747	alpha-linolenic acid
+T246	Compound 16067 16087	alpha-linolenic acid
+T247	Compound 16191 16211	alpha-linolenic acid
+T248	Compound 18112 18132	alpha-linolenic acid
+T249	Compound 18602 18622	alpha-linolenic acid
+T250	Compound 18949 18969	alpha-linolenic acid
+T251	Compound 1414 1420	lutein
+T252	Compound 1848 1854	lutein
+T253	Compound 3622 3628	lutein
+T254	Compound 3912 3918	lutein
+T255	Compound 11821 11827	lutein
+T256	Compound 12442 12448	lutein
+T257	Compound 14148 14154	lutein
+T258	Compound 14276 14282	lutein
+T259	Compound 14435 14441	lutein
+T260	Compound 14586 14592	lutein
+T261	Compound 15078 15084	lutein
+T262	Compound 15350 15356	lutein
+T263	Compound 15613 15619	lutein
+T264	Compound 15642 15648	lutein
+T265	Compound 15851 15857	lutein
+T266	Compound 15880 15886	lutein
+T267	Compound 16213 16219	lutein
+T268	Compound 19241 19247	lutein
+T269	Compound 19462 19468	lutein
+T270	Compound 19643 19649	lutein
+T271	Compound 1425 1438	beta-carotene
+T272	Compound 1856 1869	beta-carotene
+T273	Compound 3923 3936	beta-carotene
+T274	Compound 4139 4152	beta-carotene
+T275	Compound 14159 14172	beta-carotene
+T276	Compound 14446 14459	beta-carotene
+T277	Compound 19887 19900	beta-carotene
+T278	Compound 19988 20001	beta-carotene
+T279	Biological-activity 1530 1540	anticancer
+T280	Biological-activity 2949 2959	anticancer
+T281	Biological-activity 6256 6266	anticancer
+T282	Biological-activity 6598 6608	anticancer
+T283	Biological-activity 16242 16252	anticancer
+T284	Biological-activity 16634 16644	anticancer
+T285	Biological-activity 20511 20521	anticancer
+T286	Biological-activity 20545 20555	anticancer
+T287	Compound 1818 1832	linolenic acid
+T288	Compound 3703 3717	linolenic acid
+T289	Compound 5796 5810	linolenic acid
+T290	Compound 15147 15161	linolenic acid
+T291	Family 1896 1908	Brassicaceae
+T292	Plant-part 2327 2331	leaf
+T293	Plant-part 2601 2605	leaf
+T294	Compound-class 2403 2412	alkaloids
+T295	Compound 2433 2440	phenols
+T296	Compound 2442 2452	glycosides
+T297	Compound-class 2479 2489	flavonoids
+T298	Compound-class 4064 4074	flavonoids
+T299	Preparation 2506 2513	extract
+T300	Preparation 2606 2613	extract
+T301	Preparation 9643 9650	extract
+T302	Preparation 10187 10194	extract
+T303	Preparation 10880 10887	extract
+T304	Preparation 11073 11080	extract
+T305	Preparation 11523 11530	extract
+T306	Preparation 11772 11779	extract
+T307	Preparation 11979 11986	extract
+T308	Preparation 12607 12614	extract
+T309	Preparation 12822 12829	extract
+T310	Preparation 13071 13078	extract
+T311	Cell-line 2976 2980	HeLa
+T312	Compound 3088 3101	glucosinolate
+T313	Compound 3296 3302	phenyl
+T314	Compound-class 3315 3324	flavonols
+T315	Compound 3601 3614	Beta-carotene
+T316	Compound 8645 8658	Beta-carotene
+T317	Compound 11625 11638	Beta-carotene
+T318	Compound 12181 12194	Beta-carotene
+T319	Compound 14288 14301	Beta-carotene
+T320	Compound 14946 14959	Beta-carotene
+T321	Compound 19731 19744	Beta-carotene
+T322	Compound 3828 3840	triglyceride
+T323	Compound 13827 13839	triglyceride
+T324	Compound 14521 14533	triglyceride
+T325	Compound 15041 15053	triglyceride
+T326	Compound 15264 15276	triglyceride
+T327	Compound 15450 15462	triglyceride
+T328	Compound 17137 17149	triglyceride
+T329	Compound 17227 17239	triglyceride
+T330	Compound 17298 17310	triglyceride
+T331	Compound 17342 17354	triglyceride
+T332	Compound 3937 3952	beta-Sitosterol
+T333	Compound-class 3964 3970	sterol
+T334	Compound 4154 4169	alphatocopherol
+T335	Compound 4225 4242	indole-3-carbinol
+T336	Compound 4584 4596	sulforaphane
+T337	Compound 4866 4878	sulforaphane
+T338	Species 4716 4738	Pseudomonas aeruginosa
+T339	Body-part 4784 4790	breast
+T340	Body-part 16337 16343	breast
+T341	Body-part 17931 17937	breast
+T342	Cell-line 4831 4835	MCF7
+T343	Plant-part 5053 5058	seeds
+T344	Location 5099 5104	Hebei
+T345	Location 5106 5113	Shaanxi
+T346	Location 5118 5135	Shandong Province
+T347	Compound 5147 5161	isothiocyanate
+T348	Compound 5211 5225	isothiocyanate
+T349	Compound 5171 5189	diallyl trisulfide
+T350	Plant-part 5290 5294	seed
+T351	Plant-part 5666 5670	seed
+T352	Compound 5325 5336	campesterol
+T353	Compound 5341 5355	brassicasterol
+T354	Compound 5458 5472	brassicasterol
+T355	Compound 5438 5444	folate
+T356	Compound-class 5449 5456	sterols
+T357	Compound-class 6321 6328	sterols
+T358	Compound-class 20692 20699	sterols
+T359	Compound-class 5474 5484	sitosterol
+T360	Compound 5645 5662	major fatty acids
+T361	Compound 5749 5766	major fatty acids
+T362	Compound 5821 5832	erucic acid
+T363	Compound 5847 5860	palmitic acid
+T364	Compound 7010 7018	vanillin
+T365	Location 7392 7406	Quirino Avenue
+T366	Location 7632 7646	Quirino Avenue
+T367	Location 7499 7514	Barangay Palola
+T368	Location 7516 7522	Lucban
+T369	Location 7524 7530	Quezon
+T370	Plant-part 8046 8051	stems
+T371	Plant-part 10874 10879	stems
+T372	Preparation 8134 8140	ground
+T373	Preparation 8529 8535	ground
+T374	Preparation 8197 8205	filtered
+T375	Preparation 8592 8600	filtered
+T376	Compound 8814 8821	acetone
+T377	Compound 9566 9573	acetone
+T378	Compound 10102 10109	acetone
+T379	Compound 10801 10808	acetone
+T380	Compound 11000 11007	acetone
+T381	Compound 11444 11451	acetone
+T382	Compound 11693 11700	acetone
+T383	Compound 11906 11913	acetone
+T384	Compound 12530 12537	acetone
+T385	Compound 12745 12752	acetone
+T386	Compound 12994 13001	acetone
+T387	Compound 10335 10348	ethyl acetate
+T388	Compound 10458 10471	ethyl acetate
+T389	Compound 10565 10578	ethyl acetate
+T390	Compound 10725 10738	ethyl acetate
+T391	Compound 12506 12513	diethyl
+T392	Compound 13798 13812	betasitosterol
+T393	Compound 14918 14927	methylene
+T394	Body-part 15254 15258	hand
+T395	Body-part 16956 16960	hand
+T396	Compound 15662 15673	fatty acids
+T397	Compound 15900 15911	fatty acids
+T398	Compound 17789 17800	fatty acids
+T399	Compound 18028 18039	fatty acids
+T400	Cell-line 16344 16349	MCF-7
+T401	Compound 16529 16541	beta-catenin
+T402	Compound 16915 16921	murine
+T403	Cell-line 17010 17017	Ehrlich
+T404	Compound 17151 17162	trilinolein
+T405	Cell-line 17434 17438	A549
+T406	Compound 17684 17696	Trilinolenin
+T407	Compound 18052 18073	eicosapentaenoic acid
+T408	Compound 18081 18101	docosahexaenoic acid
+T409	Compound 18145 18174	their fatty acid ethyl esters
+T410	Biological-activity 18193 18206	antibacterial
+T411	Species 18258 18278	Streptococcus mutans
+T412	Species 18280 18296	Candida albicans
+T413	Species 18298 18335	Aggregatibacter actinomycetemcomitans
+T414	Species 18337 18360	Fusobacterium nucleatum
+T415	Species 18366 18390	Porphyromonas gingivalis
+T416	Biological-activity 18410 18427	anti-inflammatory
+T417	Compound 18835 18847	arachidonate
+T418	Compound 18918 18938	Gamma-Linolenic acid
+T419	Compound 19437 19450	retinoic acid
+T420	Compound 20046 20054	cytokine

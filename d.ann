@@ -1,451 +1,451 @@
 T0	Biological-activity 0 11	Antioxidant
-T1	Biological-activity 10143 10154	Antioxidant
-T2	Biological-activity 26537 26548	Antioxidant
-T3	Biological-activity 32 44	Antiophidian
-T4	Species 59 79	Alstonia macrophylla
-T5	Species 620 640	Alstonia macrophylla
-T6	Species 656 676	Alstonia macrophylla
+T1	Biological-activity 10205 10216	Antioxidant
+T2	Biological-activity 26708 26719	Antioxidant
+T3	Biological-activity 31 43	Antiophidian
+T4	Species 57 77	Alstonia macrophylla
+T5	Species 618 638	Alstonia macrophylla
+T6	Species 654 674	Alstonia macrophylla
 T7	Species 857 877	Alstonia macrophylla
-T8	Species 987 1007	Alstonia macrophylla
-T9	Species 1198 1218	Alstonia macrophylla
-T10	Species 1616 1636	Alstonia macrophylla
-T11	Species 2001 2021	Alstonia macrophylla
-T12	Species 2541 2561	Alstonia macrophylla
-T13	Species 2729 2749	Alstonia macrophylla
-T14	Species 3240 3260	Alstonia macrophylla
-T15	Species 3262 3282	Alstonia macrophylla
-T16	Species 3714 3734	Alstonia macrophylla
-T17	Species 4013 4033	Alstonia macrophylla
-T18	Species 4766 4786	Alstonia macrophylla
-T19	Species 4943 4963	Alstonia macrophylla
-T20	Species 4997 5017	Alstonia macrophylla
-T21	Species 5141 5161	Alstonia macrophylla
-T22	Species 5807 5827	Alstonia macrophylla
-T23	Species 5963 5983	Alstonia macrophylla
-T24	Species 6290 6310	Alstonia macrophylla
-T25	Species 6619 6639	Alstonia macrophylla
-T26	Species 6698 6718	Alstonia macrophylla
-T27	Species 6758 6778	Alstonia macrophylla
-T28	Species 6854 6874	Alstonia macrophylla
-T29	Species 7409 7429	Alstonia macrophylla
-T30	Species 7871 7891	Alstonia macrophylla
-T31	Species 8015 8035	Alstonia macrophylla
-T32	Species 10170 10190	Alstonia macrophylla
-T33	Species 10192 10212	Alstonia macrophylla
-T34	Species 10435 10455	Alstonia macrophylla
-T35	Species 10866 10886	Alstonia macrophylla
-T36	Species 10978 10998	Alstonia macrophylla
-T37	Species 11692 11712	Alstonia macrophylla
-T38	Species 12207 12227	Alstonia macrophylla
-T39	Species 12404 12424	Alstonia macrophylla
-T40	Species 13133 13153	Alstonia macrophylla
-T41	Species 13274 13294	Alstonia macrophylla
-T42	Species 13477 13497	Alstonia macrophylla
-T43	Species 13561 13581	Alstonia macrophylla
-T44	Species 13821 13841	Alstonia macrophylla
-T45	Species 14081 14101	Alstonia macrophylla
-T46	Species 14229 14249	Alstonia macrophylla
-T47	Species 14322 14342	Alstonia macrophylla
-T48	Species 15312 15332	Alstonia macrophylla
-T49	Species 15796 15816	Alstonia macrophylla
-T50	Species 15920 15940	Alstonia macrophylla
-T51	Species 16088 16108	Alstonia macrophylla
-T52	Species 17223 17243	Alstonia macrophylla
-T53	Species 17353 17373	Alstonia macrophylla
-T54	Species 18052 18072	Alstonia macrophylla
-T55	Species 18169 18189	Alstonia macrophylla
-T56	Species 18440 18460	Alstonia macrophylla
-T57	Species 18627 18647	Alstonia macrophylla
-T58	Species 18700 18720	Alstonia macrophylla
-T59	Species 19967 19987	Alstonia macrophylla
-T60	Species 20074 20094	Alstonia macrophylla
-T61	Species 20505 20525	Alstonia macrophylla
-T62	Species 21479 21499	Alstonia macrophylla
-T63	Species 21531 21551	Alstonia macrophylla
-T64	Species 21600 21620	Alstonia macrophylla
-T65	Species 21909 21929	Alstonia macrophylla
-T66	Species 22265 22285	Alstonia macrophylla
-T67	Species 22454 22474	Alstonia macrophylla
-T68	Species 22684 22704	Alstonia macrophylla
-T69	Species 24666 24686	Alstonia macrophylla
-T70	Species 24762 24782	Alstonia macrophylla
-T71	Species 25134 25154	Alstonia macrophylla
-T72	Species 25270 25290	Alstonia macrophylla
-T73	Species 25385 25405	Alstonia macrophylla
-T74	Species 26065 26085	Alstonia macrophylla
-T75	Species 26388 26408	Alstonia macrophylla
-T76	Species 26600 26620	Alstonia macrophylla
-T77	Species 27164 27184	Alstonia macrophylla
-T78	Species 28002 28022	Alstonia macrophylla
-T79	Species 28610 28630	Alstonia macrophylla
-T80	Species 29282 29302	Alstonia macrophylla
-T81	Species 29493 29513	Alstonia macrophylla
-T82	Species 30730 30750	Alstonia macrophylla
-T83	Species 31215 31235	Alstonia macrophylla
-T84	Species 31556 31576	Alstonia macrophylla
-T85	Species 31900 31920	Alstonia macrophylla
-T86	Species 32147 32167	Alstonia macrophylla
-T87	Species 32940 32960	Alstonia macrophylla
-T88	Species 32961 32981	Alstonia macrophylla
-T89	Plant-part 81 85	Bark
-T90	Location 362 373	Taft Avenue
-T91	Location 376 382	Manila
-T92	Location 390 401	Philippines
-T93	Location 2378 2389	Philippines
-T94	Location 22816 22827	Philippines
-T95	Location 456 461	Osaka
-T96	Location 499 504	Osaka
-T97	Location 32978 32983	Osaka
-T98	Location 490 498	Toyonaka
-T99	Location 518 523	Japan
-T100	Plant-part 606 610	bark
-T101	Plant-part 890 894	bark
-T102	Plant-part 1233 1237	bark
-T103	Plant-part 2919 2923	bark
-T104	Plant-part 3251 3255	bark
-T105	Plant-part 3630 3634	bark
-T106	Plant-part 3711 3715	bark
-T107	Plant-part 4027 4031	bark
-T108	Plant-part 6065 6069	bark
-T109	Plant-part 6751 6755	bark
-T110	Plant-part 8990 8994	bark
-T111	Plant-part 17237 17241	bark
-T112	Plant-part 17307 17311	bark
-T113	Plant-part 18523 18527	bark
-T114	Plant-part 18711 18715	bark
-T115	Plant-part 20053 20057	bark
-T116	Plant-part 22358 22362	bark
-T117	Plant-part 22548 22552	bark
-T118	Plant-part 22941 22945	bark
-T119	Plant-part 26491 26495	bark
-T120	Plant-part 33078 33082	bark
-T121	Compound 1029 1044	dichloromethane
-T122	Compound 23038 23053	dichloromethane
-T123	Compound 28067 28082	dichloromethane
-T124	Compound 33108 33123	dichloromethane
-T125	Compound 1094 1116	unsaturated fatty acid
-T126	Compound 1129 1146	fatty acid esters
-T127	Compound 7300 7317	fatty acid esters
-T128	Compound 1162 1175	hexadecanoate
-T129	Compound 1187 1200	hexadecanoate
-T130	Compound 1252 1260	methanol
-T131	Compound 4846 4854	methanol
-T132	Compound 27241 27249	methanol
-T133	Compound 27345 27353	methanol
-T134	Compound 27424 27432	methanol
-T135	Compound 31376 31384	methanol
-T136	Compound 33583 33591	methanol
-T137	Compound 1266 1284	dimethyl sulfoxide
-T138	Compound-class 1370 1379	alkaloids
-T139	Compound-class 5137 5146	alkaloids
-T140	Compound-class 5539 5548	alkaloids
-T141	Compound-class 5890 5899	alkaloids
-T142	Compound-class 7520 7529	alkaloids
-T143	Compound-class 22056 22065	alkaloids
-T144	Compound 1382 1393	alstonerine
-T145	Compound 7559 7570	alstonerine
-T146	Compound 14873 14884	alstonerine
-T147	Compound 1404 1414	strictamin
-T148	Compound 7583 7593	strictamin
-T149	Compound 14803 14813	strictamin
-T150	Compound 1424 1434	rauvomitin
-T151	Compound 7605 7615	rauvomitin
-T152	Compound 14842 14852	rauvomitin
-T153	Compound 1448 1455	brucine
-T154	Compound 7631 7638	brucine
-T155	Compound 14920 14927	brucine
-T156	Compound-class 1469 1482	triterpenoids
-T157	Compound-class 2915 2928	triterpenoids
-T158	Compound-class 7707 7720	triterpenoids
-T159	Compound-class 22088 22101	triterpenoids
-T160	Compound 1485 1501	gamma-sitosterol
-T161	Compound 7725 7741	gamma-sitosterol
-T162	Compound 15079 15095	gamma-sitosterol
-T163	Compound 1511 1517	lupeol
-T164	Compound 7753 7759	lupeol
-T165	Compound 15169 15175	lupeol
-T166	Compound 1527 1551	24-methylenecycloartanol
-T167	Compound 7771 7795	24-methylenecycloartanol
-T168	Compound 15208 15232	24-methylenecycloartanol
-T169	Compound 1561 1572	campesterol
-T170	Compound 7807 7818	campesterol
-T171	Compound 15002 15013	campesterol
-T172	Compound 1582 1593	beta-amyrin
-T173	Compound 7830 7841	beta-amyrin
-T174	Compound 15135 15146	beta-amyrin
-T175	Compound 1607 1619	stigmasterol
-T176	Compound 7857 7869	stigmasterol
-T177	Compound 15048 15060	stigmasterol
-T178	Compound 19117 19129	stigmasterol
-T179	Cell-line 1828 1832	HDFn
-T180	Cell-line 6289 6293	HDFn
-T181	Cell-line 11722 11726	HDFn
-T182	Cell-line 11819 11823	HDFn
-T183	Cell-line 16100 16104	HDFn
-T184	Cell-line 16937 16941	HDFn
-T185	Cell-line 21411 21415	HDFn
-T186	Cell-line 21706 21710	HDFn
-T187	Cell-line 25529 25533	HDFn
-T188	Cell-line 26060 26064	HDFn
-T189	Cell-line 28467 28471	HDFn
-T190	Cell-line 33562 33566	HDFn
-T191	Cell-line 1867 1872	THP-1
-T192	Cell-line 6248 6253	THP-1
-T193	Cell-line 11682 11687	THP-1
-T194	Cell-line 12670 12675	THP-1
-T195	Cell-line 15657 15662	THP-1
-T196	Cell-line 16931 16936	THP-1
-T197	Cell-line 21339 21344	THP-1
-T198	Cell-line 21696 21701	THP-1
+T8	Species 989 1009	Alstonia macrophylla
+T9	Species 1201 1221	Alstonia macrophylla
+T10	Species 1621 1641	Alstonia macrophylla
+T11	Species 2008 2028	Alstonia macrophylla
+T12	Species 2551 2571	Alstonia macrophylla
+T13	Species 2740 2760	Alstonia macrophylla
+T14	Species 3254 3274	Alstonia macrophylla
+T15	Species 3276 3296	Alstonia macrophylla
+T16	Species 3730 3750	Alstonia macrophylla
+T17	Species 4031 4051	Alstonia macrophylla
+T18	Species 4786 4806	Alstonia macrophylla
+T19	Species 4964 4984	Alstonia macrophylla
+T20	Species 5019 5039	Alstonia macrophylla
+T21	Species 5164 5184	Alstonia macrophylla
+T22	Species 5833 5853	Alstonia macrophylla
+T23	Species 5990 6010	Alstonia macrophylla
+T24	Species 6318 6338	Alstonia macrophylla
+T25	Species 6649 6669	Alstonia macrophylla
+T26	Species 6728 6748	Alstonia macrophylla
+T27	Species 6791 6811	Alstonia macrophylla
+T28	Species 6888 6908	Alstonia macrophylla
+T29	Species 7448 7468	Alstonia macrophylla
+T30	Species 7914 7934	Alstonia macrophylla
+T31	Species 8060 8080	Alstonia macrophylla
+T32	Species 10229 10249	Alstonia macrophylla
+T33	Species 10252 10272	Alstonia macrophylla
+T34	Species 10496 10516	Alstonia macrophylla
+T35	Species 10931 10951	Alstonia macrophylla
+T36	Species 11043 11063	Alstonia macrophylla
+T37	Species 11760 11780	Alstonia macrophylla
+T38	Species 12278 12298	Alstonia macrophylla
+T39	Species 12475 12495	Alstonia macrophylla
+T40	Species 13209 13229	Alstonia macrophylla
+T41	Species 13351 13371	Alstonia macrophylla
+T42	Species 13556 13576	Alstonia macrophylla
+T43	Species 13641 13661	Alstonia macrophylla
+T44	Species 13902 13922	Alstonia macrophylla
+T45	Species 14164 14184	Alstonia macrophylla
+T46	Species 14313 14333	Alstonia macrophylla
+T47	Species 14407 14427	Alstonia macrophylla
+T48	Species 15399 15419	Alstonia macrophylla
+T49	Species 15887 15907	Alstonia macrophylla
+T50	Species 16013 16033	Alstonia macrophylla
+T51	Species 16182 16202	Alstonia macrophylla
+T52	Species 17325 17345	Alstonia macrophylla
+T53	Species 17456 17476	Alstonia macrophylla
+T54	Species 18158 18178	Alstonia macrophylla
+T55	Species 18276 18296	Alstonia macrophylla
+T56	Species 18550 18570	Alstonia macrophylla
+T57	Species 18739 18759	Alstonia macrophylla
+T58	Species 18813 18833	Alstonia macrophylla
+T59	Species 20089 20109	Alstonia macrophylla
+T60	Species 20196 20216	Alstonia macrophylla
+T61	Species 20628 20648	Alstonia macrophylla
+T62	Species 21608 21628	Alstonia macrophylla
+T63	Species 21660 21680	Alstonia macrophylla
+T64	Species 21729 21749	Alstonia macrophylla
+T65	Species 22039 22059	Alstonia macrophylla
+T66	Species 22396 22416	Alstonia macrophylla
+T67	Species 22586 22606	Alstonia macrophylla
+T68	Species 22820 22840	Alstonia macrophylla
+T69	Species 24817 24837	Alstonia macrophylla
+T70	Species 24914 24934	Alstonia macrophylla
+T71	Species 25289 25309	Alstonia macrophylla
+T72	Species 25427 25447	Alstonia macrophylla
+T73	Species 25542 25562	Alstonia macrophylla
+T74	Species 26225 26245	Alstonia macrophylla
+T75	Species 26554 26574	Alstonia macrophylla
+T76	Species 26768 26788	Alstonia macrophylla
+T77	Species 27336 27356	Alstonia macrophylla
+T78	Species 28184 28204	Alstonia macrophylla
+T79	Species 28794 28814	Alstonia macrophylla
+T80	Species 29470 29490	Alstonia macrophylla
+T81	Species 29684 29704	Alstonia macrophylla
+T82	Species 30930 30950	Alstonia macrophylla
+T83	Species 31418 31438	Alstonia macrophylla
+T84	Species 31761 31781	Alstonia macrophylla
+T85	Species 32108 32128	Alstonia macrophylla
+T86	Species 32356 32376	Alstonia macrophylla
+T87	Species 33155 33175	Alstonia macrophylla
+T88	Species 33176 33196	Alstonia macrophylla
+T89	Plant-part 78 82	Bark
+T90	Location 358 369	Taft Avenue
+T91	Location 371 377	Manila
+T92	Location 384 395	Philippines
+T93	Location 2376 2387	Philippines
+T94	Location 22884 22895	Philippines
+T95	Location 449 454	Osaka
+T96	Location 492 497	Osaka
+T97	Location 33103 33108	Osaka
+T98	Location 482 490	Toyonaka
+T99	Location 508 513	Japan
+T100	Plant-part 595 599	bark
+T101	Plant-part 878 882	bark
+T102	Plant-part 1222 1226	bark
+T103	Plant-part 2912 2916	bark
+T104	Plant-part 3246 3250	bark
+T105	Plant-part 3624 3628	bark
+T106	Plant-part 3706 3710	bark
+T107	Plant-part 4023 4027	bark
+T108	Plant-part 6063 6067	bark
+T109	Plant-part 6749 6753	bark
+T110	Plant-part 9004 9008	bark
+T111	Plant-part 17282 17286	bark
+T112	Plant-part 17351 17355	bark
+T113	Plant-part 18571 18575	bark
+T114	Plant-part 18760 18764	bark
+T115	Plant-part 20110 20114	bark
+T116	Plant-part 22417 22421	bark
+T117	Plant-part 22607 22611	bark
+T118	Plant-part 23003 23007	bark
+T119	Plant-part 26575 26579	bark
+T120	Plant-part 33197 33201	bark
+T121	Compound 1016 1031	dichloromethane
+T122	Compound 23081 23096	dichloromethane
+T123	Compound 28145 28160	dichloromethane
+T124	Compound 33206 33221	dichloromethane
+T125	Compound 1080 1102	unsaturated fatty acid
+T126	Compound 1114 1131	fatty acid esters
+T127	Compound 7291 7308	fatty acid esters
+T128	Compound 1146 1159	hexadecanoate
+T129	Compound 1171 1184	hexadecanoate
+T130	Compound 1233 1241	methanol
+T131	Compound 4829 4837	methanol
+T132	Compound 27302 27310	methanol
+T133	Compound 27406 27414	methanol
+T134	Compound 27486 27494	methanol
+T135	Compound 31461 31469	methanol
+T136	Compound 33672 33680	methanol
+T137	Compound 1246 1264	dimethyl sulfoxide
+T138	Compound-class 1349 1358	alkaloids
+T139	Compound-class 5117 5126	alkaloids
+T140	Compound-class 5521 5530	alkaloids
+T141	Compound-class 5872 5881	alkaloids
+T142	Compound-class 7505 7514	alkaloids
+T143	Compound-class 22090 22099	alkaloids
+T144	Compound 1360 1371	alstonerine
+T145	Compound 7539 7550	alstonerine
+T146	Compound 14880 14891	alstonerine
+T147	Compound 1381 1391	strictamin
+T148	Compound 7561 7571	strictamin
+T149	Compound 14808 14818	strictamin
+T150	Compound 1400 1410	rauvomitin
+T151	Compound 7581 7591	rauvomitin
+T152	Compound 14844 14854	rauvomitin
+T153	Compound 1423 1430	brucine
+T154	Compound 7605 7612	brucine
+T155	Compound 14918 14925	brucine
+T156	Compound-class 1443 1456	triterpenoids
+T157	Compound-class 2892 2905	triterpenoids
+T158	Compound-class 7681 7694	triterpenoids
+T159	Compound-class 22104 22117	triterpenoids
+T160	Compound 1458 1474	gamma-sitosterol
+T161	Compound 7696 7712	gamma-sitosterol
+T162	Compound 15071 15087	gamma-sitosterol
+T163	Compound 1483 1489	lupeol
+T164	Compound 7722 7728	lupeol
+T165	Compound 15158 15164	lupeol
+T166	Compound 1498 1522	24-methylenecycloartanol
+T167	Compound 7738 7762	24-methylenecycloartanol
+T168	Compound 15194 15218	24-methylenecycloartanol
+T169	Compound 1531 1542	campesterol
+T170	Compound 7772 7783	campesterol
+T171	Compound 14988 14999	campesterol
+T172	Compound 1551 1562	beta-amyrin
+T173	Compound 7793 7804	beta-amyrin
+T174	Compound 15117 15128	beta-amyrin
+T175	Compound 1575 1587	stigmasterol
+T176	Compound 7818 7830	stigmasterol
+T177	Compound 15029 15041	stigmasterol
+T178	Compound 19111 19123	stigmasterol
+T179	Cell-line 1797 1801	HDFn
+T180	Cell-line 6255 6259	HDFn
+T181	Cell-line 11699 11703	HDFn
+T182	Cell-line 11796 11800	HDFn
+T183	Cell-line 16079 16083	HDFn
+T184	Cell-line 16920 16924	HDFn
+T185	Cell-line 21405 21409	HDFn
+T186	Cell-line 21702 21706	HDFn
+T187	Cell-line 25537 25541	HDFn
+T188	Cell-line 26068 26072	HDFn
+T189	Cell-line 28489 28493	HDFn
+T190	Cell-line 33603 33607	HDFn
+T191	Cell-line 1835 1840	THP-1
+T192	Cell-line 6213 6218	THP-1
+T193	Cell-line 11657 11662	THP-1
+T194	Cell-line 12644 12649	THP-1
+T195	Cell-line 15630 15635	THP-1
+T196	Cell-line 16909 16914	THP-1
+T197	Cell-line 21327 21332	THP-1
+T198	Cell-line 21685 21690	THP-1
 T199	Cell-line 25531 25536	THP-1
-T200	Cell-line 26034 26039	THP-1
-T201	Cell-line 28403 28408	THP-1
-T202	Cell-line 29329 29334	THP-1
-T203	Cell-line 33526 33531	THP-1
-T204	Cell-line 1934 1939	MCF-7
-T205	Cell-line 6242 6247	MCF-7
-T206	Cell-line 11000 11005	MCF-7
-T207	Cell-line 12568 12573	MCF-7
-T208	Cell-line 12930 12935	MCF-7
-T209	Cell-line 13284 13289	MCF-7
-T210	Cell-line 16916 16921	MCF-7
-T211	Cell-line 17862 17867	MCF-7
-T212	Cell-line 20311 20316	MCF-7
-T213	Cell-line 21097 21102	MCF-7
-T214	Cell-line 21593 21598	MCF-7
-T215	Cell-line 25521 25526	MCF-7
-T216	Cell-line 25936 25941	MCF-7
-T217	Cell-line 28317 28322	MCF-7
-T218	Cell-line 33401 33406	MCF-7
-T219	Cell-line 1961 1966	H69PR
-T220	Cell-line 6236 6241	H69PR
-T221	Cell-line 11010 11015	H69PR
-T222	Cell-line 12659 12664	H69PR
-T223	Cell-line 12948 12953	H69PR
-T224	Cell-line 13649 13654	H69PR
-T225	Cell-line 16930 16935	H69PR
-T226	Cell-line 20327 20332	H69PR
-T227	Cell-line 21200 21205	H69PR
-T228	Cell-line 25539 25544	H69PR
-T229	Cell-line 25985 25990	H69PR
-T230	Cell-line 28387 28392	H69PR
-T231	Cell-line 33508 33513	H69PR
-T232	Cell-line 1992 1997	HT-29
-T233	Cell-line 6230 6235	HT-29
-T234	Cell-line 11020 11025	HT-29
-T235	Cell-line 12670 12675	HT-29
-T236	Cell-line 14190 14195	HT-29
-T237	Cell-line 14257 14262	HT-29
-T238	Cell-line 15512 15517	HT-29
-T239	Cell-line 20346 20351	HT-29
-T240	Cell-line 21286 21291	HT-29
-T241	Cell-line 25555 25560	HT-29
-T242	Cell-line 26032 26037	HT-29
-T243	Cell-line 33472 33477	HT-29
-T244	Species 2116 2135	Naja philippinensis
-T245	Species 18255 18274	Naja philippinensis
-T246	Species 19522 19541	Naja philippinensis
-T247	Species 31049 31068	Naja philippinensis
-T248	Species 33710 33729	Naja philippinensis
-T249	Location 2319 2333	Southeast Asia
-T250	Family2531 2542	Apocynaceae
-T251	Family8942 8953	Apocynaceae
-T252	Species 2628 2646	Alstonia scholaris
-T253	Species 2803 2821	Alstonia scholaris
-T254	Species 2963 2981	Alstonia scholaris
-T255	Species 3087 3105	Alstonia scholaris
-T256	Species 4805 4823	Alstonia scholaris
-T257	Species 5853 5871	Alstonia scholaris
-T258	Species 19628 19646	Alstonia scholaris
-T259	Compound 2849 2863	echitovenidine
-T260	Compound 2866 2876	echitamine
-T261	Compound 2879 2889	venenatine
-T262	Compound-class 2895 2910	indole alkaloid
-T263	Biological-activity 2918 2935	anti-inflammatory
-T264	Biological-activity 3074 3084	antifungal
-T265	Preparation 3274 3282	powdered
-T266	Preparation 3664 3672	powdered
-T267	Preparation 9809 9817	powdered
-T268	Preparation 23123 23131	powdered
-T269	Preparation 26992 27000	powdered
-T270	Common-plant-name 3364 3377	hard milkwood
-T271	Common-plant-name 3382 3388	batino
-T272	Compound 3603 3616	acetylcholine
-T273	Illness 3626 3631	wound
-T274	Preparation 3647 3652	mixed
-T275	Preparation 3814 3819	mixed
-T276	Preparation 3769 3776	crushed
-T277	Plant-part 3778 3784	leaves
-T278	Plant-part 4065 4071	leaves
-T279	Plant-part 4867 4873	leaves
-T280	Plant-part 9828 9834	leaves
-T281	Plant-part 10175 10181	leaves
-T282	Plant-part 3954 3972	aerial Species parts
-T283	Preparation 4045 4050	Mixed
-T284	Location 4133 4150	Republic of India
-T285	Preparation 4880 4889	extracted
-T286	Preparation 19204 19213	extracted
-T287	Biological-activity 4926 4939	antimicrobial
-T288	Compound-class 5118 5134	steroid alcohols
-T289	Compound-class 5137 5148	isoprenoids
-T290	Compound 5218 5233	monosaccharides
-T291	Compound 5282 5297	beta-sitosterol
-T292	Compound 19174 19189	beta-sitosterol
-T293	Compound-class 5302 5313	phytosterol
-T294	Plant-part 5444 5456	aerial parts
-T295	Plant-part 5550 5554	leaf
-T296	Plant-part 10596 10600	leaf
-T297	Plant-part 26878 26882	leaf
-T298	Compound 5608 5619	alstomaline
-T299	Compound 5647 5659	alstohentine
-T300	Compound 5662 5673	alstomicine
-T301	Compound 5676 5697	16-hydroxyalstonisine
-T302	Compound 5719 5753	16-hydroxy-N4-demethylalstophyllal
-T303	Compound 5765 5777	alstophyllal
-T304	Compound 5780 5798	6-oxoalstophylline
-T305	Compound 5805 5822	6-oxoalstophyllal
-T306	Compound-class 6013 6021	alkaloid
-T307	Compound-class 10735 10743	alkaloid
-T308	Compound-class 14930 14938	alkaloid
-T309	Compound-class 14967 14975	alkaloid
-T310	Compound-class 15006 15014	alkaloid
-T311	Compound-class 15040 15048	alkaloid
-T312	Compound-class 15077 15085	alkaloid
-T313	Compound-class 19032 19040	alkaloid
-T314	Biological-activity 6190 6201	antioxidant
-T315	Biological-activity 10793 10804	antioxidant
-T316	Biological-activity 20250 20261	antioxidant
-T317	Biological-activity 26838 26849	antioxidant
-T318	Biological-activity 6269 6278	cytotoxic
-T319	Biological-activity 12346 12355	cytotoxic
-T320	Biological-activity 12607 12616	cytotoxic
-T321	Biological-activity 13759 13768	cytotoxic
-T322	Biological-activity 16919 16928	cytotoxic
-T323	Biological-activity 28873 28882	cytotoxic
-T324	Biological-activity 30034 30043	cytotoxic
-T325	Biological-activity 6382 6391	antivenom
-T326	Biological-activity 19613 19622	antivenom
-T327	Biological-activity 22770 22779	antivenom
-T328	Compound 7368 7378	fatty acid
-T329	Compound 7404 7422	heptadecanoic acid
-T330	Compound 11565 11583	heptadecanoic acid
-T331	Compound 7434 7463	hexadecanoic acid ethyl ester
-T332	Compound 11513 11542	hexadecanoic acid ethyl ester
-T333	Compound 7479 7510	hexadecanonic acid methyl ester
-T334	Compound 11459 11490	hexadecanonic acid methyl ester
-T335	Preparation 7767 7774	extract
-T336	Preparation 11015 11022	extract
-T337	Preparation 14411 14418	extract
-T338	Preparation 23321 23328	extract
-T339	Preparation 27285 27292	extract
-T340	Preparation 27513 27520	extract
-T341	Illness 8778 8790	hypertension
-T342	Preparation 9111 9117	powder
-T343	Species 9130 9147	Grewia lasiocarpa
-T344	Compound 9591 9597	iodine
-T345	Plant-part 9873 9878	stems
-T346	Plant-part 9885 9890	roots
-T347	Plant-part 10140 10145	roots
-T348	Plant-part 17437 17442	roots
-T349	Plant-part 4080 4084	stem
-T350	Plant-part 6145 6149	stem
-T351	Plant-part 10268 10272	stem
-T352	Compound 10644 10658	betasitosterol
-T353	Compound 10661 10673	ursolic acid
-T354	Compound 10680 10712	beta-sitosteryl-beta-D-glucoside
-T355	Compound 10771 10782	fatty acids
-T356	Compound 10908 10918	superoxide
-T357	Compound 19378 19388	superoxide
-T358	Compound 11229 11238	2-ethenyl
-T359	Compound 11273 11288	3-ethylpyridine
-T360	Compound 11330 11343	nonanoic acid
-T361	Compound 11361 11394	carboxylic acid cyclohexylbenzene
-T362	Compound 11628 11643	carboxylic acid
-T363	Location 11971 11977	Zeocin
-T364	Location 12428 12434	Zeocin
-T365	Location 13167 13173	Zeocin
-T366	Location 13366 13372	Zeocin
-T367	Location 13545 13551	Zeocin
-T368	Location 13710 13716	Zeocin
-T369	Location 13830 13836	Zeocin
-T370	Location 14097 14103	Zeocin
-T371	Location 14320 14326	Zeocin
-T372	Location 15640 15646	Zeocin
-T373	Location 16085 16091	Zeocin
-T374	Location 16873 16879	Zeocin
-T375	Location 16938 16944	Zeocin
-T376	Location 20578 20584	Zeocin
-T377	Location 20802 20808	Zeocin
-T378	Location 22027 22033	Zeocin
-T379	Location 25613 25619	Zeocin
-T380	Location 25742 25748	Zeocin
-T381	Location 29913 29919	Zeocin
-T382	Location 29991 29997	Zeocin
-T383	Compound 14671 14712	trihydroxybenzene 2-methoxy-4-vinylphenol
-T384	Compound-class 14730 14741	diterpenoid
-T385	Compound 15103 15114	burnamicine
-T386	Compound-class 15171 15183	triterpenoid
-T387	Compound-class 15214 15226	triterpenoid
-T388	Compound-class 15261 15273	triterpenoid
-T389	Compound-class 15303 15315	triterpenoid
-T390	Compound-class 15340 15352	triterpenoid
-T391	Compound-class 15396 15408	triterpenoid
-T392	Cell-line 17070 17074	HT29
-T393	Cell-line 28517 28521	HT29
-T394	Compound 17362 17378	sulforhodamine B
-T395	Cell-line 17712 17719	COR-L23
-T396	Cell-line 18282 18289	COR-L23
-T397	Compound 17768 17789	O-Acetylmacralstonine
-T398	Compound 17792 17805	villalstonine
-T399	Compound 18194 18207	villalstonine
-T400	Compound 17812 17826	macrocarpamine
-T401	Cell-line 17985 17991	Caki-2
-T402	Body-part 17994 18000	kidney
-T403	Body-part 18019 18025	breast
-T404	Body-part 22529 22535	breast
-T405	Body-part 28489 28495	breast
-T406	Body-part 33609 33615	breast
-T407	Cell-line 18040 18046	LS174T
-T408	Plant-part 18144 18148	root
-T409	Compound 18167 18187	Omethylmacralstonine
-T410	Compound 18190 18200	talcarpine
-T411	Compound 18219 18233	pleiocarpamine
-T412	Compound 18240 18253	macraistonine
-T413	Family19140 19150	Solanaceae
-T414	Compound 19160 19168	atropine
-T415	Species 19209 19224	Daboia russelli
-T416	Species 19366 19380	Pluchea indica
-T417	Compound 19487 19493	Lupeol
-T418	Species 19583 19597	Bothrops venom
-T419	Species 19853 19868	Vipera russelli
-T420	Compound 19915 19922	alanine
-T421	Compound 19938 19947	aspartate
-T422	Compound 19967 19977	creatinine
-T423	Preparation 20084 20093	decoction
-T424	Biological-activity 20806 20815	Cytotoxic
-T425	Biological-activity 24996 25005	Cytotoxic
-T426	Biological-activity 25592 25601	Cytotoxic
-T427	Location 21030 21033	USA
-T428	Location 28506 28509	USA
-T429	Location 28742 28745	USA
-T430	Location 28911 28914	USA
-T431	Location 30016 30019	USA
-T432	Plant-part 23056 23062	trunks
-T433	Location 23081 23090	Mariveles
-T434	Location 23093 23099	Bataan
-T435	Preparation 23231 23237	ground
-T436	Preparation 23348 23356	filtered
-T437	Preparation 27328 27336	filtered
-T438	Preparation 23445 23453	Powdered
-T439	Compound 23807 23813	phenyl
-T440	Preparation 25666 25673	Extract
-T441	Location 28496 28504	Manassas
-T442	Location 28507 28515	Virginia
-T443	Compound 29225 29234	resazurin
-T444	Compound 31583 31594	polystyrene
-T445	Compound 31611 31621	microplate
-T446	Compound 32191 32201	Microplate
-T447	Compound 32413 32423	100control
-T448	Compound 32450 32458	Xcontrol
-T449	Compound 33449 33466	dimethylsulfoxide
-T450	Species 33744 33756	Homo sapiens
+T200	Cell-line 26033 26038	THP-1
+T201	Cell-line 28415 28420	THP-1
+T202	Cell-line 29344 29349	THP-1
+T203	Cell-line 33556 33561	THP-1
+T204	Cell-line 1901 1906	MCF-7
+T205	Cell-line 6206 6211	MCF-7
+T206	Cell-line 10972 10977	MCF-7
+T207	Cell-line 12539 12544	MCF-7
+T208	Cell-line 12901 12906	MCF-7
+T209	Cell-line 13258 13263	MCF-7
+T210	Cell-line 16889 16894	MCF-7
+T211	Cell-line 17835 17840	MCF-7
+T212	Cell-line 20291 20296	MCF-7
+T213	Cell-line 21079 21084	MCF-7
+T214	Cell-line 21577 21582	MCF-7
+T215	Cell-line 25513 25518	MCF-7
+T216	Cell-line 25926 25931	MCF-7
+T217	Cell-line 28319 28324	MCF-7
+T218	Cell-line 33419 33424	MCF-7
+T219	Cell-line 1927 1932	H69PR
+T220	Cell-line 6199 6204	H69PR
+T221	Cell-line 10979 10984	H69PR
+T222	Cell-line 12626 12631	H69PR
+T223	Cell-line 12914 12919	H69PR
+T224	Cell-line 13619 13624	H69PR
+T225	Cell-line 16896 16901	H69PR
+T226	Cell-line 20298 20303	H69PR
+T227	Cell-line 21172 21177	H69PR
+T228	Cell-line 25519 25524	H69PR
+T229	Cell-line 25962 25967	H69PR
+T230	Cell-line 28375 28380	H69PR
+T231	Cell-line 33511 33516	H69PR
+T232	Cell-line 1957 1962	HT-29
+T233	Cell-line 6192 6197	HT-29
+T234	Cell-line 10986 10991	HT-29
+T235	Cell-line 12633 12638	HT-29
+T236	Cell-line 14155 14160	HT-29
+T237	Cell-line 14222 14227	HT-29
+T238	Cell-line 15467 15472	HT-29
+T239	Cell-line 20309 20314	HT-29
+T240	Cell-line 21249 21254	HT-29
+T241	Cell-line 25525 25530	HT-29
+T242	Cell-line 25998 26003	HT-29
+T243	Cell-line 33463 33468	HT-29
+T244	Species 2080 2099	Naja philippinensis
+T245	Species 18208 18227	Naja philippinensis
+T246	Species 19480 19499	Naja philippinensis
+T247	Species 31025 31044	Naja philippinensis
+T248	Species 33685 33704	Naja philippinensis
+T249	Location 2283 2297	Southeast Asia
+T250	Family 2494 2505	Apocynaceae
+T251	Family 8896 8907	Apocynaceae
+T252	Species 2590 2608	Alstonia scholaris
+T253	Species 2765 2783	Alstonia scholaris
+T254	Species 2924 2942	Alstonia scholaris
+T255	Species 3049 3067	Alstonia scholaris
+T256	Species 4766 4784	Alstonia scholaris
+T257	Species 5813 5831	Alstonia scholaris
+T258	Species 19582 19600	Alstonia scholaris
+T259	Compound 2809 2823	echitovenidine
+T260	Compound 2825 2835	echitamine
+T261	Compound 2837 2847	venenatine
+T262	Compound-class 2852 2867	indole alkaloid
+T263	Biological-activity 2874 2891	anti-inflammatory
+T264	Biological-activity 3027 3037	antifungal
+T265	Preparation 3227 3235	powdered
+T266	Preparation 3615 3623	powdered
+T267	Preparation 9753 9761	powdered
+T268	Preparation 23052 23060	powdered
+T269	Preparation 26933 26941	powdered
+T270	Common-plant-name 3313 3326	hard milkwood
+T271	Common-plant-name 3330 3336	batino
+T272	Compound 3550 3563	acetylcholine
+T273	Illness 3572 3577	wound
+T274	Preparation 3593 3598	mixed
+T275	Preparation 3757 3762	mixed
+T276	Preparation 3712 3719	crushed
+T277	Plant-part 3720 3726	leaves
+T278	Plant-part 4007 4013	leaves
+T279	Plant-part 4807 4813	leaves
+T280	Plant-part 9762 9768	leaves
+T281	Plant-part 10111 10117	leaves
+T282	Plant-part 3894 3912	aerial Species parts
+T283	Preparation 3985 3990	Mixed
+T284	Location 4069 4086	Republic of India
+T285	Preparation 4814 4823	extracted
+T286	Preparation 19125 19134	extracted
+T287	Biological-activity 4858 4871	antimicrobial
+T288	Compound-class 5049 5065	steroid alcohols
+T289	Compound-class 5067 5078	isoprenoids
+T290	Compound 5146 5161	monosaccharides
+T291	Compound 5209 5224	beta-sitosterol
+T292	Compound 19091 19106	beta-sitosterol
+T293	Compound-class 5228 5239	phytosterol
+T294	Plant-part 5370 5382	aerial parts
+T295	Plant-part 5476 5480	leaf
+T296	Plant-part 10517 10521	leaf
+T297	Plant-part 26789 26793	leaf
+T298	Compound 5532 5543	alstomaline
+T299	Compound 5570 5582	alstohentine
+T300	Compound 5584 5595	alstomicine
+T301	Compound 5597 5618	16-hydroxyalstonisine
+T302	Compound 5639 5673	16-hydroxy-N4-demethylalstophyllal
+T303	Compound 5684 5696	alstophyllal
+T304	Compound 5698 5716	6-oxoalstophylline
+T305	Compound 5722 5739	6-oxoalstophyllal
+T306	Compound-class 5928 5936	alkaloid
+T307	Compound-class 10646 10654	alkaloid
+T308	Compound-class 14835 14843	alkaloid
+T309	Compound-class 14871 14879	alkaloid
+T310	Compound-class 14909 14917	alkaloid
+T311	Compound-class 14942 14950	alkaloid
+T312	Compound-class 14979 14987	alkaloid
+T313	Compound-class 18935 18943	alkaloid
+T314	Biological-activity 6103 6114	antioxidant
+T315	Biological-activity 10702 10713	antioxidant
+T316	Biological-activity 20144 20155	antioxidant
+T317	Biological-activity 26732 26743	antioxidant
+T318	Biological-activity 6181 6190	cytotoxic
+T319	Biological-activity 12254 12263	cytotoxic
+T320	Biological-activity 12513 12522	cytotoxic
+T321	Biological-activity 13662 13671	cytotoxic
+T322	Biological-activity 16812 16821	cytotoxic
+T323	Biological-activity 28766 28775	cytotoxic
+T324	Biological-activity 29931 29940	cytotoxic
+T325	Biological-activity 6288 6297	antivenom
+T326	Biological-activity 19500 19509	antivenom
+T327	Biological-activity 22643 22652	antivenom
+T328	Compound 7276 7286	fatty acid
+T329	Compound 7310 7328	heptadecanoic acid
+T330	Compound 11468 11486	heptadecanoic acid
+T331	Compound 7339 7368	hexadecanoic acid ethyl ester
+T332	Compound 11415 11444	hexadecanoic acid ethyl ester
+T333	Compound 7383 7414	hexadecanonic acid methyl ester
+T334	Compound 11360 11391	hexadecanonic acid methyl ester
+T335	Preparation 7668 7675	extract
+T336	Preparation 10920 10927	extract
+T337	Preparation 14302 14309	extract
+T338	Preparation 23184 23191	extract
+T339	Preparation 27159 27166	extract
+T340	Preparation 27387 27394	extract
+T341	Illness 8676 8688	hypertension
+T342	Preparation 9009 9015	powder
+T343	Species 9027 9044	Grewia lasiocarpa
+T344	Compound 9490 9496	iodine
+T345	Plant-part 9770 9775	stems
+T346	Plant-part 9781 9786	roots
+T347	Plant-part 10038 10043	roots
+T348	Plant-part 17308 17313	roots
+T349	Plant-part 4018 4022	stem
+T350	Plant-part 6058 6062	stem
+T351	Plant-part 10163 10167	stem
+T352	Compound 10536 10550	betasitosterol
+T353	Compound 10552 10564	ursolic acid
+T354	Compound 10570 10602	beta-sitosteryl-beta-D-glucoside
+T355	Compound 10659 10670	fatty acids
+T356	Compound 10794 10804	superoxide
+T357	Compound 19238 19248	superoxide
+T358	Compound 11112 11121	2-ethenyl
+T359	Compound 11155 11170	3-ethylpyridine
+T360	Compound 11211 11224	nonanoic acid
+T361	Compound 11241 11274	carboxylic acid cyclohexylbenzene
+T362	Compound 11504 11519	carboxylic acid
+T363	Location 11846 11852	Zeocin
+T364	Location 12303 12309	Zeocin
+T365	Location 13037 13043	Zeocin
+T366	Location 13237 13243	Zeocin
+T367	Location 13415 13421	Zeocin
+T368	Location 13581 13587	Zeocin
+T369	Location 13699 13705	Zeocin
+T370	Location 13966 13972	Zeocin
+T371	Location 14189 14195	Zeocin
+T372	Location 15492 15498	Zeocin
+T373	Location 15939 15945	Zeocin
+T374	Location 16729 16735	Zeocin
+T375	Location 16796 16802	Zeocin
+T376	Location 20426 20432	Zeocin
+T377	Location 20650 20656	Zeocin
+T378	Location 21870 21876	Zeocin
+T379	Location 25466 25472	Zeocin
+T380	Location 25589 25595	Zeocin
+T381	Location 29765 29771	Zeocin
+T382	Location 29844 29850	Zeocin
+T383	Compound 14529 14570	trihydroxybenzene 2-methoxy-4-vinylphenol
+T384	Compound-class 14587 14598	diterpenoid
+T385	Compound 14951 14962	burnamicine
+T386	Compound-class 15016 15028	triterpenoid
+T387	Compound-class 15058 15070	triterpenoid
+T388	Compound-class 15104 15116	triterpenoid
+T389	Compound-class 15145 15157	triterpenoid
+T390	Compound-class 15181 15193	triterpenoid
+T391	Compound-class 15236 15248	triterpenoid
+T392	Cell-line 16903 16907	HT29
+T393	Cell-line 28341 28345	HT29
+T394	Compound 17196 17212	sulforhodamine B
+T395	Cell-line 17541 17548	COR-L23
+T396	Cell-line 18111 18118	COR-L23
+T397	Compound 17597 17618	O-Acetylmacralstonine
+T398	Compound 17620 17633	villalstonine
+T399	Compound 18021 18034	villalstonine
+T400	Compound 17639 17653	macrocarpamine
+T401	Cell-line 17811 17817	Caki-2
+T402	Body-part 17819 17825	kidney
+T403	Body-part 17842 17848	breast
+T404	Body-part 22335 22341	breast
+T405	Body-part 28304 28310	breast
+T406	Body-part 33431 33437	breast
+T407	Cell-line 17862 17868	LS174T
+T408	Plant-part 17965 17969	root
+T409	Compound 17987 18007	Omethylmacralstonine
+T410	Compound 18009 18019	talcarpine
+T411	Compound 18036 18050	pleiocarpamine
+T412	Compound 18056 18069	macraistonine
+T413	Family 18957 18967	Solanaceae
+T414	Compound 18976 18984	atropine
+T415	Species 19024 19039	Daboia russelli
+T416	Species 19178 19192	Pluchea indica
+T417	Compound 19298 19304	Lupeol
+T418	Species 19393 19407	Bothrops venom
+T419	Species 19662 19677	Vipera russelli
+T420	Compound 19723 19730	alanine
+T421	Compound 19745 19754	aspartate
+T422	Compound 19773 19783	creatinine
+T423	Preparation 19890 19899	decoction
+T424	Biological-activity 20604 20613	Cytotoxic
+T425	Biological-activity 24793 24802	Cytotoxic
+T426	Biological-activity 25392 25401	Cytotoxic
+T427	Location 20826 20829	USA
+T428	Location 28299 28302	USA
+T429	Location 28529 28532	USA
+T430	Location 28699 28702	USA
+T431	Location 29806 29809	USA
+T432	Plant-part 22841 22847	trunks
+T433	Location 22865 22874	Mariveles
+T434	Location 22876 22882	Bataan
+T435	Preparation 23012 23018	ground
+T436	Preparation 23126 23134	filtered
+T437	Preparation 27112 27120	filtered
+T438	Preparation 23221 23229	Powdered
+T439	Compound 23588 23594	phenyl
+T440	Preparation 25454 25461	Extract
+T441	Location 28279 28287	Manassas
+T442	Location 28289 28297	Virginia
+T443	Compound 28998 29007	resazurin
+T444	Compound 31363 31374	polystyrene
+T445	Compound 31390 31400	microplate
+T446	Compound 31970 31980	Microplate
+T447	Compound 32193 32203	100control
+T448	Compound 32229 32237	Xcontrol
+T449	Compound 33227 33244	dimethylsulfoxide
+T450	Species 33517 33529	Homo sapiens
