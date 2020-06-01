@@ -1,0 +1,131 @@
+T0	Location 663 673	Binan City
+T1	Location 675 681	Laguna
+T2	Location 683 694	Philippines
+T3	Location 767 778	Philippines
+T4	Location 849 860	Philippines
+T5	Location 2018 2029	Philippines
+T6	Location 2267 2278	Philippines
+T7	Location 10358 10369	Philippines
+T8	Location 759 765	Manila
+T9	Location 841 847	Manila
+T10	Location 4156 4162	Manila
+T11	Location 963 966	Sec
+T12	Location 970 976	Taipei
+T13	Location 978 984	Taiwan
+T14	Compound 1132 1147	dichloromethane
+T15	Compound 9373 9388	dichloromethane
+T16	Species 1160 1174	Cycas edentata
+T17	Species 1661 1675	Cycas edentata
+T18	Species 1960 1974	Cycas edentata
+T19	Species 2120 2134	Cycas edentata
+T20	Species 3416 3430	Cycas edentata
+T21	Species 4833 4847	Cycas edentata
+T22	Species 5523 5537	Cycas edentata
+T23	Species 6473 6487	Cycas edentata
+T24	Species 9401 9415	Cycas edentata
+T25	Compound 1230 1261	betasitosteryl fatty acid ester
+T26	Compound 1333 1364	betasitosteryl fatty acid ester
+T27	Compound 3286 3317	betasitosteryl fatty acid ester
+T28	Compound 5998 6029	betasitosteryl fatty acid ester
+T29	Compound 6073 6104	betasitosteryl fatty acid ester
+T30	Compound 6106 6137	betasitosteryl fatty acid ester
+T31	Compound 6852 6883	betasitosteryl fatty acid ester
+T32	Compound 6885 6916	betasitosteryl fatty acid ester
+T33	Compound 7016 7047	betasitosteryl fatty acid ester
+T34	Compound 9797 9828	betasitosteryl fatty acid ester
+T35	Compound 1281 1296	beta-sitosterol
+T36	Compound 1383 1398	beta-sitosterol
+T37	Compound 1753 1768	beta-sitosterol
+T38	Compound 2398 2413	beta-sitosterol
+T39	Compound 2492 2507	beta-sitosterol
+T40	Compound 2924 2939	beta-sitosterol
+T41	Compound 2987 3002	beta-sitosterol
+T42	Compound 3044 3059	beta-sitosterol
+T43	Compound 3213 3228	beta-sitosterol
+T44	Compound 3336 3351	beta-sitosterol
+T45	Compound 6307 6322	beta-sitosterol
+T46	Compound 7105 7120	beta-sitosterol
+T47	Compound 9832 9847	beta-sitosterol
+T48	Compound 9886 9901	beta-sitosterol
+T49	Compound 10009 10024	beta-sitosterol
+T50	Compound 1301 1313	stigmasterol
+T51	Compound 1404 1416	stigmasterol
+T52	Compound 1770 1782	stigmasterol
+T53	Compound 2345 2357	stigmasterol
+T54	Compound 2415 2427	stigmasterol
+T55	Compound 2509 2521	stigmasterol
+T56	Compound 2945 2957	stigmasterol
+T57	Compound 3233 3245	stigmasterol
+T58	Compound 3357 3369	stigmasterol
+T59	Compound 6328 6340	stigmasterol
+T60	Compound 7126 7138	stigmasterol
+T61	Compound 9855 9867	stigmasterol
+T62	Compound 9907 9919	stigmasterol
+T63	Compound 10089 10101	stigmasterol
+T64	Plant-part 1323 1327	bark
+T65	Plant-part 2645 2649	bark
+T66	Plant-part 2827 2831	bark
+T67	Plant-part 3276 3280	bark
+T68	Plant-part 3991 3995	bark
+T69	Plant-part 5515 5519	bark
+T70	Plant-part 9438 9442	bark
+T71	Plant-part 1427 1438	sclerotesta
+T72	Plant-part 2585 2596	sclerotesta
+T73	Plant-part 3083 3094	sclerotesta
+T74	Plant-part 3401 3412	sclerotesta
+T75	Plant-part 4000 4011	sclerotesta
+T76	Plant-part 6458 6469	sclerotesta
+T77	Plant-part 9461 9472	sclerotesta
+T78	Family 1677 1687	Cycadaceae
+T79	Family 1806 1816	Cycadaceae
+T80	Compound 1719 1751	beta-sitosteryl fatty acid ester
+T81	Compound 3161 3193	beta-sitosteryl fatty acid ester
+T82	Location 1988 1997	Indonesia
+T83	Location 1999 2007	Malaysia
+T84	Location 2009 2016	Myanmar
+T85	Location 2031 2039	Thailand
+T86	Location 2044 2051	Vietnam
+T87	Compound 2319 2327	squalene
+T88	Compound 2329 2343	betasitosterol
+T89	Compound 2363 2376	triglycerides
+T90	Compound 2429 2442	triglycerides
+T91	Compound 2523 2536	triglycerides
+T92	Plant-part 2386 2396	sarcotesta
+T93	Compound 2447 2471	phytyl fatty acid esters
+T94	Plant-part 2481 2490	endotesta
+T95	Plant-part 3069 3078	endotesta
+T96	Compound 2542 2575	beta-sitosteryl fatty acid esters
+T97	Compound 2602 2635	beta-sitosteryl fatty acid esters
+T98	Species 2653 2674	Cycas sancti-lasallei
+T99	Species 2700 2715	Cycas lacrimans
+T100	Compound 2724 2737	isopimaran-ol
+T101	Compound 2747 2761	megasporophyll
+T102	Compound 2801 2817	triacylglycerols
+T103	Compound 2833 2849	triacylglycerols
+T104	Compound 2906 2922	triacylglycerols
+T105	Compound 3023 3039	triacylglycerols
+T106	Compound 2851 2861	oleic acid
+T107	Plant-part 2967 2985	petiole and rachis
+T108	Plant-part 3012 3017	roots
+T109	Compound 3917 3925	vanillin
+T110	Species 3978 3990	Cycas edenta
+T111	Plant-part 5496 5500	Bark
+T112	Preparation 5551 5557	ground
+T113	Preparation 6500 6506	ground
+T114	Preparation 5609 5617	filtered
+T115	Preparation 6558 6566	filtered
+T116	Preparation 5678 5685	extract
+T117	Preparation 6627 6634	extract
+T118	Compound 5752 5759	acetone
+T119	Compound 5949 5956	acetone
+T120	Compound 6188 6195	acetone
+T121	Compound 6728 6735	acetone
+T122	Compound 6967 6974	acetone
+T123	Plant-part 6432 6443	Sclerotesta
+T124	Compound 7705 7738	Beta-Sitosteryl Fatty Acid Esters
+T125	Compound 8466 8481	Beta-Sitosterol
+T126	Cell-line 8516 8518	C1
+T127	Cell-line 8953 8955	C1
+T128	Compound 8906 8918	Stigmasterol
+T129	Cell-line 10189 10192	H22
+T130	Compound 10281 10301	Education-Philippine

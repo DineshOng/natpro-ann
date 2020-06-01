@@ -1,0 +1,119 @@
+T0	Location 186 195	USA CODEN
+T1	Species 247 266	Garcinia mangostana
+T2	Species 896 915	Garcinia mangostana
+T3	Species 1144 1163	Garcinia mangostana
+T4	Species 1192 1211	Garcinia mangostana
+T5	Species 1455 1474	Garcinia mangostana
+T6	Species 2144 2163	Garcinia mangostana
+T7	Species 2296 2315	Garcinia mangostana
+T8	Species 2772 2791	Garcinia mangostana
+T9	Species 3635 3654	Garcinia mangostana
+T10	Species 4868 4887	Garcinia mangostana
+T11	Species 7450 7469	Garcinia mangostana
+T12	Compound 319 324	Tabin
+T13	Compound 329 338	Madeleine
+T14	Location 444 455	Taft Avenue
+T15	Location 457 463	Manila
+T16	Location 470 481	Philippines
+T17	Location 609 620	Philippines
+T18	Location 2829 2840	Philippines
+T19	Location 584 594	Binan City
+T20	Location 596 602	Laguna
+T21	Location 723 726	Sec
+T22	Location 730 736	Taipei
+T23	Location 738 744	Taiwan
+T24	Compound 812 820	xanthone
+T25	Plant-part 887 892	fruit
+T26	Plant-part 2287 2292	fruit
+T27	Plant-part 2797 2802	fruit
+T28	Plant-part 2863 2868	fruit
+T29	Plant-part 4859 4864	fruit
+T30	Plant-part 7422 7427	fruit
+T31	Compound 977 988	garcinone D
+T32	Compound 1177 1188	garcinone D
+T33	Compound 2205 2216	garcinone D
+T34	Compound 4916 4927	garcinone D
+T35	Compound 1008 1019	Garcinone D
+T36	Compound 1349 1360	Garcinone D
+T37	Compound 3007 3018	Garcinone D
+T38	Compound 3801 3812	Garcinone D
+T39	Compound 4070 4081	Garcinone D
+T40	Compound 4131 4142	Garcinone D
+T41	Compound 4231 4242	Garcinone D
+T42	Compound 4259 4270	Garcinone D
+T43	Compound 4305 4316	Garcinone D
+T44	Compound 4334 4345	Garcinone D
+T45	Compound 4363 4374	Garcinone D
+T46	Compound 4947 4958	Garcinone D
+T47	Compound 5026 5037	Garcinone D
+T48	Compound 5321 5332	Garcinone D
+T49	Compound 5438 5449	Garcinone D
+T50	Compound 5457 5468	Garcinone D
+T51	Compound 5499 5510	Garcinone D
+T52	Compound 5528 5539	Garcinone D
+T53	Compound 5624 5635	Garcinone D
+T54	Compound 5643 5654	Garcinone D
+T55	Compound 5892 5903	Garcinone D
+T56	Compound 5946 5957	Garcinone D
+T57	Compound 6087 6098	Garcinone D
+T58	Compound 6232 6243	Garcinone D
+T59	Compound 6279 6290	Garcinone D
+T60	Compound 6403 6414	Garcinone D
+T61	Compound 6678 6689	Garcinone D
+T62	Compound 6822 6833	Garcinone D
+T63	Compound 6845 6856	Garcinone D
+T64	Compound 6963 6974	Garcinone D
+T65	Compound 7030 7041	Garcinone D
+T66	Compound 7128 7139	Garcinone D
+T67	Compound 7373 7384	Garcinone D
+T68	Compound 7706 7717	Garcinone D
+T69	Compound 8085 8096	Garcinone D
+T70	Biological-activity 1112 1122	anticancer
+T71	Location 1165 1175	Guttiferae
+T72	Plant-part 1232 1238	fruits
+T73	Common-plant-name 1261 1271	mangosteen
+T74	Biological-activity 1330 1347	anti-inflammatory
+T75	Biological-activity 1365 1375	antifungal
+T76	Biological-activity 1552 1562	antifungal
+T77	Biological-activity 1480 1491	antioxidant
+T78	Biological-activity 1537 1550	antibacterial
+T79	Biological-activity 1568 1577	antiviral
+T80	Compound 1746 1754	gartanin
+T81	Species 1795 1813	Garcinia mangostin
+T82	Compound 1902 1914	stigmasterol
+T83	Compound 2076 2088	stigmasterol
+T84	Compound 1916 1932	triacylglycerols
+T85	Compound 2090 2106	triacylglycerols
+T86	Compound 2112 2125	linoleic acid
+T87	Plant-part 2135 2140	seeds
+T88	Compound 2226 2241	dichloromethane
+T89	Compound 4798 4813	dichloromethane
+T90	Preparation 2242 2249	extract
+T91	Preparation 3793 3800	extract
+T92	Preparation 4814 4821	extract
+T93	Compound 2708 2716	vanillin
+T94	Location 2822 2827	Davao
+T95	Preparation 3659 3665	ground
+T96	Preparation 3721 3729	filtered
+T97	Compound 3913 3920	acetone
+T98	Compound 3969 3976	acetone
+T99	Compound 6694 6701	acetone
+T100	Compound 5152 5161	methylene
+T101	Compound 5292 5301	methylene
+T102	Compound 5417 5426	methylene
+T103	Compound 5972 5981	methylene
+T104	Compound 5177 5183	prenyl
+T105	Compound 5788 5794	prenyl
+T106	Compound 5876 5882	prenyl
+T107	Compound 5996 6002	prenyl
+T108	Cell-line 6892 6897	HT-29
+T109	Cell-line 7078 7084	CEM-SS
+T110	Body-part 7271 7277	breast
+T111	Body-part 7556 7562	breast
+T112	Body-part 7961 7967	breast
+T113	Preparation 7310 7317	express
+T114	Body-part 7544 7549	mouth
+T115	Cell-line 7551 7553	KB
+T116	Cell-line 7606 7614	NCI-H187
+T117	Cell-line 7907 7911	A549
+T118	Cell-line 7986 7991	MCF-7
