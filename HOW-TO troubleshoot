@@ -1,0 +1,9 @@
+OPEN TERMINAL
+
+COPY PASTE THESE 3 COMMANDS IN TERMINAL ONE BY ONE
+
+cd /home/user/Downloads/brat-v1.3_Crunchy_Frog/
+
+mkdir -p data work
+
+chmod 777 data work
