@@ -1,5 +1,0 @@
-OPEN TERMINAL
-
-COPY PASTE THIS COMMAND IN TERMINAL
-
-python /home/user/Downloads/brat-v1.3_Crunchy_Frog/standalone.py
