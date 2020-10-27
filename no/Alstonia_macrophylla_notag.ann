@@ -1,0 +1,59 @@
+T1	Synonym 857 877	Alstonia macrophylla
+T2	PlantPart 878 882	bark
+T3	Synonym 1201 1221	Alstonia macrophylla
+T4	PlantPart 1222 1226	bark
+T5	Compound 1360 1371	alstonerine
+T6	Compound 1381 1391	strictamin
+T7	Compound 1400 1410	rauvomitin
+T8	Compound 1423 1430	brucine
+T9	ChemicalClass 1443 1456	triterpenoids
+T10	Compound 1478 1484	lupeol
+T11	Compound 1493 1517	24-methylenecycloartanol
+T12	Compound 1526 1537	campesterol
+T13	Compound 1546 1557	beta-amyrin
+T14	Compound 1570 1582	stigmasterol
+T15	BioAct 0 11	Antioxidant
+T16	BioAct 13 25	Cytotoxicity
+T17	BioAct 31 43	Antiophidian
+T18	Synonym 57 77	Alstonia macrophylla
+T19	PlantPart 78 82	Bark
+T20	CellLine 1792 1796	HDFn
+T21	CellLine 1830 1835	THP-1
+T22	CellLine 1896 1901	MCF-7
+T23	CellLine 1922 1927	H69PR
+T24	CellLine 1952 1957	HT-29
+T25	Family 2489 2500	Apocynaceae
+T26	Genus 2466 2474	Alstonia
+T27	Synonym 2735 2755	Alstonia macrophylla
+T28	Synonym 2760 2778	Alstonia scholaris
+T29	Compound 2804 2818	echitovenidine
+T30	Compound 2820 2830	echitamine
+T31	Compound 2832 2842	venenatine
+T32	ChemicalClass 2847 2862	indole alkaloid
+T33	BioAct 2869 2886	anti-inflammatory
+T34	ChemicalClass 2887 2900	triterpenoids
+T35	PlantPart 2907 2911	bark
+T36	Synonym 2919 2937	Alstonia scholaris
+T37	BioAct 3022 3032	antifungal
+T38	Synonym 3044 3062	Alstonia scholaris
+T39	Illness 3089 3096	anxiety
+T40	PlantPart 3241 3245	bark
+T41	Synonym 3249 3269	Alstonia macrophylla
+T42	MedicinalPlant 3308 3321	hard milkwood
+T43	MedicinalPlant 3325 3331	batino
+T44	BioAct 3371 3382	antipyretic
+T45	Illness 3443 3452	dysentery
+T46	Illness 3567 3572	wound
+T47	Illness 3498 3517	Alzheimer's disease
+T48	Preparation 3588 3683	mixed with water, the powdered bark can be used as an astringent and for treating skin diseases
+T49	Illness 3670 3683	skin diseases
+T50	PlantPart 3619 3623	bark
+T51	PlantPart 3701 3705	bark
+T52	PlantPart 3715 3721	leaves
+T53	BodyPart 3670 3674	skin
+T54	Synonym 3725 3745	Alstonia macrophylla
+T55	Preparation 3752 3846	mixed with copra oil and warmed, were applied as heated dressings to joint and muscle injuries
+T56	BodyPart 3821 3826	joint
+T57	BodyPart 3831 3837	muscle
+T58	Illness 3831 3846	muscle injuries
+T59	Illness 3821 3846	joint and muscle injuries
