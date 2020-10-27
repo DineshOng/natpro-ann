@@ -1,289 +1,289 @@
-T1	Synonym	145	162	Artocarpus ovatus
-T2	Compound	231	242	Polyprenols
-T3	Location	388	417	Hoyas of the Philippines View
-T4	Location	538	545	Belgium
-T5	Location	894	899	CODEN
-T6	Location	901	904	USA
-T7	Synonym	975	992	Artocarpus ovatus
-T8	Location	1163	1173	Binan City
-T9	Location	1175	1181	Laguna
-T10	Location	1183	1194	Philippines
-T11	Location	1246	1257	Taft Avenue
-T12	Location	1259	1265	Manila
-T13	Location	1273	1284	Philippines
-T14	Compound	1285	1294	3National
-T15	Location	1355	1358	Sec
-T16	Location	1362	1368	Taipei
-T17	Location	1374	1380	Taiwan
-T18	Compound	1415	1430	dichloromethane
-T19	Preparation	1431	1438	extract
-T20	PlantPart	1446	1452	leaves
-T21	Synonym	1456	1473	Artocarpus ovatus
-T22	Compound	1505	1522	3beta-friedelinol
-T23	Compound	1525	1533	squalene
-T24	Compound	1536	1546	polyprenol
-T25	Compound	1549	1565	triacylglycerols
-T26	Compound	1572	1585	chlorophyll a
-T27	Compound	1606	1622	beta-Friedelinol
-T28	Compound	1624	1632	Squalene
-T29	Compound	1634	1645	Polyprenols
-T30	Compound	1647	1663	Triacylglycerols
-T31	Compound	1665	1678	chlorophyll a
-T32	Synonym	1792	1809	Artocarpus ovatus
-T33	Compound	1822	1839	3beta-friedelinol
-T34	Compound	1841	1849	squalene
-T35	Compound	1851	1861	polyprenol
-T36	Compound	1863	1879	triacylglycerols
-T37	Compound	1881	1894	chlorophyll a
-T38	Synonym	1898	1915	Artocarpus ovatus
-T39	Compound	2019	2035	beta-Friedelinol
-T40	Compound	2037	2045	Squalene
-T41	PlantPart	2145	2150	seeds
-T42	Synonym	2222	2239	Artocarpus ovatus
-T43	Location	2391	2401	Artocarpus
-T44	Family	2403	2411	Moraceae
-T45	PlantPart	2441	2446	fruit
-T46	Location	2575	2585	Artocarpus
-T47	Location	2621	2631	Artocarpus
-T48	BioAct	2688	2701	antibacterial
-T49	BioAct	2719	2728	antiviral
-T50	BioAct	2730	2740	antifungal
-T51	Location	2812	2822	Artocarpus
-T52	Illness	2885	2890	fever
-T53	Illness	2903	2911	diabetes
-T54	ChemicalClass	2981	2991	flavonoids
-T55	Compound	3026	3033	jacalin
-T56	Location	3113	3123	Artocarpus
-T57	Location	3137	3148	Philippines
-T58	Compound	3188	3199	friedelinol
-T59	Compound	3201	3209	squalene
-T60	Compound	3211	3226	beta-sitosterol
-T61	Compound	3228	3240	stigmasterol
-T62	Compound	3245	3251	phytol
-T63	PlantPart	3261	3267	leaves
-T64	Synonym	3271	3289	Artocarpus camansi
-T65	PlantPart	3301	3306	stems
-T66	Compound	3315	3325	polyprenol
-T67	Compound	3327	3339	cycloartenol
-T68	Compound	3344	3364	cycloartenol acetate
-T69	PlantPart	3389	3395	leaves
-T70	Synonym	3399	3417	Artocarpus altilis
-T71	Compound	3426	3441	beta-sitosterol
-T72	Compound	3443	3456	triglycerides
-T73	Compound	3458	3466	squalene
-T74	Compound	3468	3478	polyprenol
-T75	Compound	3480	3486	lutein
-T76	Compound	3491	3502	fatty acids
-T77	Synonym	3510	3534	Artocarpus odoratissimus
-T78	Compound	3544	3559	beta-sitosterol
-T79	Compound	3561	3574	triglycerides
-T80	Compound	3579	3590	fatty acids
-T81	PlantPart	3613	3618	fruit
-T82	PlantPart	3623	3628	seeds
-T83	Compound	3634	3662	beta-sitosterol, fatty acids
-T84	PlantPart	3689	3699	fruit rind
-T85	PlantPart	3726	3731	fruit
-T86	Synonym	3735	3759	Artocarpus heterophyllus
-T87	Compound	3769	3782	cycloartenone
-T88	Compound	3784	3796	cycloartenol
-T89	Compound	3830	3838	Squalene
-T90	Compound	3895	3901	lupeol
-T91	Compound	3903	3914	alphaamyrin
-T92	Compound	3916	3927	beta-amyrin
-T93	Compound	3929	3952	lupeol fatty acid ester
-T94	Compound	3954	3983	alpha-amyrin fatty acid ester
-T95	Compound	3985	4012	beta-myrin fatty acid ester
-T96	Compound	4014	4021	betulin
-T97	Compound	4023	4052	3beta,28dihydroxyolean-12-ene
-T98	Compound	4054	4068	oleanolic acid
-T99	Compound	4070	4085	beta-sitosterol
-T100	Compound	4091	4104	chlorophyll a
-T101	PlantPart	4113	4118	twigs
-T102	Synonym	4122	4139	Artocarpus ovatus
-T103	Compound	4298	4315	3beta-friedelinol
-T104	Compound	4318	4326	squalene
-T105	Compound	4329	4339	polyprenol
-T106	Compound	4342	4358	triacylglycerols
-T107	Compound	4365	4378	chlorophyll a
-T108	Compound	4396	4411	dichloromethane
-T109	Preparation	4412	4419	extract
-T110	PlantPart	4427	4433	leaves
-T111	Synonym	4437	4454	Artocarpus ovatus
-T112	Compound	4535	4551	beta-Friedelinol
-T113	Compound	4553	4561	Squalene
-T114	Compound	4563	4574	Polyprenols
-T115	Compound	4576	4592	Triacylglycerols
-T116	Compound	4666	4674	Squalene
-T117	Compound	4682	4693	Polyprenols
-T118	Compound	4695	4711	Triacylglycerols
-T119	Compound	4745	4761	beta-Friedelinol
-T120	Compound	4776	4789	Chlorophyll a
-T121	Compound	4791	4804	chlorophyll a
-T122	Compound	4879	4895	beta-Friedelinol
-T123	Compound	4897	4908	Polyprenols
-T124	Compound	4915	4923	Squalene
-T125	Compound	4932	4943	Polyprenols
-T126	Compound	4976	4992	Triacylglycerols
-T127	Compound	5011	5028	chain fatty acids
-T128	Synonym	5061	5078	Artocarpus ovatus
-T129	PlantPart	5079	5085	leaves
-T130	Compound	5087	5104	3beta-friedelinol
-T131	Compound	5107	5115	squalene
-T132	Compound	5118	5128	polyprenol
-T133	Compound	5131	5147	triacylglycerols
-T134	Compound	5154	5167	chlorophyll a
-T135	Compound	5556	5564	vanillin
-T136	Location	5650	5656	Bataan
-T137	Location	5658	5669	Philippines
-T138	Compound	5688	5696	vanillin
-T139	Synonym	5715	5732	Artocarpus ovatus
-T140	Location	5815	5826	Philippines
-T141	Location	5837	5848	Quezon City
-T142	Compound	6021	6037	beta-Friedelinol
-T143	Preparation	6104	6111	extract
-T144	PlantPart	6121	6127	leaves
-T145	Compound	6207	6214	acetone
-T146	Compound	6218	6233	dichloromethane
-T147	Compound	6498	6511	chlorophyll a
-T148	PlantPart	6751	6757	leaves
-T149	Synonym	6761	6778	Artocarpus ovatus
-T150	Preparation	6794	6800	ground
-T151	Compound	6836	6847	Polyprenols
-T152	Preparation	6863	6871	filtered
-T153	Preparation	6932	6939	extract
-T154	Compound	6943	6956	Chlorophyll a
-T155	Compound	7019	7026	acetone
-T156	Compound	7064	7071	acetone
-T157	Compound	7113	7124	Polyprenols
-T158	Compound	7169	7177	Squalene
-T159	Compound	7232	7239	acetone
-T160	Compound	7281	7294	chlorophyll a
-T161	Compound	7340	7351	Polyprenols
-T162	Compound	7364	7380	Triacylglycerols
-T163	Compound	7382	7395	chlorophyll a
-T164	Compound	7411	7418	acetone
-T165	Compound	7460	7471	Polyprenols
-T166	Compound	7516	7532	beta-Friedelinol
-T167	Compound	7534	7547	Chlorophyll a
-T168	Compound	7598	7605	acetone
-T169	Compound	7647	7663	Triacylglycerols
-T170	Compound	7709	7722	chlorophyll a
-T171	Compound	7787	7804	3beta-Friedelinol
-T172	Compound	7990	8006	beta-Friedelinol
-T173	Compound	8026	8037	Polyprenols
-T174	Compound	8495	8503	Squalene
-T175	Compound	8530	8543	chlorophyll a
-T176	Compound	8564	8580	beta-Friedelinol
-T177	Compound	8610	8626	beta-Friedelinol
-T178	Compound	8657	8673	beta-Friedelinol
-T179	Compound	9027	9037	Polyprenol
-T180	Compound	9064	9080	Triacylglycerols
-T181	Compound	9112	9125	chlorophyll a
-T182	Compound	9141	9154	chlorophyll a
-T183	Compound	9176	9192	beta-Friedelinol
-T184	Compound	9222	9238	beta-Friedelinol
-T185	Compound	9265	9281	beta-Friedelinol
-T186	Compound	9306	9322	beta-Friedelinol
-T187	Compound	9689	9702	Chlorophyll a
-T188	Compound	9727	9738	Polyprenols
-T189	Compound	9794	9807	Chlorophyll a
-T190	Compound	9828	9844	Triacylglycerols
-T191	Compound	9846	9862	beta-Friedelinol
-T192	Compound	9875	9888	Chlorophyll a
-T193	Compound	9924	9935	Polyprenols
-T194	Compound	9955	9966	Polyprenols
-T195	Compound	9986	10002	beta-Friedelinol
-T196	Compound	10021	10029	Squalene
-T197	Compound	10037	10048	Polyprenols
-T198	Compound	10068	10084	Triacylglycerols
-T199	Compound	10103	10111	Squalene
-T200	Compound	10117	10125	Squalene
-T201	Compound	10145	10153	Squalene
-T202	Compound	10159	10167	Squalene
-T203	Compound	10188	10204	Triacylglycerols
-T204	Compound	10223	10239	beta-Friedelinol
-T205	Compound	10270	10283	Chlorophyll a
-T206	Compound	10303	10314	Polyprenols
-T207	Compound	10415	10431	Triacylglycerols
-T208	Compound	10449	10462	chlorophyll a
-T209	Compound	10491	10507	beta-Friedelinol
-T210	Compound	10546	10559	Chlorophyll a
-T211	Compound	10596	10609	Chlorophyll a
-T212	Compound	10638	10651	Chlorophyll a
-T213	Compound	10664	10680	Triacylglycerols
-T214	Compound	10707	10723	Triacylglycerols
-T215	Compound	10733	10749	Triacylglycerols
-T216	Compound	10751	10759	Squalene
-T217	Compound	10764	10780	Triacylglycerols
-T218	Compound	10782	10790	glyceryl
-T219	Compound	10798	10814	Triacylglycerols
-T220	Compound	10824	10837	Chlorophyll a
-T221	Compound	10845	10861	Triacylglycerols
-T222	Compound	10863	10871	glyceryl
-T223	Compound	10879	10892	chlorophyll a
-T224	Compound	10901	10909	glyceryl
-T225	Compound	10916	10924	Squalene
-T226	Compound	10956	10969	chlorophyll a
-T227	Compound	10991	10999	Squalene
-T228	Compound	11012	11025	Chlorophyll a
-T229	Compound	11052	11060	Squalene
-T230	Compound	11073	11086	Chlorophyll a
-T231	Compound	11113	11129	beta-Friedelinol
-T232	Compound	11155	11171	beta-Friedelinol
-T233	Compound	11193	11209	beta-Friedelinol
-T234	Compound	11237	11245	Squalene
-T235	Compound	11264	11272	Squalene
-T236	Compound	11291	11299	Squalene
-T237	Compound	11339	11347	glyceryl
-T238	Compound	11361	11369	glyceryl
-T239	Compound	11907	11922	dichloromethane
-T240	Preparation	11923	11930	extract
-T241	PlantPart	11948	11954	leaves
-T242	Synonym	11958	11975	Artocarpus ovatus
-T243	Compound	12000	12017	3beta-friedelinol
-T244	Compound	12026	12034	squalene
-T245	Compound	12045	12055	polyprenol
-T246	Compound	12066	12079	triglycerides
-T247	Compound	12086	12099	chlorophyll a
-T248	Compound	12127	12143	beta-Friedelinol
-T249	Compound	12145	12153	Squalene
-T250	Compound	12155	12166	Polyprenols
-T251	Compound	12168	12184	Triacylglycerols
-T252	Compound	12186	12199	chlorophyll a
-T253	Compound	12431	12447	beta-Friedelinol
-T254	BioAct	12460	12473	antibacterial
-T255	BioAct	12513	12523	antifungal
-T256	Compound	12535	12543	Squalene
-T257	Compound	12736	12744	Squalene
-T258	BioAct	12872	12883	antioxidant
-T259	ChemicalClass	12926	12938	tocotrienols
-T260	ChemicalClass	12940	12951	carotenoids
-T261	Compound	12953	12961	squalene
-T262	BioAct	12984	13002	anti-proliferative
-T263	BodyPart	13014	13020	breast
-T264	Compound	13080	13088	squalene
-T265	Compound	13205	13213	squalene
-T266	Compound	13234	13245	Polyprenols
-T267	Compound	13305	13320	polysaccharides
-T268	Compound	13379	13389	Polyprenol
-T269	Synonym	13395	13408	Ginkgo biloba
-T270	Compound	13492	13503	Polyprenols
-T271	Synonym	13509	13522	Ginkgo biloba
-T272	Synonym	13523	13535	L. exhibited
-T273	Compound	13590	13600	polyprenol
-T274	Synonym	13606	13622	Coccinia grandis
-T275	Compound	13678	13694	Triacylglycerols
-T276	BioAct	13705	13718	antimicrobial
-T277	Synonym	13736	13745	S. aureus
-T278	Synonym	13747	13760	P. aeruginosa
-T279	Synonym	13762	13773	B. subtilis
-T280	Synonym	13775	13786	C. albicans
-T281	Synonym	13792	13809	T. mentagrophytes
-T282	Compound	13840	13853	triglycerides
-T283	Compound	14000	14013	Chlorophyll a
-T284	Compound	14114	14127	chlorophyll a
-T285	Illness	14167	14172	wound
-T286	BioAct	14183	14200	anti-inflammatory
-T287	Compound	14233	14240	oxalate
-T288	Compound	14287	14299	photodynamic
-T289	Compound	14447	14458	chlorophyll
+T1	Synonym 145 162	Artocarpus ovatus
+T2	Compound 231 242	Polyprenols
+T3	Location 388 417	Hoyas of the Philippines View
+T4	Location 538 545	Belgium
+T5	Location 894 899	CODEN
+T6	Location 901 904	USA
+T7	Synonym 975 992	Artocarpus ovatus
+T8	Location 1163 1173	Binan City
+T9	Location 1175 1181	Laguna
+T10	Location 1183 1194	Philippines
+T11	Location 1246 1257	Taft Avenue
+T12	Location 1259 1265	Manila
+T13	Location 1273 1284	Philippines
+T14	Compound 1285 1294	3National
+T15	Location 1355 1358	Sec
+T16	Location 1362 1368	Taipei
+T17	Location 1374 1380	Taiwan
+T18	Compound 1415 1430	dichloromethane
+T19	Preparation 1431 1438	extract
+T20	PlantPart 1446 1452	leaves
+T21	Synonym 1456 1473	Artocarpus ovatus
+T22	Compound 1505 1522	3beta-friedelinol
+T23	Compound 1525 1533	squalene
+T24	Compound 1536 1546	polyprenol
+T25	Compound 1549 1565	triacylglycerols
+T26	Compound 1572 1585	chlorophyll a
+T27	Compound 1606 1622	beta-Friedelinol
+T28	Compound 1624 1632	Squalene
+T29	Compound 1634 1645	Polyprenols
+T30	Compound 1647 1663	Triacylglycerols
+T31	Compound 1665 1678	chlorophyll a
+T32	Synonym 1792 1809	Artocarpus ovatus
+T33	Compound 1822 1839	3beta-friedelinol
+T34	Compound 1841 1849	squalene
+T35	Compound 1851 1861	polyprenol
+T36	Compound 1863 1879	triacylglycerols
+T37	Compound 1881 1894	chlorophyll a
+T38	Synonym 1898 1915	Artocarpus ovatus
+T39	Compound 2019 2035	beta-Friedelinol
+T40	Compound 2037 2045	Squalene
+T41	PlantPart 2145 2150	seeds
+T42	Synonym 2222 2239	Artocarpus ovatus
+T43	Location 2391 2401	Artocarpus
+T44	Family 2403 2411	Moraceae
+T45	PlantPart 2441 2446	fruit
+T46	Location 2575 2585	Artocarpus
+T47	Location 2621 2631	Artocarpus
+T48	BioAct 2688 2701	antibacterial
+T49	BioAct 2719 2728	antiviral
+T50	BioAct 2730 2740	antifungal
+T51	Location 2812 2822	Artocarpus
+T52	Illness 2885 2890	fever
+T53	Illness 2903 2911	diabetes
+T54	ChemicalClass 2981 2991	flavonoids
+T55	Compound 3026 3033	jacalin
+T56	Location 3113 3123	Artocarpus
+T57	Location 3137 3148	Philippines
+T58	Compound 3188 3199	friedelinol
+T59	Compound 3201 3209	squalene
+T60	Compound 3211 3226	beta-sitosterol
+T61	Compound 3228 3240	stigmasterol
+T62	Compound 3245 3251	phytol
+T63	PlantPart 3261 3267	leaves
+T64	Synonym 3271 3289	Artocarpus camansi
+T65	PlantPart 3301 3306	stems
+T66	Compound 3315 3325	polyprenol
+T67	Compound 3327 3339	cycloartenol
+T68	Compound 3344 3364	cycloartenol acetate
+T69	PlantPart 3389 3395	leaves
+T70	Synonym 3399 3417	Artocarpus altilis
+T71	Compound 3426 3441	beta-sitosterol
+T72	Compound 3443 3456	triglycerides
+T73	Compound 3458 3466	squalene
+T74	Compound 3468 3478	polyprenol
+T75	Compound 3480 3486	lutein
+T76	Compound 3491 3502	fatty acids
+T77	Synonym 3510 3534	Artocarpus odoratissimus
+T78	Compound 3544 3559	beta-sitosterol
+T79	Compound 3561 3574	triglycerides
+T80	Compound 3579 3590	fatty acids
+T81	PlantPart 3613 3618	fruit
+T82	PlantPart 3623 3628	seeds
+T83	Compound 3634 3662	beta-sitosterol, fatty acids
+T84	PlantPart 3689 3699	fruit rind
+T85	PlantPart 3726 3731	fruit
+T86	Synonym 3735 3759	Artocarpus heterophyllus
+T87	Compound 3769 3782	cycloartenone
+T88	Compound 3784 3796	cycloartenol
+T89	Compound 3830 3838	Squalene
+T90	Compound 3895 3901	lupeol
+T91	Compound 3903 3914	alphaamyrin
+T92	Compound 3916 3927	beta-amyrin
+T93	Compound 3929 3952	lupeol fatty acid ester
+T94	Compound 3954 3983	alpha-amyrin fatty acid ester
+T95	Compound 3985 4012	beta-myrin fatty acid ester
+T96	Compound 4014 4021	betulin
+T97	Compound 4023 4052	3beta,28dihydroxyolean-12-ene
+T98	Compound 4054 4068	oleanolic acid
+T99	Compound 4070 4085	beta-sitosterol
+T100	Compound 4091 4104	chlorophyll a
+T101	PlantPart 4113 4118	twigs
+T102	Synonym 4122 4139	Artocarpus ovatus
+T103	Compound 4298 4315	3beta-friedelinol
+T104	Compound 4318 4326	squalene
+T105	Compound 4329 4339	polyprenol
+T106	Compound 4342 4358	triacylglycerols
+T107	Compound 4365 4378	chlorophyll a
+T108	Compound 4396 4411	dichloromethane
+T109	Preparation 4412 4419	extract
+T110	PlantPart 4427 4433	leaves
+T111	Synonym 4437 4454	Artocarpus ovatus
+T112	Compound 4535 4551	beta-Friedelinol
+T113	Compound 4553 4561	Squalene
+T114	Compound 4563 4574	Polyprenols
+T115	Compound 4576 4592	Triacylglycerols
+T116	Compound 4666 4674	Squalene
+T117	Compound 4682 4693	Polyprenols
+T118	Compound 4695 4711	Triacylglycerols
+T119	Compound 4745 4761	beta-Friedelinol
+T120	Compound 4776 4789	Chlorophyll a
+T121	Compound 4791 4804	chlorophyll a
+T122	Compound 4879 4895	beta-Friedelinol
+T123	Compound 4897 4908	Polyprenols
+T124	Compound 4915 4923	Squalene
+T125	Compound 4932 4943	Polyprenols
+T126	Compound 4976 4992	Triacylglycerols
+T127	Compound 5011 5028	chain fatty acids
+T128	Synonym 5061 5078	Artocarpus ovatus
+T129	PlantPart 5079 5085	leaves
+T130	Compound 5087 5104	3beta-friedelinol
+T131	Compound 5107 5115	squalene
+T132	Compound 5118 5128	polyprenol
+T133	Compound 5131 5147	triacylglycerols
+T134	Compound 5154 5167	chlorophyll a
+T135	Compound 5556 5564	vanillin
+T136	Location 5650 5656	Bataan
+T137	Location 5658 5669	Philippines
+T138	Compound 5688 5696	vanillin
+T139	Synonym 5715 5732	Artocarpus ovatus
+T140	Location 5815 5826	Philippines
+T141	Location 5837 5848	Quezon City
+T142	Compound 6021 6037	beta-Friedelinol
+T143	Preparation 6104 6111	extract
+T144	PlantPart 6121 6127	leaves
+T145	Compound 6207 6214	acetone
+T146	Compound 6218 6233	dichloromethane
+T147	Compound 6498 6511	chlorophyll a
+T148	PlantPart 6751 6757	leaves
+T149	Synonym 6761 6778	Artocarpus ovatus
+T150	Preparation 6794 6800	ground
+T151	Compound 6836 6847	Polyprenols
+T152	Preparation 6863 6871	filtered
+T153	Preparation 6932 6939	extract
+T154	Compound 6943 6956	Chlorophyll a
+T155	Compound 7019 7026	acetone
+T156	Compound 7064 7071	acetone
+T157	Compound 7113 7124	Polyprenols
+T158	Compound 7169 7177	Squalene
+T159	Compound 7232 7239	acetone
+T160	Compound 7281 7294	chlorophyll a
+T161	Compound 7340 7351	Polyprenols
+T162	Compound 7364 7380	Triacylglycerols
+T163	Compound 7382 7395	chlorophyll a
+T164	Compound 7411 7418	acetone
+T165	Compound 7460 7471	Polyprenols
+T166	Compound 7516 7532	beta-Friedelinol
+T167	Compound 7534 7547	Chlorophyll a
+T168	Compound 7598 7605	acetone
+T169	Compound 7647 7663	Triacylglycerols
+T170	Compound 7709 7722	chlorophyll a
+T171	Compound 7787 7804	3beta-Friedelinol
+T172	Compound 7990 8006	beta-Friedelinol
+T173	Compound 8026 8037	Polyprenols
+T174	Compound 8495 8503	Squalene
+T175	Compound 8530 8543	chlorophyll a
+T176	Compound 8564 8580	beta-Friedelinol
+T177	Compound 8610 8626	beta-Friedelinol
+T178	Compound 8657 8673	beta-Friedelinol
+T179	Compound 9027 9037	Polyprenol
+T180	Compound 9064 9080	Triacylglycerols
+T181	Compound 9112 9125	chlorophyll a
+T182	Compound 9141 9154	chlorophyll a
+T183	Compound 9176 9192	beta-Friedelinol
+T184	Compound 9222 9238	beta-Friedelinol
+T185	Compound 9265 9281	beta-Friedelinol
+T186	Compound 9306 9322	beta-Friedelinol
+T187	Compound 9689 9702	Chlorophyll a
+T188	Compound 9727 9738	Polyprenols
+T189	Compound 9794 9807	Chlorophyll a
+T190	Compound 9828 9844	Triacylglycerols
+T191	Compound 9846 9862	beta-Friedelinol
+T192	Compound 9875 9888	Chlorophyll a
+T193	Compound 9924 9935	Polyprenols
+T194	Compound 9955 9966	Polyprenols
+T195	Compound 9986 10002	beta-Friedelinol
+T196	Compound 10021 10029	Squalene
+T197	Compound 10037 10048	Polyprenols
+T198	Compound 10068 10084	Triacylglycerols
+T199	Compound 10103 10111	Squalene
+T200	Compound 10117 10125	Squalene
+T201	Compound 10145 10153	Squalene
+T202	Compound 10159 10167	Squalene
+T203	Compound 10188 10204	Triacylglycerols
+T204	Compound 10223 10239	beta-Friedelinol
+T205	Compound 10270 10283	Chlorophyll a
+T206	Compound 10303 10314	Polyprenols
+T207	Compound 10415 10431	Triacylglycerols
+T208	Compound 10449 10462	chlorophyll a
+T209	Compound 10491 10507	beta-Friedelinol
+T210	Compound 10546 10559	Chlorophyll a
+T211	Compound 10596 10609	Chlorophyll a
+T212	Compound 10638 10651	Chlorophyll a
+T213	Compound 10664 10680	Triacylglycerols
+T214	Compound 10707 10723	Triacylglycerols
+T215	Compound 10733 10749	Triacylglycerols
+T216	Compound 10751 10759	Squalene
+T217	Compound 10764 10780	Triacylglycerols
+T218	Compound 10782 10790	glyceryl
+T219	Compound 10798 10814	Triacylglycerols
+T220	Compound 10824 10837	Chlorophyll a
+T221	Compound 10845 10861	Triacylglycerols
+T222	Compound 10863 10871	glyceryl
+T223	Compound 10879 10892	chlorophyll a
+T224	Compound 10901 10909	glyceryl
+T225	Compound 10916 10924	Squalene
+T226	Compound 10956 10969	chlorophyll a
+T227	Compound 10991 10999	Squalene
+T228	Compound 11012 11025	Chlorophyll a
+T229	Compound 11052 11060	Squalene
+T230	Compound 11073 11086	Chlorophyll a
+T231	Compound 11113 11129	beta-Friedelinol
+T232	Compound 11155 11171	beta-Friedelinol
+T233	Compound 11193 11209	beta-Friedelinol
+T234	Compound 11237 11245	Squalene
+T235	Compound 11264 11272	Squalene
+T236	Compound 11291 11299	Squalene
+T237	Compound 11339 11347	glyceryl
+T238	Compound 11361 11369	glyceryl
+T239	Compound 11907 11922	dichloromethane
+T240	Preparation 11923 11930	extract
+T241	PlantPart 11948 11954	leaves
+T242	Synonym 11958 11975	Artocarpus ovatus
+T243	Compound 12000 12017	3beta-friedelinol
+T244	Compound 12026 12034	squalene
+T245	Compound 12045 12055	polyprenol
+T246	Compound 12066 12079	triglycerides
+T247	Compound 12086 12099	chlorophyll a
+T248	Compound 12127 12143	beta-Friedelinol
+T249	Compound 12145 12153	Squalene
+T250	Compound 12155 12166	Polyprenols
+T251	Compound 12168 12184	Triacylglycerols
+T252	Compound 12186 12199	chlorophyll a
+T253	Compound 12431 12447	beta-Friedelinol
+T254	BioAct 12460 12473	antibacterial
+T255	BioAct 12513 12523	antifungal
+T256	Compound 12535 12543	Squalene
+T257	Compound 12736 12744	Squalene
+T258	BioAct 12872 12883	antioxidant
+T259	ChemicalClass 12926 12938	tocotrienols
+T260	ChemicalClass 12940 12951	carotenoids
+T261	Compound 12953 12961	squalene
+T262	BioAct 12984 13002	anti-proliferative
+T263	BodyPart 13014 13020	breast
+T264	Compound 13080 13088	squalene
+T265	Compound 13205 13213	squalene
+T266	Compound 13234 13245	Polyprenols
+T267	Compound 13305 13320	polysaccharides
+T268	Compound 13379 13389	Polyprenol
+T269	Synonym 13395 13408	Ginkgo biloba
+T270	Compound 13492 13503	Polyprenols
+T271	Synonym 13509 13522	Ginkgo biloba
+T272	Synonym 13523 13535	L. exhibited
+T273	Compound 13590 13600	polyprenol
+T274	Synonym 13606 13622	Coccinia grandis
+T275	Compound 13678 13694	Triacylglycerols
+T276	BioAct 13705 13718	antimicrobial
+T277	Synonym 13736 13745	S. aureus
+T278	Synonym 13747 13760	P. aeruginosa
+T279	Synonym 13762 13773	B. subtilis
+T280	Synonym 13775 13786	C. albicans
+T281	Synonym 13792 13809	T. mentagrophytes
+T282	Compound 13840 13853	triglycerides
+T283	Compound 14000 14013	Chlorophyll a
+T284	Compound 14114 14127	chlorophyll a
+T285	Illness 14167 14172	wound
+T286	BioAct 14183 14200	anti-inflammatory
+T287	Compound 14233 14240	oxalate
+T288	Compound 14287 14299	photodynamic
+T289	Compound 14447 14458	chlorophyll

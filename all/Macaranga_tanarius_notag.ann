@@ -1,274 +1,274 @@
-T1	Compound	133	143	Polyprenol
-T2	Synonym	149	167	Macaranga tanarius
-T3	Compound	193	206	chlorophyll a
-T4	Location	332	337	Binan
-T5	Location	339	345	Laguna
-T6	Location	347	358	Philippines
-T7	Compound	359	372	chlorophyll a
-T8	Location	442	448	Manila
-T9	Location	450	461	Philippines
-T10	Compound	468	483	dichloromethane
-T11	Preparation	484	491	extract
-T12	PlantPart	509	515	leaves
-T13	Synonym	519	537	Macaranga tanarius
-T14	MedicinalPlant	547	561	chlorophyllide
-T15	Compound	566	579	chlorophyll a
-T16	Compound	585	595	polyprenol
-T17	Compound	623	636	chlorophyll a
-T18	Compound	718	728	polyprenol
-T19	BioAct	816	829	Antimicrobial
-T20	BioAct	867	880	antimicrobial
-T21	Synonym	914	930	Escherichia coli
-T22	Synonym	932	953	Staphylococcus aureus
-T23	Synonym	959	981	Pseudomonas aeruginosa
-T24	Synonym	993	1009	Candida albicans
-T25	Synonym	1014	1031	T. mentagrophytes
-T26	Synonym	1034	1050	Escherichia coli
-T27	Synonym	1072	1089	Bacillus subtilis
-T28	Compound	1114	1127	chlorophyll a
-T29	BioAct	1154	1167	antimicrobial
-T30	Synonym	1187	1209	Pseudomonas aeruginosa
-T31	Synonym	1214	1230	Candida albicans
-T32	Synonym	1252	1268	Escherichia coli
-T33	Synonym	1270	1291	Staphylococcus aureus
-T34	Synonym	1293	1310	Bacillus subtilis
-T35	Synonym	1326	1343	T. mentagrophytes
-T36	Synonym	1356	1374	Macaranga tanarius
-T37	Family	1376	1389	Euphorbiaceae
-T38	Compound	1391	1404	chlorophyll a
-T39	MedicinalPlant	1406	1420	chlorophyllide
-T40	Compound	1424	1434	polyprenol
-T41	Synonym	1507	1525	Macaranga tanarius
-T42	MedicinalPlant	1545	1552	binunga
-T43	Location	1625	1636	Philippines
-T44	PlantPart	1643	1649	leaves
-T45	Compound	1704	1711	acetone
-T46	Preparation	1712	1719	extract
-T47	PlantPart	1727	1733	leaves
-T48	Synonym	1737	1755	Macaranga tanarius
-T49	Synonym	1888	1906	Macaranga tanarius
-T50	PlantPart	1918	1922	leaf
-T51	Preparation	1923	1930	extract
-T52	BioAct	1941	1954	antimicrobial
-T53	Synonym	2083	2101	Macaranga tanarius
-T54	Compound	2211	2224	ascorbic acid
-T55	BioAct	2236	2247	antioxidant
-T56	Preparation	2394	2401	extract
-T57	Synonym	2405	2423	Macaranga tanarius
-T58	Synonym	2489	2507	Macaranga tanarius
-T59	Compound	2552	2564	macarangonol
-T60	Compound	2566	2575	friedelin
-T61	Compound	2577	2590	fiedelan-3-ol
-T62	Compound	2592	2605	friedel-3-ene
-T63	Compound	2633	2648	tanarifuranonol
-T64	Compound	2650	2660	blumenol A
-T65	Compound	2665	2675	blumenol B
-T66	Compound	2681	2692	nymphaeol A
-T67	Compound	2694	2705	nymphaeol B
-T68	Compound	2711	2722	nymphaeol C
-T69	Compound	2724	2733	roseoside
-T70	ChemicalClass	2743	2750	flavone
-T71	Compound	2755	2772	tanariflavanone A
-T72	Compound	2774	2791	tanariflavanone B
-T73	Compound	2793	2810	tanariflavanone C
-T74	Compound	2816	2833	tanariflavanone D
-T75	Compound	2835	2842	hyperin
-T76	Compound	2844	2857	isoquercitrin
-T77	Compound	2859	2873	macarangioside
-T78	Compound	2886	2908	brevifolin carboxylate
-T79	Compound	2911	2926	mallotinic acid
-T80	Compound	2938	2947	tanarinin
-T81	Compound	2949	2958	corilagin
-T82	Compound	2960	2972	macaranganin
-T83	Compound	2987	3006	acidphylanthusiin C
-T84	Compound	3008	3030	1,4-digalloylglucoside
-T85	Compound	3036	3058	3,4-digalloylglucoside
-T86	BioAct	3127	3140	antimicrobial
-T87	Compound	3150	3163	chlorophyll a
-T88	MedicinalPlant	3167	3181	chlorophyllide
-T89	PlantPart	3193	3199	leaves
-T90	Synonym	3203	3221	Macaranga tanarius
-T91	Compound	3224	3234	Polyprenol
-T92	PlantPart	3262	3268	leaves
-T93	Compound	3338	3351	chlorophyll a
-T94	Compound	3360	3367	phyltyl
-T95	Compound	3374	3387	chlorophyll a
-T96	Compound	3440	3450	polyprenol
-T97	MedicinalPlant	3523	3537	chlorophyllide
-T98	Compound	3544	3557	chlorophyll a
-T99	Location	4048	4052	Anao
-T100	Compound	4076	4089	chlorophyll a
-T101	Synonym	4108	4126	Macaranga tanarius
-T102	PlantPart	4347	4353	leaves
-T103	Synonym	4357	4375	Macaranga tanarius
-T104	Illness	4389	4392	cut
-T105	Preparation	4448	4456	filtered
-T106	Preparation	4522	4529	extract
-T107	Compound	4630	4637	acetone
-T108	Compound	4676	4683	acetone
-T109	Compound	4774	4781	diethyl
-T110	Compound	4798	4805	acetone
-T111	Compound	4951	4964	chlorophyll a
-T112	Compound	5034	5041	acetone
-T113	Compound	5126	5136	polyprenol
-T114	BioAct	5148	5161	Antimicrobial
-T115	Location	5248	5259	Philippines
-T116	Synonym	5327	5343	Candida albicans
-T117	Synonym	5355	5372	Bacillus subtilis
-T118	Synonym	5384	5406	Pseudomonas aeruginosa
-T119	Synonym	5418	5434	Escherichia coli
-T120	Synonym	5446	5467	Staphylococcus aureus
-T121	BioAct	5575	5588	antimicrobial
-T122	Compound	5801	5816	dichloromethane
-T123	Preparation	5817	5824	extract
-T124	PlantPart	5842	5848	leaves
-T125	Synonym	5852	5870	Macaranga tanarius
-T126	MedicinalPlant	5880	5894	chlorophyllide
-T127	Compound	5899	5912	chlorophyll a
-T128	Compound	5918	5928	polyprenol
-T129	Compound	6038	6049	crystalline
-T130	Compound	6078	6093	dichloromethane
-T131	Preparation	6094	6101	extract
-T132	PlantPart	6119	6125	leaves
-T133	Synonym	6129	6147	Macaranga tanarius
-T134	Compound	6150	6161	crystalline
-T135	Compound	3956	3964	vanillin
-T136	Compound	6629	6642	chlorophyll a
-T137	MedicinalPlant	6666	6680	chlorophyllide
-T138	Compound	6695	6710	carboxylic acid
-T139	Compound	6723	6729	phytyl
-T140	Compound	6748	6763	carboxylic acid
-T141	Compound	6767	6780	chlorophyll a
-T142	Compound	6781	6794	Chlorophyll b
-T143	BodyPart	6806	6810	hand
-T144	Compound	6819	6827	aldehyde
-T145	Compound	6866	6879	chlorophyll a
-T146	Compound	6904	6917	chlorophyll a
-T147	Compound	7052	7062	polyprenol
-T148	Compound	7068	7078	polyprenol
-T149	Compound	7087	7097	polyprenol
-T150	Compound	7161	7168	methoxy
-T151	Compound	7178	7188	polyprenol
-T152	Compound	7235	7244	methylene
-T153	Compound	7256	7269	chlorophyll a
-T154	Compound	7278	7291	chlorophyll a
-T155	Compound	7297	7310	chlorophyll a
-T156	Compound	7319	7332	chlorophyll a
-T157	Compound	7342	7352	polyprenol
-T158	Compound	7408	7415	methine
-T159	Compound	7638	7653	carboxylic acid
-T160	Compound	7665	7673	an ester
-T161	Compound	7701	7709	carbonyl
-T162	Compound	7782	7791	methylene
-T163	Compound	7793	7800	methine
-T164	Compound	8182	8189	methoxy
-T165	Compound	8283	8293	polyprenol
-T166	Compound	8306	8320	ester carbonyl
-T167	Compound	8350	8356	ketone
-T168	Compound	8453	8468	carboxylic acid
-T169	Compound	8543	8552	methylene
-T170	Compound	8564	8577	chlorophyll a
-T171	Compound	8583	8596	chlorophyll a
-T172	Compound	8602	8615	chlorophyll a
-T173	Compound	8625	8638	chlorophyll a
-T174	Compound	8908	8918	polyprenol
-T175	Compound	8924	8934	polyprenol
-T176	Compound	8943	8953	polyprenol
-T177	MedicinalPlant	9484	9498	chlorophyllide
-T178	Compound	9619	9632	chlorophyll a
-T179	Compound	9666	9679	chlorophyll a
-T180	Compound	9684	9697	chlorophyll a
-T181	Compound	9708	9718	polyprenol
-T182	Compound	9730	9740	polyprenol
-T183	Compound	9764	9777	chlorophyll a
-T184	Compound	9859	9869	polyprenol
-T185	Compound	9894	9904	polyprenol
-T186	Compound	9915	9925	polyprenol
-T187	Compound	9955	9965	polyprenol
-T188	Compound	9976	9986	polyprenol
-T189	Compound	10047	10057	polyprenol
-T190	Compound	10068	10078	polyprenol
-T191	Compound	10138	10151	chlorophyll a
-T192	Compound	10157	10170	chlorophyll a
-T193	Compound	10181	10194	chlorophyll a
-T194	Compound	10200	10213	chlorophyll a
-T195	Compound	10227	10240	chlorophyll a
-T196	Compound	10246	10259	chlorophyll a
-T197	Compound	10270	10283	chlorophyll a
-T198	Compound	10289	10302	chlorophyll a
-T199	Compound	10442	10452	polyprenol
-T200	Compound	10463	10473	polyprenol
-T201	Compound	10699	10705	Phytyl
-T202	Compound	11525	11539	propionic acid
-T203	BodyPart	11581	11585	hand
-T204	Compound	11711	11723	methyl ester
-T205	Compound	11946	11959	chlorophyll a
-T206	Compound	12075	12088	chlorophyll a
-T207	Compound	12130	12136	phytol
-T208	Compound	12185	12198	chlorophyll a
-T209	Compound	12267	12291	carboxylic acid carbonyl
-T210	Compound	12313	12327	ester carbonyl
-T211	Compound	12340	12353	chlorophyll a
-T212	Compound	12405	12418	chlorophyll a
-T213	Compound	12425	12438	chlorophyll a
-T214	Compound	12492	12503	Chlorophyll
-T215	Compound	12604	12617	chlorophyll a
-T216	Illness	12657	12662	wound
-T217	BioAct	12673	12690	anti-inflammatory
-T218	Compound	12723	12730	oxalate
-T219	Compound	12777	12789	photodynamic
-T220	Compound	6276	6287	chlorophyll
-T221	Compound	12986	12996	polyprenol
-T222	Compound	13085	13095	polyprenol
-T223	Compound	13098	13109	Polyprenols
-T224	Compound	13169	13184	polysaccharides
-T225	Compound	13243	13253	Polyprenol
-T226	Synonym	13259	13272	Ginkgo biloba
-T227	Compound	13360	13370	polyprenol
-T228	Synonym	13376	13392	Coccinia grandis
-T229	BioAct	13485	13498	antimicrobial
-T230	Compound	13549	13562	chlorophyll a
-T231	BioAct	13580	13593	antimicrobial
-T232	Compound	13662	13675	chlorophyll a
-T233	Synonym	13733	13749	Escherichia coli
-T234	Synonym	13751	13772	Staphylococcus aureus
-T235	Synonym	13778	13800	Pseudomonas aeruginosa
-T236	Synonym	13812	13828	Candida albicans
-T237	Synonym	13833	13850	T. mentagrophytes
-T238	Compound	13853	13866	chlorophyll a
-T239	Synonym	13888	13905	Bacillus subtilis
-T240	Compound	13930	13943	chlorophyll a
-T241	BioAct	13970	13983	antimicrobial
-T242	Synonym	14001	14023	Pseudomonas aeruginosa
-T243	Synonym	14077	14093	Candida albicans
-T244	Synonym	14115	14131	Escherichia coli
-T245	Synonym	14133	14154	Staphylococcus aureus
-T246	Synonym	14156	14173	Bacillus subtilis
-T247	Synonym	14189	14206	T. mentagrophytes
-T248	BioAct	14229	14242	antimicrobial
-T249	Compound	14272	14285	chlorophyll a
-T250	Compound	14321	14336	carboxylic acid
-T251	BioAct	14352	14365	Antimicrobial
-T252	Compound	14388	14401	chlorophyll a
-T253	BioAct	14447	14460	Antimicrobial
-T254	Synonym	14472	14488	Escherichia coli
-T255	Compound	14498	14511	chlorophyll a
-T256	Compound	14515	14532	Chloramphenicol a
-T257	Compound	14534	14547	chlorophyll a
-T258	Compound	14570	14583	chlorophyll a
-T259	Compound	14593	14610	Chloramphenicol a
-T260	Synonym	14615	14636	Staphylococcus aureus
-T261	Compound	14646	14659	chlorophyll a
-T262	Compound	14663	14680	Chloramphenicol a
-T263	Compound	14682	14692	polyprenol
-T264	Synonym	14694	14711	Bacillus subtilis
-T265	Compound	14716	14729	chlorophyll a
-T266	Compound	14733	14750	Chloramphenicol a
-T267	Compound	14752	14765	chlorophyll a
-T268	Synonym	14767	14783	Candida albicans
-T269	Compound	14791	14804	chlorophyll a
-T270	Synonym	14836	14853	T. mentagrophytes
-T271	Compound	14863	14876	chlorophyll a
-T272	Compound	14915	14928	chlorophyll a
-T273	Compound	14983	14998	chloramphenicol
-T274	BioAct	15083	15096	antimicrobial
+T1	Compound 133 143	Polyprenol
+T2	Synonym 149 167	Macaranga tanarius
+T3	Compound 193 206	chlorophyll a
+T4	Location 332 337	Binan
+T5	Location 339 345	Laguna
+T6	Location 347 358	Philippines
+T7	Compound 359 372	chlorophyll a
+T8	Location 442 448	Manila
+T9	Location 450 461	Philippines
+T10	Compound 468 483	dichloromethane
+T11	Preparation 484 491	extract
+T12	PlantPart 509 515	leaves
+T13	Synonym 519 537	Macaranga tanarius
+T14	MedicinalPlant 547 561	chlorophyllide
+T15	Compound 566 579	chlorophyll a
+T16	Compound 585 595	polyprenol
+T17	Compound 623 636	chlorophyll a
+T18	Compound 718 728	polyprenol
+T19	BioAct 816 829	Antimicrobial
+T20	BioAct 867 880	antimicrobial
+T21	Synonym 914 930	Escherichia coli
+T22	Synonym 932 953	Staphylococcus aureus
+T23	Synonym 959 981	Pseudomonas aeruginosa
+T24	Synonym 993 1009	Candida albicans
+T25	Synonym 1014 1031	T. mentagrophytes
+T26	Synonym 1034 1050	Escherichia coli
+T27	Synonym 1072 1089	Bacillus subtilis
+T28	Compound 1114 1127	chlorophyll a
+T29	BioAct 1154 1167	antimicrobial
+T30	Synonym 1187 1209	Pseudomonas aeruginosa
+T31	Synonym 1214 1230	Candida albicans
+T32	Synonym 1252 1268	Escherichia coli
+T33	Synonym 1270 1291	Staphylococcus aureus
+T34	Synonym 1293 1310	Bacillus subtilis
+T35	Synonym 1326 1343	T. mentagrophytes
+T36	Synonym 1356 1374	Macaranga tanarius
+T37	Family 1376 1389	Euphorbiaceae
+T38	Compound 1391 1404	chlorophyll a
+T39	MedicinalPlant 1406 1420	chlorophyllide
+T40	Compound 1424 1434	polyprenol
+T41	Synonym 1507 1525	Macaranga tanarius
+T42	MedicinalPlant 1545 1552	binunga
+T43	Location 1625 1636	Philippines
+T44	PlantPart 1643 1649	leaves
+T45	Compound 1704 1711	acetone
+T46	Preparation 1712 1719	extract
+T47	PlantPart 1727 1733	leaves
+T48	Synonym 1737 1755	Macaranga tanarius
+T49	Synonym 1888 1906	Macaranga tanarius
+T50	PlantPart 1918 1922	leaf
+T51	Preparation 1923 1930	extract
+T52	BioAct 1941 1954	antimicrobial
+T53	Synonym 2083 2101	Macaranga tanarius
+T54	Compound 2211 2224	ascorbic acid
+T55	BioAct 2236 2247	antioxidant
+T56	Preparation 2394 2401	extract
+T57	Synonym 2405 2423	Macaranga tanarius
+T58	Synonym 2489 2507	Macaranga tanarius
+T59	Compound 2552 2564	macarangonol
+T60	Compound 2566 2575	friedelin
+T61	Compound 2577 2590	fiedelan-3-ol
+T62	Compound 2592 2605	friedel-3-ene
+T63	Compound 2633 2648	tanarifuranonol
+T64	Compound 2650 2660	blumenol A
+T65	Compound 2665 2675	blumenol B
+T66	Compound 2681 2692	nymphaeol A
+T67	Compound 2694 2705	nymphaeol B
+T68	Compound 2711 2722	nymphaeol C
+T69	Compound 2724 2733	roseoside
+T70	ChemicalClass 2743 2750	flavone
+T71	Compound 2755 2772	tanariflavanone A
+T72	Compound 2774 2791	tanariflavanone B
+T73	Compound 2793 2810	tanariflavanone C
+T74	Compound 2816 2833	tanariflavanone D
+T75	Compound 2835 2842	hyperin
+T76	Compound 2844 2857	isoquercitrin
+T77	Compound 2859 2873	macarangioside
+T78	Compound 2886 2908	brevifolin carboxylate
+T79	Compound 2911 2926	mallotinic acid
+T80	Compound 2938 2947	tanarinin
+T81	Compound 2949 2958	corilagin
+T82	Compound 2960 2972	macaranganin
+T83	Compound 2987 3006	acidphylanthusiin C
+T84	Compound 3008 3030	1,4-digalloylglucoside
+T85	Compound 3036 3058	3,4-digalloylglucoside
+T86	BioAct 3127 3140	antimicrobial
+T87	Compound 3150 3163	chlorophyll a
+T88	MedicinalPlant 3167 3181	chlorophyllide
+T89	PlantPart 3193 3199	leaves
+T90	Synonym 3203 3221	Macaranga tanarius
+T91	Compound 3224 3234	Polyprenol
+T92	PlantPart 3262 3268	leaves
+T93	Compound 3338 3351	chlorophyll a
+T94	Compound 3360 3367	phyltyl
+T95	Compound 3374 3387	chlorophyll a
+T96	Compound 3440 3450	polyprenol
+T97	MedicinalPlant 3523 3537	chlorophyllide
+T98	Compound 3544 3557	chlorophyll a
+T99	Location 4048 4052	Anao
+T100	Compound 4076 4089	chlorophyll a
+T101	Synonym 4108 4126	Macaranga tanarius
+T102	PlantPart 4347 4353	leaves
+T103	Synonym 4357 4375	Macaranga tanarius
+T104	Illness 4389 4392	cut
+T105	Preparation 4448 4456	filtered
+T106	Preparation 4522 4529	extract
+T107	Compound 4630 4637	acetone
+T108	Compound 4676 4683	acetone
+T109	Compound 4774 4781	diethyl
+T110	Compound 4798 4805	acetone
+T111	Compound 4951 4964	chlorophyll a
+T112	Compound 5034 5041	acetone
+T113	Compound 5126 5136	polyprenol
+T114	BioAct 5148 5161	Antimicrobial
+T115	Location 5248 5259	Philippines
+T116	Synonym 5327 5343	Candida albicans
+T117	Synonym 5355 5372	Bacillus subtilis
+T118	Synonym 5384 5406	Pseudomonas aeruginosa
+T119	Synonym 5418 5434	Escherichia coli
+T120	Synonym 5446 5467	Staphylococcus aureus
+T121	BioAct 5575 5588	antimicrobial
+T122	Compound 5801 5816	dichloromethane
+T123	Preparation 5817 5824	extract
+T124	PlantPart 5842 5848	leaves
+T125	Synonym 5852 5870	Macaranga tanarius
+T126	MedicinalPlant 5880 5894	chlorophyllide
+T127	Compound 5899 5912	chlorophyll a
+T128	Compound 5918 5928	polyprenol
+T129	Compound 6038 6049	crystalline
+T130	Compound 6078 6093	dichloromethane
+T131	Preparation 6094 6101	extract
+T132	PlantPart 6119 6125	leaves
+T133	Synonym 6129 6147	Macaranga tanarius
+T134	Compound 6150 6161	crystalline
+T135	Compound 3956 3964	vanillin
+T136	Compound 6629 6642	chlorophyll a
+T137	MedicinalPlant 6666 6680	chlorophyllide
+T138	Compound 6695 6710	carboxylic acid
+T139	Compound 6723 6729	phytyl
+T140	Compound 6748 6763	carboxylic acid
+T141	Compound 6767 6780	chlorophyll a
+T142	Compound 6781 6794	Chlorophyll b
+T143	BodyPart 6806 6810	hand
+T144	Compound 6819 6827	aldehyde
+T145	Compound 6866 6879	chlorophyll a
+T146	Compound 6904 6917	chlorophyll a
+T147	Compound 7052 7062	polyprenol
+T148	Compound 7068 7078	polyprenol
+T149	Compound 7087 7097	polyprenol
+T150	Compound 7161 7168	methoxy
+T151	Compound 7178 7188	polyprenol
+T152	Compound 7235 7244	methylene
+T153	Compound 7256 7269	chlorophyll a
+T154	Compound 7278 7291	chlorophyll a
+T155	Compound 7297 7310	chlorophyll a
+T156	Compound 7319 7332	chlorophyll a
+T157	Compound 7342 7352	polyprenol
+T158	Compound 7408 7415	methine
+T159	Compound 7638 7653	carboxylic acid
+T160	Compound 7665 7673	an ester
+T161	Compound 7701 7709	carbonyl
+T162	Compound 7782 7791	methylene
+T163	Compound 7793 7800	methine
+T164	Compound 8182 8189	methoxy
+T165	Compound 8283 8293	polyprenol
+T166	Compound 8306 8320	ester carbonyl
+T167	Compound 8350 8356	ketone
+T168	Compound 8453 8468	carboxylic acid
+T169	Compound 8543 8552	methylene
+T170	Compound 8564 8577	chlorophyll a
+T171	Compound 8583 8596	chlorophyll a
+T172	Compound 8602 8615	chlorophyll a
+T173	Compound 8625 8638	chlorophyll a
+T174	Compound 8908 8918	polyprenol
+T175	Compound 8924 8934	polyprenol
+T176	Compound 8943 8953	polyprenol
+T177	MedicinalPlant 9484 9498	chlorophyllide
+T178	Compound 9619 9632	chlorophyll a
+T179	Compound 9666 9679	chlorophyll a
+T180	Compound 9684 9697	chlorophyll a
+T181	Compound 9708 9718	polyprenol
+T182	Compound 9730 9740	polyprenol
+T183	Compound 9764 9777	chlorophyll a
+T184	Compound 9859 9869	polyprenol
+T185	Compound 9894 9904	polyprenol
+T186	Compound 9915 9925	polyprenol
+T187	Compound 9955 9965	polyprenol
+T188	Compound 9976 9986	polyprenol
+T189	Compound 10047 10057	polyprenol
+T190	Compound 10068 10078	polyprenol
+T191	Compound 10138 10151	chlorophyll a
+T192	Compound 10157 10170	chlorophyll a
+T193	Compound 10181 10194	chlorophyll a
+T194	Compound 10200 10213	chlorophyll a
+T195	Compound 10227 10240	chlorophyll a
+T196	Compound 10246 10259	chlorophyll a
+T197	Compound 10270 10283	chlorophyll a
+T198	Compound 10289 10302	chlorophyll a
+T199	Compound 10442 10452	polyprenol
+T200	Compound 10463 10473	polyprenol
+T201	Compound 10699 10705	Phytyl
+T202	Compound 11525 11539	propionic acid
+T203	BodyPart 11581 11585	hand
+T204	Compound 11711 11723	methyl ester
+T205	Compound 11946 11959	chlorophyll a
+T206	Compound 12075 12088	chlorophyll a
+T207	Compound 12130 12136	phytol
+T208	Compound 12185 12198	chlorophyll a
+T209	Compound 12267 12291	carboxylic acid carbonyl
+T210	Compound 12313 12327	ester carbonyl
+T211	Compound 12340 12353	chlorophyll a
+T212	Compound 12405 12418	chlorophyll a
+T213	Compound 12425 12438	chlorophyll a
+T214	Compound 12492 12503	Chlorophyll
+T215	Compound 12604 12617	chlorophyll a
+T216	Illness 12657 12662	wound
+T217	BioAct 12673 12690	anti-inflammatory
+T218	Compound 12723 12730	oxalate
+T219	Compound 12777 12789	photodynamic
+T220	Compound 6276 6287	chlorophyll
+T221	Compound 12986 12996	polyprenol
+T222	Compound 13085 13095	polyprenol
+T223	Compound 13098 13109	Polyprenols
+T224	Compound 13169 13184	polysaccharides
+T225	Compound 13243 13253	Polyprenol
+T226	Synonym 13259 13272	Ginkgo biloba
+T227	Compound 13360 13370	polyprenol
+T228	Synonym 13376 13392	Coccinia grandis
+T229	BioAct 13485 13498	antimicrobial
+T230	Compound 13549 13562	chlorophyll a
+T231	BioAct 13580 13593	antimicrobial
+T232	Compound 13662 13675	chlorophyll a
+T233	Synonym 13733 13749	Escherichia coli
+T234	Synonym 13751 13772	Staphylococcus aureus
+T235	Synonym 13778 13800	Pseudomonas aeruginosa
+T236	Synonym 13812 13828	Candida albicans
+T237	Synonym 13833 13850	T. mentagrophytes
+T238	Compound 13853 13866	chlorophyll a
+T239	Synonym 13888 13905	Bacillus subtilis
+T240	Compound 13930 13943	chlorophyll a
+T241	BioAct 13970 13983	antimicrobial
+T242	Synonym 14001 14023	Pseudomonas aeruginosa
+T243	Synonym 14077 14093	Candida albicans
+T244	Synonym 14115 14131	Escherichia coli
+T245	Synonym 14133 14154	Staphylococcus aureus
+T246	Synonym 14156 14173	Bacillus subtilis
+T247	Synonym 14189 14206	T. mentagrophytes
+T248	BioAct 14229 14242	antimicrobial
+T249	Compound 14272 14285	chlorophyll a
+T250	Compound 14321 14336	carboxylic acid
+T251	BioAct 14352 14365	Antimicrobial
+T252	Compound 14388 14401	chlorophyll a
+T253	BioAct 14447 14460	Antimicrobial
+T254	Synonym 14472 14488	Escherichia coli
+T255	Compound 14498 14511	chlorophyll a
+T256	Compound 14515 14532	Chloramphenicol a
+T257	Compound 14534 14547	chlorophyll a
+T258	Compound 14570 14583	chlorophyll a
+T259	Compound 14593 14610	Chloramphenicol a
+T260	Synonym 14615 14636	Staphylococcus aureus
+T261	Compound 14646 14659	chlorophyll a
+T262	Compound 14663 14680	Chloramphenicol a
+T263	Compound 14682 14692	polyprenol
+T264	Synonym 14694 14711	Bacillus subtilis
+T265	Compound 14716 14729	chlorophyll a
+T266	Compound 14733 14750	Chloramphenicol a
+T267	Compound 14752 14765	chlorophyll a
+T268	Synonym 14767 14783	Candida albicans
+T269	Compound 14791 14804	chlorophyll a
+T270	Synonym 14836 14853	T. mentagrophytes
+T271	Compound 14863 14876	chlorophyll a
+T272	Compound 14915 14928	chlorophyll a
+T273	Compound 14983 14998	chloramphenicol
+T274	BioAct 15083 15096	antimicrobial

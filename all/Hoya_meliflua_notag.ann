@@ -1,502 +1,502 @@
-T1	ChemicalClass	120	131	Triterpenes
-T2	ChemicalClass	136	143	Sterols
-T3	PlantPart	149	155	Leaves
-T4	Synonym	159	172	Hoya meliflua
-T5	Location	1152	1156	Hoya
-T6	Family	1226	1237	Apocynaceae
-T7	MedicinalPlant	1256	1266	wax plants
-T8	PlantPart	1303	1309	leaves
-T9	PlantPart	1314	1321	flowers
-T10	Location	1455	1466	Philippines
-T11	Location	1502	1506	Hoya
-T12	Synonym	1577	1590	Hoya meliflua
-T13	Location	1605	1611	Apayao
-T14	Location	1613	1619	Bataan
-T15	Location	1621	1627	Laguna
-T16	Location	1629	1637	La Union
-T17	Location	1642	1647	Rizal
-T18	Location	1651	1663	Luzon Island
-T19	Location	1671	1676	Leyte
-T20	Location	1678	1685	Mindoro
-T21	Location	1687	1693	Negros
-T22	Location	1695	1702	Palawan
-T23	Location	1707	1712	Panay
-T24	Location	1732	1743	Philippines
-T25	Location	1821	1827	Laguna
-T26	Synonym	1888	1901	Hoya meliflua
-T27	Synonym	1977	1994	Hoya diversifolia
-T28	Compound	2267	2275	lupenone
-T29	Compound	2280	2286	lupeol
-T30	PlantPart	2296	2301	roots
-T31	Compound	2303	2309	lupeol
-T32	Compound	2311	2319	squalene
-T33	Compound	2324	2339	beta-sitosterol
-T34	PlantPart	2349	2355	leaves
-T35	Compound	2361	2368	betulin
-T36	PlantPart	2378	2383	stems
-T37	Synonym	2387	2403	Hoya mindorensis
-T38	Compound	2464	2470	lupeol
-T39	Compound	2472	2484	alpha-amyrin
-T40	Compound	2487	2498	beta-amyrin
-T41	Compound	2501	2515	lupeol acetate
-T42	Compound	2518	2538	alpha-amyrin acetate
-T43	ChemicalClass	2539	2550	Triterpenes
-T44	ChemicalClass	2555	2562	Sterols
-T45	PlantPart	2568	2574	Leaves
-T46	Synonym	2578	2591	Hoya meliflua
-T47	Location	2603	2607	Hoya
-T48	MedicinalPlant	2631	2641	wax plants
-T49	PlantPart	2678	2684	leaves
-T50	PlantPart	2689	2696	flowers
-T51	Location	2757	2768	Philippines
-T52	Location	2804	2808	Hoya
-T53	Synonym	2881	2894	Hoya meliflua
-T54	Synonym	2915	2932	Hoya diversifolia
-T55	Compound	3214	3229	dichloromethane
-T56	Preparation	3230	3237	extract
-T57	PlantPart	3247	3253	leaves
-T58	Synonym	3257	3270	Hoya meliflua
-T59	Compound	3280	3288	squalene
-T60	Compound	3305	3316	beta-amyrin
-T61	Compound	3319	3331	alpha-amyrin
-T62	Compound	3336	3342	lupeol
-T63	Compound	3368	3376	oleanone
-T64	Compound	3379	3387	ursenone
-T65	Compound	3392	3400	lupenone
-T66	Compound	3425	3446	beta-amyrin cinnamate
-T67	Compound	3449	3471	alpha-amyrin cinnamate
-T68	Compound	3476	3493	lupenyl cinnamate
-T69	Compound	3524	3539	beta-sitosterol
-T70	Compound	3544	3556	stigmasterol
-T71	Synonym	3619	3632	Hoya meliflua
-T72	Location	3064	3068	Hoya
-T73	ChemicalClass	3716	3727	triterpenes
-T74	ChemicalClass	3732	3739	sterols
-T75	Synonym	3754	3767	Hoya meliflua
-T76	Location	3705	3709	Hoya
-T77	Synonym	3815	3828	Hoya meliflua
-T78	Location	3800	3804	Hoya
-T79	Synonym	3969	3982	Hoya meliflua
-T80	Synonym	4026	4039	Hoya meliflua
-T81	Family	4041	4052	Apocynaceae
-T82	Compound	4054	4062	Squalene
-T83	Compound	4064	4075	beta-amyrin
-T84	Compound	4077	4089	alpha-amyrin
-T85	Compound	4091	4097	Lupeol
-T86	Compound	4099	4107	Oleanone
-T87	Compound	4109	4117	Ursenone
-T88	Compound	4119	4127	Lupenone
-T89	Compound	4129	4150	beta-amyrin Cinnamate
-T90	Compound	4152	4174	alpha-amyrin Cinnamate
-T91	Compound	4176	4193	Lupenyl Cinnamate
-T92	Compound	4195	4210	beta-sitosterol
-T93	Compound	4212	4224	Stigmasterol
-T94	Location	4461	4472	Taft Avenue
-T95	Location	4474	4480	Manila
-T96	Location	4555	4560	Osaka
-T97	Location	4573	4578	Osaka
-T98	Location	4589	4594	JAPAN
-T99	Location	4730	4749	Commonwealth Avenue
-T100	Location	4760	4771	Quezon City
-T101	Compound	4877	4884	betulin
-T102	Location	4901	4911	Binan City
-T103	Location	4913	4919	Laguna
-T104	Location	5033	5044	Taft Avenue
-T105	Location	5046	5052	Manila
-T106	ChemicalClass	5523	5534	Triterpenes
-T107	ChemicalClass	5539	5546	Sterols
-T108	PlantPart	5552	5558	Leaves
-T109	Synonym	5562	5575	Hoya meliflua
-T110	Compound	5615	5634	beta-amyrin acetate
-T111	PlantPart	5644	5649	stems
-T112	Compound	5655	5663	squalene
-T113	Compound	5665	5680	beta-sitosterol
-T114	Compound	5682	5694	alpha-amyrin
-T115	Compound	5696	5705	bauerenol
-T116	Compound	5708	5714	lutein
-T117	Compound	5719	5731	stigmasterol
-T118	PlantPart	5741	5747	leaves
-T119	Synonym	5751	5766	Hoya multiflora
-T120	Compound	5805	5826	beta-amyrin cinnamate
-T121	Compound	5831	5840	taraxerol
-T122	PlantPart	5850	5855	stems
-T123	Compound	5861	5876	beta-sitosterol
-T124	Compound	5878	5890	stigmasterol
-T125	Compound	5892	5901	taraxerol
-T126	Compound	5903	5916	triglycerides
-T127	Compound	5921	5934	chlorophyll a
-T128	PlantPart	5944	5950	leaves
-T129	Synonym	5954	5966	Hoya wayetii
-T130	Compound	6023	6038	beta-sitosterol
-T131	Compound	6040	6052	stigmasterol
-T132	Compound	6054	6075	beta-amyrin cinnamate
-T133	Compound	6077	6086	taraxerol
-T134	Compound	6088	6098	taraxerone
-T135	Compound	6103	6125	alpha-amyrin cinnamate
-T136	PlantPart	6135	6140	stems
-T137	Compound	6142	6157	beta-sitosterol
-T138	Compound	6159	6168	taraxerol
-T139	Compound	6174	6184	taraxerone
-T140	PlantPart	6195	6200	roots
-T141	Compound	6202	6223	beta-amyrin cinnamate
-T142	Compound	6229	6251	alpha-amyrin cinnamate
-T143	PlantPart	6262	6269	flowers
-T144	Compound	6275	6283	squalene
-T145	Compound	6285	6300	beta-sitosterol
-T146	PlantPart	6338	6344	leaves
-T147	Synonym	6348	6359	Hoya buotii
-T148	Compound	6414	6420	lupeol
-T149	Compound	6422	6430	squalene
-T150	Compound	6432	6447	beta-sitosterol
-T151	Compound	6449	6461	alpha-amyrin
-T152	Compound	6463	6474	beta-amyrin
-T153	Compound	6476	6497	beta-amyrin cinnamate
-T154	PlantPart	6515	6521	leaves
-T155	Compound	6527	6535	squalene
-T156	Compound	6537	6552	beta-sitosterol
-T157	Compound	6554	6566	stigmasterol
-T158	Compound	6568	6577	taraxerol
-T159	Compound	6583	6599	lupeol cinnamate
-T160	PlantPart	6609	6614	stems
-T161	Synonym	6618	6635	Hoya diversifolia
-T162	Compound	6674	6689	dichloromethane
-T163	Synonym	6702	6717	Hoya cumingiana
-T164	Compound	6732	6738	lupeol
-T165	Compound	6740	6755	beta-sitosterol
-T166	Compound	6757	6769	alpha-amyrin
-T167	Compound	6771	6782	beta-amyrin
-T168	Compound	6784	6796	stigmasterol
-T169	Compound	6802	6811	bauerenol
-T170	PlantPart	6821	6827	leaves
-T171	Compound	6833	6842	taraxerol
-T172	PlantPart	6853	6858	stems
-T173	Compound	6899	6914	beta-sitosterol
-T174	Compound	6916	6928	stigmasterol
-T175	Compound	6934	6943	taraxerol
-T176	PlantPart	6954	6959	stems
-T177	Compound	6964	6972	lupenone
-T178	Compound	6974	6989	beta-sitosterol
-T179	Compound	6991	7003	stigmasterol
-T180	Compound	7005	7027	2-hydroxyethylbenzoate
-T181	Compound	7032	7056	fatty acid methyl esters
-T182	PlantPart	7066	7072	leaves
-T183	Synonym	7076	7090	Hoya pubicalyx
-T184	Compound	7115	7130	dichloromethane
-T185	Synonym	7143	7154	Hoya paziae
-T186	Compound	7172	7192	alpha-amyrin acetate
-T187	Compound	7194	7213	beta-amyrin acetate
-T188	Compound	7215	7224	taraxerol
-T189	Compound	7230	7247	taraxeryl acetate
-T190	PlantPart	7257	7262	stems
-T191	Compound	7267	7273	lupeol
-T192	Compound	7275	7287	alpha-amyrin
-T193	Compound	7289	7300	beta-amyrin
-T194	Compound	7302	7326	lupeol fatty acid esters
-T195	ChemicalClass	7344	7355	Triterpenes
-T196	ChemicalClass	7360	7367	Sterols
-T197	Compound	7427	7457	alpha-amyrin fatty acid esters
-T198	Compound	7462	7491	beta-amyrin fatty acid esters
-T199	PlantPart	7501	7507	leaves
-T200	Compound	7527	7542	dichloromethane
-T201	Synonym	7555	7572	Hoya cagayanensis
-T202	Compound	7582	7590	lupenone
-T203	Compound	7592	7598	lupeol
-T204	Compound	7600	7615	beta-sitosterol
-T205	Compound	7617	7629	stigmasterol
-T206	Compound	7638	7657	dihydrocanaric acid
-T207	PlantPart	7669	7674	stems
-T208	Compound	7680	7703	2-hydroxyethyl benzoate
-T209	PlantPart	7713	7719	leaves
-T210	Compound	7736	7751	dichloromethane
-T211	Synonym	7764	7778	Hoya madulidii
-T212	Compound	7787	7793	lupeol
-T213	Compound	7795	7810	beta-sitosterol
-T214	Compound	7812	7824	stigmasterol
-T215	Compound	7826	7847	beta-amyrin cinnamate
-T216	Compound	7849	7871	alpha-amyrin cinnamate
-T217	Compound	7880	7896	lupeol cinnamate
-T218	PlantPart	7907	7912	stems
-T219	Compound	7917	7925	squalene
-T220	Compound	7927	7942	beta-sitosterol
-T221	Compound	7944	7956	stigmasterol
-T222	Compound	7958	7971	chlorophyll a
-T223	PlantPart	7989	7995	leaves
-T224	Compound	8017	8032	dichloromethane
-T225	Preparation	6690	6697	extract
-T226	PlantPart	8048	8054	leaves
-T227	Synonym	8058	8071	Hoya meliflua
-T228	Compound	8080	8088	squalene
-T229	Compound	8090	8101	beta-amyrin
-T230	Compound	8104	8116	alpha-amyrin
-T231	Compound	8119	8125	lupeol
-T232	Compound	8128	8136	oleanone
-T233	Compound	8139	8147	ursenone
-T234	Compound	8150	8158	lupenone
-T235	Compound	8161	8182	beta-amyrin cinnamate
-T236	Compound	8185	8207	alpha-amyrin cinnamate
-T237	Compound	8210	8227	lupenyl cinnamate
-T238	Compound	8230	8245	beta-sitosterol
-T239	Compound	8250	8262	stigmasterol
-T240	Compound	8627	8635	vanillin
-T241	Synonym	8691	8704	Hoya meliflua
-T242	PlantPart	8705	8711	leaves
-T243	PlantPart	8716	8721	stems
-T244	Location	8954	8969	Quezon Province
-T245	Location	8971	8982	Philippines
-T246	Preparation	7131	7138	extract
-T247	PlantPart	9630	9636	Leaves
-T248	PlantPart	9651	9657	leaves
-T249	Preparation	9673	9679	ground
-T250	Preparation	9735	9743	filtered
-T251	Preparation	7543	7550	extract
-T252	Compound	9916	9923	acetone
-T253	Compound	10043	10051	squalene
-T254	Compound	10072	10079	acetone
-T255	Compound	10182	10203	beta-amyrin cinnamate
-T256	Compound	10205	10227	alpha-amyrin cinnamate
-T257	Compound	10233	10250	lupenyl cinnamate
-T258	Compound	10307	10314	acetone
-T259	Compound	10419	10427	oleanone
-T260	Compound	10429	10437	ursenone
-T261	Compound	10443	10451	lupenone
-T262	Compound	10509	10516	acetone
-T263	Compound	10622	10633	beta-amyrin
-T264	Compound	10635	10647	alpha-amyrin
-T265	Compound	10653	10659	lupeol
-T266	Compound	10716	10723	acetone
-T267	Compound	10828	10843	beta-sitosterol
-T268	Compound	10848	10860	stigmasterol
-T269	Compound	10942	10957	dichloromethane
-T270	Preparation	7752	7759	extract
-T271	PlantPart	10975	10981	leaves
-T272	Synonym	10985	10998	Hoya meliflua
-T273	Compound	11008	11016	squalene
-T274	Compound	11033	11044	beta-amyrin
-T275	Compound	11047	11059	alpha-amyrin
-T276	Compound	11064	11070	lupeol
-T277	Compound	11096	11104	oleanone
-T278	Compound	11107	11115	ursenone
-T279	Compound	11120	11128	lupenone
-T280	Compound	11153	11174	beta-amyrin cinnamate
-T281	Compound	11177	11199	alpha-amyrin cinnamate
-T282	Compound	11204	11221	lupenyl cinnamate
-T283	Compound	11252	11267	beta-sitosterol
-T284	Compound	11272	11284	stigmasterol
-T285	Compound	11447	11458	beta-amyrin
-T286	Compound	11519	11530	beta-amyrin
-T287	Compound	11532	11544	alpha-amyrin
-T288	Compound	11550	11562	alpha-amyrin
-T289	Compound	11564	11570	lupeol
-T290	Compound	11576	11582	lupeol
-T291	Compound	11584	11592	oleanone
-T292	Compound	11598	11606	oleanone
-T293	Compound	11608	11616	ursenone
-T294	Compound	11622	11630	ursenone
-T295	Compound	11632	11640	lupenone
-T296	Compound	11646	11654	lupenone
-T297	Compound	11656	11677	beta-amyrin cinnamate
-T298	Compound	11683	11704	beta-amyrin cinnamate
-T299	Compound	11706	11728	alpha-amyrin cinnamate
-T300	Compound	11734	11756	alpha-amyrin cinnamate
-T301	Compound	11758	11775	lupenyl cinnamate
-T302	Compound	11781	11797	lupeol cinnamate
-T303	Compound	11799	11807	squalene
-T304	Compound	11809	11824	beta-sitosterol
-T305	Compound	11829	11841	stigmasterol
-T306	Compound	11891	11902	beta-amyrin
-T307	Compound	11905	11917	alpha-amyrin
-T308	Compound	11922	11928	lupeol
-T309	Compound	12032	12043	beta-amyrin
-T310	Compound	12064	12076	alpha-amyrin
-T311	Compound	12100	12106	lupeol
-T312	Compound	12192	12200	oleanone
-T313	Compound	12203	12211	ursenone
-T314	Compound	12216	12224	lupenone
-T315	Compound	12328	12336	oleanone
-T316	Compound	12364	12372	ursenone
-T317	Compound	12403	12411	lupenone
-T318	Compound	12492	12513	beta-amyrin cinnamate
-T319	Compound	12516	12538	alpha-amyrin cinnamate
-T320	Compound	12543	12560	lupenyl cinnamate
-T321	Compound	12664	12685	beta-amyrin cinnamate
-T322	Compound	12703	12725	alpha-amyrin cinnamate
-T323	Compound	12750	12767	lupenyl cinnamate
-T324	Compound	12844	12859	beta-sitosterol
-T325	Compound	12864	12876	stigmasterol
-T326	Compound	13027	13041	beta-sitoterol
-T327	Compound	13182	13194	stigmasterol
-T328	Synonym	13197	13210	Hoya meliflua
-T329	Location	13255	13266	Philippines
-T330	Synonym	13400	13413	Hoya meliflua
-T331	Compound	13581	13592	Beta-Amyrin
-T332	Compound	13597	13609	alpha-amyrin
-T333	BioAct	13635	13652	anti-inflammatory
-T334	ChemicalClass	13686	13696	Triterpene
-T335	Compound	13697	13708	beta-amyrin
-T336	BioAct	13717	13727	antifungal
-T337	Compound	13794	13806	alpha-amyrin
-T338	Compound	13874	13884	grape-vine
-T339	PlantPart	13885	13891	leaves
-T340	Synonym	13893	13907	Vitis vinifera
-T341	Compound	13926	13937	beta-amyrin
-T342	Compound	13943	13955	alpha-amyrin
-T343	Compound	14088	14099	beta-amyrin
-T344	Compound	14105	14117	alpha-amyrin
-T345	Compound	14273	14284	beta-amyrin
-T346	Compound	14290	14302	alpha-amyrin
-T347	Compound	14356	14367	beta-amyrin
-T348	Compound	14370	14382	alpha-amyrin
-T349	Compound	14385	14391	lupeol
-T350	Compound	14394	14402	oleanone
-T351	Compound	14405	14413	ursenone
-T352	Compound	14416	14424	lupenone
-T353	Compound	14427	14448	beta-amyrin cinnamate
-T354	Compound	14451	14473	alpha-amyrin cinnamate
-T355	Compound	14478	14495	lupenyl cinnamate
-T356	ChemicalClass	14516	14527	Triterpenes
-T357	ChemicalClass	14532	14539	Sterols
-T358	BodyPart	14610	14614	hand
-T359	Compound	14616	14622	lupeol
-T360	Compound	14674	14680	lupeol
-T361	Compound	14779	14785	lupeol
-T362	BioAct	14798	14808	antifungal
-T363	ChemicalClass	14871	14881	Triterpene
-T364	Compound	14882	14888	lupeol
-T365	CellLine	14916	14921	451Lu
-T366	CellLine	14988	14998	MDA-MB-231
-T367	BodyPart	15005	15011	breast
-T368	Compound	15196	15202	lupeol
-T369	BioAct	15220	15237	anti-inflammatory
-T370	Compound	15456	15462	lupeol
-T371	Compound	15468	15482	lupeol acetate
-T372	Compound	15558	15564	lupeol
-T373	Compound	15585	15593	Lupenone
-T374	Compound	15682	15690	Lupenone
-T375	Compound	15932	15940	lupenone
-T376	Compound	15995	16016	Beta-Amyrin cinnamate
-T377	BodyPart	84	87	ear
-T378	BodyPart	628	631	ear
-T379	BodyPart	635	638	ear
-T380	BodyPart	1286	1289	ear
-T381	Compound	16228	16250	alpha-Amyrin cinnamate
-T382	Compound	16253	16269	lupeol cinnamate
-T383	Compound	16274	16295	beta-amyrin cinnamate
-T384	BioAct	16314	16331	anti-inflammatory
-T385	CellLine	16349	16360	TPA-induced
-T386	BodyPart	2166	2169	ear
-T387	ChemicalClass	16403	16413	Triterpene
-T388	Compound	16414	16431	lupenyl cinnamate
-T389	BodyPart	2233	2236	ear
-T390	ChemicalClass	16494	16504	triterpene
-T391	BioAct	16542	16559	anti-inflammatory
-T392	Compound	16629	16646	lupenyl cinnamate
-T393	CellLine	16045	16048	TPA
-T394	ChemicalClass	16795	16806	Triterpenes
-T395	Compound	16807	16828	beta-amyrin cinnamate
-T396	Compound	16830	16852	alpha-amyrin cinnamate
-T397	Compound	16854	16871	lupenyl cinnamate
-T398	CellLine	16956	16960	Raji
-T399	Compound	17031	17039	Squalene
-T400	Compound	17232	17240	Squalene
-T401	BioAct	17368	17379	antioxidant
-T402	ChemicalClass	17422	17434	tocotrienols
-T403	ChemicalClass	17436	17447	carotenoids
-T404	Compound	17449	17457	squalene
-T405	BioAct	17480	17498	anti-proliferative
-T406	BodyPart	17510	17516	breast
-T407	Compound	17576	17584	squalene
-T408	Compound	17701	17709	squalene
-T409	Compound	17730	17745	Beta-Sitosterol
-T410	BodyPart	17802	17808	breast
-T411	CellLine	17809	17814	MCF-7
-T412	CellLine	17819	17828	MDAMB-231
-T413	Compound	17852	17867	Beta-Sitosterol
-T414	Compound	17946	17961	Beta-Sitosterol
-T415	Compound	17993	18005	beta-catenin
-T416	Compound	18070	18085	Beta-Sitosterol
-T417	BioAct	18098	18108	anticancer
-T418	Compound	18141	18156	Beta-Sitosterol
-T419	CellLine	18187	18193	NPC1L1
-T420	Compound	18255	18270	Beta-Sitosterol
-T421	Compound	18380	18386	murine
-T422	Compound	18408	18420	Stigmasterol
-T423	Compound	18582	18594	Stigmasterol
-T424	ChemicalClass	14177	14183	sterol
-T425	Compound	18738	18747	bile acid
-T426	Compound	18819	18831	stigmasterol
-T427	CellLine	18867	18872	Hep-2
-T428	CellLine	18877	18882	McCoy
-T429	BioAct	18977	18990	antimutagenic
-T430	BioAct	19000	19017	anti-inflammatory
-T431	BioAct	19041	19052	antioxidant
-T432	Synonym	19106	19119	Hoya meliflua
-T433	Location	3871	3875	Hoya
-T434	Synonym	19198	19213	Hoya multiflora
-T435	Synonym	19215	19232	Hoya diversifolia
-T436	Synonym	19234	19249	Hoya cumingiana
-T437	Synonym	19255	19266	Hoya paziae
-T438	Compound	19281	19292	beta-amyrin
-T439	Compound	19297	19309	alpha-amyrin
-T440	Synonym	19312	19328	Hoya mindorensis
-T441	Synonym	19330	19345	Hoya multiflora
-T442	Synonym	19347	19364	Hoya diversifolia
-T443	Synonym	19366	19381	Hoya cumingiana
-T444	Synonym	19383	19394	Hoya paziae
-T445	Synonym	19396	19413	Hoya cagayanensis
-T446	Synonym	19419	19433	Hoya madulidii
-T447	Compound	19450	19456	lupeol
-T448	Synonym	19459	19475	Hoya mindorensis
-T449	Synonym	19477	19491	Hoya pubicalyx
-T450	Synonym	19497	19514	Hoya cagayanensis
-T451	Compound	19530	19538	lupenone
-T452	Synonym	19541	19553	Hoya wayetii
-T453	Synonym	19555	19566	Hoya buotii
-T454	Synonym	19572	19586	Hoya madulidii
-T455	Compound	19601	19622	beta-amyrin cinnamate
-T456	Synonym	19625	19636	Hoya buotii
-T457	Synonym	19642	19656	Hoya madulidii
-T458	Compound	19672	19694	alpha-amyrin cinnamate
-T459	Synonym	19697	19714	Hoya diversifolia
-T460	Synonym	19719	19733	Hoya madulidii
-T461	Compound	19749	19766	lupenyl cinnamate
-T462	Synonym	19769	19785	Hoya mindorensis
-T463	Synonym	19787	19802	Hoya multiflora
-T464	Synonym	19804	19816	Hoya wayetii
-T465	Synonym	19818	19829	Hoya buotii
-T466	Synonym	19831	19848	Hoya diversifolia
-T467	Synonym	19850	19865	Hoya cumingiana
-T468	Synonym	19867	19881	Hoya pubicalyx
-T469	Synonym	19883	19900	Hoya cagayanensis
-T470	Synonym	19906	19920	Hoya madulidii
-T471	Compound	19937	19952	beta-sitosterol
-T472	Compound	19957	19969	stigmasterol
-T473	Synonym	19975	19991	Hoya mindorensis
-T474	Synonym	19993	20004	Hoya buotii
-T475	Synonym	20006	20023	Hoya diversifolia
-T476	Synonym	20028	20042	Hoya madulidii
-T477	Compound	20059	20067	squalene
-T478	Location	19192	19196	Hoya
-T479	Compound	20145	20160	beta-sitosterol
-T480	Compound	20165	20177	stigmasterol
-T481	Synonym	20249	20262	Hoya meliflua
-T482	Compound	20264	20270	lupeol
-T483	Compound	20298	20306	squalene
-T484	Compound	20308	20319	beta-amyrin
-T485	Compound	20324	20336	alpha-amyrin
-T486	Compound	20354	20362	lupenone
-T487	Compound	20367	20388	beta-amyrin cinnamate
-T488	Compound	20406	20428	alpha-amyrin cinnamate
-T489	Compound	20433	20450	lupenyl cinnamate
-T490	Compound	20470	20478	Oleanone
-T491	Compound	20483	20491	ursenone
-T492	Location	20120	20124	Hoya
-T493	Compound	20555	20563	Oleanone
-T494	Location	20540	20544	Hoya
-T495	Synonym	20704	20717	Hoya meliflua
-T496	Synonym	20813	20826	Hoya meliflua
-T497	Synonym	20897	20914	Hoya diversifolia
-T498	Location	20967	20972	Osaka
-T499	Location	21139	21145	Manila
-T500	Compound	21283	21298	Dichloromethane
-T501	Compound	21307	21320	Ethyl acetate
-T502	Compound	21328	21335	Diethyl
+T1	ChemicalClass 120 131	Triterpenes
+T2	ChemicalClass 136 143	Sterols
+T3	PlantPart 149 155	Leaves
+T4	Synonym 159 172	Hoya meliflua
+T5	Location 1152 1156	Hoya
+T6	Family 1226 1237	Apocynaceae
+T7	MedicinalPlant 1256 1266	wax plants
+T8	PlantPart 1303 1309	leaves
+T9	PlantPart 1314 1321	flowers
+T10	Location 1455 1466	Philippines
+T11	Location 1502 1506	Hoya
+T12	Synonym 1577 1590	Hoya meliflua
+T13	Location 1605 1611	Apayao
+T14	Location 1613 1619	Bataan
+T15	Location 1621 1627	Laguna
+T16	Location 1629 1637	La Union
+T17	Location 1642 1647	Rizal
+T18	Location 1651 1663	Luzon Island
+T19	Location 1671 1676	Leyte
+T20	Location 1678 1685	Mindoro
+T21	Location 1687 1693	Negros
+T22	Location 1695 1702	Palawan
+T23	Location 1707 1712	Panay
+T24	Location 1732 1743	Philippines
+T25	Location 1821 1827	Laguna
+T26	Synonym 1888 1901	Hoya meliflua
+T27	Synonym 1977 1994	Hoya diversifolia
+T28	Compound 2267 2275	lupenone
+T29	Compound 2280 2286	lupeol
+T30	PlantPart 2296 2301	roots
+T31	Compound 2303 2309	lupeol
+T32	Compound 2311 2319	squalene
+T33	Compound 2324 2339	beta-sitosterol
+T34	PlantPart 2349 2355	leaves
+T35	Compound 2361 2368	betulin
+T36	PlantPart 2378 2383	stems
+T37	Synonym 2387 2403	Hoya mindorensis
+T38	Compound 2464 2470	lupeol
+T39	Compound 2472 2484	alpha-amyrin
+T40	Compound 2487 2498	beta-amyrin
+T41	Compound 2501 2515	lupeol acetate
+T42	Compound 2518 2538	alpha-amyrin acetate
+T43	ChemicalClass 2539 2550	Triterpenes
+T44	ChemicalClass 2555 2562	Sterols
+T45	PlantPart 2568 2574	Leaves
+T46	Synonym 2578 2591	Hoya meliflua
+T47	Location 2603 2607	Hoya
+T48	MedicinalPlant 2631 2641	wax plants
+T49	PlantPart 2678 2684	leaves
+T50	PlantPart 2689 2696	flowers
+T51	Location 2757 2768	Philippines
+T52	Location 2804 2808	Hoya
+T53	Synonym 2881 2894	Hoya meliflua
+T54	Synonym 2915 2932	Hoya diversifolia
+T55	Compound 3214 3229	dichloromethane
+T56	Preparation 3230 3237	extract
+T57	PlantPart 3247 3253	leaves
+T58	Synonym 3257 3270	Hoya meliflua
+T59	Compound 3280 3288	squalene
+T60	Compound 3305 3316	beta-amyrin
+T61	Compound 3319 3331	alpha-amyrin
+T62	Compound 3336 3342	lupeol
+T63	Compound 3368 3376	oleanone
+T64	Compound 3379 3387	ursenone
+T65	Compound 3392 3400	lupenone
+T66	Compound 3425 3446	beta-amyrin cinnamate
+T67	Compound 3449 3471	alpha-amyrin cinnamate
+T68	Compound 3476 3493	lupenyl cinnamate
+T69	Compound 3524 3539	beta-sitosterol
+T70	Compound 3544 3556	stigmasterol
+T71	Synonym 3619 3632	Hoya meliflua
+T72	Location 3064 3068	Hoya
+T73	ChemicalClass 3716 3727	triterpenes
+T74	ChemicalClass 3732 3739	sterols
+T75	Synonym 3754 3767	Hoya meliflua
+T76	Location 3705 3709	Hoya
+T77	Synonym 3815 3828	Hoya meliflua
+T78	Location 3800 3804	Hoya
+T79	Synonym 3969 3982	Hoya meliflua
+T80	Synonym 4026 4039	Hoya meliflua
+T81	Family 4041 4052	Apocynaceae
+T82	Compound 4054 4062	Squalene
+T83	Compound 4064 4075	beta-amyrin
+T84	Compound 4077 4089	alpha-amyrin
+T85	Compound 4091 4097	Lupeol
+T86	Compound 4099 4107	Oleanone
+T87	Compound 4109 4117	Ursenone
+T88	Compound 4119 4127	Lupenone
+T89	Compound 4129 4150	beta-amyrin Cinnamate
+T90	Compound 4152 4174	alpha-amyrin Cinnamate
+T91	Compound 4176 4193	Lupenyl Cinnamate
+T92	Compound 4195 4210	beta-sitosterol
+T93	Compound 4212 4224	Stigmasterol
+T94	Location 4461 4472	Taft Avenue
+T95	Location 4474 4480	Manila
+T96	Location 4555 4560	Osaka
+T97	Location 4573 4578	Osaka
+T98	Location 4589 4594	JAPAN
+T99	Location 4730 4749	Commonwealth Avenue
+T100	Location 4760 4771	Quezon City
+T101	Compound 4877 4884	betulin
+T102	Location 4901 4911	Binan City
+T103	Location 4913 4919	Laguna
+T104	Location 5033 5044	Taft Avenue
+T105	Location 5046 5052	Manila
+T106	ChemicalClass 5523 5534	Triterpenes
+T107	ChemicalClass 5539 5546	Sterols
+T108	PlantPart 5552 5558	Leaves
+T109	Synonym 5562 5575	Hoya meliflua
+T110	Compound 5615 5634	beta-amyrin acetate
+T111	PlantPart 5644 5649	stems
+T112	Compound 5655 5663	squalene
+T113	Compound 5665 5680	beta-sitosterol
+T114	Compound 5682 5694	alpha-amyrin
+T115	Compound 5696 5705	bauerenol
+T116	Compound 5708 5714	lutein
+T117	Compound 5719 5731	stigmasterol
+T118	PlantPart 5741 5747	leaves
+T119	Synonym 5751 5766	Hoya multiflora
+T120	Compound 5805 5826	beta-amyrin cinnamate
+T121	Compound 5831 5840	taraxerol
+T122	PlantPart 5850 5855	stems
+T123	Compound 5861 5876	beta-sitosterol
+T124	Compound 5878 5890	stigmasterol
+T125	Compound 5892 5901	taraxerol
+T126	Compound 5903 5916	triglycerides
+T127	Compound 5921 5934	chlorophyll a
+T128	PlantPart 5944 5950	leaves
+T129	Synonym 5954 5966	Hoya wayetii
+T130	Compound 6023 6038	beta-sitosterol
+T131	Compound 6040 6052	stigmasterol
+T132	Compound 6054 6075	beta-amyrin cinnamate
+T133	Compound 6077 6086	taraxerol
+T134	Compound 6088 6098	taraxerone
+T135	Compound 6103 6125	alpha-amyrin cinnamate
+T136	PlantPart 6135 6140	stems
+T137	Compound 6142 6157	beta-sitosterol
+T138	Compound 6159 6168	taraxerol
+T139	Compound 6174 6184	taraxerone
+T140	PlantPart 6195 6200	roots
+T141	Compound 6202 6223	beta-amyrin cinnamate
+T142	Compound 6229 6251	alpha-amyrin cinnamate
+T143	PlantPart 6262 6269	flowers
+T144	Compound 6275 6283	squalene
+T145	Compound 6285 6300	beta-sitosterol
+T146	PlantPart 6338 6344	leaves
+T147	Synonym 6348 6359	Hoya buotii
+T148	Compound 6414 6420	lupeol
+T149	Compound 6422 6430	squalene
+T150	Compound 6432 6447	beta-sitosterol
+T151	Compound 6449 6461	alpha-amyrin
+T152	Compound 6463 6474	beta-amyrin
+T153	Compound 6476 6497	beta-amyrin cinnamate
+T154	PlantPart 6515 6521	leaves
+T155	Compound 6527 6535	squalene
+T156	Compound 6537 6552	beta-sitosterol
+T157	Compound 6554 6566	stigmasterol
+T158	Compound 6568 6577	taraxerol
+T159	Compound 6583 6599	lupeol cinnamate
+T160	PlantPart 6609 6614	stems
+T161	Synonym 6618 6635	Hoya diversifolia
+T162	Compound 6674 6689	dichloromethane
+T163	Synonym 6702 6717	Hoya cumingiana
+T164	Compound 6732 6738	lupeol
+T165	Compound 6740 6755	beta-sitosterol
+T166	Compound 6757 6769	alpha-amyrin
+T167	Compound 6771 6782	beta-amyrin
+T168	Compound 6784 6796	stigmasterol
+T169	Compound 6802 6811	bauerenol
+T170	PlantPart 6821 6827	leaves
+T171	Compound 6833 6842	taraxerol
+T172	PlantPart 6853 6858	stems
+T173	Compound 6899 6914	beta-sitosterol
+T174	Compound 6916 6928	stigmasterol
+T175	Compound 6934 6943	taraxerol
+T176	PlantPart 6954 6959	stems
+T177	Compound 6964 6972	lupenone
+T178	Compound 6974 6989	beta-sitosterol
+T179	Compound 6991 7003	stigmasterol
+T180	Compound 7005 7027	2-hydroxyethylbenzoate
+T181	Compound 7032 7056	fatty acid methyl esters
+T182	PlantPart 7066 7072	leaves
+T183	Synonym 7076 7090	Hoya pubicalyx
+T184	Compound 7115 7130	dichloromethane
+T185	Synonym 7143 7154	Hoya paziae
+T186	Compound 7172 7192	alpha-amyrin acetate
+T187	Compound 7194 7213	beta-amyrin acetate
+T188	Compound 7215 7224	taraxerol
+T189	Compound 7230 7247	taraxeryl acetate
+T190	PlantPart 7257 7262	stems
+T191	Compound 7267 7273	lupeol
+T192	Compound 7275 7287	alpha-amyrin
+T193	Compound 7289 7300	beta-amyrin
+T194	Compound 7302 7326	lupeol fatty acid esters
+T195	ChemicalClass 7344 7355	Triterpenes
+T196	ChemicalClass 7360 7367	Sterols
+T197	Compound 7427 7457	alpha-amyrin fatty acid esters
+T198	Compound 7462 7491	beta-amyrin fatty acid esters
+T199	PlantPart 7501 7507	leaves
+T200	Compound 7527 7542	dichloromethane
+T201	Synonym 7555 7572	Hoya cagayanensis
+T202	Compound 7582 7590	lupenone
+T203	Compound 7592 7598	lupeol
+T204	Compound 7600 7615	beta-sitosterol
+T205	Compound 7617 7629	stigmasterol
+T206	Compound 7638 7657	dihydrocanaric acid
+T207	PlantPart 7669 7674	stems
+T208	Compound 7680 7703	2-hydroxyethyl benzoate
+T209	PlantPart 7713 7719	leaves
+T210	Compound 7736 7751	dichloromethane
+T211	Synonym 7764 7778	Hoya madulidii
+T212	Compound 7787 7793	lupeol
+T213	Compound 7795 7810	beta-sitosterol
+T214	Compound 7812 7824	stigmasterol
+T215	Compound 7826 7847	beta-amyrin cinnamate
+T216	Compound 7849 7871	alpha-amyrin cinnamate
+T217	Compound 7880 7896	lupeol cinnamate
+T218	PlantPart 7907 7912	stems
+T219	Compound 7917 7925	squalene
+T220	Compound 7927 7942	beta-sitosterol
+T221	Compound 7944 7956	stigmasterol
+T222	Compound 7958 7971	chlorophyll a
+T223	PlantPart 7989 7995	leaves
+T224	Compound 8017 8032	dichloromethane
+T225	Preparation 6690 6697	extract
+T226	PlantPart 8048 8054	leaves
+T227	Synonym 8058 8071	Hoya meliflua
+T228	Compound 8080 8088	squalene
+T229	Compound 8090 8101	beta-amyrin
+T230	Compound 8104 8116	alpha-amyrin
+T231	Compound 8119 8125	lupeol
+T232	Compound 8128 8136	oleanone
+T233	Compound 8139 8147	ursenone
+T234	Compound 8150 8158	lupenone
+T235	Compound 8161 8182	beta-amyrin cinnamate
+T236	Compound 8185 8207	alpha-amyrin cinnamate
+T237	Compound 8210 8227	lupenyl cinnamate
+T238	Compound 8230 8245	beta-sitosterol
+T239	Compound 8250 8262	stigmasterol
+T240	Compound 8627 8635	vanillin
+T241	Synonym 8691 8704	Hoya meliflua
+T242	PlantPart 8705 8711	leaves
+T243	PlantPart 8716 8721	stems
+T244	Location 8954 8969	Quezon Province
+T245	Location 8971 8982	Philippines
+T246	Preparation 7131 7138	extract
+T247	PlantPart 9630 9636	Leaves
+T248	PlantPart 9651 9657	leaves
+T249	Preparation 9673 9679	ground
+T250	Preparation 9735 9743	filtered
+T251	Preparation 7543 7550	extract
+T252	Compound 9916 9923	acetone
+T253	Compound 10043 10051	squalene
+T254	Compound 10072 10079	acetone
+T255	Compound 10182 10203	beta-amyrin cinnamate
+T256	Compound 10205 10227	alpha-amyrin cinnamate
+T257	Compound 10233 10250	lupenyl cinnamate
+T258	Compound 10307 10314	acetone
+T259	Compound 10419 10427	oleanone
+T260	Compound 10429 10437	ursenone
+T261	Compound 10443 10451	lupenone
+T262	Compound 10509 10516	acetone
+T263	Compound 10622 10633	beta-amyrin
+T264	Compound 10635 10647	alpha-amyrin
+T265	Compound 10653 10659	lupeol
+T266	Compound 10716 10723	acetone
+T267	Compound 10828 10843	beta-sitosterol
+T268	Compound 10848 10860	stigmasterol
+T269	Compound 10942 10957	dichloromethane
+T270	Preparation 7752 7759	extract
+T271	PlantPart 10975 10981	leaves
+T272	Synonym 10985 10998	Hoya meliflua
+T273	Compound 11008 11016	squalene
+T274	Compound 11033 11044	beta-amyrin
+T275	Compound 11047 11059	alpha-amyrin
+T276	Compound 11064 11070	lupeol
+T277	Compound 11096 11104	oleanone
+T278	Compound 11107 11115	ursenone
+T279	Compound 11120 11128	lupenone
+T280	Compound 11153 11174	beta-amyrin cinnamate
+T281	Compound 11177 11199	alpha-amyrin cinnamate
+T282	Compound 11204 11221	lupenyl cinnamate
+T283	Compound 11252 11267	beta-sitosterol
+T284	Compound 11272 11284	stigmasterol
+T285	Compound 11447 11458	beta-amyrin
+T286	Compound 11519 11530	beta-amyrin
+T287	Compound 11532 11544	alpha-amyrin
+T288	Compound 11550 11562	alpha-amyrin
+T289	Compound 11564 11570	lupeol
+T290	Compound 11576 11582	lupeol
+T291	Compound 11584 11592	oleanone
+T292	Compound 11598 11606	oleanone
+T293	Compound 11608 11616	ursenone
+T294	Compound 11622 11630	ursenone
+T295	Compound 11632 11640	lupenone
+T296	Compound 11646 11654	lupenone
+T297	Compound 11656 11677	beta-amyrin cinnamate
+T298	Compound 11683 11704	beta-amyrin cinnamate
+T299	Compound 11706 11728	alpha-amyrin cinnamate
+T300	Compound 11734 11756	alpha-amyrin cinnamate
+T301	Compound 11758 11775	lupenyl cinnamate
+T302	Compound 11781 11797	lupeol cinnamate
+T303	Compound 11799 11807	squalene
+T304	Compound 11809 11824	beta-sitosterol
+T305	Compound 11829 11841	stigmasterol
+T306	Compound 11891 11902	beta-amyrin
+T307	Compound 11905 11917	alpha-amyrin
+T308	Compound 11922 11928	lupeol
+T309	Compound 12032 12043	beta-amyrin
+T310	Compound 12064 12076	alpha-amyrin
+T311	Compound 12100 12106	lupeol
+T312	Compound 12192 12200	oleanone
+T313	Compound 12203 12211	ursenone
+T314	Compound 12216 12224	lupenone
+T315	Compound 12328 12336	oleanone
+T316	Compound 12364 12372	ursenone
+T317	Compound 12403 12411	lupenone
+T318	Compound 12492 12513	beta-amyrin cinnamate
+T319	Compound 12516 12538	alpha-amyrin cinnamate
+T320	Compound 12543 12560	lupenyl cinnamate
+T321	Compound 12664 12685	beta-amyrin cinnamate
+T322	Compound 12703 12725	alpha-amyrin cinnamate
+T323	Compound 12750 12767	lupenyl cinnamate
+T324	Compound 12844 12859	beta-sitosterol
+T325	Compound 12864 12876	stigmasterol
+T326	Compound 13027 13041	beta-sitoterol
+T327	Compound 13182 13194	stigmasterol
+T328	Synonym 13197 13210	Hoya meliflua
+T329	Location 13255 13266	Philippines
+T330	Synonym 13400 13413	Hoya meliflua
+T331	Compound 13581 13592	Beta-Amyrin
+T332	Compound 13597 13609	alpha-amyrin
+T333	BioAct 13635 13652	anti-inflammatory
+T334	ChemicalClass 13686 13696	Triterpene
+T335	Compound 13697 13708	beta-amyrin
+T336	BioAct 13717 13727	antifungal
+T337	Compound 13794 13806	alpha-amyrin
+T338	Compound 13874 13884	grape-vine
+T339	PlantPart 13885 13891	leaves
+T340	Synonym 13893 13907	Vitis vinifera
+T341	Compound 13926 13937	beta-amyrin
+T342	Compound 13943 13955	alpha-amyrin
+T343	Compound 14088 14099	beta-amyrin
+T344	Compound 14105 14117	alpha-amyrin
+T345	Compound 14273 14284	beta-amyrin
+T346	Compound 14290 14302	alpha-amyrin
+T347	Compound 14356 14367	beta-amyrin
+T348	Compound 14370 14382	alpha-amyrin
+T349	Compound 14385 14391	lupeol
+T350	Compound 14394 14402	oleanone
+T351	Compound 14405 14413	ursenone
+T352	Compound 14416 14424	lupenone
+T353	Compound 14427 14448	beta-amyrin cinnamate
+T354	Compound 14451 14473	alpha-amyrin cinnamate
+T355	Compound 14478 14495	lupenyl cinnamate
+T356	ChemicalClass 14516 14527	Triterpenes
+T357	ChemicalClass 14532 14539	Sterols
+T358	BodyPart 14610 14614	hand
+T359	Compound 14616 14622	lupeol
+T360	Compound 14674 14680	lupeol
+T361	Compound 14779 14785	lupeol
+T362	BioAct 14798 14808	antifungal
+T363	ChemicalClass 14871 14881	Triterpene
+T364	Compound 14882 14888	lupeol
+T365	CellLine 14916 14921	451Lu
+T366	CellLine 14988 14998	MDA-MB-231
+T367	BodyPart 15005 15011	breast
+T368	Compound 15196 15202	lupeol
+T369	BioAct 15220 15237	anti-inflammatory
+T370	Compound 15456 15462	lupeol
+T371	Compound 15468 15482	lupeol acetate
+T372	Compound 15558 15564	lupeol
+T373	Compound 15585 15593	Lupenone
+T374	Compound 15682 15690	Lupenone
+T375	Compound 15932 15940	lupenone
+T376	Compound 15995 16016	Beta-Amyrin cinnamate
+T377	BodyPart 84 87	ear
+T378	BodyPart 628 631	ear
+T379	BodyPart 635 638	ear
+T380	BodyPart 1286 1289	ear
+T381	Compound 16228 16250	alpha-Amyrin cinnamate
+T382	Compound 16253 16269	lupeol cinnamate
+T383	Compound 16274 16295	beta-amyrin cinnamate
+T384	BioAct 16314 16331	anti-inflammatory
+T385	CellLine 16349 16360	TPA-induced
+T386	BodyPart 2166 2169	ear
+T387	ChemicalClass 16403 16413	Triterpene
+T388	Compound 16414 16431	lupenyl cinnamate
+T389	BodyPart 2233 2236	ear
+T390	ChemicalClass 16494 16504	triterpene
+T391	BioAct 16542 16559	anti-inflammatory
+T392	Compound 16629 16646	lupenyl cinnamate
+T393	CellLine 16045 16048	TPA
+T394	ChemicalClass 16795 16806	Triterpenes
+T395	Compound 16807 16828	beta-amyrin cinnamate
+T396	Compound 16830 16852	alpha-amyrin cinnamate
+T397	Compound 16854 16871	lupenyl cinnamate
+T398	CellLine 16956 16960	Raji
+T399	Compound 17031 17039	Squalene
+T400	Compound 17232 17240	Squalene
+T401	BioAct 17368 17379	antioxidant
+T402	ChemicalClass 17422 17434	tocotrienols
+T403	ChemicalClass 17436 17447	carotenoids
+T404	Compound 17449 17457	squalene
+T405	BioAct 17480 17498	anti-proliferative
+T406	BodyPart 17510 17516	breast
+T407	Compound 17576 17584	squalene
+T408	Compound 17701 17709	squalene
+T409	Compound 17730 17745	Beta-Sitosterol
+T410	BodyPart 17802 17808	breast
+T411	CellLine 17809 17814	MCF-7
+T412	CellLine 17819 17828	MDAMB-231
+T413	Compound 17852 17867	Beta-Sitosterol
+T414	Compound 17946 17961	Beta-Sitosterol
+T415	Compound 17993 18005	beta-catenin
+T416	Compound 18070 18085	Beta-Sitosterol
+T417	BioAct 18098 18108	anticancer
+T418	Compound 18141 18156	Beta-Sitosterol
+T419	CellLine 18187 18193	NPC1L1
+T420	Compound 18255 18270	Beta-Sitosterol
+T421	Compound 18380 18386	murine
+T422	Compound 18408 18420	Stigmasterol
+T423	Compound 18582 18594	Stigmasterol
+T424	ChemicalClass 14177 14183	sterol
+T425	Compound 18738 18747	bile acid
+T426	Compound 18819 18831	stigmasterol
+T427	CellLine 18867 18872	Hep-2
+T428	CellLine 18877 18882	McCoy
+T429	BioAct 18977 18990	antimutagenic
+T430	BioAct 19000 19017	anti-inflammatory
+T431	BioAct 19041 19052	antioxidant
+T432	Synonym 19106 19119	Hoya meliflua
+T433	Location 3871 3875	Hoya
+T434	Synonym 19198 19213	Hoya multiflora
+T435	Synonym 19215 19232	Hoya diversifolia
+T436	Synonym 19234 19249	Hoya cumingiana
+T437	Synonym 19255 19266	Hoya paziae
+T438	Compound 19281 19292	beta-amyrin
+T439	Compound 19297 19309	alpha-amyrin
+T440	Synonym 19312 19328	Hoya mindorensis
+T441	Synonym 19330 19345	Hoya multiflora
+T442	Synonym 19347 19364	Hoya diversifolia
+T443	Synonym 19366 19381	Hoya cumingiana
+T444	Synonym 19383 19394	Hoya paziae
+T445	Synonym 19396 19413	Hoya cagayanensis
+T446	Synonym 19419 19433	Hoya madulidii
+T447	Compound 19450 19456	lupeol
+T448	Synonym 19459 19475	Hoya mindorensis
+T449	Synonym 19477 19491	Hoya pubicalyx
+T450	Synonym 19497 19514	Hoya cagayanensis
+T451	Compound 19530 19538	lupenone
+T452	Synonym 19541 19553	Hoya wayetii
+T453	Synonym 19555 19566	Hoya buotii
+T454	Synonym 19572 19586	Hoya madulidii
+T455	Compound 19601 19622	beta-amyrin cinnamate
+T456	Synonym 19625 19636	Hoya buotii
+T457	Synonym 19642 19656	Hoya madulidii
+T458	Compound 19672 19694	alpha-amyrin cinnamate
+T459	Synonym 19697 19714	Hoya diversifolia
+T460	Synonym 19719 19733	Hoya madulidii
+T461	Compound 19749 19766	lupenyl cinnamate
+T462	Synonym 19769 19785	Hoya mindorensis
+T463	Synonym 19787 19802	Hoya multiflora
+T464	Synonym 19804 19816	Hoya wayetii
+T465	Synonym 19818 19829	Hoya buotii
+T466	Synonym 19831 19848	Hoya diversifolia
+T467	Synonym 19850 19865	Hoya cumingiana
+T468	Synonym 19867 19881	Hoya pubicalyx
+T469	Synonym 19883 19900	Hoya cagayanensis
+T470	Synonym 19906 19920	Hoya madulidii
+T471	Compound 19937 19952	beta-sitosterol
+T472	Compound 19957 19969	stigmasterol
+T473	Synonym 19975 19991	Hoya mindorensis
+T474	Synonym 19993 20004	Hoya buotii
+T475	Synonym 20006 20023	Hoya diversifolia
+T476	Synonym 20028 20042	Hoya madulidii
+T477	Compound 20059 20067	squalene
+T478	Location 19192 19196	Hoya
+T479	Compound 20145 20160	beta-sitosterol
+T480	Compound 20165 20177	stigmasterol
+T481	Synonym 20249 20262	Hoya meliflua
+T482	Compound 20264 20270	lupeol
+T483	Compound 20298 20306	squalene
+T484	Compound 20308 20319	beta-amyrin
+T485	Compound 20324 20336	alpha-amyrin
+T486	Compound 20354 20362	lupenone
+T487	Compound 20367 20388	beta-amyrin cinnamate
+T488	Compound 20406 20428	alpha-amyrin cinnamate
+T489	Compound 20433 20450	lupenyl cinnamate
+T490	Compound 20470 20478	Oleanone
+T491	Compound 20483 20491	ursenone
+T492	Location 20120 20124	Hoya
+T493	Compound 20555 20563	Oleanone
+T494	Location 20540 20544	Hoya
+T495	Synonym 20704 20717	Hoya meliflua
+T496	Synonym 20813 20826	Hoya meliflua
+T497	Synonym 20897 20914	Hoya diversifolia
+T498	Location 20967 20972	Osaka
+T499	Location 21139 21145	Manila
+T500	Compound 21283 21298	Dichloromethane
+T501	Compound 21307 21320	Ethyl acetate
+T502	Compound 21328 21335	Diethyl
