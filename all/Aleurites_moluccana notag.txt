@@ -1,0 +1,151 @@
+Available online www.jocpr.com Journal of Chemical and Pharmaceutical Research, 2014, 6:1318-1320 Research Article ISSN : 0975-7384 CODEN(USA) : JCPRC 1318 Chemical constituents of the bark of Aleurites moluccana L. Willd.
+
+Agnes B. Alimboyoguen, Kathlia A. De Castro-Cruz, Chien-Chang Shen, Wen-Tai Li2 and Consolacion Y. Ragasa,4* 1School of Chemical Engineering and Chemistry, Mapa Institute of Technology, Muralla St., Intramuros, Manila 1002 Philippines 2National Research Institute of Chinese Medicine, 155-1, Li-Nong St., Sec. , Taipei 112, Taiwan 3Chemistry Department, De La Salle University Science & Technology Complex Leandro V. Locsin Campus, Binan City, Laguna 4024, Philippines 4Chemistry Department, De La Salle University, 2401 Taft Avenue, Manila, 1004 Philippines.
+
+. The dichloromethane extract of the bark of Aleurites moluccana L. Willd afforded 12-hydroxy-13-methoxy-8,11,13podocarpatrien-3-one , spruceanol , 3-acetylaleuritolic acid , polyprenols, triglycerides and a mixture of beta-sitosterol and stigmasterol in a 4:1 ratio.
+
+The structures of Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, spruceanol, 3-acetyl aleuritolic acid, were elucidated by extensive 1D and 2D NMR spectroscopy.
+
+Keywords Aleurites moluccana L. Willd., Euphorbiaceae, lumbang bark, 12-hydroxy-13-methoxy-8,11,13podocarpatrien-3-one, spruceanol, 3-acetylaleuritolic acid.
+
+. Aleurites moluccana [L] Willd of the family Euphorbiaceae, commonly known as lumbang is an indigenous tree in Southeast Asia which grows naturally in forest areas and abandoned lands at low and medium altitudes.
+
+Many parts of the tree including the seeds, leaves, flowers, and bark are frequently used in traditional medicine.
+
+Decoction of the leaves and bark are usually administered to treat headaches, fever, hypocholesterolemia, tumors, diarrhea and dysentery.
+
+The flowers and sap of Aleurites moluccana are commonly used in maintaining dental hygiene , while the seed oil is a laxative stimulant and sometimes used like castor oil.
+
+An earlier study reported the isolation of swertisin from the leaves, and acetyl aleuritolic acid from the bark which were found to exhibit antimicrobial properties.
+
+Moluccanin, a coumarinolignoid from Aleurites moluccana exhibited anti-bacterial and antiviral activities.
+
+Another study reported the isolation of three novel 3-acetyl aleuritolic acid, 4-seco-podocarpane-type trinorditerpenoids: moluccanic acid, moluccanic acid methyl ester and 6,7-dehydromoluccanic acid from the twigs and leaves of the tree which were found to possess cytotoxicity effects.
+
+Furthermore, four new podocarpane-type trinorditerpenes were isolated from the twigs and leaves of Aleurites moluccana.
+
+Recently, five megastigmanes namely, (6S,9R)roseoside, vomifoliol-9-O-beta-apiofuranosyl-beta-glucopyranoside, 3-oxo-alpha-ionol-O-beta-apiofuranosyl-beta-glucopyranoside, 3-oxo-alpha-ionol-O-beta-glucopyranoside, and debiloside were isolated from the leaves of Aleurites moluccana.
+
+In this study, the isolation and structure elucidation of 12-hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one , spruceanol , and 3-acetylaleuritolic acid (Fig. ), along with polyprenols, triglycerides, beta-sitosterol and stigmasterol from the CH2Cl2 extract of the air-dried bark of Aleurites moluccana [L] Willd are reported.
+
+Consolacion Y. Ragasa et al J. Chem.
+
+Pharm. Res., 2014, 6:1318-1320.
+
+1319 CH3 OH spruceanol, AcO 3-acetyl aleuritolic acid, 3 810 18 20 11 13 Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, HO CH3 Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, 6 11 14 18 20 24 27 30 Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, 4 8 11 14 18 20 15 17 H O OCH3 OH Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, Fig..
+
+Chemical constituents of Aleurites moluccana bark: 12-hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one , spruceanol , and 3-acetylaleuritolic acid EXPERIMENTAL SECTION General Experimental Procedures NMR spectra were recorded on a Varian VNMRS spectometer in CDCl at 600 MHz for 1H NMR and 150 MHz for 13C NMR spectra.
+
+Column chromatography was performed with silica gel 60 (70-230 mesh).
+
+Thin layer chromtography was performed wih plastic backed plates coated with silica gel F254 and the plates were visualized by spraying with vanillin/H2SO4 followed by warming.
+
+Sample Collection The bark sample was collected at the Cavite State University, Indang, Cavite in September, 2011.
+
+The bark was identified as Aleurites moluccana [L] Willd at the Philippine National Museum and stored at the Cavite State University Research Center Laboratory.
+
+Isolation The air-dried bark Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, 1 kg) of Aleurites moluccana was ground in a blender, soaked in CH2Cl2 for three days and then filtered.
+
+The filtrate was concentrated under vacuum to afford a crude extract (78.7 g) which was chromatograped using increasing proportions of acetone in CH2Cl2 at 10% increment.
+
+The 30% acetone in CH2Cl2 fraction was rechromatographed using 10% EtOAc in petroleum ether, followed by 12.5% EtOAc in petroleum ether, and finally 15% EtOAc in petroleum ether as eluents.
+
+The fractions eluted with 10% EtOAc in petroleum ether were combined and rechromatographed (4 ) in the same solvent to afford triglycerides (4 mg).
+
+The fractions eluted with 12.5% EtOAc in petroleum ether were combined and rechromatographed (5 ) in the same solvent to afford polyprenols (7 mg) after washing with petroleum ether.
+
+The fractions eluted with 15% EtOAc in petroleum ether were combined and rechromatographed 3-acetyl aleuritolic acid, ) in the same solvent to afford a mixture of beta-sitosterol and stigmasterol (5 mg) after washing with petroleum ether.
+
+The 40% acetone in CH2Cl2 fraction was rechromatographed (10 ) using 10% EtOAc in petroleum ether to afford Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, (6 mg).
+
+The air-dried bark (0.90 kg) of Aleurites moluccana was ground in a blender, soaked in CH2Cl2 for three days and then filtered.
+
+The filtrate was concentrated under vacuum to afford a crude extract (52.9 g) which was chromatograped using increasing proportions of acetone in CH2Cl2 at 10% increment.
+
+The 10% acetone in CH2Cl2 fraction was rechromatographed (9 ) using 10% EtOAc in petroleum ether to afford 3-acetyl aleuritolic acid, (7 mg).
+
+The 40% and 50% acetone in CH2Cl2 fractions were combined and rechromatographed (11 ) using Et2O:CH3CN:CH2Cl2 (0.5:0.5:9) to afford spruceanol, (5 mg). -hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one : colorless solid.
+
+C NMR (150 MHz, CDCl): 37.62 (C-1), 34.65 (C-2), 217.37 (C-3), 47.28 (C-4), 50.64 (C-5), 20.38 (C-6), 30.60 (C-7), 127.35 (C-8), 140.16 (C-9), 36.94 (C-10), 110.51 (C-11), 143.78 (C-12), 144.71 (C-13), 111.22 (C-14), 26.89 (C-18), 21.04 (C-19), 24.48 (C20), 55.81 (OCH3).
+
+Spruceanol : colorless solid.
+
+C NMR (150 MHz, CDCl): 37.33 (C-1), 27.98 (C-2), 78.74 (C-3), 38.96 (C4), 49.32 (C-5), 18.93 (C-6), 29.27 (C-7), 125.20 (C-8), 147.79 (C-9), 37.57 (C-10), 109.68 (C-11), 151.98 (C-12), 119.07 (C-13), 139.20 (C-14), 135.42 (C-15), 119.55 (C-16), 12.83 (C-17), 28.04 (C-18), 15.34 (C-19), 24.81 (C20). -Acetylaleuritolic acid : colorless solid.
+
+C NMR (150 MHz, CDCl): 37.37 (C-1), 23.45 (C-2), 80.87 (C-3), 37.67 (C-4), 55.58 (C-5), 18.72 (C-6), 40.75 (C-7), 39.02 (C-8), 49.05 (C-9), 37.92 (C-10), 17.30 (C-11), 33.65 (C12), 37.31 (C-13), 160.57 (C-14), 116.78 (C-15), 31.33 (C-16), 51.42 (C-17), 41.43 (C-18), 35.32 (C-19), 29.29 (CConsolacion Y. Ragasa et al J. Chem.
+
+Pharm. Res., 2014, 6:1318-1320.
+
+1320 20), 33.31 (C-21), 30.70 (C-22), 27.94 (C-23), 16.58 (C-24), 15.62 (C-25), 26.17 (C-26), 22.43 (C-27), 183.56 (C28), 31.86 (C-29), 28.66 (C-30), 170.99, 21.30 (OAc)..
+
+Silica gel chromatography of the dichloromethane extract of the bark of Aleurites moluccana afforded 12-hydroxy-13methoxy-8,11,13-podocarpatrien-3-one , spruceanol , and 3-acetylaleuritolic acid .
+
+The structures of Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, spruceanol, 3-acetyl aleuritolic acid, were elucidated by extensive 1D and 2D NMR spectroscopy. -Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one , spruceanol and 3-acetyl aleuritolic acid were earlier reported as constituents of Aleurites moluccana.
+
+Diterpene spruceanol, was first reported as a constituent of the root and bark of Cunuria spruceana which exhibited cytotoxic and antitumor activity.
+
+The structure of 3-acetyl aleuritolic acid, was confirmed by comparison of its 13C NMR data with those reported in the literature for 3-acetylaleuritolic acid.
+
+Triterpene 3-acetyl aleuritolic acid, exhibited antimicrobial activity against S. aureus and S. typhimurium ; significant inhibitory activity on vitality of adult male worms of O. gutturosa ; strong inhibition of DNA topoisomerase II and high cytotoxicity against human lung carcinoma A549 cells.
+
+The structures of polyprenols , triglycerides , beta-sitosterol and stigmasterol , were confirmed by comparison of their 13C NMR data with those reported in the literature.
+
+REFFERENCES JA Duke, Handbook of Medicinal Herbs, CRC Press, USA, 1991, 29.
+
+VC Filho; TMB Bresolin; CMS Bittencourt; MM Souza; RM Lucinda; NLM Quinto; TC Mora; R Spricigo; C Picolli; M Nita; M Pesreira, 2008, Patente PI 0804525-9 A2 (22).
+
+C Meyre-Silva; TC Mora; MW Biavatti; AR Santos; J Dal-Magro; RA Yunes; V Cechinel-Filho, Phytomed., 1998, 5, 109-113.
+
+C Meyre-Silva; TC Mora; AR Soares Santos; J Dal Magro; RA Yunes; F Delle Monache; V Cechinel-Filho, Acta Farm.
+
+Bonaerense, 1997, 16 , 169-72.
+
+T Shamsuddin; W Rahman; SA Khan; KM Shamsuddin; JB Kintzinger, Phytochem., 1988, 27, 1908-1909.
+
+CP Locher; MT Burch; HE Mower; J Berestecky; H Davis; B Van-Poel; A Lasure; DA Vanden-Berghe; AJ Vlietinck, J. Ethnopharmacol., 1995, 49, 23-32.
+
+CP Locher; M Witvrouw; MP Bethune; MT Burch; HE Mower; H Davis; A Lasure; R Pauwels; E Clercq; AJ Vlietinck, Phytomed., 1996, spruceanol, 259-264.
+
+H Liu; Y Di; J Yang; F Teng; Y Lu; W Ni; X Hao, Tetrahedron Lett., 2008, 49, 5150-5151.
+
+H-Y Liu, S-J Li, Y Zhao, W Ni, X-J Hao, J-Z Li, Y Hu, B-B Xie, C Qing, C-X Chen.
+
+Helv. Chim.
+
+Acta, 2007, 90, 2017-223.
+
+D Silva; B Fernandes; E Felipe, L Ferreira; DR Callejon; TGuaratini, Biochem.
+
+Syst. Ecol., 2012, 40, 34-37.
+
+DB Da Silva; EFA, Fernandes; LS Ferreira; DR Callejon; T Guaratini; JNC Lopes; C Meyre-Silva; VC Filho; NP Lopes, Biochem.
+
+Syst. Ecol. , 40, 34-37.
+
+SP Gunasekera; GA Cordel; NR Farnsworth, J. Nat.
+
+Prod., 1979, 42, 658-662.
+
+S Prachayasittikul; S Suphapong; A Worachartcheewan; R Lawung; S Ruchirawat; V Prachayasittikul, Molecules,, 2009, 14, 850-867.
+
+MY Peres; F Delle Monache; AB Cruz; MG Pizzolatti; RAJ Yunes J. Ethnopharmacol. , 56, 223-226.
+
+B Nyasse; I Ngantchou; JJ Nono; B Schneider, Nat.
+
+Prod. Res., 2006, 20, 39Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, spruceanol, 3-acetyl aleuritolic acid, 97.
+
+S Wada; R Tanaka, Chem.
+
+Biodivers., 2006, 3-acetyl aleuritolic acid, 473-479.
+
+JA Rideout ; CY Ragasa; H-T Ngo, ACGC Chem Res Commun., 2003, 16, 40-47.
+
+CY Ragasa; GS Lorena; EH Mandia; DD Raga; C-C Shen, Amer.
+
+J. Essent.
+
+Oils Nat.
+
+Prod., 2013, Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, 7-10.
+
+J-MC Cayme; CY Ragasa, Kimika, 2004, 20 Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one, spruceanol, , 5-12.

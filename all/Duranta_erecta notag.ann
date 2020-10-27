@@ -1,0 +1,180 @@
+T1	Location	186	195	USA CODEN
+T2	Synonym	257	271	Duranta erecta
+T3	PlantPart	275	282	Flowers
+T4	Compound	378	394	triacylglycerols
+T5	Location	450	461	Taft Avenue
+T6	Location	463	469	Manila
+T7	Location	476	487	Philippines
+T8	Location	538	549	Taft Avenue
+T9	Location	551	557	Manila
+T10	Location	564	575	Philippines
+T11	Compound	576	585	3National
+T12	Location	665	675	LiNong St.
+T13	Location	677	680	Sec
+T14	Location	684	690	Taipei
+T15	Location	696	702	Taiwan
+T16	Location	804	814	Binan City
+T17	Location	816	822	Laguna
+T18	Location	829	840	Philippines
+T19	Compound	875	890	dichloromethane
+T20	Preparation	891	898	extract
+T21	PlantPart	906	913	flowers
+T22	Synonym	917	931	Duranta erecta
+T23	Compound	963	977	oleanolic acid
+T24	Compound	993	1005	alpha-amyrin
+T25	Compound	1010	1021	beta-amyrin
+T26	Compound	1038	1062	phytyl fatty acid esters
+T27	Compound	1069	1085	triacylglycerols
+T28	Synonym	1192	1206	Duranta erecta
+T29	Family	1208	1219	Verbenaceae
+T30	Compound	1221	1235	oleanolic acid
+T31	Compound	1237	1261	phytyl fatty acid esters
+T32	Compound	1263	1275	alpha-amyrin
+T33	Compound	1277	1288	beta-amyrin
+T34	Compound	1290	1306	triacylglycerols
+T35	Synonym	1311	1325	Duranta erecta
+T36	Synonym	1334	1348	Duranta repens
+T37	Family	1367	1378	Verbenaceae
+T38	Location	1423	1436	South America
+T39	PlantPart	1464	1470	fruits
+T40	PlantPart	1514	1520	leaves
+T41	PlantPart	1571	1577	leaves
+T42	Synonym	1581	1595	Duranta erecta
+T43	Compound	1612	1622	glucosides
+T44	Compound	1624	1643	duranterectosides A
+T45	Compound	1645	1664	duranterectosides B
+T46	Compound	1666	1685	duranterectosides C
+T47	Compound	1691	1710	duranterectosides D
+T48	Compound	1712	1726	durantosides I
+T49	Compound	1731	1746	durantosides II
+T50	Compound	1748	1755	lamiide
+T51	Compound	1757	1768	lamiidoside
+T52	Compound	1773	1785	verbascoside
+T53	Compound	1788	1806	Duranterectoside A
+T54	Compound	1806	1820	durantosides I
+T55	Compound	1822	1837	durantosides II
+T56	Compound	1843	1859	durantosides III
+T57	Compound	1865	1876	lamiidoside
+T58	PlantPart	1905	1910	stems
+T59	PlantPart	1917	1923	leaves
+T60	Synonym	1927	1941	Duranta repens
+T61	Compound	1950	1964	durantoside IV
+T62	Compound	1966	1979	durantoside V
+T63	Compound	1981	1995	oleanolic acid
+T64	Compound	1997	2009	ursolic acid
+T65	Compound	2012	2028	E)-cinnamic acid
+T66	Compound	2030	2072	beta-sitosteryl-3-O-beta-D-glucopyranoside
+T67	Compound	2075	2100	E)-p-methoxycinnamic acid
+T68	Compound	2102	2111	kusaginin
+T69	Compound	2122	2135	durantoside I
+T70	Compound	2138	2152	durantoside II
+T71	Preparation	2169	2176	extract
+T72	PlantPart	2180	2184	stem
+T73	Preparation	2197	2204	extract
+T74	PlantPart	2208	2214	fruits
+T75	Compound	2337	2348	beta-amyrin
+T76	Compound	2353	2364	12-oleanene
+T77	Compound	2372	2383	21beta-diol
+T78	BioAct	2428	2441	antimicrobial
+T79	Compound	2467	2486	glycoside acteoside
+T80	Compound	2500	2507	lamiide
+T81	Compound	2516	2542	saponin pseudo-ginsenoside
+T82	Compound	2570	2578	methanol
+T83	Preparation	2395	2402	extract
+T84	Synonym	2590	2604	Duranta repens
+T85	Compound	2607	2616	Acteoside
+T86	Compound	2635	2659	phytyl fatty acid esters
+T87	Compound	2701	2708	lamiide
+T88	PlantPart	2755	2761	leaves
+T89	Synonym	2765	2779	Duranta repens
+T90	Compound	2788	2801	durantanin IV
+T91	Compound	2806	2818	durantanin V
+T92	Compound	2835	2842	saponin
+T93	Compound	2844	2858	oleanolic acid
+T94	ChemicalClass	2891	2901	flavonoids
+T95	ChemicalClass	2948	2958	flavonoids
+T96	Compound	2959	3026	3,7,4'-trihydroxy-3'-(4-hydroxy-3-methylbutyl)-5,6-dimethoxyflavone
+T97	Compound	3085	3094	xyflavone
+T98	ChemicalClass	3099	3109	diterpenes
+T99	Compound	3110	3198	6beta-hydroxy-15,16-epoxy-5beta,8beta,9beta,10alphacleroda-3,13(16),14-trien-18-oic acid
+T100	Compound	3203	3288	2beta-hydroxy-15,16-epoxy-5beta,8beta,9beta,10alpha-cleroda-3,13,14-trien-18-oic acid
+T101	Synonym	3294	3308	Duranta repens
+T102	Compound	3324	3355	24-ethylcholest-5-en-3-alpha-ol
+T103	Compound	3357	3367	naringenin
+T104	Compound	3369	3397	3,4-dihydroxy-beta-phenethyl
+T105	Compound	3508	3559	rhamnopyranosyl-4-O-caffeoyl-alpha-D-glucopyranosid
+T106	Compound	3561	3568	lamiide
+T107	Compound	3570	3590	alpha-glucopyranosyl
+T108	Compound	3620	3679	alphagalactopyranosyl-alpha-glucopyranosyl-fructopyranoside
+T109	Preparation	2579	2586	extract
+T110	Synonym	3722	3736	Duranta repens
+T111	Preparation	3711	3718	extract
+T112	Compound	3830	3849	acids methyl esters
+T113	Compound	3854	3865	fatty acids
+T114	Compound	3871	3884	palmitic acid
+T115	Compound	3925	3944	trans-cinnamic acid
+T116	Compound	3967	3975	methanol
+T117	Preparation	3759	3766	extract
+T118	PlantPart	3991	3997	fruits
+T119	Synonym	4001	4015	Duranta repens
+T120	Compound	4060	4074	oleanolic acid
+T121	Compound	4090	4102	alpha-amyrin
+T122	Compound	4107	4118	beta-amyrin
+T123	Compound	4121	4145	phytyl fatty acid esters
+T124	Compound	4152	4168	triacylglycerols
+T125	PlantPart	4178	4185	flowers
+T126	Synonym	4189	4203	Duranta erecta
+T127	Compound	4282	4296	oleanolic acid
+T128	Compound	4299	4311	alpha-amyrin
+T129	Compound	4316	4327	beta-amyrin
+T130	Compound	4330	4354	phytyl fatty acid esters
+T131	Compound	4361	4377	triacylglycerols
+T132	PlantPart	4387	4394	flowers
+T133	Synonym	4398	4412	Duranta erecta
+T134	Compound	4801	4809	vanillin
+T135	PlantPart	4880	4887	flowers
+T136	Synonym	4891	4905	Duranta erecta
+T137	Location	4926	4934	Sta Rosa
+T138	Location	4936	4942	Laguna
+T139	Location	4944	4953	Plippines
+T140	Compound	5282	5289	acetone
+T141	PlantPart	5856	5863	Flowers
+T142	Synonym	5867	5881	Duranta erecta
+T143	Synonym	5896	5910	Duranta erecta
+T144	PlantPart	5911	5918	flowers
+T145	Preparation	5931	5937	ground
+T146	Compound	5973	5997	phytyl fatty acid esters
+T147	Preparation	6013	6021	filtered
+T148	Preparation	3976	3983	extract
+T149	Compound	6090	6104	oleanolic acid
+T150	Compound	6170	6177	acetone
+T151	Compound	6226	6233	acetone
+T152	Compound	6420	6444	phytyl fatty acid esters
+T153	Compound	6446	6462	triacylglycerols
+T154	Compound	6577	6593	triacylglycerols
+T155	Compound	6612	6619	acetone
+T156	Compound	6724	6735	alphaamyrin
+T157	Compound	6741	6752	beta-amyrin
+T158	Compound	6806	6813	acetone
+T159	Compound	6911	6925	oleanolic acid
+T160	Compound	6927	6951	phytyl fatty acid esters
+T161	Compound	7028	7043	dichloromethane
+T162	Preparation	5194	5201	extract
+T163	PlantPart	7059	7065	leaves
+T164	Synonym	7069	7083	Duranta erecta
+T165	Compound	7118	7132	oleanolic acid
+T166	Compound	7193	7206	olenolic acid
+T167	Compound	7209	7220	alphaamyrin
+T168	Compound	7226	7238	alpha-amyrin
+T169	Compound	7245	7256	beta-amyrin
+T170	Compound	7262	7272	betaamyrin
+T171	Compound	7275	7299	phytyl fatty acid esters
+T172	Compound	7305	7329	phytyl fatty acid esters
+T173	Compound	7336	7352	triacylglycerols
+T174	Compound	7358	7374	triacylglycerols
+T175	Compound	7409	7420	alphaamyrin
+T176	Compound	7425	7436	beta-amyrin
+T177	Compound	7540	7551	alphaamyrin
+T178	Compound	7569	7593	phytyl fatty acid esters
+T179	Compound	7609	7620	beta-amyrin
+T180	Compound	7638	7662	phytyl fatty acid esters

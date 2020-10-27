@@ -1,0 +1,148 @@
+T1	ChemicalClass	125	132	Flavone
+T2	Synonym	138	157	Eucalyptus deglupta
+T3	Compound	259	303	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T4	Location	405	415	Binan City
+T5	Location	417	423	Laguna
+T6	Location	430	441	Philippines
+T7	Location	495	506	Taft Avenue
+T8	Location	508	514	Manila
+T9	Location	521	532	Philippines
+T10	Location	633	643	Binan City
+T11	Location	645	651	Laguna
+T12	Location	658	669	Philippines
+T13	Location	721	732	Taft Avenue
+T14	Location	734	740	Manila
+T15	Location	747	758	Philippines
+T16	Location	830	833	Sec
+T17	Location	837	843	Taipei
+T18	Location	849	855	Taiwan
+T19	Compound	890	905	dichloromethane
+T20	Preparation	906	913	extract
+T21	PlantPart	921	926	twigs
+T22	Synonym	930	949	Eucalyptus deglupta
+T23	Compound	982	1026	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T24	Compound	1047	1091	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T25	Synonym	1160	1179	Eucalyptus deglupta
+T26	Family	1181	1190	Myrtaceae
+T27	Compound	1192	1236	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T28	Synonym	1314	1333	Eucalyptus deglupta
+T29	Family	1356	1365	Myrtaceae
+T30	MedicinalPlant	1385	1397	Mindanao gum
+T31	MedicinalPlant	1401	1419	rainbow eucalyptus
+T32	Location	1438	1449	Philippines
+T33	Location	1468	1475	Pacific
+T34	Synonym	1574	1593	Eucalyptus deglupta
+T35	PlantPart	1724	1728	bark
+T36	Compound	1859	1903	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T37	PlantPart	2026	2032	leaves
+T38	Preparation	2098	2105	extract
+T39	PlantPart	2177	2183	leaves
+T40	Synonym	2187	2206	Eucalyptus deglupta
+T41	Synonym	2280	2302	Pseudomonas aeruginosa
+T42	Synonym	2305	2324	Eucalyptus deglupta
+T43	Compound	2370	2378	xanthine
+T44	Compound	2742	2756	Phloroglucinol
+T45	BioAct	2847	2859	antimalarial
+T46	ChemicalClass	2894	2904	flavonoids
+T47	PlantPart	3020	3026	leaves
+T48	Synonym	3068	3092	Eucalyptus camaldulensis
+T49	Synonym	3094	3113	Eucalyptus deglupta
+T50	Synonym	3115	3133	Eucalyptus grandis
+T51	Synonym	3135	3156	Eucalyptus torelliana
+T52	Synonym	3158	3178	Eucalyptus urophylla
+T53	ChemicalClass	3236	3244	terpenes
+T54	Compound	3246	3258	alpha-pinene
+T55	Compound	3260	3271	beta-pinene
+T56	Compound	3273	3291	alpha-phellandrene
+T57	Compound	3293	3301	limonene
+T58	Compound	3315	3323	p-cymene
+T59	Compound	3328	3346	beta-caryophyllene
+T60	Synonym	3407	3426	Eucalyptus deglupta
+T61	ChemicalClass	3439	3446	terpene
+T62	Compound	3475	3487	alpha-pinene
+T63	Compound	3493	3511	alpha-phellandrene
+T64	Compound	3513	3521	p-cymene
+T65	Compound	3523	3530	ocimene
+T66	Compound	3532	3548	isovaleraldehyde
+T67	PlantPart	3606	3610	leaf
+T68	Synonym	3628	3647	Eucalyptus deglupta
+T69	ChemicalClass	3670	3686	sesquiterpenoids
+T70	Compound	3703	3714	E-nerolidol
+T71	Compound	3789	3815	tritriacontane-16,18-dione
+T72	Compound	3817	3838	8-methoxyellagic acid
+T73	Compound	3852	3864	ellagic acid
+T74	PlantPart	3918	3922	bark
+T75	Synonym	3926	3945	Eucalyptus deglupta
+T76	CellLine	4054	4059	HIV-1
+T77	Synonym	4139	4158	Eucalyptus deglupta
+T78	Compound	4205	4217	ursolic acid
+T79	Compound	4219	4233	oleanolic acid
+T80	Compound	4239	4247	squalene
+T81	PlantPart	4257	4263	leaves
+T82	PlantPart	4268	4273	twigs
+T83	Compound	3580	3589	nerolidol
+T84	PlantPart	4297	4303	leaves
+T85	Synonym	4307	4326	Eucalyptus deglupta
+T86	Compound	4408	4451	5-hydroxy-7,4'-dimethoxy-6,8dimethylflavone
+T87	PlantPart	4461	4466	twigs
+T88	Synonym	4470	4489	Eucalyptus deglupta
+T89	Compound	4566	4610	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T90	Synonym	4617	4636	Eucalyptus deglupta
+T91	Compound	4664	4708	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T92	Compound	4868	4912	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T93	Compound	5169	5177	vanillin
+T94	PlantPart	5298	5304	leaves
+T95	PlantPart	5309	5314	twigs
+T96	Synonym	5318	5337	Eucalyptus deglupta
+T97	Compound	5397	5404	Ecozoic
+T98	Location	5433	5439	Silang
+T99	Location	5441	5447	Cavite
+T100	Location	5540	5546	Manila
+T101	Location	5548	5559	Philippines
+T102	Preparation	3893	3900	extract
+T103	PlantPart	5752	5758	leaves
+T104	Compound	3562	3569	acetone
+T105	Compound	5849	5864	dichloromethane
+T106	PlantPart	6436	6441	twigs
+T107	Synonym	6445	6464	Eucalyptus deglupta
+T108	Preparation	6478	6484	ground
+T109	Preparation	6536	6544	filtered
+T110	Preparation	3952	3959	extract
+T111	Compound	5838	5845	acetone
+T112	Compound	6678	6685	acetone
+T113	Compound	6819	6863	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T114	Compound	6927	6971	5-Hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T115	Compound	7520	7535	dichloromethane
+T116	Preparation	4125	4132	extract
+T117	PlantPart	7551	7556	twigs
+T118	Synonym	7560	7579	Eucalyptus deglupta
+T119	Compound	7612	7656	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T120	Compound	7677	7721	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T121	Compound	7795	7839	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T122	Compound	7859	7903	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T123	Compound	7977	7984	methoxy
+T124	Compound	8229	8273	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T125	Compound	8308	8316	carbonyl
+T126	Compound	8548	8555	methoxy
+T127	ChemicalClass	8653	8660	flavone
+T128	Compound	8682	8689	methoxy
+T129	Compound	8833	8877	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T130	ChemicalClass	9031	9038	flavone
+T131	Compound	9148	9155	methoxy
+T132	Compound	9236	9243	methoxy
+T133	Compound	9502	9509	methoxy
+T134	Compound	9582	9589	methoxy
+T135	Compound	9786	9794	carbonyl
+T136	Compound	9988	10032	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T137	Compound	10051	10095	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T138	Compound	10270	10314	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T139	Compound	10348	10355	methoxy
+T140	Compound	10416	10423	methoxy
+T141	Compound	10707	10714	methoxy
+T142	Compound	10769	10776	methoxy
+T143	Compound	10787	10831	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T144	Compound	10890	10934	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T145	Compound	10968	11012	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone
+T146	PlantPart	11051	11057	leaves
+T147	Synonym	11061	11084	Callistemon lanceolatus
+T148	Compound	11305	11349	5-hydroxy-7,4'-dimethoxy-6,8-dimethylflavone

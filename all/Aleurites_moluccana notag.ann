@@ -1,0 +1,195 @@
+T1	Location	132	137	CODEN
+T2	Location	138	141	USA
+T3	PlantPart	185	189	bark
+T4	Synonym	193	212	Aleurites moluccana
+T5	Compound	333	340	1School
+T6	Location	435	441	Manila
+T7	Location	447	458	Philippines
+T8	Compound	459	468	2National
+T9	Location	529	532	Sec
+T10	Location	536	542	Taipei
+T11	Location	548	554	Taiwan
+T12	Location	656	666	Binan City
+T13	Location	668	674	Laguna
+T14	Location	681	692	Philippines
+T15	Location	745	756	Taft Avenue
+T16	Location	758	764	Manila
+T17	Location	771	782	Philippines
+T18	Compound	791	806	dichloromethane
+T19	Preparation	807	814	extract
+T20	PlantPart	822	826	bark
+T21	Synonym	830	849	Aleurites moluccana
+T22	Compound	868	917	12-hydroxy-13-methoxy-8,11,13podocarpatrien-3-one
+T23	Compound	920	930	spruceanol
+T24	Compound	933	957	3-acetylaleuritolic acid
+T25	Compound	960	971	polyprenols
+T26	Compound	973	986	triglycerides
+T27	Compound	1004	1019	beta-sitosterol
+T28	Compound	1024	1036	stigmasterol
+T29	Compound	1072	1119	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T30	Compound	1121	1131	spruceanol
+T31	Compound	1133	1158	3-acetyl aleuritolic acid
+T32	Synonym	1227	1246	Aleurites moluccana
+T33	Family	1258	1271	Euphorbiaceae
+T34	MedicinalPlant	1273	1280	lumbang
+T35	PlantPart	1281	1285	bark
+T36	Compound	1287	1336	12-hydroxy-13-methoxy-8,11,13podocarpatrien-3-one
+T37	Compound	1338	1348	spruceanol
+T38	Compound	1350	1374	3-acetylaleuritolic acid
+T39	Synonym	1379	1398	Aleurites moluccana
+T40	Family	1423	1436	Euphorbiaceae
+T41	MedicinalPlant	1456	1463	lumbang
+T42	Location	1489	1503	Southeast Asia
+T43	PlantPart	1629	1634	seeds
+T44	PlantPart	1636	1642	leaves
+T45	PlantPart	1644	1651	flowers
+T46	PlantPart	1657	1661	bark
+T47	Preparation	1708	1717	Decoction
+T48	PlantPart	1725	1731	leaves
+T49	PlantPart	1736	1740	bark
+T50	Illness	1775	1784	headaches
+T51	Illness	1786	1791	fever
+T52	Illness	1793	1812	hypocholesterolemia
+T53	Illness	1814	1820	tumors
+T54	Illness	1822	1830	diarrhea
+T55	Illness	1835	1844	dysentery
+T56	PlantPart	1851	1858	flowers
+T57	Synonym	1870	1889	Aleurites moluccana
+T58	PlantPart	1950	1954	seed
+T59	PlantPart	2082	2088	leaves
+T60	Compound	2094	2117	acetyl aleuritolic acid
+T61	PlantPart	2127	2131	bark
+T62	BioAct	2160	2173	antimicrobial
+T63	Compound	2187	2197	Moluccanin
+T64	ChemicalClass	2201	2217	coumarinolignoid
+T65	Synonym	2223	2242	Aleurites moluccana
+T66	BioAct	2272	2281	antiviral
+T67	Compound	2347	2372	3-acetyl aleuritolic acid
+T68	Compound	2418	2433	moluccanic acid
+T69	Compound	2446	2463	acid methyl ester
+T70	Compound	2468	2494	6,7-dehydromoluccanic acid
+T71	PlantPart	2504	2509	twigs
+T72	PlantPart	2514	2520	leaves
+T73	ChemicalClass	2623	2639	trinorditerpenes
+T74	PlantPart	2663	2668	twigs
+T75	PlantPart	2673	2679	leaves
+T76	Synonym	2683	2702	Aleurites moluccana
+T77	ChemicalClass	2720	2733	megastigmanes
+T78	Compound	2743	2758	6S,9R)roseoside
+T79	Compound	2760	2814	vomifoliol-9-O-beta-apiofuranosyl-beta-glucopyranoside
+T80	Compound	2816	2875	3-oxo-alpha-ionol-O-beta-apiofuranosyl-beta-glucopyranoside
+T81	Compound	2877	2917	3-oxo-alpha-ionol-O-beta-glucopyranoside
+T82	Compound	2923	2933	debiloside
+T83	PlantPart	2957	2963	leaves
+T84	Synonym	2967	2986	Aleurites moluccana
+T85	Compound	3047	3097	12-hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T86	Compound	3100	3110	spruceanol
+T87	Compound	3117	3141	3-acetylaleuritolic acid
+T88	Compound	3162	3173	polyprenols
+T89	Compound	3175	3188	triglycerides
+T90	Compound	3190	3205	beta-sitosterol
+T91	Compound	3210	3222	stigmasterol
+T92	Preparation	3239	3246	extract
+T93	PlantPart	3264	3268	bark
+T94	Synonym	3272	3291	Aleurites moluccana
+T95	Location	42	46	Chem
+T96	Compound	3400	3410	spruceanol
+T97	Compound	3416	3441	3-acetyl aleuritolic acid
+T98	Compound	3461	3508	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T99	Compound	3517	3564	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T100	Compound	3589	3636	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T101	Compound	3672	3719	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T102	Synonym	3753	3772	Aleurites moluccana
+T103	PlantPart	3773	3777	bark
+T104	Compound	3779	3829	12-hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T105	Compound	3832	3842	spruceanol
+T106	Compound	3849	3873	3-acetylaleuritolic acid
+T107	Compound	4259	4267	vanillin
+T108	PlantPart	4318	4322	bark
+T109	Location	4351	4357	Cavite
+T110	Location	4376	4382	Indang
+T111	Location	4384	4390	Cavite
+T112	PlantPart	4416	4420	bark
+T113	Synonym	4439	4458	Aleurites moluccana
+T114	Location	4521	4527	Cavite
+T115	PlantPart	4598	4602	bark
+T116	Compound	4603	4650	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T117	Synonym	4661	4680	Aleurites moluccana
+T118	Preparation	4685	4691	ground
+T119	Preparation	4747	4755	filtered
+T120	Preparation	4819	4826	extract
+T121	Compound	4893	4900	acetone
+T122	Compound	4938	4945	acetone
+T123	Compound	5247	5260	triglycerides
+T124	Compound	5398	5409	polyprenols
+T125	Compound	5545	5570	3-acetyl aleuritolic acid
+T126	Compound	5617	5632	beta-sitosterol
+T127	Compound	5637	5649	stigmasterol
+T128	Compound	5702	5709	acetone
+T129	Compound	5802	5849	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T130	PlantPart	5874	5878	bark
+T131	Synonym	5892	5911	Aleurites moluccana
+T132	Preparation	5916	5922	ground
+T133	Preparation	5978	5986	filtered
+T134	Preparation	6050	6057	extract
+T135	Compound	6124	6131	acetone
+T136	Compound	6169	6176	acetone
+T137	Compound	6268	6293	3-acetyl aleuritolic acid
+T138	Compound	6320	6327	acetone
+T139	Compound	6436	6446	spruceanol
+T140	Compound	6457	6504	hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T141	Compound	6798	6808	Spruceanol
+T142	Location	156	160	Chem
+T143	Compound	7739	7754	dichloromethane
+T144	Preparation	7755	7762	extract
+T145	PlantPart	7770	7774	bark
+T146	Synonym	7778	7797	Aleurites moluccana
+T147	Compound	7807	7856	12-hydroxy-13methoxy-8,11,13-podocarpatrien-3-one
+T148	Compound	7859	7869	spruceanol
+T149	Compound	7876	7900	3-acetylaleuritolic acid
+T150	Compound	7922	7969	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T151	Compound	7971	7981	spruceanol
+T152	Compound	7983	8008	3-acetyl aleuritolic acid
+T153	Compound	8068	8115	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T154	Compound	8118	8128	spruceanol
+T155	Compound	8133	8158	3-acetyl aleuritolic acid
+T156	Synonym	8200	8219	Aleurites moluccana
+T157	ChemicalClass	8222	8231	Diterpene
+T158	Compound	8232	8242	spruceanol
+T159	PlantPart	8287	8291	root
+T160	PlantPart	8296	8300	bark
+T161	BioAct	2561	2570	cytotoxic
+T162	Compound	8390	8415	3-acetyl aleuritolic acid
+T163	Compound	8507	8531	3-acetylaleuritolic acid
+T164	ChemicalClass	8534	8544	Triterpene
+T165	Compound	8545	8570	3-acetyl aleuritolic acid
+T166	BioAct	8582	8595	antimicrobial
+T167	Synonym	8613	8622	S. aureus
+T168	Synonym	8627	8641	S. typhimurium
+T169	Synonym	8711	8723	O. gutturosa
+T170	Compound	8850	8861	polyprenols
+T171	Compound	8864	8877	triglycerides
+T172	Compound	8880	8895	beta-sitosterol
+T173	Compound	8900	8912	stigmasterol
+T174	Location	9067	9070	USA
+T175	Compound	9097	9105	Bresolin
+T176	Location	9320	9334	Cechinel-Filho
+T177	Location	9336	9345	Phytomed.
+T178	Location	9450	9464	Cechinel-Filho
+T179	Location	9573	9583	Phytochem.
+T180	Compound	9718	9732	Ethnopharmacol
+T181	Location	9862	9871	Phytomed.
+T182	Compound	9879	9889	spruceanol
+T183	Compound	10197	10201	Ecol
+T184	Compound	10352	10356	Ecol
+T185	Compound	10642	10656	Ethnopharmacol
+T186	Compound	10749	10796	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T187	Compound	10798	10808	spruceanol
+T188	Compound	10810	10835	3-acetyl aleuritolic acid
+T189	Location	344	348	Chem
+T190	Compound	10885	10910	3-acetyl aleuritolic acid
+T191	Location	369	373	Chem
+T192	Compound	11091	11138	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T193	Location	11170	11176	Kimika
+T194	Compound	11187	11234	Hydroxy-13-methoxy-8,11,13-podocarpatrien-3-one
+T195	Compound	11236	11246	spruceanol

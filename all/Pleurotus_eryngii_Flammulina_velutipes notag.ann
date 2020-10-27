@@ -1,0 +1,206 @@
+T1	ChemicalClass	206	212	Sterol
+T2	Location	260	270	Flammulina
+T3	Compound	316	327	trilinolein
+T4	Location	428	439	Taft Avenue
+T5	Location	441	447	Manila
+T6	Location	449	460	Philippines
+T7	Location	563	573	Binan City
+T8	Location	575	581	Laguna
+T9	Location	583	594	Philippines
+T10	Location	707	716	Melbourne
+T11	Location	723	731	Victoria
+T12	Location	733	742	Australia
+T13	Compound	815	830	dichloromethane
+T14	PlantPart	847	862	fruiting bodies
+T15	Location	888	898	Flammulina
+T16	Compound	933	943	ergosterol
+T17	Synonym	947	957	P. eryngii
+T18	Compound	972	983	trilinolein
+T19	Synonym	992	1004	F. velutipes
+T20	Compound	1018	1033	triacylglycerol
+T21	Compound	1055	1065	ergosterol
+T22	Compound	1067	1078	trilinolein
+T23	Compound	1080	1096	triacylglycerols
+T24	Family	1198	1210	Pleurotaceae
+T25	Location	1212	1222	Flammulina
+T26	Family	1234	1249	Physalacriaceae
+T27	Compound	1251	1261	ergosterol
+T28	Compound	1263	1274	trilinolein
+T29	Compound	1276	1291	triacylglycerol
+T30	MedicinalPlant	1332	1352	king oyster mushroom
+T31	Location	1392	1403	Philippines
+T32	Synonym	1504	1514	P. eryngii
+T33	Preparation	831	838	extract
+T34	Synonym	1540	1550	P. eryngii
+T35	Compound	1560	1579	ergosterol peroxide
+T36	ChemicalClass	1639	1645	sterol
+T37	Compound	1840	1859	ergosterol peroxide
+T38	PlantPart	1869	1882	fruiting body
+T39	Synonym	1886	1896	P. eryngii
+T40	Compound	1911	1930	ergosterol peroxide
+T41	ChemicalClass	2050	2056	sterol
+T42	Compound	2184	2258	5alpha,9alpha-epidioxy-8alpha,14alpha-epoxy-(22E)-ergosta-6,22-dienbeta-ol
+T43	Compound	2260	2299	3beta,5alpha-dihydroxyergost-7-en-6-one
+T44	Compound	2301	2356	6beta-acetoxy(22E)-ergosta-7,22-diene-3beta,5alpha-diol
+T45	Compound	2358	2409	3beta,5alpha-dihydroxy(22E)-ergosta-7,22-dien-6-one
+T46	Compound	2411	2430	ergosterol peroxide
+T47	Compound	2432	2503	2alpha,5alpha,9alpha-epidioxy-(22E)-ergosta-7,22-diene-3beta,6beta-diol
+T48	Compound	2505	2570	5alpha,9alpha-epidioxy-3beta-hydroxy-(22E)-ergosta-7,22-dien-6one
+T49	Compound	2575	2634	3beta,5alpha,9alpha-trihydroxy-(22E)-ergosta-7,22-dien-6one
+T50	Synonym	2640	2650	P. eryngii
+T51	Compound	2662	2678	triacylglycerols
+T52	Compound	2721	2729	pleurone
+T53	Compound	2731	2741	ergosterol
+T54	Compound	2744	2793	24E)-3betahydroxycucurbita-5,24-diene-26-oic acid
+T55	Compound	2798	2812	nicotinic acid
+T56	Synonym	2832	2842	P. eryngii
+T57	Location	2857	2867	Flammulina
+T58	MedicinalPlant	2893	2907	Enoki mushroom
+T59	Location	2948	2959	Philippines
+T60	Compound	3072	3084	D-arabinitol
+T61	Compound	3091	3101	oleic acid
+T62	Compound	3114	3127	linoleic acid
+T63	Compound	3129	3157	ergosta-5,7,22trien-3beta-ol
+T64	Compound	3159	3208	5alpha,8alpha-epidioxy-ergosta-6,22-dien-3beta-ol
+T65	Compound	3210	3264	3beta,5alpha,9alpha-trihydroxy-ergosta-7,22-dien-6-one
+T66	Compound	3266	3316	5hydroxymethyl-2-(1-methyl-ethenyl)-1-cyclohexanol
+T67	Compound	3318	3332	1,3-dilinolein
+T68	Compound	3337	3350	hemisceramide
+T69	Synonym	3370	3382	F. velutipes
+T70	Compound	3398	3455	5alpha,8alpha-epidioxy-(22E,24R)ergost-6,22-dien-3beta-ol
+T71	Compound	3457	3490	ergosta-4,6,8(14),22-tetraen-3one
+T72	Compound	3492	3506	sterpuric acid
+T73	Compound	3508	3516	mannitol
+T74	Compound	3521	3528	ribitol
+T75	Synonym	3582	3594	F. velutipes
+T76	ChemicalClass	3595	3602	sterols
+T77	Compound	3635	3645	ergosterol
+T78	Compound	3656	3679	22,23-dihydroergosterol
+T79	Compound	3693	3717	ergost-8(14)-ene3beta-ol
+T80	Compound	3929	3939	ergosterol
+T81	Compound	3941	3957	triacylglycerols
+T82	Compound	3962	3986	fatty acid methyl esters
+T83	Synonym	3992	4001	P. djamor
+T84	Compound	4036	4046	ergosterol
+T85	Compound	4048	4067	ergosterol peroxide
+T86	Compound	4069	4081	cerevisterol
+T87	Compound	4083	4096	palmitic acid
+T88	Compound	4098	4110	stearic acid
+T89	Compound	4112	4125	linoleic acid
+T90	Compound	4131	4141	oleic acid
+T91	Compound	4147	4172	dilinoleoyloleoylglycerol
+T92	Compound	4242	4252	ergosterol
+T93	Compound	4257	4268	trilinolein
+T94	Compound	4326	4336	ergosterol
+T95	Compound	4341	4352	trilinolein
+T96	PlantPart	4362	4377	fruiting bodies
+T97	Synonym	4381	4391	P. eryngii
+T98	PlantPart	4403	4418	fruiting bodies
+T99	Synonym	4422	4434	F. velutipes
+T100	Compound	4443	4453	ergosterol
+T101	Compound	4459	4475	triacylglycerols
+T102	Compound	4497	4507	ergosterol
+T103	Compound	4509	4520	trilinolein
+T104	Compound	4522	4538	triacylglycerols
+T105	ChemicalClass	5001	5007	Sterol
+T106	Compound	5092	5100	vanillin
+T107	Location	5210	5216	Manila
+T108	Location	5218	5229	Philippines
+T109	Location	5307	5317	Flammulina
+T110	Compound	5462	5472	ergosterol
+T111	Compound	5626	5633	acetone
+T112	PlantPart	6229	6244	fruiting bodies
+T113	Synonym	6248	6258	P. eryngii
+T114	PlantPart	6276	6291	fruiting bodies
+T115	Synonym	6295	6305	P. eryngii
+T116	Preparation	6319	6325	ground
+T117	Compound	6361	6377	triacylglycerols
+T118	Preparation	6393	6401	filtered
+T119	Preparation	1529	1536	extract
+T120	Compound	6470	6480	ergosterol
+T121	Compound	6546	6553	acetone
+T122	Compound	6625	6636	trilinolein
+T123	Compound	6684	6695	trilinolein
+T124	Compound	6714	6721	acetone
+T125	Compound	6763	6774	trilinolein
+T126	Compound	6822	6832	ergosterol
+T127	PlantPart	6924	6939	fruiting bodies
+T128	Synonym	6943	6955	F. velutipes
+T129	PlantPart	6973	6988	fruiting bodies
+T130	Synonym	6992	7004	F. velutipes
+T131	Preparation	7018	7024	ground
+T132	Compound	7060	7076	triacylglycerols
+T133	Preparation	7092	7100	filtered
+T134	Preparation	5538	5545	extract
+T135	Compound	7169	7180	trilinolein
+T136	Compound	7246	7253	acetone
+T137	Compound	7301	7308	acetone
+T138	Compound	7312	7327	dichloromethane
+T139	Compound	7374	7385	trilinolein
+T140	Compound	7433	7449	triacylglycerols
+T141	Compound	7468	7475	acetone
+T142	Compound	7517	7533	triacylglycerols
+T143	Compound	7581	7591	ergosterol
+T144	Compound	7671	7686	dichloromethane
+T145	PlantPart	7703	7718	fruiting bodies
+T146	Location	7744	7754	Flammulina
+T147	Compound	7789	7799	ergosterol
+T148	Compound	7801	7812	trilinolein
+T149	Compound	7814	7830	triacylglycerols
+T150	Compound	7853	7863	ergosterol
+T151	Compound	7924	7934	ergosterol
+T152	Compound	7936	7947	trilinolein
+T153	Compound	7953	7964	trilinolein
+T154	Compound	7970	7986	triacylglycerols
+T155	Compound	7992	8007	triacylglycerol
+T156	Compound	8010	8025	The fatty acids
+T157	Compound	8042	8050	glycerol
+T158	Compound	8054	8070	triacylglycerols
+T159	Synonym	8075	8087	F. velutipes
+T160	Compound	8107	8121	linolenic acid
+T161	Compound	8123	8136	linoleic acid
+T162	Compound	8141	8151	oleic acid
+T163	Compound	8263	8274	trilinolein
+T164	Compound	8324	8338	linolenic acid
+T165	Compound	8249	8258	methylene
+T166	Compound	8411	8422	trilinolein
+T167	Compound	8472	8485	linoleic acid
+T168	Compound	8578	8588	oleic acid
+T169	Compound	8623	8633	ergosterol
+T170	Compound	8635	8646	trilinolein
+T171	Compound	8648	8664	triacylglycerols
+T172	Compound	8730	8740	ergosterol
+T173	BodyPart	8798	8805	bladder
+T174	Compound	8882	8892	ergosterol
+T175	BioAct	8959	8970	antioxidant
+T176	Compound	9002	9012	ergosterol
+T177	Compound	9082	9093	Trilinolein
+T178	Compound	9157	9168	Trilinolein
+T179	Compound	9228	9239	Trilinolein
+T180	Compound	9271	9282	Trilinolein
+T181	Compound	9451	9464	triglycerides
+T182	Compound	9611	9624	Linoleic acid
+T183	Compound	9640	9659	omega-6 fatty acids
+T184	Compound	9662	9675	Linoleic acid
+T185	Compound	9747	9760	Linoleic acid
+T186	BodyPart	9787	9793	breast
+T187	Compound	9860	9876	Triacylglycerols
+T188	BioAct	9887	9900	antimicrobial
+T189	Synonym	9918	9927	S. aureus
+T190	Synonym	9929	9942	P. aeruginosa
+T191	Synonym	9944	9955	B. subtilis
+T192	Synonym	9957	9968	C. albicans
+T193	Synonym	9974	9991	T. mentagrophytes
+T194	Compound	10022	10038	triacylglycerols
+T195	Compound	10088	10098	ergosterol
+T196	Compound	10103	10114	trilinolein
+T197	Synonym	10120	10130	P. eryngii
+T198	Compound	10135	10151	triacylglycerols
+T199	Synonym	10157	10169	F. velutipes
+T200	ChemicalClass	10193	10199	Sterol
+T201	Compound	10397	10410	Linoleic acid
+T202	Compound	10426	10445	omega-6 fatty acids
+T203	Compound	10448	10461	Linoleic acid
+T204	Compound	10536	10549	Linoleic acid
+T205	BodyPart	10580	10586	breast
+T206	Synonym	10746	10756	P. berghei

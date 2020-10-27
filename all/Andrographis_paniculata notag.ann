@@ -1,0 +1,360 @@
+T1	BioAct	169	179	anti-venom
+T2	Synonym	193	216	Andrographis paniculata
+T3	PlantPart	228	233	roots
+T4	Compound	254	271	skullcapflavone I
+T5	Compound	312	364	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T6	Location	537	543	Manila
+T7	Location	545	556	Philippines
+T8	Location	612	617	Osaka
+T9	Compound	630	659	3,5-dimethylphenyl isocyanate
+T10	Location	676	684	Toyonaka
+T11	Location	686	691	Osaka
+T12	Location	693	698	Japan
+T13	Location	814	820	Manila
+T14	Location	822	833	Philippines
+T15	Location	917	923	Taipei
+T16	Location	925	931	Taiwan
+T17	Location	1009	1019	Binan City
+T18	Location	1021	1032	Philippines
+T19	Synonym	1136	1159	Andrographis paniculata
+T20	Synonym	1172	1191	Naja philippinensis
+T21	BioAct	1322	1332	anti-venom
+T22	Synonym	1345	1368	Andrographis paniculata
+T23	PlantPart	1380	1385	roots
+T24	Compound	1392	1407	dichloromethane
+T25	Compound	1456	1473	skullcapflavone I
+T26	Synonym	1565	1584	Naja philippinensis
+T27	BioAct	1761	1771	anti-venom
+T28	ChemicalClass	1858	1866	flavones
+T29	Compound	2002	2031	3,5-dimethylphenyl isocyanate
+T30	Compound	2033	2052	n-hexadecanoic acid
+T31	Compound	2153	2168	dichloromethane
+T32	MedicinalPlant	2430	2434	PLA2
+T33	MedicinalPlant	2593	2597	PLA2
+T34	BioAct	2613	2623	anti-venom
+T35	MedicinalPlant	2981	2985	PLA2
+T36	Compound	3061	3090	3,5-dimethylphenyl isocyanate
+T37	BioAct	3400	3410	anti-venom
+T38	BodyPart	3837	3842	heart
+T39	Compound	4009	4015	casein
+T40	Compound	4017	4027	hemoglobin
+T41	Location	4186	4192	Manila
+T42	Location	4194	4205	Philippines
+T43	Compound	4757	4786	3,5-dimethylphenyl isocyanate
+T44	Synonym	4852	4871	Naja philippinensis
+T45	Location	5130	5141	Philippines
+T46	Location	5344	5353	Sashidhar
+T47	Synonym	5476	5499	Andrographis paniculata
+T48	Illness	5603	5608	fever
+T49	Illness	5618	5629	sore throat
+T50	ChemicalClass	5714	5726	diterpenoids
+T51	ChemicalClass	5728	5738	flavonoids
+T52	ChemicalClass	5744	5755	polyphenols
+T53	Compound	5826	5860	14-deoxy-12-hydroxyandrographolide
+T54	Compound	5862	5885	14-deoxyandrographolide
+T55	Compound	5891	5928	14-deoxy-11,12-dihydroandrographolide
+T56	PlantPart	5938	5944	leaves
+T57	Synonym	5948	5971	Andrographis paniculata
+T58	Compound	6008	6023	andrographolide
+T59	Compound	6025	6048	14-deoxyandrographolide
+T60	Compound	6050	6084	14-deoxy-12-hydroxyandrographolide
+T61	Compound	6086	6101	beta-sitosterol
+T62	Compound	6103	6115	stigmasterol
+T63	Compound	6121	6134	chlorophyll a
+T64	PlantPart	6142	6148	leaves
+T65	Compound	6150	6165	beta-sitosterol
+T66	Compound	6167	6179	stigmasterol
+T67	Compound	6181	6216	5,2'-dihydroxy-7,8-dimethoxyflavone
+T68	Compound	6229	6251	trans-cinnamate esters
+T69	Compound	6257	6290	beta-sitosteryl fatty acid esters
+T70	PlantPart	6300	6305	roots
+T71	Compound	6307	6322	beta-sitosterol
+T72	Compound	6324	6354	monogalactosyl diacylglycerols
+T73	Compound	6356	6362	lupeol
+T74	Compound	6368	6384	triacylglycerols
+T75	PlantPart	6394	6398	pods
+T76	Compound	6404	6427	14-deoxyandrographolide
+T77	PlantPart	6437	6442	stems
+T78	Synonym	6446	6469	Andrographis paniculata
+T79	Synonym	6531	6550	Naja philippinensis
+T80	BioAct	6565	6575	anti-venom
+T81	Compound	6594	6609	dichloromethane
+T82	Synonym	6625	6648	Andrographis paniculata
+T83	PlantPart	6649	6654	roots
+T84	Compound	6719	6752	5,2'-dihydroxy,8-dimethoxyflavone
+T85	Synonym	6833	6852	Naja philippinensis
+T86	MedicinalPlant	7082	7086	PLA2
+T87	MedicinalPlant	7420	7424	PLA2
+T88	Synonym	7507	7530	Andrographis paniculata
+T89	Family	7538	7549	Acanthaceae
+T90	Location	7587	7593	Bataan
+T91	Location	7595	7606	Philippines
+T92	Synonym	7701	7720	Naja philippinensis
+T93	Location	7819	7830	Philippines
+T94	Compound	7906	7925	n-hexadecanoic acid
+T95	Preparation	7934	7940	ground
+T96	Compound	7973	7988	dichloromethane
+T97	Preparation	8023	8031	filtered
+T98	Compound	8166	8195	3,5-dimethylphenyl isocyanate
+T99	Compound	8433	8439	phenyl
+T100	Compound	8638	8667	3,5-dimethylphenyl isocyanate
+T101	Compound	8787	8816	3,5-dimethylphenyl isocyanate
+T102	Compound	9087	9106	n-hexadecanoic acid
+T103	Compound	9258	9310	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T104	Synonym	9704	9723	Naja philippinensis
+T105	Location	9904	9909	Abcam
+T106	Location	9911	9920	Cambridge
+T107	Location	9922	9924	UK
+T108	MedicinalPlant	9928	9932	PLA2
+T109	Compound	9937	9956	n-hexadecanoic acid
+T110	Compound	9958	9987	3,5-dimethylphenyl isocyanate
+T111	Compound	10101	10116	free fatty acid
+T112	Compound	10146	10162	arachidonic acid
+T113	Compound	10407	10444	5,5'-dithio-bis-(2-nitro-benzoic acid
+T114	Compound	10520	10531	polystyrene
+T115	Compound	10547	10557	microplate
+T116	Compound	10636	10655	n-hexadecanoic acid
+T117	Preparation	10707	10713	mixing
+T118	Compound	10714	10733	n-hexadecanoic acid
+T119	Compound	10996	11025	3,5-dimethylphenyl isocyanate
+T120	Compound	11291	11320	3,5-dimethylphenyl isocyanate
+T121	MedicinalPlant	12238	12242	PLA2
+T122	Compound	12548	12558	Microplate
+T123	Location	12603	12610	Ibaraki
+T124	Location	12612	12617	Japan
+T125	Preparation	12701	12707	mixing
+T126	Compound	13421	13473	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T127	Synonym	13629	13652	Andrographis paniculata
+T128	Compound	13794	13802	methanol
+T129	Compound	13806	13824	dimethyl sulfoxide
+T130	Compound	13977	14006	3,5-dimethylphenyl isocyanate
+T131	Compound	14011	14040	3,5-dimethylphenyl isocyanate
+T132	Compound	14394	14423	3,5-dimethylphenyl isocyanate
+T133	Compound	14428	14457	3,5-dimethylphenyl isocyanate
+T134	Compound	14760	14770	Microplate
+T135	Location	14815	14822	Ibaraki
+T136	Location	14824	14829	Japan
+T137	Compound	15171	15181	100CONTROL
+T138	Synonym	15489	15508	Naja philippinensis
+T139	Compound	16033	16085	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T140	PlantPart	16260	16264	root
+T141	Compound	16338	16353	dichloromethane
+T142	Compound	16388	16403	dichloromethane
+T143	Preparation	1414	1421	extract
+T144	Compound	16672	16701	3,5-dimethylphenyl isocyanate
+T145	Compound	16780	16809	3,5-dimethylphenyl isocyanate
+T146	ChemicalClass	16858	16866	flavones
+T147	Compound	16868	16903	5,2'-dihydroxy-7,8-dimethoxyflavone
+T148	Compound	16913	16934	4H-1-benzopyran-4-one
+T149	Compound	16936	16987	2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy
+T150	Compound	16989	17008	n-hexadecanoic acid
+T151	Compound	17020	17041	4H-1-benzopyran-4-one
+T152	Compound	17043	17093	2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy
+T153	ChemicalClass	17105	17114	flavonoid
+T154	Compound	17115	17124	glycoside
+T155	Compound	17126	17147	4H-1-benzopyran-4-one
+T156	Compound	17149	17216	7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl
+T157	Compound	17267	17286	n-hexadecanoic acid
+T158	Compound	17287	17306	n-hexadecanoic acid
+T159	Compound	17318	17343	9,12-octadecadienoic acid
+T160	Compound	17350	17379	3,5-dimethylphenyl isocyanate
+T161	ChemicalClass	17387	17394	sterols
+T162	Compound	17396	17420	androst-4-ene-3,17-dione
+T163	Compound	17430	17442	stigmasterol
+T164	Compound	17468	17487	n-hexadecanoic acid
+T165	Compound	17497	17509	diarylethene
+T166	Compound	17517	17547	3,3',4,4'-tetramethoxystilbene
+T167	Compound	17559	17569	polyprenol
+T168	Compound	17571	17607	1,6,10,14,18,22-tetracosahexaen-3-ol
+T169	Compound	17609	17635	2,6,10,15,19,23-hexamethyl
+T170	Compound	17646	17675	3,5-dimethylphenyl isocyanate
+T171	Compound	17693	17702	yangambin
+T172	Compound	17720	17730	isocyanate
+T173	Compound	17732	17761	3,5-dimethylphenyl isocyanate
+T174	Compound	17774	17785	alkyl ester
+T175	Compound	17787	17801	propanoic acid
+T176	Compound	17803	17811	2-methyl
+T177	Compound	17814	17866	1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T178	Compound	17929	17941	benzaldehyde
+T179	Compound	17943	17966	4-hydroxy-3,5-dimethoxy
+T180	Compound	17971	18020	4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazine
+T181	Compound	18045	18074	3,5-dimethylphenyl isocyanate
+T182	Compound	18175	18204	3,5-dimethylphenyl isocyanate
+T183	Compound	18320	18349	3,5-dimethylphenyl isocyanate
+T184	Compound	18363	18392	3,5-Dimethylphenyl isocyanate
+T185	Compound	18406	18416	isocyanate
+T186	Compound	18417	18469	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T187	Compound	18480	18494	Propanoic acid
+T188	Compound	18496	18504	2-methyl
+T189	Compound	18507	18559	1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T190	Compound	18568	18579	Alkyl ester
+T191	Compound	18580	18599	n-hexadecanoic acid
+T192	Compound	18613	18632	n-Hexadecanoic acid
+T193	Compound	18638	18657	n-hexadecanoic acid
+T194	Compound	18659	18679	Saturated fatty acid
+T195	Compound	18693	18718	9,12-Octadecadienoic acid
+T196	Compound	18729	18758	3,5-dimethylphenyl isocyanate
+T197	Compound	18763	18789	polyunsaturated fatty acid
+T198	Compound	18805	18826	4H-1-Benzopyran-4-one
+T199	Compound	18828	18895	7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl
+T200	ChemicalClass	18906	18915	Flavonoid
+T201	Compound	18916	18925	glycoside
+T202	Compound	18934	18963	3,5-dimethylphenyl isocyanate
+T203	Compound	18968	18998	3,3',4,4'-Tetramethoxystilbene
+T204	Compound	19007	19019	Diarylethene
+T205	Compound	19041	19076	5,2'-Dihydroxy-7,8-dimethoxyflavone
+T206	Compound	19085	19099	Methoxyflavone
+T207	Compound	19111	19135	Androst-4-ene-3,17-dione
+T208	Compound	19186	19198	Androsterone
+T209	Compound	19210	19222	Benzaldehyde
+T210	Compound	19224	19247	4-hydroxy-3,5-dimethoxy
+T211	Compound	19252	19301	4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazone
+T212	Compound	19351	19387	1,6,10,14,18,22-Tetracosahexaen-3-ol
+T213	Compound	19389	19415	2,6,10,15,19,23-hexamethyl
+T214	Compound	19430	19459	3,5-dimethylphenyl isocyanate
+T215	Compound	19461	19471	Polyprenol
+T216	Compound	19486	19536	2H,8H-Benzo1, 2-b:5,4-b']dipyran-10-propanoic acid
+T217	Compound	19538	19582	5-methoxy-22, 8,8-tetramethyl-, methyl ester
+T218	Compound	19588	19617	3,5-dimethylphenyl isocyanate
+T219	Compound	19660	19681	4H-1-Benzopyran-4-one
+T220	Compound	19683	19734	2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy
+T221	Compound	19735	19754	n-hexadecanoic acid
+T222	Compound	19756	19770	Methoxyflavone
+T223	Compound	19783	19795	Stigmasterol
+T224	ChemicalClass	19804	19815	Phytosterol
+T225	Compound	19830	19851	4H-1-Benzopyran-4-one
+T226	Compound	19853	19903	2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy
+T227	Compound	19907	19921	Methoxyflavone
+T228	Compound	19953	19972	n-hexadecanoic acid
+T229	ChemicalClass	19974	19985	Phytosterol
+T230	Compound	19999	20008	Yangambin
+T231	Compound	20136	20165	3,5-dimethylphenyl isocyanate
+T232	Compound	20193	20208	dichloromethane
+T233	Preparation	1700	1707	extract
+T234	Compound	20334	20359	dipyran-10-propanoic acid
+T235	Compound	20361	20405	5-methoxy-22, 8,8-tetramethyl-, methyl ester
+T236	Compound	20406	20435	3,5-dimethylphenyl isocyanate
+T237	Compound	20694	20746	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T238	Compound	20816	20868	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T239	Compound	20887	20911	androst-4-ene-3,17-dione
+T240	Compound	20956	20992	1,6,10,14,18,22-tetracosahexaen-3-ol
+T241	Compound	20994	21020	2,6,10,15,19,23-hexamethyl
+T242	Compound	21040	21087	8H-benzo1, 2-b:5,4-b']dipyran-10-propanoic acid
+T243	Compound	21089	21133	5-methoxy2, 2,8,8-tetramethyl-, methyl ester
+T244	Compound	21140	21161	4H-1-benzopyran-4-one
+T245	Compound	21163	21213	2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy
+T246	Compound	21516	21545	3,5-dimethylphenyl isocyanate
+T247	Compound	21548	21562	propanoic acid
+T248	Compound	21564	21572	2-methyl
+T249	Compound	21575	21627	1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T250	Compound	21630	21649	n-hexadecanoic acid
+T251	Compound	21656	21681	9,12-octadecadienoic acid
+T252	Compound	21689	21741	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T253	Compound	21743	21762	n-hexadecanoic acid
+T254	Compound	21778	21796	mostly fatty acids
+T255	Compound	21919	21938	n-hexadecanoic acid
+T256	Synonym	22009	22028	Naja philippinensis
+T257	Preparation	22444	22453	extracted
+T258	Compound	22670	22676	natrin
+T259	Compound	22678	22689	disintegrin
+T260	PlantPart	22983	22988	roots
+T261	Compound	23181	23210	3,5-dimethylphenyl isocyanate
+T262	Compound	23212	23231	n-hexadecanoic acid
+T263	ChemicalClass	23348	23356	Flavones
+T264	BioAct	23381	23391	anti-venom
+T265	ChemicalClass	23421	23430	flavonoid
+T266	Preparation	2169	2176	extract
+T267	PlantPart	23446	23450	root
+T268	PlantPart	23451	23455	bark
+T269	Synonym	23459	23482	Parinari curatellifolia
+T270	Synonym	23554	23569	Echis carinatus
+T271	Compound	23624	23641	aristolochic acid
+T272	Compound	23822	23837	beta-sitosterol
+T273	Compound	23842	23854	stigmasterol
+T274	PlantPart	23884	23888	root
+T275	Preparation	6616	6623	extract
+T276	Synonym	23900	23914	Pluchea indica
+T277	Compound	23952	23962	superoxide
+T278	ChemicalClass	24025	24033	flavones
+T279	Illness	24097	24107	hemorrhage
+T280	Synonym	24119	24133	Bothrops asper
+T281	PlantPart	24216	24220	leaf
+T282	Preparation	24221	24227	powder
+T283	Synonym	24231	24254	Andrographis paniculata
+T284	Location	24304	24314	Tamil Nadu
+T285	Location	24316	24321	India
+T286	Location	24398	24404	Khamti
+T287	Location	24414	24431	Arunachal Pradesh
+T288	Location	24433	24438	India
+T289	Synonym	24440	24463	Andrographis paniculata
+T290	PlantPart	24464	24468	seed
+T291	Preparation	24469	24475	powder
+T292	Compound	24509	24561	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T293	Compound	24626	24641	dichloromethane
+T294	Compound	24703	24732	3,5-dimethylphenyl isocyanate
+T295	Preparation	6900	6907	extract
+T296	Synonym	24981	25004	Andrographis paniculata
+T297	BioAct	25034	25051	anti-inflammatory
+T298	BioAct	3892	3901	cytotoxic
+T299	CellLine	25474	25478	HDFn
+T300	Synonym	25544	25567	Andrographis paniculata
+T301	PlantPart	25568	25573	roots
+T302	MedicinalPlant	25781	25785	PLA2
+T303	Compound	25867	25919	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T304	MedicinalPlant	25987	25991	PLA2
+T305	MedicinalPlant	26206	26210	PLA2
+T306	MedicinalPlant	26291	26295	PLA2
+T307	Synonym	26301	26317	Naja sagittifera
+T308	Compound	26368	26387	n-hexadecanoic acid
+T309	MedicinalPlant	27125	27129	PLA2
+T310	Synonym	27135	27144	Naja naja
+T311	Compound	27329	27381	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T312	Compound	6698	6713	skullcapflavone
+T313	MedicinalPlant	27468	27472	PLA2
+T314	Compound	27660	27668	carbonyl
+T315	Compound	27711	27719	carbonyl
+T316	Compound	27822	27830	carbonyl
+T317	Compound	27878	27886	carbonyl
+T318	Compound	28036	28044	carbonyl
+T319	Compound	28087	28093	phenol
+T320	MedicinalPlant	28227	28231	PLA2
+T321	BioAct	28275	28285	anti-venom
+T322	MedicinalPlant	28354	28358	PLA2
+T323	Compound	28435	28487	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T324	MedicinalPlant	28584	28588	PLA2
+T325	Compound	28667	28696	3,5-dimethylphenyl isocyanate
+T326	Compound	28714	28766	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T327	Synonym	28774	28790	Naja sagittifera
+T328	Compound	28799	28818	n-hexadecanoic acid
+T329	Compound	28842	28871	3,5-dimethylphenyl isocyanate
+T330	Compound	28888	28940	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T331	Compound	28942	28961	n-hexadecanoic acid
+T332	Compound	28975	28994	n-hexadecanoic acid
+T333	Compound	28996	29048	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T334	Compound	29069	29098	3,5-dimethylphenyl isocyanate
+T335	Compound	29115	29167	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T336	Synonym	29176	29185	Naja naja
+T337	Compound	29194	29213	n-hexadecanoic acid
+T338	Compound	29237	29266	3,5-dimethylphenyl isocyanate
+T339	Compound	29283	29335	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T340	Compound	29352	29371	n-hexadecanoic acid
+T341	Synonym	29461	29480	Naja philippinensis
+T342	MedicinalPlant	29483	29487	PLA2
+T343	MedicinalPlant	29502	29506	PLA2
+T344	MedicinalPlant	29669	29673	PLA2
+T345	Compound	29793	29845	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
+T346	MedicinalPlant	30511	30515	PLA2
+T347	Preparation	30732	30741	extracted
+T348	BioAct	30770	30779	Antivenom
+T349	Compound	30907	30936	3,5-dimethylphenyl isocyanate
+T350	Compound	30938	30957	n-hexadecanoic acid
+T351	BioAct	31044	31054	anti-venom
+T352	MedicinalPlant	31166	31170	PLA2
+T353	MedicinalPlant	31393	31397	PLA2
+T354	MedicinalPlant	31455	31459	PLA2
+T355	BioAct	25389	25398	cytotoxic
+T356	CellLine	31586	31590	HDFn
+T357	ChemicalClass	31670	31682	phytosterols
+T358	ChemicalClass	31700	31708	flavones
+T359	BioAct	31826	31836	anti-venom
+T360	Location	32137	32142	Osaka

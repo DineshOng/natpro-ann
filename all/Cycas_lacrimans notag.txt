@@ -1,0 +1,129 @@
+Available online at www.ijpcr.com International Journal of Pharmaceutical and Clinical Research 2015; 7: 356-359 ISSN 1556 Research Article *Author for Correspondence Secondary Metabolites from Cycas lacrimans Vincent Antonio S. Ng1, Esperanza Maribel Agoo, Chien-Chang Shen, Consolacion Y. Ragasa triacylglycerols, 1Chemistry Department, De La Salle University, 2401 Taft Avenue, 1004 Manila, Philippines 2Biology Department, De La Salle University, 2401 Taft Avenue, 1004 Manila, Philippines 3National Research Institute of Chinese Medicine, Ministry of Health and Welfare, 155-1, Li-Nong St., Sec. , Taipei, Taiwan 4Chemistry Department, De La Salle University Science & Technology Complex Leandro 1,2-dioleylglycerol, Locsin Campus, Binan City, Laguna, Philippines Available Online: 31st August, 2015.
+
+Chemical investigation of the sarcotesta of Cycas lacrimans, a plant endemic to the Philippines afforded beta-sitosteryl-3betaglucopyranoside-6'-O-palmitate , a mixture of alkyl 4-hydroxy-trans-cinnamate esters and alkyl 4-hydroxy-ciscinnamate esters , beta-sitosterol , unsaturated triacylglycerols , and methyl fatty acid esters .
+
+The structures of beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, Beta-sitosterol, triacylglycerols, methyl fatty acid esters, were identified by comparison of their NMR data with those reported in the literature.
+
+Keywords: Cycas lacrimans, Cycadaceae, beta-sitosteryl-3beta-glucopyranoside-6'-O-palmitate, alkyl 4-hydroxy-transcinnamate esters, alkyl 4-hydroxy-cis-cinnamate esters, beta-sitosterol, triacylglycerols, methyl fatty acid esters.
+
+Cycas, the only currently known genus of the Family Cycadaceae, are considered as fossil plants though they may have evolved only about 12 million years ago1.
+
+Their long existence and persistence through time have sparked special interest in their biology and evolution.
+
+The cycads resemble palms in morphology thus are commonly called sago palm.
+
+They bear naked seeds and are dioecious (male and female as separate individuals).
+
+These are widely distributed in the Tropics, with species found in Asia, Africa, Southeast Asia, Pacific, and Australia.
+
+They also grow on volcanic, limestone, ultramafic, sandy, or even water-logged soils in grassland and forest habitats.
+
+In the Philippines, there are eleven (11) cycad species namely, Cycas aenigma K. D. Hill & Lindstrom, Cycas curranii (J. Schust.) K. D. Hill, C.edentata de Laub., Cycas lacrimans Lindstrom & K. D. Hill, Cycas nitida K. D. Hill & Lindstrom, Cycas riuminiana Porte ex Regel, Cycas saxatilis K. D. Hill & Lindstrom, Cycas sancti-lasallei Agoo & Madulid, Cycas wadei Merr., Cycas vespertilio Lindstrom & K. D. Hill, and Cycas zambalensis Madulid & Agoo-5. All species, except for Cycas edentata, are endemic to the country.
+
+Cycas revoluta, a widely cultivated species, is an introduced species from Japan and Taiwan.
+
+The demand of Cycas species for domestic and international horticultural trade, grassland and forest fires of anthropogenic origin, and conversion of their natural habitats to settlements and other land uses have threatened to varying degrees the wild populations of the genus.
+
+Some of these species which have been assessed and evaluated in the 2010 IUCN Red List of Threatened Species are Cycas curranii, Cycas wadei and Cycas zambalensis as Critically Endangered (CR)7, Cycas riuminiana as Endangered (E)7, and Cycas saxatilisas Vulnerable 9.
+
+This study is part of our research on the chemical constituents of Cycas species that are endemic to the Philippines.
+
+We earlier reported the isolation of isopimaran-19-ol from the megasporophyll lamina; 9alphaH-isopimara-7,15-diene and triacylglycerols from the bark; triacylglycerols, oleic acid , and 1,2-dioleylglycerol from the leaflets; triacylglycerols, beta-sitosterol , and stigmasterol from the petiole and rachis; beta-sitosterol, from the roots; and triacylglycerols, and beta-sitosterol, from the endotesta and sclerotesta of Cycas lacrimans.
+
+In another study, we reported the isolation of triacylglycerols, beta-sitosterol, stigmasterol, and squalene from the sarcotesta; triacylglycerols, beta-sitosterol, stigmasterol, and phytyl fatty acid esters from the endotesta; triacylglycerols, beta-sitosterol, stigmasterol, and betasitosteryl fatty acid esters from the sclerotesta; and triacylglycerols, and betasitosteryl fatty acid esters, from the bark of Cycas sancti-lasallei.
+
+Another Cycas species, Cycas vespertilio yielded triacylglycerols, a mixture of beta-sitosterol, and stigmasterol, pinoresinol , sesamin , and paulownin from the cone base; triacylglycerols, beta-sitosterol, stigmasterol, pinoresinol, paulownin, and lariciresinol from the cataphylls; beta-sitosterol, from the megasporophyll lamina; beta-sitosterol, and a mixture of trans-4-hydroxycinnamate fatty acid esters and cis-4-hydroxycinnamate fatty acid esters from the unripe sarcotesta; and triacylglycerols, and beta-sitosterol, from the ripe sarcotesta.
+
+We recently reported the isolation of beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate from the sarcotesta; betasitosteryl fatty acid esters, unsaturated fatty acid methyl esters , beta-sitosterol, and stigmasterol, from the endotesta; chlorophyll a from the leaflets; and triacylglycerols from the male cone of Cycas edentata 13.
+
+We report herein the isolation of beta-sitosteryl-3betaglucopyranoside-6'-O-palmitate , a mixture of alkyl 4Vincent Antonio et al. / Secondary Metabolites from IJPCR, September 2015 October 2015, Volume 7, Issue methyl fatty acid esters, Page 357 hydroxy-trans-cinnamate esters and alkyl 4-hydroxycis-cinnamate esters , beta-sitosterol , unsaturated triacylglycerols , and methyl fatty acid esters from the sarcotesta of Cycas lacrimans.
+
+The structures of beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, Beta-sitosterol, triacylglycerols, methyl fatty acid esters, were elucidated by comparison of their 1H and/or 13C NMR data with those reported in the literature.
+
+To the best of our knowledge this is the first report on the isolation of 1-2b and methyl fatty acid esters, from Cycas lacrimans.
+
+MATERIALS AND METHODS General Experimental Procedure NMR spectra were recorded on a Varian VNMRS spectrometer in CDCl at 600 MHz for 1H NMR and 150 MHz for 13C NMR spectra.
+
+Column chromatography was performed with silica gel 60 (70-230 mesh).
+
+Thin layer chromatography was performed with plastic backed plates coated with silica gel F254 and the plates were visualized by spraying with vanillin/H2SO4 solution followed by warming.
+
+Sample Collection Cycas lacrimans sarcotesta were collected in 2013.
+
+Voucher specimens were collected and authenticated by CH2OCR O CHOCR' O CH2OCR" O triacylglycerols, R, R', R" = long chain fatty acids Beta-sitosterol, beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, O O OH HO HO O (CH2)14CH3 O beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, Beta-sitosterol, methyl fatty acid esters, 810 11 14 17 18 19 20 23 26 29 1'3' 5' 6' beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, CH3(CH2)nCOOCH methyl fatty acid esters, HO O OR HO O OR 4-hydroxy-transcinnamate esters, R = long chain fatty acids 4-hydroxy-cis-cinnamate esters, R = long chain fatty acids 9 7 beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, triacylglycerols, RO beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, Beta-sitosterol, 6 10 11 14 17 18 19 22 24 26 29 Figure 1: Chemical structures of beta-sitosteryl-3beta-glucopyranoside-6'-O-palmitate , alkyl 4-hydroxy-trans-cinnamate esters , alkyl 4-hydroxy-cis-cinnamate esters , beta-sitosterol , unsaturated triacylglycerols , and methyl fatty acid esters from Cycas lacrimans.
+
+Vincent Antonio et al. / Secondary Metabolites from IJPCR, September 2015 October 2015, Volume 7, Issue methyl fatty acid esters, Page 358 one of the authors (EMGA) and deposited in the De La Salle UniversityManila Herbarium (DLSUH).
+
+General Isolation Procedure A glass column 18 inches in height and beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 0 inch internal diameter was used for the fractionation of the crude extracts.
+
+Ten milliliter fractions were collected.
+
+Fractions with spots of the same Rf values were combined and rechromatographed in appropriate solvent systems until TLC pure isolates were obtained.
+
+A glass column 12 inches in height and 0 methyl fatty acid esters, inch internal diameter was used for the rechromatography.
+
+Five milliliter fractions were collected.
+
+Final purifications were conducted using Pasteur pipettes as columns.
+
+One milliliter fractions were collected.
+
+Isolation of the Chemical Constituents of the Sarcotesta The freeze-dried sarcotesta of Cycas lacrimans (105 g) were ground in a blender, soaked in CH2Cl2 for Beta-sitosterol, days and then filtered.
+
+The filtrate was concentrated under vacuum to afford a crude extract (0 triacylglycerols, g) which was chromatographed using increasing proportions of acetone in CH2Cl2 at 10% increment.
+
+The 20% acetone in CH2Cl2 fraction was rechromatographed (2 ) using 10% EtOAc in petroleum ether to yield methyl fatty acid esters, triacylglycerols, mg).
+
+The 40% acetone in CH2Cl2 fraction was rechromatographed using 10% EtOAc in petroleum ether.
+
+The less polar fractions were combined and rechromatographed (2 ) using 7.5% EtOAc in petroleum ether to afford triacylglycerols, methyl fatty acid esters, mg).
+
+The more polar fractions were combined and rechromatographed Beta-sitosterol, ) using CH3CN:Et2O:CH2Cl2 (0.5:0.5:9, v/v) to yield a mixture of 4-hydroxy-transcinnamate esters, and 4-hydroxy-cis-cinnamate esters, Beta-sitosterol, mg).
+
+The 60% acetone in CH2Cl2 fraction was rechromatographed Beta-sitosterol, ) using CH3CN:Et2O:CH2Cl2 (2.5:2.5:5, v/v) to yield beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, methyl fatty acid esters, mg).
+
+In the second isolation the freeze-dried sarcotesta of Cycas lacrimans (140 g) were ground in a blender, soaked in CH2Cl2 for Beta-sitosterol, days and then filtered.
+
+The filtrate was concentrated under vacuum to afford a crude extract beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 2 g) which was chromatographed using increasing proportions of acetone in CH2Cl2 at 10% increment.
+
+The 30% acetone in CH2Cl2 fraction was rechromatographed Beta-sitosterol, ) in 7.5% EtOAc in petroleum ether to afford triacylglycerols, (12 mg).
+
+The 40% acetone in CH2Cl2 fraction was rechromatographed triacylglycerols, ) in 15% EtOAc in petroleum ether to afford Beta-sitosterol, (15 mg) after washing with petroleum ether.
+
+Beta-Sitosteryl-3beta-glucopyranoside-6'-O-palmitate : 1H NMR (600 MHz, CDCl): Beta-sitosterol, 55 (m, H-3), methyl fatty acid esters, 34 (m, H-6), 0.66 (s, CH3-18), 0.99 (s, CH3-19), 0.92 (3H, d, J = 6. Hz, CH3-21), 0.82 (3H, d, J = 7. Hz, CH3-26), 0.85 (d, J = 7. Hz, CH3-27), 0.86 (t, J = 7. Hz, CH3-29), triacylglycerols, 37 (d, J = 7. Hz, H-1'), Beta-sitosterol, 36 (dd, J = 7 methyl fatty acid esters, 9.0, H-2'), Beta-sitosterol, 56 (dd, J = 9.0, 10.0, H-3'), Beta-sitosterol, 36 (dd, J = 9.0, 10.
+
+Hz, H-4'), Beta-sitosterol, 43 (m, H5'), triacylglycerols, 23 (dd, J = 12.0, 2. Hz, H-6a'), triacylglycerols, 49 (dd, J = methyl fatty acid esters, 0, 12.
+
+Hz, H-6b'), 2.34 (t, J = 7. Hz, H-2"); 13C NMR (150 MHz; CDCl): 37.24 (C-1), 29.71 (C-2), 79.53 (C-3), 38.88 (C-4), 140.26 (C-5), 122.19 (C-6), 31.93, 31.85 (C7, C-8), 50.15 (C-9), 36.72 (C-10), 21.06 (C-11), 39.74 (C12), 42.31 (C-13), 56.74 (C-14), 24.28 (C-15), 28.24 (C16), 56.05 (C-17), 11.84 (C-18), 19.34 (C-19), 36.13 (C20), 18.77 (C-21), 33.93 (C-22), 26.05 (C-23), 45.81 (C24), 29.13 (C-25), 19.01 (C-26), 19.81 (C-27), 23.05 (C28), 11.97 (C-29), 101.18 (C-1'), 73.58 (C-2'), 75.87 (C3'), 69.98 (C-4'), 73.98 (C-5'), 75.87 (C-6'), 174.80 (C-1"), 34.21 (C-2"), 24.94 (C-3"), 29.31 (C-4"), 29.52 (C-5"), 29.71 (C-6"), 29.71 (C-7"-C-12"), 29.36 (C-13"), 31.93 (C-14"), 22.69 (C-15"), 14.12 (C-16"). Trans-4-hydroxycinnamate fatty acid esters : 1H NMR (600 MHz, CDCl): 6.83 (d, J = 9. Hz, H-3, H5), 7.43 (d, J = 9. Hz, H-2, H-6), 7.61 (d, J = 15.
+
+Hz, H7), 6.28 (d, J = 15.
+
+Hz, H-8), triacylglycerols, 16 (t, J = 6. Hz, H-1'), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 67 (2H, quintet, J = 6. Hz, H-2'), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 231.38 (H-3'Hn'), 0.88 (t, J = 6. Hz, Me); 13C NMR (150 MHz, CDCl): 127.41 (C-1), 115.81 (C-3, C-5), 129.90 (C-2, C-6), 157.47 (C-4), 144.10 (C-7), 115.87 (C-8), 167.44 (C-9), 64.46/64.61 (C-1'), 28.24 (C-2'), 129.90 (=CH), 27.79 (allylic CH2'), 22.69, 26.04, 29.06-29.70 (CH2')n, 31.9231.65 (CH2'), 14.12 (CH3' terminal).
+
+Cis-4-hydroxycinnamate fatty acid esters : 1H NMR (600 MHz, CDCl): 0.88 (3H, t, J = 6. Hz, Me), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 23 beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 38 (m), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 67 (2H, quintet, J = 6. Hz, H-2'), triacylglycerols, 09 (2H, t, J = 6. Hz, H-1'), methyl fatty acid esters, 83 (1H, d, J = 12.
+
+Hz. H-8), 6.78 (2H, d, J = 9. Hz, H-3, H-5), 6.82 (1H, d, J = 12.
+
+Hz, H-7), 7.59 (2H, d, J = 9. Hz, H-2, H-6); 13C-NMR (150 MHz, CDCl): 127.11 (C-1), 114.90 (C-3, C-5), 132.33 (C-2, C-6), 156.48 (C-4), 143.02 (C-7), 117.42 (C-8), 166.59 (C9), 64.46/64.61 (C-1'), 22.69, 26.04, 28.24 (C-2'), 129.90 (=CH), 29.0629.70 (CH2')n, 31.9231.65 (CH2'), 14.12 (CH3' terminal).
+
+Beta-Sitosterol : 1H NMR (600 MHz, CDCl): Beta-sitosterol, 51 (m, H-3), 2.28, 2.24 (H2-4), methyl fatty acid esters, 33 (dd, J = methyl fatty acid esters, triacylglycerols, 2. Hz, H-6), 0.66 (s, CH3-18), 0.99 (s, CH3-19), 0.91 (d, J = 6. Hz, CH3-21), 0.80 (d, J = 6. Hz, CH3-26), 0.82 (d, J = 7. Hz, CH3-27), 0.86 (t, J = 7. Hz, CH3-29).
+
+C NMR (150 MHz, CDCl): 37.24 (C-1), 31.66 (C-2), 71.81 (C-3), 42.30 (C-4), 140.75 (C-5), 121.72 (C-6), 31.90, 31.91 (C7, C-8), 50.12 (C-9), 36.14 (C-10), 21.07 (C-11), 39.76 (C12), 42.30 (C-13), 56.76 (C-14), 24.30 (C-15), 28.24 (C16), 56.04 (C-17), 11.85 (C-18), 19.39 (C-19), 36.50 (C20), 19.02 (C-21), 33.93 (C-22), 29.14 (C-23), 45.82 (C24), 26.06 (C-25), 18.77 (C-26), 19.81 (C-27), 23.06 (C28), 11.97 (C-29).
+
+Triacylglycerols : 1H NMR (600 MHz, CDCl): triacylglycerols, 28 (2H, dd, J = triacylglycerols, 2, 12.
+
+Hz, glyceryl CH2O), triacylglycerols, 12 (2H, dd, J = 6.0, 12.
+
+Hz, glyceryl CH2O), methyl fatty acid esters, 32 (1H, m, glyceryl CHO), 2.30 (6H, t, J = 7. Hz, alpha-CH2), methyl fatty acid esters, 33 (m, olefinic H), 2.75 (double allylic CH2), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 98-2.05 (allylic, CH2), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 23-1.35 (CH2), 0.87 (t, J = 6. Hz, CH3); 13C NMR (150 MHz, CDCl): 62.09 (glyceryl CH2), 68.87 (glyceryl CH), 173.29, 173.25 (C=O alpha), 172.84 (C=O beta), 34.03, 34.05, 34.19 (C-2), 24.84, 24.86 (C-3), 29.05, 29.08, 29.12 (C-4), 29.17, 29.20, 29.27 (C-5), 29.48 (C-6), 22.57, 22.68 (C-8), 130.23, 130.01, 129.70 (C-9), 127.74, 128.29, 129.68 (C-10), 25.61, 27.17, 27.20, 27.22, 29.32, 29.35, 29.36, 29.52, 29.62, 29.66, 29.70, 29.76 (CH2), 31.52, 31.90, 31.92 (CH2), 14.07, 14.11, 14.27 (terminal CH3).
+
+Fatty acid methyl esters : 1H NMR (600 MHz, CDCl): 0.86 (t, J = 6. Hz), 0.96 (t, J = 7. Hz), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 23-1.35 (m), beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, 53-1.61 (m), 2.02-2.06 (m), 2.28 (t, J = 7. Hz), 2.78 (t, J = methyl fatty acid esters, Hz), Beta-sitosterol, 65 (s), methyl fatty acid esters, 30-5.37 (m); 13C NMR (150 MHz, CDCl): 14.07, 14.12, 14.27, 20.54, 22.57, 22.69, 24.94, 24.96, 25.52, 25.60, 25.62, 27.15, 27.19, 27.19, 29.09, 29.11, 29.15, 29.25, 29.31, 29.34, 29.35, 29.45, 29.52, Vincent Antonio et al. / Secondary Metabolites from IJPCR, September 2015 October 2015, Volume 7, Issue methyl fatty acid esters, Page 359 29.58, 29.66, 29.70, 29.76, 31.52, 31.90, 31.92, 34.10, 34.12, 51.44, 127.10, 127.72, 127.90, 128.03, 128.24, 128.27, 129.75, 130.00, 130.05, 130.21, 130.27, 131.96, 174.32..
+
+Silica gel chromatography of the dichloromethane extract of the sarcotesta of Cycas lacrimans afforded beta-sitosteryl-3betaglucopyranoside-6'-O-palmitate 14,15, a mixture of alkyl 4-hydroxy-trans-cinnamate ester 12 and alkyl 4hydroxy-cis-cinnamate ester 12,16, beta-sitosterol 10,17, unsaturated triacylglycerols 10, and methyl fatty acid esters 18.
+
+The structures of beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate, Beta-sitosterol, triacylglycerols, methyl fatty acid esters, were identified by comparison of their 1H and 13C NMR data with literature data.
+
+Beta-sitosterol isolated from the sarcotesta was also present in the petiole and rachis, roots, endotesta and sclerotesta of Cycas lacrimans, while triacylglycerols obtained from the sarcotesta were also found in the bark, leaflets, petiole and rachis, roots, endotesta and sclerotesta of Cycas lacrimans.
+
+Results of this study indicate that Cycas lacrimans shares similar chemical characteristics with other members of the family Cycadaceae: Cycas edentata which contained beta-sitosteryl-3beta-glucopyranoside-6'-Opalmitate and methyl fatty acid esters 13 and Cycas vespertilio which yielded alkyl 4-hydroxy-transcinnamate esters and alkyl 4-hydroxy-cis-cinnamate esters 12..
+
+A research grant from the Commission on Higher Education - Philippine Higher Education Research Network (CHED-PHERNet) of the Philippines is gratefully acknowledged.
