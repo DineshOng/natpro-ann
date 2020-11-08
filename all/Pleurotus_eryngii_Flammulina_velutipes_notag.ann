@@ -203,4 +203,6 @@ T202	Compound 10426 10445	omega-6 fatty acids
 T203	Compound 10448 10461	Linoleic acid
 T204	Compound 10536 10549	Linoleic acid
 T205	BodyPart 10580 10586	breast
-T206	Synonym 10746 10756	P. berghei
+T206	Compound 10653 10662	Linolenic
+T207	Compound 10667 10681	linoleic acids
+T208	Synonym 10746 10756	P. berghei

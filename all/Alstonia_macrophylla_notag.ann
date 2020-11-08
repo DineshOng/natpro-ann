@@ -30,424 +30,429 @@ T29	Compound 1381 1391	strictamin
 T30	Compound 1400 1410	rauvomitin
 T31	Compound 1423 1430	brucine
 T32	ChemicalClass 1443 1456	triterpenoids
-T33	Compound 1478 1484	lupeol
-T34	Compound 1493 1517	24-methylenecycloartanol
-T35	Compound 1526 1537	campesterol
-T36	Compound 1546 1557	beta-amyrin
-T37	Compound 1570 1582	stigmasterol
-T38	Synonym 1616 1636	Alstonia macrophylla
-T39	CellLine 1792 1796	HDFn
-T40	CellLine 1830 1835	THP-1
-T41	CellLine 1896 1901	MCF-7
-T42	CellLine 1922 1927	H69PR
-T43	CellLine 1952 1957	HT-29
-T44	Synonym 2003 2023	Alstonia macrophylla
-T45	Synonym 2075 2094	Naja philippinensis
-T46	Location 2278 2292	Southeast Asia
-T47	Location 2371 2382	Philippines
-T48	Family 2489 2500	Apocynaceae
-T49	Synonym 2546 2566	Alstonia macrophylla
-T50	Synonym 2585 2603	Alstonia scholaris
-T51	Synonym 2735 2755	Alstonia macrophylla
-T52	Synonym 2760 2778	Alstonia scholaris
-T53	Compound 2804 2818	echitovenidine
-T54	Compound 2820 2830	echitamine
-T55	Compound 2832 2842	venenatine
-T56	ChemicalClass 2847 2862	indole alkaloid
-T57	BioAct 2869 2886	anti-inflammatory
-T58	ChemicalClass 2887 2900	triterpenoids
-T59	PlantPart 2907 2911	bark
-T60	Synonym 2919 2937	Alstonia scholaris
-T61	BioAct 3022 3032	antifungal
-T62	Synonym 3044 3062	Alstonia scholaris
-T63	Preparation 3222 3230	powdered
-T64	PlantPart 3241 3245	bark
-T65	Synonym 3249 3269	Alstonia macrophylla
-T66	Synonym 3271 3291	Alstonia macrophylla
-T67	MedicinalPlant 3308 3321	hard milkwood
-T68	MedicinalPlant 3325 3331	batino
-T69	Illness 3443 3452	dysentery
-T70	Compound 3545 3558	acetylcholine
-T71	Illness 3567 3572	wound
-T72	Preparation 3588 3593	mixed
-T73	Preparation 3610 3618	powdered
-T74	PlantPart 3619 3623	bark
-T75	PlantPart 3701 3705	bark
-T76	Preparation 3707 3714	crushed
-T77	PlantPart 3715 3721	leaves
-T78	Synonym 3725 3745	Alstonia macrophylla
-T79	Preparation 3752 3757	mixed
-T80	PlantPart 3889 3907	aerial plant parts
-T81	Preparation 3980 3985	Mixed
-T82	PlantPart 4002 4008	leaves
-T83	PlantPart 4013 4022	stem bark
-T84	Synonym 4026 4046	Alstonia macrophylla
-T85	Location 4064 4081	Republic of India
-T86	Synonym 4761 4779	Alstonia scholaris
-T87	Synonym 4781 4801	Alstonia macrophylla
-T88	PlantPart 4802 4808	leaves
-T89	Preparation 4809 4818	extracted
-T90	Compound 4824 4832	methanol
-T91	BioAct 4853 4866	antimicrobial
-T92	Synonym 4959 4979	Alstonia macrophylla
-T93	Synonym 5014 5034	Alstonia macrophylla
-T94	ChemicalClass 5044 5060	steroid alcohols
-T95	ChemicalClass 5062 5073	isoprenoids
-T96	ChemicalClass 5112 5121	alkaloids
-T97	Compound 5141 5156	monosaccharides
-T98	Synonym 5159 5179	Alstonia macrophylla
-T99	Compound 5204 5219	beta-sitosterol
-T100	ChemicalClass 5223 5234	phytosterol
-T101	PlantPart 5365 5377	aerial parts
-T102	PlantPart 5471 5475	leaf
-T103	ChemicalClass 5509 5525	indole alkaloids
-T104	Compound 5527 5538	alstomaline
-T105	Compound 5540 5563	10,11-dimethoxynareline
-T106	Compound 5565 5577	alstohentine
-T107	Compound 5579 5590	alstomicine
-T108	Compound 5592 5613	16-hydroxyalstonisine
-T109	Compound 5615 5632	16hydroxyalstonal
-T110	Compound 5634 5677	16-hydroxy-N4-demethylalstophyllal oxindole
-T111	Compound 5679 5691	alstophyllal
-T112	Compound 5693 5711	6-oxoalstophylline
-T113	Compound 5717 5734	6-oxoalstophyllal
-T114	Synonym 5808 5826	Alstonia scholaris
-T115	Synonym 5828 5848	Alstonia macrophylla
-T116	ChemicalClass 5867 5876	alkaloids
-T117	ChemicalClass 5390 5398	alkaloid
-T118	Synonym 5985 6005	Alstonia macrophylla
-T119	PlantPart 6053 6062	stem bark
-T120	BioAct 6098 6109	antioxidant
-T121	Compound 6137 6166	1,1-diphenyl-2-picrylhydrazyl
-T122	BioAct 1772 1781	cytotoxic
-T123	CellLine 6187 6192	HT-29
-T124	CellLine 6194 6199	H69PR
-T125	CellLine 6201 6206	MCF-7
-T126	CellLine 6208 6213	THP-1
-T127	CellLine 6250 6254	HDFn
-T128	BioAct 6283 6292	antivenom
-T129	Synonym 6313 6333	Alstonia macrophylla
-T130	Synonym 6644 6664	Alstonia macrophylla
-T131	Synonym 6723 6743	Alstonia macrophylla
-T132	PlantPart 6744 6748	bark
-T133	Synonym 6786 6806	Alstonia macrophylla
-T134	Synonym 6883 6903	Alstonia macrophylla
-T135	Compound 7271 7281	fatty acid
-T136	Compound 7286 7303	fatty acid esters
-T137	Compound 7305 7323	heptadecanoic acid
-T138	Compound 7334 7363	hexadecanoic acid ethyl ester
-T139	Compound 7378 7409	hexadecanonic acid methyl ester
-T140	Synonym 7443 7463	Alstonia macrophylla
-T141	ChemicalClass 7500 7509	alkaloids
-T142	Compound 7534 7545	alstonerine
-T143	Compound 7556 7566	strictamin
-T144	Compound 7576 7586	rauvomitin
-T145	Compound 7600 7607	brucine
-T146	Preparation 1038 1045	extract
-T147	ChemicalClass 7676 7689	triterpenoids
-T148	Compound 7712 7718	lupeol
-T149	Compound 7728 7752	24-methylenecycloartanol
-T150	Compound 7762 7773	campesterol
-T151	Compound 7783 7794	beta-amyrin
-T152	Compound 7808 7820	stigmasterol
-T153	Synonym 7904 7924	Alstonia macrophylla
-T154	Synonym 8050 8070	Alstonia macrophylla
-T155	Illness 8666 8678	hypertension
-T156	Family 8886 8897	Apocynaceae
-T157	PlantPart 8994 8998	bark
-T158	Preparation 8999 9005	powder
-T159	Synonym 9017 9034	Grewia lasiocarpa
-T160	Compound 9480 9486	iodine
-T161	Preparation 9743 9751	powdered
-T162	PlantPart 9752 9758	leaves
-T163	PlantPart 9760 9765	stems
-T164	PlantPart 9771 9776	roots
-T165	PlantPart 10028 10033	roots
-T166	PlantPart 10101 10107	leaves
-T167	PlantPart 9177 9181	stem
-T168	BioAct 10195 10206	Antioxidant
-T169	Synonym 10219 10239	Alstonia macrophylla
-T170	Synonym 10242 10262	Alstonia macrophylla
-T171	Synonym 10486 10506	Alstonia macrophylla
-T172	PlantPart 10507 10511	leaf
-T173	Compound 10526 10540	betasitosterol
-T174	Compound 10542 10554	ursolic acid
-T175	Compound 10560 10592	beta-sitosteryl-beta-D-glucoside
-T176	ChemicalClass 5923 5931	alkaloid
-T177	Compound 10649 10660	fatty acids
-T178	BioAct 10692 10703	antioxidant
-T179	Compound 10784 10794	superoxide
-T180	Preparation 5476 5483	extract
-T181	Synonym 10921 10941	Alstonia macrophylla
-T182	CellLine 10962 10967	MCF-7
-T183	CellLine 10969 10974	H69PR
-T184	CellLine 10976 10981	HT-29
-T185	Synonym 11033 11053	Alstonia macrophylla
-T186	Compound 11102 11111	2-ethenyl
-T187	Compound 11136 11160	aldehyde 3-ethylpyridine
-T188	Compound 11201 11214	nonanoic acid
-T189	Compound 11231 11264	carboxylic acid cyclohexylbenzene
-T190	Compound 11293 11317	3-hydroxy-4methoxybenzyl
-T191	Compound 11350 11381	hexadecanonic acid methyl ester
-T192	Compound 11399 11434	ester hexadecanoic acid ethyl ester
-T193	Compound 11452 11476	ester heptadecanoic acid
-T194	Compound 11494 11509	carboxylic acid
-T195	CellLine 11647 11652	THP-1
-T196	CellLine 11689 11693	HDFn
-T197	Synonym 11750 11770	Alstonia macrophylla
-T198	CellLine 11786 11790	HDFn
-T199	Location 11836 11842	Zeocin
-T200	BioAct 6176 6185	cytotoxic
-T201	Synonym 12268 12288	Alstonia macrophylla
-T202	Location 12293 12299	Zeocin
-T203	Synonym 12465 12485	Alstonia macrophylla
-T204	BioAct 10884 10893	cytotoxic
-T205	CellLine 12529 12534	MCF-7
-T206	CellLine 12616 12621	H69PR
-T207	CellLine 12623 12628	HT-29
-T208	CellLine 12634 12639	THP-1
-T209	CellLine 12891 12896	MCF-7
-T210	CellLine 12904 12909	H69PR
-T211	Location 13027 13033	Zeocin
-T212	Synonym 13199 13219	Alstonia macrophylla
-T213	Location 13227 13233	Zeocin
-T214	CellLine 13248 13253	MCF-7
-T215	Synonym 13341 13361	Alstonia macrophylla
-T216	Location 13405 13411	Zeocin
-T217	Synonym 13546 13566	Alstonia macrophylla
-T218	Location 13571 13577	Zeocin
-T219	CellLine 13609 13614	H69PR
-T220	Synonym 13631 13651	Alstonia macrophylla
-T221	BioAct 11734 11743	cytotoxic
-T222	Location 13689 13695	Zeocin
-T223	Synonym 13892 13912	Alstonia macrophylla
-T224	Location 13956 13962	Zeocin
-T225	CellLine 14145 14150	HT-29
-T226	Synonym 14154 14174	Alstonia macrophylla
-T227	Location 14179 14185	Zeocin
-T228	CellLine 14212 14217	HT-29
-T229	Preparation 6334 6341	extract
-T230	Synonym 14303 14323	Alstonia macrophylla
-T231	Synonym 14397 14417	Alstonia macrophylla
-T232	Compound 14466 14503	2,5-dimethyl-4-hydroxy-3(2H)-furanone
-T233	Compound 14519 14560	trihydroxybenzene 2-methoxy-4-vinylphenol
-T234	ChemicalClass 14577 14588	diterpenoid
-T235	Compound 14589 14608	2,6-dimethoxyphenol
-T236	Compound 14650 14685	2,6-dimethoxy-4-(2-propenyl)-phenol
-T237	Compound 14727 14767	3,5-dimethoxy-4-hydroxyphenylacetic acid
-T238	Compound 14784 14808	phenolic acid strictamin
-T239	ChemicalClass 10636 10644	alkaloid
-T240	Compound 14834 14844	rauvomitin
-T241	ChemicalClass 14825 14833	alkaloid
-T242	Compound 14870 14881	alstonerine
-T243	ChemicalClass 14861 14869	alkaloid
-T244	Compound 14908 14915	brucine
-T245	ChemicalClass 14899 14907	alkaloid
-T246	Compound 14941 14952	burnamicine
-T247	ChemicalClass 14932 14940	alkaloid
-T248	Compound 14978 14989	campesterol
-T249	ChemicalClass 15006 15018	triterpenoid
-T250	Compound 15019 15031	stigmasterol
-T251	ChemicalClass 15048 15060	triterpenoid
-T252	ChemicalClass 15089 15101	triterpenoid
-T253	Compound 15102 15113	beta-amyrin
-T254	ChemicalClass 15130 15142	triterpenoid
-T255	Compound 15143 15149	lupeol
-T256	ChemicalClass 15166 15178	triterpenoid
-T257	Compound 15179 15203	24-methylenecycloartanol
-T258	ChemicalClass 15221 15233	triterpenoid
-T259	Synonym 15384 15404	Alstonia macrophylla
-T260	CellLine 15452 15457	HT-29
-T261	Location 15477 15483	Zeocin
-T262	CellLine 15615 15620	THP-1
-T263	Synonym 15872 15892	Alstonia macrophylla
-T264	Location 15924 15930	Zeocin
-T265	Synonym 15998 16018	Alstonia macrophylla
-T266	CellLine 16064 16068	HDFn
-T267	Synonym 16167 16187	Alstonia macrophylla
-T268	Location 16714 16720	Zeocin
-T269	Location 16781 16787	Zeocin
-T270	BioAct 12244 12253	cytotoxic
-T271	CellLine 16874 16879	MCF-7
-T272	CellLine 16881 16886	H69PR
-T273	CellLine 16888 16892	HT29
-T274	CellLine 16894 16899	THP-1
-T275	CellLine 16905 16909	HDFn
-T276	Compound 17181 17197	sulforhodamine B
-T277	PlantPart 17267 17271	bark
-T278	PlantPart 17293 17298	roots
-T279	Synonym 17310 17330	Alstonia macrophylla
-T280	PlantPart 17336 17340	bark
-T281	Synonym 17441 17461	Alstonia macrophylla
-T282	Compound 17582 17603	O-Acetylmacralstonine
-T283	Compound 17605 17618	villalstonine
-T284	Compound 17624 17638	macrocarpamine
-T285	BodyPart 17804 17810	kidney
-T286	CellLine 17820 17825	MCF-7
-T287	BodyPart 17827 17833	breast
-T288	PlantPart 17950 17954	root
-T289	Compound 17972 17992	Omethylmacralstonine
-T290	Compound 17994 18004	talcarpine
-T291	Compound 18006 18019	villalstonine
-T292	Compound 18021 18035	pleiocarpamine
-T293	Compound 18041 18054	macraistonine
-T294	Synonym 18143 18163	Alstonia macrophylla
-T295	Synonym 18193 18212	Naja philippinensis
-T296	Synonym 18261 18281	Alstonia macrophylla
-T297	Synonym 18535 18555	Alstonia macrophylla
-T298	PlantPart 17955 17959	bark
-T299	Synonym 18724 18744	Alstonia macrophylla
-T300	PlantPart 18556 18560	bark
-T301	Synonym 18798 18818	Alstonia macrophylla
-T302	ChemicalClass 14969 14977	alkaloid
-T303	Family 18942 18952	Solanaceae
-T304	Compound 18961 18969	atropine
-T305	Synonym 19009 19024	Daboia russelli
-T306	Compound 19076 19091	beta-sitosterol
-T307	Compound 19096 19108	stigmasterol
-T308	Preparation 19110 19119	extracted
-T309	Synonym 19163 19177	Pluchea indica
-T310	Compound 19223 19233	superoxide
-T311	Compound 19283 19289	Lupeol
-T312	Illness 19315 19325	hemorrhage
-T313	Synonym 19378 19392	Bothrops venom
-T314	Synonym 19465 19484	Naja philippinensis
-T315	BioAct 19485 19494	antivenom
-T316	Synonym 19567 19585	Alstonia scholaris
-T317	Synonym 19647 19662	Vipera russelli
-T318	Compound 19708 19715	alanine
-T319	Compound 19730 19739	aspartate
-T320	Compound 19758 19768	creatinine
-T321	Preparation 3859 3868	decoction
-T322	Synonym 20074 20094	Alstonia macrophylla
-T323	PlantPart 18745 18749	bark
-T324	BioAct 20129 20140	antioxidant
-T325	Synonym 20181 20201	Alstonia macrophylla
-T326	CellLine 20276 20281	MCF-7
-T327	CellLine 20283 20288	H69PR
-T328	CellLine 20294 20299	HT-29
-T329	Location 20411 20417	Zeocin
-T330	BioAct 13 22	Cytotoxic
-T331	Synonym 20613 20633	Alstonia macrophylla
-T332	Location 20635 20641	Zeocin
-T333	Location 20811 20814	USA
-T334	CellLine 21064 21069	MCF-7
-T335	CellLine 21157 21162	H69PR
-T336	CellLine 21234 21239	HT-29
-T337	CellLine 21312 21317	THP-1
-T338	CellLine 21390 21394	HDFn
-T339	CellLine 21562 21567	MCF-7
-T340	Synonym 21593 21613	Alstonia macrophylla
-T341	Synonym 21645 21665	Alstonia macrophylla
-T342	CellLine 21670 21675	THP-1
-T343	CellLine 21687 21691	HDFn
-T344	Synonym 21714 21734	Alstonia macrophylla
-T345	Synonym 22024 22044	Alstonia macrophylla
-T346	ChemicalClass 22075 22084	alkaloids
-T347	ChemicalClass 22089 22102	triterpenoids
-T348	BodyPart 22320 22326	breast
-T349	Synonym 22381 22401	Alstonia macrophylla
-T350	PlantPart 20095 20099	bark
-T351	Synonym 22571 22591	Alstonia macrophylla
-T352	PlantPart 22402 22406	bark
-T353	BioAct 22628 22637	antivenom
-T354	Synonym 22805 22825	Alstonia macrophylla
-T355	PlantPart 22826 22832	trunks
-T356	Location 22850 22859	Mariveles
-T357	Location 22861 22867	Bataan
-T358	Location 22869 22880	Philippines
-T359	PlantPart 22592 22596	bark
-T360	Preparation 22997 23003	ground
-T361	Preparation 23037 23045	powdered
-T362	Compound 23066 23081	dichloromethane
-T363	Preparation 23111 23119	filtered
-T364	Preparation 6665 6672	extract
-T365	Preparation 23206 23214	Powdered
-T366	Compound 23573 23579	phenyl
-T367	BioAct 10858 10867	Cytotoxic
-T368	Synonym 24802 24822	Alstonia macrophylla
-T369	Synonym 24899 24919	Alstonia macrophylla
-T370	Synonym 25274 25294	Alstonia macrophylla
-T371	BioAct 20589 20598	Cytotoxic
-T372	Synonym 25412 25432	Alstonia macrophylla
-T373	Preparation 1187 1194	Extract
-T374	Location 21855 21861	Zeocin
-T375	CellLine 25498 25503	MCF-7
-T376	CellLine 25504 25509	H69PR
-T377	CellLine 25510 25515	HT-29
-T378	CellLine 25516 25521	THP-1
-T379	CellLine 25522 25526	HDFn
-T380	Synonym 25527 25547	Alstonia macrophylla
-T381	Location 25451 25457	Zeocin
-T382	CellLine 25911 25916	MCF-7
-T383	CellLine 25947 25952	H69PR
-T384	CellLine 25983 25988	HT-29
-T385	CellLine 26018 26023	THP-1
-T386	CellLine 26053 26057	HDFn
-T387	Synonym 26210 26230	Alstonia macrophylla
-T388	Synonym 26539 26559	Alstonia macrophylla
-T389	PlantPart 22988 22992	bark
-T390	BioAct 26693 26704	Antioxidant
-T391	BioAct 26717 26728	antioxidant
-T392	Synonym 26753 26773	Alstonia macrophylla
-T393	PlantPart 26774 26778	leaf
-T394	Compound 26836 26865	1,1-diphenyl-2-picrylhydrazyl
-T395	Preparation 26918 26926	powdered
-T396	Preparation 27097 27105	filtered
-T397	Preparation 6700 6707	extract
-T398	Compound 10463 10471	methanol
-T399	Synonym 27321 27341	Alstonia macrophylla
-T400	Preparation 7464 7471	extract
-T401	Compound 17927 17935	methanol
-T402	Compound 26779 26787	methanol
-T403	Compound 28130 28145	dichloromethane
-T404	Synonym 28169 28189	Alstonia macrophylla
-T405	Location 28264 28272	Manassas
-T406	Location 28274 28282	Virginia
-T407	Location 28284 28287	USA
-T408	BodyPart 28289 28295	breast
-T409	CellLine 28304 28309	MCF-7
-T410	CellLine 28326 28330	HT29
-T411	CellLine 28360 28365	H69PR
-T412	CellLine 28400 28405	THP-1
-T413	CellLine 28474 28478	HDFn
-T414	Location 28514 28517	USA
-T415	Location 28684 28687	USA
-T416	BioAct 12503 12512	cytotoxic
-T417	Synonym 28779 28799	Alstonia macrophylla
-T418	Compound 28983 28992	resazurin
-T419	CellLine 29329 29334	THP-1
-T420	Synonym 29455 29475	Alstonia macrophylla
-T421	Synonym 29669 29689	Alstonia macrophylla
-T422	Location 25574 25580	Zeocin
-T423	Location 29791 29794	USA
-T424	Location 29750 29756	Zeocin
-T425	BioAct 13652 13661	cytotoxic
-T426	Synonym 30915 30935	Alstonia macrophylla
-T427	Synonym 31010 31029	Naja philippinensis
-T428	Compound 31236 31272	5,5'-dithio-bis-(2-nitrobenzoic acid
-T429	Compound 31348 31359	polystyrene
-T430	Compound 31375 31385	microplate
-T431	Synonym 31403 31423	Alstonia macrophylla
-T432	Compound 27287 27295	methanol
-T433	Synonym 31746 31766	Alstonia macrophylla
-T434	Compound 31955 31965	Microplate
-T435	Synonym 32093 32113	Alstonia macrophylla
-T436	Compound 32178 32188	100control
-T437	Compound 32214 32222	Xcontrol
-T438	Synonym 32341 32361	Alstonia macrophylla
-T439	Location 33088 33093	Osaka
-T440	Synonym 33140 33160	Alstonia macrophylla
-T441	Synonym 33161 33181	Alstonia macrophylla
-T442	PlantPart 26560 26564	bark
-T443	Compound 33191 33206	dichloromethane
-T444	Compound 33212 33229	dimethylsulfoxide
-T445	CellLine 33404 33409	MCF-7
-T446	BodyPart 33416 33422	breast
-T447	CellLine 33448 33453	HT-29
-T448	CellLine 33496 33501	H69PR
-T449	Synonym 33502 33514	Homo sapiens
-T450	CellLine 33541 33546	THP-1
-T451	CellLine 33588 33592	HDFn
-T452	Compound 27391 27399	methanol
-T453	Synonym 33670 33689	Naja philippinensis
+T33	Compound 1458 1474	gamma-sitosterol
+T34	Compound 1483 1489	lupeol
+T35	Compound 1498 1522	24-methylenecycloartanol
+T36	Compound 1531 1542	campesterol
+T37	Compound 1551 1562	beta-amyrin
+T38	Compound 1575 1587	stigmasterol
+T39	Synonym 1621 1641	Alstonia macrophylla
+T40	CellLine 1797 1801	HDFn
+T41	CellLine 1835 1840	THP-1
+T42	CellLine 1901 1906	MCF-7
+T43	CellLine 1927 1932	H69PR
+T44	CellLine 1957 1962	HT-29
+T45	Synonym 2008 2028	Alstonia macrophylla
+T46	Synonym 2080 2099	Naja philippinensis
+T47	Location 2283 2297	Southeast Asia
+T48	Location 2376 2387	Philippines
+T49	Family 2494 2505	Apocynaceae
+T50	Synonym 2551 2571	Alstonia macrophylla
+T51	Synonym 2590 2608	Alstonia scholaris
+T52	Synonym 2740 2760	Alstonia macrophylla
+T53	Synonym 2765 2783	Alstonia scholaris
+T54	Compound 2809 2823	echitovenidine
+T55	Compound 2825 2835	echitamine
+T56	Compound 2837 2847	venenatine
+T57	ChemicalClass 2852 2867	indole alkaloid
+T58	BioAct 2874 2891	anti-inflammatory
+T59	ChemicalClass 2892 2905	triterpenoids
+T60	PlantPart 2912 2916	bark
+T61	Synonym 2924 2942	Alstonia scholaris
+T62	BioAct 3027 3037	antifungal
+T63	Synonym 3049 3067	Alstonia scholaris
+T64	Preparation 3227 3235	powdered
+T65	PlantPart 3246 3250	bark
+T66	Synonym 3254 3274	Alstonia macrophylla
+T67	Synonym 3276 3296	Alstonia macrophylla
+T68	MedicinalPlant 3313 3326	hard milkwood
+T69	MedicinalPlant 3330 3336	batino
+T70	Illness 3448 3457	dysentery
+T71	Compound 3550 3563	acetylcholine
+T72	Illness 3572 3577	wound
+T73	Preparation 3593 3598	mixed
+T74	Preparation 3615 3623	powdered
+T75	PlantPart 3624 3628	bark
+T76	PlantPart 3706 3710	bark
+T77	Preparation 3712 3719	crushed
+T78	PlantPart 3720 3726	leaves
+T79	Synonym 3730 3750	Alstonia macrophylla
+T80	Preparation 3757 3762	mixed
+T81	PlantPart 3894 3912	aerial plant parts
+T82	Preparation 3985 3990	Mixed
+T83	PlantPart 4007 4013	leaves
+T84	PlantPart 4018 4027	stem bark
+T85	Synonym 4031 4051	Alstonia macrophylla
+T86	Location 4069 4086	Republic of India
+T87	Synonym 4766 4784	Alstonia scholaris
+T88	Synonym 4786 4806	Alstonia macrophylla
+T89	PlantPart 4807 4813	leaves
+T90	Preparation 4814 4823	extracted
+T91	Compound 4829 4837	methanol
+T92	BioAct 4858 4871	antimicrobial
+T93	Synonym 4964 4984	Alstonia macrophylla
+T94	Synonym 5019 5039	Alstonia macrophylla
+T95	ChemicalClass 5049 5065	steroid alcohols
+T96	ChemicalClass 5067 5078	isoprenoids
+T97	ChemicalClass 5117 5126	alkaloids
+T98	Compound 5128 5140	tannic acids
+T99	Compound 5146 5161	monosaccharides
+T100	Synonym 5164 5184	Alstonia macrophylla
+T101	Compound 5209 5224	beta-sitosterol
+T102	ChemicalClass 5228 5239	phytosterol
+T103	PlantPart 5370 5382	aerial parts
+T104	PlantPart 5476 5480	leaf
+T105	ChemicalClass 5514 5530	indole alkaloids
+T106	Compound 5532 5543	alstomaline
+T107	Compound 5545 5568	10,11-dimethoxynareline
+T108	Compound 5570 5582	alstohentine
+T109	Compound 5584 5595	alstomicine
+T110	Compound 5597 5618	16-hydroxyalstonisine
+T111	Compound 5620 5637	16hydroxyalstonal
+T112	Compound 5639 5682	16-hydroxy-N4-demethylalstophyllal oxindole
+T113	Compound 5684 5696	alstophyllal
+T114	Compound 5698 5716	6-oxoalstophylline
+T115	Compound 5722 5739	6-oxoalstophyllal
+T116	Synonym 5813 5831	Alstonia scholaris
+T117	Synonym 5833 5853	Alstonia macrophylla
+T118	ChemicalClass 5872 5881	alkaloids
+T119	ChemicalClass 5395 5403	alkaloid
+T120	Synonym 5990 6010	Alstonia macrophylla
+T121	PlantPart 6058 6067	stem bark
+T122	BioAct 6103 6114	antioxidant
+T123	Compound 6142 6171	1,1-diphenyl-2-picrylhydrazyl
+T124	BioAct 1777 1786	cytotoxic
+T125	CellLine 6192 6197	HT-29
+T126	CellLine 6199 6204	H69PR
+T127	CellLine 6206 6211	MCF-7
+T128	CellLine 6213 6218	THP-1
+T129	CellLine 6255 6259	HDFn
+T130	BioAct 6288 6297	antivenom
+T131	Synonym 6318 6338	Alstonia macrophylla
+T132	Synonym 6649 6669	Alstonia macrophylla
+T133	Synonym 6728 6748	Alstonia macrophylla
+T134	PlantPart 6749 6753	bark
+T135	Synonym 6791 6811	Alstonia macrophylla
+T136	Synonym 6888 6908	Alstonia macrophylla
+T137	Compound 7276 7286	fatty acid
+T138	Compound 7291 7308	fatty acid esters
+T139	Compound 7310 7328	heptadecanoic acid
+T140	Compound 7339 7368	hexadecanoic acid ethyl ester
+T141	Compound 7383 7414	hexadecanonic acid methyl ester
+T142	Synonym 7448 7468	Alstonia macrophylla
+T143	ChemicalClass 7505 7514	alkaloids
+T144	Compound 7539 7550	alstonerine
+T145	Compound 7561 7571	strictamin
+T146	Compound 7581 7591	rauvomitin
+T147	Compound 7605 7612	brucine
+T148	Preparation 1038 1045	extract
+T149	ChemicalClass 7681 7694	triterpenoids
+T150	Compound 7696 7712	gamma-sitosterol
+T151	Compound 7722 7728	lupeol
+T152	Compound 7738 7762	24-methylenecycloartanol
+T153	Compound 7772 7783	campesterol
+T154	Compound 7793 7804	beta-amyrin
+T155	Compound 7818 7830	stigmasterol
+T156	Synonym 7914 7934	Alstonia macrophylla
+T157	Synonym 8060 8080	Alstonia macrophylla
+T158	Illness 8676 8688	hypertension
+T159	Family 8896 8907	Apocynaceae
+T160	PlantPart 9004 9008	bark
+T161	Preparation 9009 9015	powder
+T162	Synonym 9027 9044	Grewia lasiocarpa
+T163	Compound 9490 9496	iodine
+T164	Preparation 9753 9761	powdered
+T165	PlantPart 9762 9768	leaves
+T166	PlantPart 9770 9775	stems
+T167	PlantPart 9781 9786	roots
+T168	PlantPart 10038 10043	roots
+T169	PlantPart 10111 10117	leaves
+T170	PlantPart 9187 9191	stem
+T171	BioAct 10205 10216	Antioxidant
+T172	Synonym 10229 10249	Alstonia macrophylla
+T173	Synonym 10252 10272	Alstonia macrophylla
+T174	Synonym 10496 10516	Alstonia macrophylla
+T175	PlantPart 10517 10521	leaf
+T176	Compound 10536 10550	betasitosterol
+T177	Compound 10552 10564	ursolic acid
+T178	Compound 10570 10602	beta-sitosteryl-beta-D-glucoside
+T179	ChemicalClass 5928 5936	alkaloid
+T180	Compound 10659 10670	fatty acids
+T181	BioAct 10702 10713	antioxidant
+T182	Compound 10794 10804	superoxide
+T183	Preparation 5481 5488	extract
+T184	Synonym 10931 10951	Alstonia macrophylla
+T185	CellLine 10972 10977	MCF-7
+T186	CellLine 10979 10984	H69PR
+T187	CellLine 10986 10991	HT-29
+T188	Synonym 11043 11063	Alstonia macrophylla
+T189	Compound 11112 11121	2-ethenyl
+T190	Compound 11146 11170	aldehyde 3-ethylpyridine
+T191	Compound 11211 11224	nonanoic acid
+T192	Compound 11241 11274	carboxylic acid cyclohexylbenzene
+T193	Compound 11303 11327	3-hydroxy-4methoxybenzyl
+T194	Compound 11360 11391	hexadecanonic acid methyl ester
+T195	Compound 11409 11444	ester hexadecanoic acid ethyl ester
+T196	Compound 11462 11486	ester heptadecanoic acid
+T197	Compound 11504 11519	carboxylic acid
+T198	CellLine 11657 11662	THP-1
+T199	CellLine 11699 11703	HDFn
+T200	Synonym 11760 11780	Alstonia macrophylla
+T201	CellLine 11796 11800	HDFn
+T202	Location 11846 11852	Zeocin
+T203	BioAct 6181 6190	cytotoxic
+T204	Synonym 12278 12298	Alstonia macrophylla
+T205	Location 12303 12309	Zeocin
+T206	Synonym 12475 12495	Alstonia macrophylla
+T207	BioAct 10894 10903	cytotoxic
+T208	CellLine 12539 12544	MCF-7
+T209	CellLine 12626 12631	H69PR
+T210	CellLine 12633 12638	HT-29
+T211	CellLine 12644 12649	THP-1
+T212	CellLine 12901 12906	MCF-7
+T213	CellLine 12914 12919	H69PR
+T214	Location 13037 13043	Zeocin
+T215	Synonym 13209 13229	Alstonia macrophylla
+T216	Location 13237 13243	Zeocin
+T217	CellLine 13258 13263	MCF-7
+T218	Synonym 13351 13371	Alstonia macrophylla
+T219	Location 13415 13421	Zeocin
+T220	Synonym 13556 13576	Alstonia macrophylla
+T221	Location 13581 13587	Zeocin
+T222	CellLine 13619 13624	H69PR
+T223	Synonym 13641 13661	Alstonia macrophylla
+T224	BioAct 11744 11753	cytotoxic
+T225	Location 13699 13705	Zeocin
+T226	Synonym 13902 13922	Alstonia macrophylla
+T227	Location 13966 13972	Zeocin
+T228	CellLine 14155 14160	HT-29
+T229	Synonym 14164 14184	Alstonia macrophylla
+T230	Location 14189 14195	Zeocin
+T231	CellLine 14222 14227	HT-29
+T232	Preparation 6339 6346	extract
+T233	Synonym 14313 14333	Alstonia macrophylla
+T234	Synonym 14407 14427	Alstonia macrophylla
+T235	Compound 14476 14513	2,5-dimethyl-4-hydroxy-3(2H)-furanone
+T236	Compound 14529 14570	trihydroxybenzene 2-methoxy-4-vinylphenol
+T237	ChemicalClass 14587 14598	diterpenoid
+T238	Compound 14599 14618	2,6-dimethoxyphenol
+T239	Compound 14660 14695	2,6-dimethoxy-4-(2-propenyl)-phenol
+T240	Compound 14737 14777	3,5-dimethoxy-4-hydroxyphenylacetic acid
+T241	Compound 14794 14818	phenolic acid strictamin
+T242	ChemicalClass 10646 10654	alkaloid
+T243	Compound 14844 14854	rauvomitin
+T244	ChemicalClass 14835 14843	alkaloid
+T245	Compound 14880 14891	alstonerine
+T246	ChemicalClass 14871 14879	alkaloid
+T247	Compound 14918 14925	brucine
+T248	ChemicalClass 14909 14917	alkaloid
+T249	Compound 14951 14962	burnamicine
+T250	ChemicalClass 14942 14950	alkaloid
+T251	Compound 14988 14999	campesterol
+T252	ChemicalClass 15016 15028	triterpenoid
+T253	Compound 15029 15041	stigmasterol
+T254	ChemicalClass 15058 15070	triterpenoid
+T255	Compound 15071 15087	gamma-sitosterol
+T256	ChemicalClass 15104 15116	triterpenoid
+T257	Compound 15117 15128	beta-amyrin
+T258	ChemicalClass 15145 15157	triterpenoid
+T259	Compound 15158 15164	lupeol
+T260	ChemicalClass 15181 15193	triterpenoid
+T261	Compound 15194 15218	24-methylenecycloartanol
+T262	ChemicalClass 15236 15248	triterpenoid
+T263	Synonym 15399 15419	Alstonia macrophylla
+T264	CellLine 15467 15472	HT-29
+T265	Location 15492 15498	Zeocin
+T266	CellLine 15630 15635	THP-1
+T267	Synonym 15887 15907	Alstonia macrophylla
+T268	Location 15939 15945	Zeocin
+T269	Synonym 16013 16033	Alstonia macrophylla
+T270	CellLine 16079 16083	HDFn
+T271	Synonym 16182 16202	Alstonia macrophylla
+T272	Location 16729 16735	Zeocin
+T273	Location 16796 16802	Zeocin
+T274	BioAct 12254 12263	cytotoxic
+T275	CellLine 16889 16894	MCF-7
+T276	CellLine 16896 16901	H69PR
+T277	CellLine 16903 16907	HT29
+T278	CellLine 16909 16914	THP-1
+T279	CellLine 16920 16924	HDFn
+T280	Compound 17196 17212	sulforhodamine B
+T281	PlantPart 17282 17286	bark
+T282	PlantPart 17308 17313	roots
+T283	Synonym 17325 17345	Alstonia macrophylla
+T284	PlantPart 17351 17355	bark
+T285	Synonym 17456 17476	Alstonia macrophylla
+T286	Compound 17597 17618	O-Acetylmacralstonine
+T287	Compound 17620 17633	villalstonine
+T288	Compound 17639 17653	macrocarpamine
+T289	BodyPart 17819 17825	kidney
+T290	CellLine 17835 17840	MCF-7
+T291	BodyPart 17842 17848	breast
+T292	PlantPart 17965 17969	root
+T293	Compound 17987 18007	Omethylmacralstonine
+T294	Compound 18009 18019	talcarpine
+T295	Compound 18021 18034	villalstonine
+T296	Compound 18036 18050	pleiocarpamine
+T297	Compound 18056 18069	macraistonine
+T298	Synonym 18158 18178	Alstonia macrophylla
+T299	Synonym 18208 18227	Naja philippinensis
+T300	Synonym 18276 18296	Alstonia macrophylla
+T301	Synonym 18550 18570	Alstonia macrophylla
+T302	PlantPart 17970 17974	bark
+T303	Synonym 18739 18759	Alstonia macrophylla
+T304	PlantPart 18571 18575	bark
+T305	Synonym 18813 18833	Alstonia macrophylla
+T306	ChemicalClass 14979 14987	alkaloid
+T307	Family 18957 18967	Solanaceae
+T308	Compound 18976 18984	atropine
+T309	Synonym 19024 19039	Daboia russelli
+T310	Compound 19091 19106	beta-sitosterol
+T311	Compound 19111 19123	stigmasterol
+T312	Preparation 19125 19134	extracted
+T313	Synonym 19178 19192	Pluchea indica
+T314	Compound 19238 19248	superoxide
+T315	Compound 19298 19304	Lupeol
+T316	Illness 19330 19340	hemorrhage
+T317	Synonym 19393 19407	Bothrops venom
+T318	Synonym 19480 19499	Naja philippinensis
+T319	BioAct 19500 19509	antivenom
+T320	Synonym 19582 19600	Alstonia scholaris
+T321	Synonym 19662 19677	Vipera russelli
+T322	Compound 19723 19730	alanine
+T323	Compound 19745 19754	aspartate
+T324	Compound 19773 19783	creatinine
+T325	Preparation 3864 3873	decoction
+T326	Synonym 20089 20109	Alstonia macrophylla
+T327	PlantPart 18760 18764	bark
+T328	BioAct 20144 20155	antioxidant
+T329	Synonym 20196 20216	Alstonia macrophylla
+T330	CellLine 20291 20296	MCF-7
+T331	CellLine 20298 20303	H69PR
+T332	CellLine 20309 20314	HT-29
+T333	Location 20426 20432	Zeocin
+T334	BioAct 13 22	Cytotoxic
+T335	Synonym 20628 20648	Alstonia macrophylla
+T336	Location 20650 20656	Zeocin
+T337	Location 20826 20829	USA
+T338	CellLine 21079 21084	MCF-7
+T339	CellLine 21172 21177	H69PR
+T340	CellLine 21249 21254	HT-29
+T341	CellLine 21327 21332	THP-1
+T342	CellLine 21405 21409	HDFn
+T343	CellLine 21577 21582	MCF-7
+T344	Synonym 21608 21628	Alstonia macrophylla
+T345	Synonym 21660 21680	Alstonia macrophylla
+T346	CellLine 21685 21690	THP-1
+T347	CellLine 21702 21706	HDFn
+T348	Synonym 21729 21749	Alstonia macrophylla
+T349	Synonym 22039 22059	Alstonia macrophylla
+T350	ChemicalClass 22090 22099	alkaloids
+T351	ChemicalClass 22104 22117	triterpenoids
+T352	BodyPart 22335 22341	breast
+T353	Synonym 22396 22416	Alstonia macrophylla
+T354	PlantPart 20110 20114	bark
+T355	Synonym 22586 22606	Alstonia macrophylla
+T356	PlantPart 22417 22421	bark
+T357	BioAct 22643 22652	antivenom
+T358	Synonym 22820 22840	Alstonia macrophylla
+T359	PlantPart 22841 22847	trunks
+T360	Location 22865 22874	Mariveles
+T361	Location 22876 22882	Bataan
+T362	Location 22884 22895	Philippines
+T363	PlantPart 22607 22611	bark
+T364	Preparation 23012 23018	ground
+T365	Preparation 23052 23060	powdered
+T366	Compound 23081 23096	dichloromethane
+T367	Preparation 23126 23134	filtered
+T368	Preparation 6670 6677	extract
+T369	Preparation 23221 23229	Powdered
+T370	Compound 23322 23336	phenolic acids
+T371	Compound 23588 23594	phenyl
+T372	BioAct 10868 10877	Cytotoxic
+T373	Synonym 24817 24837	Alstonia macrophylla
+T374	Synonym 24914 24934	Alstonia macrophylla
+T375	Synonym 25289 25309	Alstonia macrophylla
+T376	BioAct 20604 20613	Cytotoxic
+T377	Synonym 25427 25447	Alstonia macrophylla
+T378	Preparation 1187 1194	Extract
+T379	Location 21870 21876	Zeocin
+T380	CellLine 25513 25518	MCF-7
+T381	CellLine 25519 25524	H69PR
+T382	CellLine 25525 25530	HT-29
+T383	CellLine 25531 25536	THP-1
+T384	CellLine 25537 25541	HDFn
+T385	Synonym 25542 25562	Alstonia macrophylla
+T386	Location 25466 25472	Zeocin
+T387	CellLine 25926 25931	MCF-7
+T388	CellLine 25962 25967	H69PR
+T389	CellLine 25998 26003	HT-29
+T390	CellLine 26033 26038	THP-1
+T391	CellLine 26068 26072	HDFn
+T392	Synonym 26225 26245	Alstonia macrophylla
+T393	Synonym 26554 26574	Alstonia macrophylla
+T394	PlantPart 23003 23007	bark
+T395	BioAct 26708 26719	Antioxidant
+T396	BioAct 26732 26743	antioxidant
+T397	Synonym 26768 26788	Alstonia macrophylla
+T398	PlantPart 26789 26793	leaf
+T399	Compound 26851 26880	1,1-diphenyl-2-picrylhydrazyl
+T400	Preparation 26933 26941	powdered
+T401	Preparation 27112 27120	filtered
+T402	Preparation 6705 6712	extract
+T403	Compound 10473 10481	methanol
+T404	Synonym 27336 27356	Alstonia macrophylla
+T405	Preparation 7469 7476	extract
+T406	Compound 17942 17950	methanol
+T407	Compound 26794 26802	methanol
+T408	Compound 28145 28160	dichloromethane
+T409	Synonym 28184 28204	Alstonia macrophylla
+T410	Location 28279 28287	Manassas
+T411	Location 28289 28297	Virginia
+T412	Location 28299 28302	USA
+T413	BodyPart 28304 28310	breast
+T414	CellLine 28319 28324	MCF-7
+T415	CellLine 28341 28345	HT29
+T416	CellLine 28375 28380	H69PR
+T417	CellLine 28415 28420	THP-1
+T418	CellLine 28489 28493	HDFn
+T419	Location 28529 28532	USA
+T420	Location 28699 28702	USA
+T421	BioAct 12513 12522	cytotoxic
+T422	Synonym 28794 28814	Alstonia macrophylla
+T423	Compound 28998 29007	resazurin
+T424	CellLine 29344 29349	THP-1
+T425	Synonym 29470 29490	Alstonia macrophylla
+T426	Synonym 29684 29704	Alstonia macrophylla
+T427	Location 25589 25595	Zeocin
+T428	Location 29806 29809	USA
+T429	Location 29765 29771	Zeocin
+T430	BioAct 13662 13671	cytotoxic
+T431	Synonym 30930 30950	Alstonia macrophylla
+T432	Synonym 31025 31044	Naja philippinensis
+T433	Compound 31251 31287	5,5'-dithio-bis-(2-nitrobenzoic acid
+T434	Compound 31363 31374	polystyrene
+T435	Compound 31390 31400	microplate
+T436	Synonym 31418 31438	Alstonia macrophylla
+T437	Compound 27302 27310	methanol
+T438	Synonym 31761 31781	Alstonia macrophylla
+T439	Compound 31970 31980	Microplate
+T440	Synonym 32108 32128	Alstonia macrophylla
+T441	Compound 32193 32203	100control
+T442	Compound 32229 32237	Xcontrol
+T443	Synonym 32356 32376	Alstonia macrophylla
+T444	Location 33103 33108	Osaka
+T445	Synonym 33155 33175	Alstonia macrophylla
+T446	Synonym 33176 33196	Alstonia macrophylla
+T447	PlantPart 26575 26579	bark
+T448	Compound 33206 33221	dichloromethane
+T449	Compound 33227 33244	dimethylsulfoxide
+T450	CellLine 33419 33424	MCF-7
+T451	BodyPart 33431 33437	breast
+T452	CellLine 33463 33468	HT-29
+T453	CellLine 33511 33516	H69PR
+T454	Synonym 33517 33529	Homo sapiens
+T455	CellLine 33556 33561	THP-1
+T456	CellLine 33603 33607	HDFn
+T457	Compound 27406 27414	methanol
+T458	Synonym 33685 33704	Naja philippinensis

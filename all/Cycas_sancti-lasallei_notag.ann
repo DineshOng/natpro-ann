@@ -399,19 +399,20 @@ T398	Compound 20957 20975	omega-3 fatty acid
 T399	Compound 21009 21029	alpha-linolenic acid
 T400	Compound 21179 21199	alpha-linolenic acid
 T401	Compound 21250 21262	arachidonate
-T402	Compound 21359 21379	alpha-linolenic acid
-T403	Compound 21444 21452	squalene
-T404	Compound 21628 21643	dichloromethane
-T405	Synonym 6237 6258	Cycas sancti-lasallei
-T406	Location 21702 21713	Philippines
-T407	Compound 21724 21732	squalene
-T408	Compound 21735 21749	betasitosterol
-T409	Compound 21752 21764	stigmasterol
-T410	Compound 21767 21780	triglycerides
-T411	Compound 21783 21807	phytyl fatty acid esters
-T412	Compound 21814 21847	beta-sitosteryl fatty acid esters
-T413	Compound 21861 21869	squalene
-T414	Compound 21871 21884	triglycerides
-T415	BioAct 21950 21960	anticancer
-T416	Compound 22022 22042	Education-Philippine
-T417	Location 22099 22110	Philippines
+T402	Compound 21333 21353	Gamma-Linolenic acid
+T403	Compound 21364 21384	alpha-linolenic acid
+T404	Compound 21449 21457	squalene
+T405	Compound 21633 21648	dichloromethane
+T406	Synonym 6237 6258	Cycas sancti-lasallei
+T407	Location 21707 21718	Philippines
+T408	Compound 21729 21737	squalene
+T409	Compound 21740 21754	betasitosterol
+T410	Compound 21757 21769	stigmasterol
+T411	Compound 21772 21785	triglycerides
+T412	Compound 21788 21812	phytyl fatty acid esters
+T413	Compound 21819 21852	beta-sitosteryl fatty acid esters
+T414	Compound 21866 21874	squalene
+T415	Compound 21876 21889	triglycerides
+T416	BioAct 21955 21965	anticancer
+T417	Compound 22027 22047	Education-Philippine
+T418	Location 22104 22115	Philippines

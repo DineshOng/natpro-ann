@@ -2,7 +2,7 @@ Journal of Applied Pharmaceutical Science Vol. (03), pp 073-081, March, 2019 Ava
 
 2019.
 
-ISSN 2231-3354 The anti-venom potential of Andrographis paniculata Burmf Nees roots and its constituent skullcapflavone Iaria Carmen S. Tan1*, Raymond S. Malabed 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, Francisco C. Franco Jr. , Yves Ira A. Reyes, Daisylyn Senna Tan1, Glenn G. Oyong, Chien-Chang Shen, Consolacion Y. Ragasa,5 1Chemistry Department, De La Salle University, Manila, Philippines.
+ISSN 2231-3354 The anti-venom potential of Andrographis paniculata Burmf Nees roots and its constituent skullcapflavone Iaria Carmen S. Tan1*, Raymond S. Malabed 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, Francisco C. Franco Jr. , Yves Ira A. Reyes, Daisylyn Senna Tan1, Glenn G. Oyong, Chien-Chang Shen, Consolacion Y. Ragasa gamma-sitosterol, 1Chemistry Department, De La Salle University, Manila, Philippines.
 
 Department of Chemistry, Graduate School of Science, Osaka University, 3,5-dimethylphenyl isocyanate, Machikaneyama, Toyonaka, Osaka, Japan.
 
@@ -22,7 +22,7 @@ Chromatographic analyses primarily revealed the presence of methoxylated flavone
 
 NPV was found to have sPLA activity (0.0796 0.0018 mol/minutes/ml) that has been attributed to the poisonous effects.
 
-SKI (IC50: 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, 5 g/ml), isolated from APR showed strong inhibitory effect on phospholipase activity compared with dichloromethane extracts of APR (IC50: 192.7 10.9 g/ml) indicating that SKI was the cause of the bioactivity in APR.
+SKI (IC50: 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, gamma-sitosterol, g/ml), isolated from APR showed strong inhibitory effect on phospholipase activity compared with dichloromethane extracts of APR (IC50: 192.7 10.9 g/ml) indicating that SKI was the cause of the bioactivity in APR.
 
 Molecular docking simulations showed corresponding results with highly negative binding energies (-6.59 to -8.72 kcal/mol) predicted for the binding of SKI to PLA2 proteins.
 
@@ -32,7 +32,7 @@ The anti-venom property of APR and the pure compound SKI, upon further studies, 
 
 According to the World Health Organization (by appeal of numerous UN member countries), snake envenomation was listed as the highest priority (Category A) of neglected tropical disease on July 2017.
 
-PLA2 was estimated that 5.4 million snake bites result annually with subsequent 3,5-dimethylphenyl isocyanate, .7 million cases of poisoning.
+PLA2 was estimated that gamma-sitosterol, 4 million snake bites result annually with subsequent 3,5-dimethylphenyl isocyanate, .7 million cases of poisoning.
 
 Mortality rates due to snake bite poisoning is from 81,410 to 137,880 yearly and the incidence of permanent disabilities and limb amputations are three times as much as morbidity.
 
@@ -110,7 +110,7 @@ The components of the assay kit were prepared as indicated by the manufacturer.
 
 The kit includes the following: assay buffer (10), 5,5'-dithio-bis-(2-nitro-benzoic acid) (DTNB), diheptanoyl thio-PC substrate, bee venom (control), and a 96-well polystyrene F-bottom clear microplate (Greener Bio One).
 
-A 25 mM Tris-HCl containing 10 mM CaCl, 100 mM KCl, and 0 n-hexadecanoic acid, mM Triton X (pH 7.5) assay buffer was prepared by mixing n-hexadecanoic acid, ml of the concentrate with 27 ml of high performance liquid chromatography (HPLC) grade water.
+A 25 mM Tris-HCl containing 10 mM CaCl, 100 mM KCl, and 0 n-hexadecanoic acid, mM Triton X (pH 7 gamma-sitosterol, assay buffer was prepared by mixing n-hexadecanoic acid, ml of the concentrate with 27 ml of high performance liquid chromatography (HPLC) grade water.
 
 This buffer system (diluted assay buffer) was used to reconstitute the substrate and samples for the assay.
 
@@ -128,15 +128,15 @@ The sPLA activity of NPV was determined using a colorimetric assay in comparison
 
 The components for the assay were carefully pipetted into a 96-well plate.
 
-The negative control wells consisted of 10 l DTNB and 15 l assay buffer, while the positive control wells consist of 10 l DTNB, 10 l bee venom PLA2 (100 g/ml final concentration), and 5 l assay buffer.
+The negative control wells consisted of 10 l DTNB and 15 l assay buffer, while the positive control wells consist of 10 l DTNB, 10 l bee venom PLA2 (100 g/ml final concentration), and gamma-sitosterol, l assay buffer.
 
-The sample wells consist of 10 l DTNB, 10 l NPV (100 g/ml final concentration), and 5 l assay buffer.
+The sample wells consist of 10 l DTNB, 10 l NPV (100 g/ml final concentration), and gamma-sitosterol, l assay buffer.
 
 The reaction was initiated by adding 200 l of substrate solution into each well, followed by colorimetric analysis using Corona Electric Multimode Microplate Reader (MTP-800, Corona Electric Co.
 
 Ltd., Ibaraki, Japan) at an absorbance of 414 nm.
 
-The contents of the plate were homogenized using the mixing function at a medium speed for 5 seconds prior to absorbance reading.
+The contents of the plate were homogenized using the mixing function at a medium speed for gamma-sitosterol, seconds prior to absorbance reading.
 
 The reaction was monitored for a total of 30 minutes with absorbance reading per minute.
 
@@ -154,13 +154,13 @@ The lyophilized samples were dissolved in methanol or dimethyl sulfoxide (DMSO) 
 
 Aliquot portions were dissolved in DMSO to prepare various samples at a final concentration ranging from 3,5-dimethylphenyl isocyanate, to 3,5-dimethylphenyl isocyanate, 000 g/ml.
 
-The negative control wells consist of 5 l DMSO, 10 l DTNB, and 10 l assay buffer, while the positive control wells consist of 5 l DMSO, 10 l DTNB, and 10 l NPV (100 g/ml final concentration).
+The negative control wells consist of gamma-sitosterol, l DMSO, 10 l DTNB, and 10 l assay buffer, while the positive control wells consist of gamma-sitosterol, l DMSO, 10 l DTNB, and 10 l NPV (100 g/ml final concentration).
 
 The sPLA activity of 100 g/ml NPV was monitored in the presence of the inhibitors APR and SKI.
 
 Seven concentrations of plant extracts ranging from 3,5-dimethylphenyl isocyanate, to 3,5-dimethylphenyl isocyanate, 000 g/ml were tested against 100 g/ml NPV.
 
-The sample wells consisted of 5 l inhibitor in DMSO, 10 l DTNB, and 10 l NPV (100 g/ml final concentration).
+The sample wells consisted of gamma-sitosterol, l inhibitor in DMSO, 10 l DTNB, and 10 l NPV (100 g/ml final concentration).
 
 The reaction was initiated by adding 200 l of substrate solution into each well, followed by colorimetric analysis using Corona Electric Multimode Microplate Reader (MTP-800, Corona Electric Co.
 
@@ -188,11 +188,11 @@ Characterization of dichloromethane extracts GC-EI-MS analyses of the dichlorome
 
 The identified components of the low-boiling point compounds of the crude extract were substantiated by retention index (RI) and structural class through the NIST library.
 
-The results are listed in Table 3,5-dimethylphenyl isocyanate, according to their elution order on a HP-5ms column, as visualized on Figure 3,5-dimethylphenyl isocyanate, The sample consisted primarily of methoxylated flavones: 5,2'-dihydroxy-7,8-dimethoxyflavone (4.85%), 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy- n-hexadecanoic acid, 21%), and 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy-(0.79%); a flavonoid glycoside [4H-1-benzopyran-4-one, 7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-] which was the base peak (10.11%); fatty acids: n-hexadecanoic acid n-hexadecanoic acid, 08 %) and 9,12-octadecadienoic acid (Z,Z) 3,5-dimethylphenyl isocyanate, 06%); sterols: androst-4-ene-3,17-dione (0.94%), stigmasterol (4.51%), and -sitosterol n-hexadecanoic acid, 08%); a diarylethene ether, 3,3',4,4'-tetramethoxystilbene (4.91%); a polyprenol, 1,6,10,14,18,22-tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E) 3,5-dimethylphenyl isocyanate, 32%); a lignan, yangambin (0.71%); an aryl isocyanate, 3,5-dimethylphenyl isocyanate (0.86%); an alkyl ester, propanoic acid, 2-methyl-, 1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester (0.35%); and two constituents with diverse functional groups: benzaldehyde, 4-hydroxy-3,5-dimethoxy-, [(4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazine (5.30%) and 2H,8H-benzo 3,5-dimethylphenyl isocyanate, 2-b:5,4-b'] Tan et al. / Journal of Applied Pharmaceutical Science 9 (03); 2019: 073-081 076 Table 3,5-dimethylphenyl isocyanate, The chemical composition of APR DCM extracts.
+The results are listed in Table 3,5-dimethylphenyl isocyanate, according to their elution order on a HP-5ms column, as visualized on Figure 3,5-dimethylphenyl isocyanate, The sample consisted primarily of methoxylated flavones: 5,2'-dihydroxy-7,8-dimethoxyflavone (4.85%), 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy- n-hexadecanoic acid, 21%), and 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy-(0.79%); a flavonoid glycoside [4H-1-benzopyran-4-one, 7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-] which was the base peak (10.11%); fatty acids: n-hexadecanoic acid n-hexadecanoic acid, 08 %) and 9,12-octadecadienoic acid (Z,Z) 3,5-dimethylphenyl isocyanate, 06%); sterols: androst-4-ene-3,17-dione (0.94%), stigmasterol (4.51%), and gamma-sitosterol n-hexadecanoic acid, 08%); a diarylethene ether, 3,3',4,4'-tetramethoxystilbene (4.91%); a polyprenol, 1,6,10,14,18,22-tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E) 3,5-dimethylphenyl isocyanate, 32%); a lignan, yangambin (0.71%); an aryl isocyanate, 3,5-dimethylphenyl isocyanate (0.86%); an alkyl ester, propanoic acid, 2-methyl-, 1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester (0.35%); and two constituents with diverse functional groups: benzaldehyde, 4-hydroxy-3,5-dimethoxy-, [(4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazine gamma-sitosterol, 30%) and 2H,8H-benzo 3,5-dimethylphenyl isocyanate, 2-b:5,4-b'] Tan et al. / Journal of Applied Pharmaceutical Science 9 (03); 2019: 073-081 076 Table 3,5-dimethylphenyl isocyanate, The chemical composition of APR DCM extracts.
 
-Peak number RT minute X SD Compoundb RIa % peak area Functionality 3,5-dimethylphenyl isocyanate, 21.10 0.054 3,5-Dimethylphenyl isocyanate 1333 0. Aryl isocyanate 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, 36.78 0. Propanoic acid, 2-methyl-, 1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester 1597 0. Alkyl ester n-hexadecanoic acid, 57.78 0.074 n-Hexadecanoic acid 1953 n-hexadecanoic acid, Saturated fatty acid 4 61.34 0.83 9,12-Octadecadienoic acid (Z,Z)2135 3,5-dimethylphenyl isocyanate, 06 polyunsaturated fatty acid 5 74.07 0.0039 4H-1-Benzopyran-4-one, 7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)2524 10.
+Peak number RT minute X SD Compoundb RIa % peak area Functionality 3,5-dimethylphenyl isocyanate, 21.10 0.054 3,5-Dimethylphenyl isocyanate 1333 0. Aryl isocyanate 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, 36.78 0. Propanoic acid, 2-methyl-, 1-1, 1-dimethylethyl)-2-methyl-1,3-propanediyl ester 1597 0. Alkyl ester n-hexadecanoic acid, 57.78 0.074 n-Hexadecanoic acid 1953 n-hexadecanoic acid, Saturated fatty acid 4 61.34 0.83 9,12-Octadecadienoic acid (Z,Z)2135 3,5-dimethylphenyl isocyanate, 06 polyunsaturated fatty acid gamma-sitosterol, 74.07 0.0039 4H-1-Benzopyran-4-one, 7-(beta-D-glucopyranosyloxy)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)2524 10.
 
-Flavonoid glycoside 6 75.46 3,5-dimethylphenyl isocyanate, 03 3,3',4,4'-Tetramethoxystilbene 2542 4. Diarylethene ether 7 81.59 0.0033 5,2'-Dihydroxy-7,8-dimethoxyflavone 2748 4. Methoxyflavone 8 85.52 0. Androst-4-ene-3,17-dione, 12-hydroxy-, bis(O-methyloxime), (12beta)2893 0. Androsterone 9 87.40 0. Benzaldehyde, 4-hydroxy-3,5-dimethoxy-, [(4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazone 2975 5. Diverse functional groups 10 88.32 0.056 1,6,10,14,18,22-Tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E)3014 3,5-dimethylphenyl isocyanate, Polyprenol 11 92.91 0.15 2H,8H-Benzo1, 2-b:5,4-b']dipyran-10-propanoic acid, 5-methoxy-22, 8,8-tetramethyl-, methyl ester 3188 3,5-dimethylphenyl isocyanate, Diverse functional groups 12 94.05 0.095 4H-1-Benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy n-hexadecanoic acid, Methoxyflavone 13 95.53 0. Stigmasterol 3261 4. Phytosterol 14 95.73 0.27 4H-1-Benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy 0. Methoxyflavone 15 97.64 0.16 -Sitosterol 3319 n-hexadecanoic acid, Phytosterol 16 113.62 0. Yangambin 3548 0. Furofuran lignan aRetention index (HP-5ms column). bCompounds listed in order of elution from a HP-5ms column.
+Flavonoid glycoside 6 75.46 3,5-dimethylphenyl isocyanate, 03 3,3',4,4'-Tetramethoxystilbene 2542 4. Diarylethene ether 7 81.59 0.0033 5,2'-Dihydroxy-7,8-dimethoxyflavone 2748 4. Methoxyflavone 8 85.52 0. Androst-4-ene-3,17-dione, 12-hydroxy-, bis(O-methyloxime), (12beta)2893 0. Androsterone 9 87.40 0. Benzaldehyde, 4-hydroxy-3,5-dimethoxy-, [(4-hydroxy-3,5-dimethoxyphenyl)methylene]hydrazone 2975 gamma-sitosterol, Diverse functional groups 10 88.32 0.056 1,6,10,14,18,22-Tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E)3014 3,5-dimethylphenyl isocyanate, Polyprenol 11 92.91 0.15 2H,8H-Benzo1, 2-b:5,4-b']dipyran-10-propanoic acid, 5-methoxy-22, 8,8-tetramethyl-, methyl ester 3188 3,5-dimethylphenyl isocyanate, Diverse functional groups 12 94.05 0.095 4H-1-Benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5,6-dihydroxy-7,8-dimethoxy n-hexadecanoic acid, Methoxyflavone 13 95.53 0. Stigmasterol 3261 4. Phytosterol 14 95.73 0.27 4H-1-Benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy 0. Methoxyflavone 15 97.64 0.16 gamma-Sitosterol 3319 n-hexadecanoic acid, Phytosterol 16 113.62 0. Yangambin 3548 0. Furofuran lignan aRetention index (HP-5ms column). bCompounds listed in order of elution from a HP-5ms column.
 
 Figure 3,5-dimethylphenyl isocyanate, Total ion chromatogram of dichloromethane extract of APR with numbered constituents.
 
@@ -206,7 +206,7 @@ This was done through calculating the distance matrices of data objects and then
 
 Further generation of the Figure 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, was facilitated through the clustergram function of MATLAB.
 
-Figure 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, illustrated that androst-4-ene-3,17-dione, 12-hydroxy-, bis(O-methyloxime), (12beta), 1,6,10,14,18,22-tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E)(10), 2H, 8H-benzo1, 2-b:5,4-b']dipyran-10-propanoic acid, 5-methoxy2, 2,8,8-tetramethyl-, methyl ester (11), 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy-(14), and -sitosterol formed a distinct cluster with a relatively higher RI and low percent peak area.
+Figure 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, illustrated that androst-4-ene-3,17-dione, 12-hydroxy-, bis(O-methyloxime), (12beta), 1,6,10,14,18,22-tetracosahexaen-3-ol, 2,6,10,15,19,23-hexamethyl-, (all-E)(10), 2H, 8H-benzo1, 2-b:5,4-b']dipyran-10-propanoic acid, 5-methoxy2, 2,8,8-tetramethyl-, methyl ester (11), 4H-1-benzopyran-4-one, 2-3, 4-dimethoxyphenyl)-5-hydroxy-3,6,7-trimethoxy-(14), and gamma-sitosterol formed a distinct cluster with a relatively higher RI and low percent peak area.
 
 This indicated that there were small quantities of relatively non-polar components in APR.
 
@@ -230,7 +230,7 @@ Inhibitory sPLA activity of APR and SKI The sPLA activities in the presence of i
 
 The roots showed the high activity as exhibited by the IC50 value at 192.7 10.9 g/ml.
 
-SKI, isolated from APR, also displayed strong inhibitory effect on phospholipase activity with an IC50 value of 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, 5 g/ml (Fig. ). Due to the low IC50 concentration, it can be presumed that SKI induced the perceived bioactivity.
+SKI, isolated from APR, also displayed strong inhibitory effect on phospholipase activity with an IC50 value of 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, gamma-sitosterol, g/ml (Fig. ). Due to the low IC50 concentration, it can be presumed that SKI induced the perceived bioactivity.
 
 Flavones have been found to have anti-venom activity such as that of the flavonoid extract of the root bark of Parinari curatellifolia which was indicated to offer significant protection (p < 0.05) against Echis carinatus venom at a dose of 237 mg/kg.
 
@@ -290,7 +290,7 @@ Finally, for SKI-1A3F, H14 interacted with the carbonyl group of Gly29 and O1 in
 
 The strong non-bonding interactions between SKI and the proteins suggested that it is highly likely for SKI to inhibit PLA2 proteins.
 
-Thus, the observed experimental anti-venom properties of the compound could be attributed to the inhibition of PLA2 of Figure 5. Inhibitory effect of APR and SKI against sPLA activity.
+Thus, the observed experimental anti-venom properties of the compound could be attributed to the inhibition of PLA2 of Figure gamma-sitosterol, Inhibitory effect of APR and SKI against sPLA activity.
 
 Table 1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester, Top three clusters of SKI conformations docked to candidate targets in Naja sp venom.
 
@@ -312,7 +312,7 @@ In summation, NPV sPLA activity was confirme with a calculated activity of 0.079
 
 This was typical for venoms extracted from related Naja species.
 
-Antivenom activity was proved through the inhibition of sPLA activity by APR (IC50: 192.7 10.9 g/ml) and SKI isolated from APR (IC50: 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, 5 g/ml).
+Antivenom activity was proved through the inhibition of sPLA activity by APR (IC50: 192.7 10.9 g/ml) and SKI isolated from APR (IC50: 51 3,5-dimethylphenyl isocyanate, n-hexadecanoic acid, gamma-sitosterol, g/ml).
 
 SKI had a lower IC50 suggesting that SKI was the active component of APR's anti-venom effects.
 

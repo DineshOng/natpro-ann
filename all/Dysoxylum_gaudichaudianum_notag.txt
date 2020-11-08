@@ -34,7 +34,7 @@ A new limonoid, gaudichaudysolin Asolated from the plant's bark, was evaluated i
 
 This study was conducted as part of our research on the chemical constituents of the genus Dysoxylum found in the Philippines.
 
-We earlier reported the isolation of new glabretal-type triterpenoids along with the known Mariquit et al. /Cytotoxic Compounds from IJPPR, Volume 8, Issue 4: April 2016 Page 669 compounds, 24,25-epoxy-3,23-dihydroxy-7-tirucallene, squalene, polyprenol, linoleic acid and lutein from the leaves of Dysoxylum mollissimum Blume.
+We earlier reported the isolation of new glabretal-type triterpenoids along with the known Mariquit et al. /Cytotoxic Compounds from IJPPR, Volume 8, Issue 4: April 2016 Page 669 compounds, 24,25-epoxy-3Beta,23-dihydroxy-7-tirucallene, squalene, polyprenol, linoleic acid and lutein from the leaves of Dysoxylum mollissimum Blume.
 
 Recently, we reported that the crude dicloromethane leaf extract of Dysoxylum gaudichaudianum (A. Juss.) Miq exhibited IC50 values of 7.35 and 13.19 g/mL against breast cancer (MCF-7) and colon cancer (HT-29) cells, respectively.
 

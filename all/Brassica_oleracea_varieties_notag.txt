@@ -211,11 +211,11 @@ Omega-3 polyunsaturated fatty acids (n-3 PUFA), eicosapentaenoic acid (EPA), doc
 
 They also showed anti-inflammatory effects.
 
-Peroxisome proliferator-activated receptor- (PPAR-) and cyclooxygenase-2 (COX-2) inhibition serve as two signaling pathways for the inhibitory effects of alpha-linolenic acid (ALA) on the human renal cell carcinoma (RCC) cell proliferation.
+Peroxisome proliferator-activated receptor-gamma (PPAR-gamma) and cyclooxygenase-2 (COX-2) inhibition serve as two signaling pathways for the inhibitory effects of alpha-linolenic acid (ALA) on the human renal cell carcinoma (RCC) cell proliferation.
 
 Another study reported that apoptosis of hepatoma cells was induced by the alpha-linolenic acidenriched diet which correlated with a decrease in arachidonate content in hepatoma cells and decreased cyclooxygenase-2 expression.
 
--Linolenic acid (GLA) and alpha-linolenic acid (ALA) exhibited greater than 90% cytotoxicity between 500 M and Beta-Sitosterol, mM against all but two malignant micro-organ cultures tested in 5-10% serum.
+Gamma-Linolenic acid (GLA) and alpha-linolenic acid (ALA) exhibited greater than 90% cytotoxicity between 500 M and Beta-Sitosterol, mM against all but two malignant micro-organ cultures tested in 5-10% serum.
 
 GLA and ALA killed tumor at concentrations of triglycerides, mM and above in tests using 30-40% serum.
 

@@ -182,7 +182,7 @@ Another study reported that lupeol, and lupeol acetate have shown hypotensive ac
 
 A review on the biological activities of lupeol has been provided.
 
-Lupenone inhibited adipocyte differentiation by suppressing PPAR and C/EBPalpha protein levels.
+Lupenone inhibited adipocyte differentiation by suppressing PPARgamma and C/EBPalpha protein levels.
 
 Lupenone also increased the tyrosinase enzyme expression via mitogen-activated protein kinase phosphorylated extracellular signal regulated kinases 1 and 2 phosphorylation inhibition which results to stimulation of melanogenesis.
 

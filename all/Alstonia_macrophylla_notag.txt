@@ -8,7 +8,7 @@ EDX analysis of Alstonia macrophylla bark displayed a high content of potassium 
 
 Eight constituents were detected in Alstonia macrophylla crude dichloromethane (DCM) extracts, which consisted of a long-chain unsaturated fatty acid (17:0) and fatty acid esters such as ethyl hexadecanoate and methyl hexadecanoate.
 
-Extraction of Alstonia macrophylla bark using methanol and dimethyl sulfoxide (MeOH/DMSO) solvents resulted in the identification of 17 constituents, principally alkaloids (alstonerine, 34.38%; strictamin, 5.23%; rauvomitin, 4.29%; and brucine, 3.66%) and triterpenoids (-sitosterol, 3.85%; lupeol, 3.00%; 24-methylenecycloartanol, 2.81%; campesterol, 2.71%; beta-amyrin, 2.30%; and stigmasterol, 2.
+Extraction of Alstonia macrophylla bark using methanol and dimethyl sulfoxide (MeOH/DMSO) solvents resulted in the identification of 17 constituents, principally alkaloids (alstonerine, 34.38%; strictamin, 5.23%; rauvomitin, 4.29%; and brucine, 3.66%) and triterpenoids (gamma-sitosterol, 3.85%; lupeol, 3.00%; 24-methylenecycloartanol, 2.81%; campesterol, 2.71%; beta-amyrin, 2.30%; and stigmasterol, 2.
 
 13%).
 
@@ -84,7 +84,7 @@ The MEOH/DMSO crude Alstonia macrophylla extracts were composed primarily of alk
 
 66%).
 
-Other notable constituents from this polar extract were triterpenoids: -sitosterol (3.85%), lupeol (3.00%), 24-methylenecycloartanol (2.81%), campesterol (2.71%), beta-amyrin (2.30%), and stigmasterol (2.
+Other notable constituents from this polar extract were triterpenoids: gamma-sitosterol (3.85%), lupeol (3.00%), 24-methylenecycloartanol (2.81%), campesterol (2.71%), beta-amyrin (2.30%), and stigmasterol (2.
 
 13%).
 
@@ -174,7 +174,7 @@ Post hoc analysis revealed that there were no significant differences between th
 
 The mean IC50 values of HT-29 cells Figure 1. Total ion GC-MS chromatogram of (a) DCM and (b) MeOH/DMSO extract of Alstonia macrophylla with n-alkanes.
 
-Table 2. Volatile Constituents of MeOH:DMSO Extracts of Alstonia macrophylla compound RT (min) RIa % peak area functionality 2,5-dimethyl-4-hydroxy-3(2H)-furanone 7.20 1026 1.16 trihydroxybenzene 2-methoxy-4-vinylphenol 19.96 1355 5.37 diterpenoid 2,6-dimethoxyphenol 22.13 1375 1.83 diverse functional group 2,6-dimethoxy-4-(2-propenyl)-phenol 45.43 1660 3.69 diverse functional group 3,5-dimethoxy-4-hydroxyphenylacetic acid 49.60 1690 1.66 phenolic acid strictamin 77.42 2519 5.23 alkaloid rauvomitin 84.82 2522 4.29 alkaloid alstonerine 86.66 2544 34.38 alkaloid brucine 86.85 2545 3.66 alkaloid burnamicine 87.94 2561 1.71 alkaloid campesterol 93.35 2643 2.71 triterpenoid stigmasterol 94.44 2663 2.13 triterpenoid -sitosterol 96.48 2701 3.85 triterpenoid beta-amyrin 97.27 2716 2.30 triterpenoid lupeol 98.43 2738 3.00 triterpenoid 24-methylenecycloartanol 101.84 2802 2.81 triterpenoid aRetention index (HP-5 ms column).
+Table 2. Volatile Constituents of MeOH:DMSO Extracts of Alstonia macrophylla compound RT (min) RIa % peak area functionality 2,5-dimethyl-4-hydroxy-3(2H)-furanone 7.20 1026 1.16 trihydroxybenzene 2-methoxy-4-vinylphenol 19.96 1355 5.37 diterpenoid 2,6-dimethoxyphenol 22.13 1375 1.83 diverse functional group 2,6-dimethoxy-4-(2-propenyl)-phenol 45.43 1660 3.69 diverse functional group 3,5-dimethoxy-4-hydroxyphenylacetic acid 49.60 1690 1.66 phenolic acid strictamin 77.42 2519 5.23 alkaloid rauvomitin 84.82 2522 4.29 alkaloid alstonerine 86.66 2544 34.38 alkaloid brucine 86.85 2545 3.66 alkaloid burnamicine 87.94 2561 1.71 alkaloid campesterol 93.35 2643 2.71 triterpenoid stigmasterol 94.44 2663 2.13 triterpenoid gamma-sitosterol 96.48 2701 3.85 triterpenoid beta-amyrin 97.27 2716 2.30 triterpenoid lupeol 98.43 2738 3.00 triterpenoid 24-methylenecycloartanol 101.84 2802 2.81 triterpenoid aRetention index (HP-5 ms column).
 
 ACS Omega Article DOI: 10.1021/acsomega.
 

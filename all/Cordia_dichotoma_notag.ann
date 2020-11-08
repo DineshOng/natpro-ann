@@ -91,366 +91,368 @@ T90	Compound 4060 4075	triacylglycerol
 T91	Synonym 4095 4111	Cordia dichotoma
 T92	PlantPart 4245 4250	seeds
 T93	Synonym 4254 4270	Cordia dichotoma
-T94	ChemicalClass 4366 4376	flavonoids
-T95	Compound 4378 4388	kaempferol
-T96	Compound 4441 4448	butanol
-T97	PlantPart 4461 4467	fruits
-T98	Synonym 4471 4487	Cordia dichotoma
-T99	Compound 4548 4563	triacylglycerol
-T100	Compound 4572 4612	nervonyl 4-hydroxy-trans-cinnamate ester
-T101	ChemicalClass 4638 4646	flavonol
-T102	Compound 4647 4657	glycosides
-T103	Compound 4704 4711	butanol
-T104	Preparation 3512 3519	extract
-T105	PlantPart 4727 4733	leaves
-T106	Synonym 4737 4753	Cordia dichotoma
-T107	Compound 4759 4774	rosmarinic acid
-T108	Compound 4889 4943	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T109	ChemicalClass 4950 4963	triterpenoids
-T110	Compound 4986 5040	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T111	Compound 5052 5067	rosmarinic acid
-T112	Synonym 5142 5158	Cordia dichotoma
-T113	Compound 5243 5294	beta-sitosteryl-3betaglucopyranoside-6'-O-palmitate
-T114	Compound 5297 5336	nervonyl 4-hydroxy-transcinnamate ester
-T115	Compound 5339 5354	beta-sitosterol
-T116	Compound 5361 5374	chlorophyll a
-T117	PlantPart 5384 5390	leaves
-T118	Compound 5396 5411	Beta-Sitosterol
-T119	Compound 5417 5453	1,2-dilinoleoyl-3-linolenoylglycerol
-T120	PlantPart 5463 5468	twigs
-T121	Synonym 5472 5488	Cordia dichotoma
-T122	Compound 5572 5626	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T123	Compound 5628 5668	nervonyl 4-hydroxy-trans-cinnamate ester
-T124	Synonym 5675 5691	Cordia dichotoma
-T125	Compound 5724 5776	beta-Sitosteryl-3beta-glucopyranoside-6'-O-palmitate
-T126	Compound 5779 5819	nervonyl 4-hydroxy-trans-cinnamate ester
-T127	Compound 5822 5837	beta-sitosterol
-T128	Compound 5840 5853	chlorophyll a
-T129	Compound 5859 5895	1,2-dilinoleoyl-3-linolenoylglycerol
-T130	Synonym 5901 5917	Cordia dichotoma
-T131	Compound 5978 5993	triacylglycerol
-T132	Compound 6002 6042	nervonyl 4-hydroxy-trans-cinnamate ester
-T133	Compound 6279 6293	Twodimensional
-T134	Compound 6651 6662	Chlorophyll
-T135	Compound 6823 6831	vanillin
-T136	PlantPart 6898 6904	leaves
-T137	PlantPart 6909 6914	twigs
-T138	Synonym 6918 6934	Cordia dichotoma
-T139	PlantPart 7255 7261	leaves
-T140	PlantPart 7274 7279	stems
-T141	Compound 7285 7296	Chlorophyll
-T142	Synonym 7304 7320	Cordia dichotoma
-T143	Preparation 7326 7332	ground
-T144	Preparation 7388 7396	filtered
-T145	PlantPart 7472 7478	leaves
-T146	Compound 7482 7497	Beta-Sitosterol
-T147	PlantPart 7507 7512	stems
-T148	Compound 7513 7567	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T149	Compound 7673 7680	acetone
-T150	Compound 7762 7777	triacylglycerol
-T151	PlantPart 8230 8236	Leaves
-T152	Compound 8245 8252	acetone
-T153	Compound 8294 8309	Beta-Sitosterol
-T154	Compound 8358 8398	nervonyl 4-hydroxy-trans-cinnamate ester
-T155	Compound 8400 8454	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T156	Compound 8470 8477	acetone
-T157	Compound 8519 8559	nervonyl 4-hydroxy-trans-cinnamate ester
-T158	Compound 8608 8623	Beta-Sitosterol
-T159	Compound 8677 8684	acetone
-T160	Compound 8726 8741	Beta-Sitosterol
-T161	Compound 8807 8818	Chlorophyll
-T162	Compound 8820 8831	Chlorophyll
-T163	Compound 8900 8907	acetone
-T164	Compound 8949 8960	Chlorophyll
-T165	Compound 9022 9076	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T166	Compound 9078 9093	triacylglycerol
-T167	PlantPart 9182 9187	Twigs
-T168	Compound 9196 9203	acetone
-T169	Compound 9245 9285	nervonyl 4-hydroxy-trans-cinnamate ester
-T170	Compound 9333 9348	triacylglycerol
-T171	Compound 9367 9374	acetone
-T172	Compound 9416 9431	Beta-Sitosterol
-T173	Compound 9480 9495	Beta-Sitosterol
-T174	Compound 9497 9512	Beta-Sitosterol
-T175	Compound 9555 9607	Beta-Sitosteryl-3beta-glucopyranoside-6'-O-palmitate
-T176	Compound 9669 9723	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T177	Compound 9782 9822	Nervonyl 4-hydroxy-trans-cinnamate ester
-T178	Compound 9973 9984	Chlorophyll
-T179	Compound 10009 10063	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T180	Compound 10076 10130	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T181	Compound 10166 10177	Chlorophyll
-T182	Compound 10245 10260	Beta-Sitosterol
-T183	Compound 10285 10300	Beta-Sitosterol
-T184	Compound 10315 10355	nervonyl 4-hydroxy-trans-cinnamate ester
-T185	Compound 10361 10401	nervonyl 4-hydroxy-trans-cinnamate ester
-T186	Compound 10414 10429	triacylglycerol
-T187	Compound 10443 10458	triacylglycerol
-T188	Compound 10463 10503	nervonyl 4-hydroxy-trans-cinnamate ester
-T189	Compound 10533 10587	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T190	Compound 10747 10787	nervonyl 4-hydroxy-trans-cinnamate ester
-T191	Compound 10823 10838	Beta-Sitosterol
-T192	Compound 10900 10954	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T193	Compound 10966 11020	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T194	Compound 11033 11087	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T195	Compound 11113 11128	Beta-Sitosterol
-T196	Compound 11153 11168	Beta-Sitosterol
-T197	Compound 11181 11221	nervonyl 4-hydroxy-trans-cinnamate ester
-T198	Compound 11260 11271	Chlorophyll
-T199	Compound 11283 11298	triacylglycerol
-T200	Compound 11337 11391	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T201	Compound 11416 11470	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T202	Compound 11509 11563	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T203	Compound 11586 11599	Chlorophyll a
-T204	Compound 11624 11639	Beta-Sitosterol
-T205	Compound 11716 11727	Chlorophyll
-T206	Compound 11729 11783	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T207	Compound 11831 11846	Beta-Sitosterol
-T208	Compound 11866 11881	Beta-Sitosterol
-T209	Compound 11901 11955	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T210	Compound 11974 12014	nervonyl 4-hydroxy-trans-cinnamate ester
-T211	Compound 12023 12038	Beta-Sitosterol
-T212	Compound 12058 12069	Chlorophyll
-T213	Compound 12088 12128	nervonyl 4-hydroxy-trans-cinnamate ester
-T214	Compound 12134 12174	nervonyl 4-hydroxy-trans-cinnamate ester
-T215	Compound 12194 12234	nervonyl 4-hydroxy-trans-cinnamate ester
-T216	Compound 12240 12280	nervonyl 4-hydroxy-trans-cinnamate ester
-T217	Compound 12301 12312	Chlorophyll
-T218	Compound 12331 12385	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T219	Compound 12435 12450	Beta-Sitosterol
-T220	Compound 12550 12561	Chlorophyll
-T221	Compound 12581 12596	triacylglycerol
-T222	Compound 12627 12681	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T223	Compound 12812 12846	2-dilinoleoyl-3-linolenoylglycerol
-T224	Compound 12871 12882	Chlorophyll
-T225	Compound 12892 12903	Chlorophyll
-T226	Compound 12905 12945	nervonyl 4-hydroxy-trans-cinnamate ester
-T227	Compound 12950 12961	Chlorophyll
-T228	Compound 12963 12971	glyceryl
-T229	Compound 12979 12990	Chlorophyll
-T230	Compound 13008 13019	Chlorophyll
-T231	Compound 13021 13029	glyceryl
-T232	Compound 13037 13052	triacylglycerol
-T233	Compound 13061 13069	glyceryl
-T234	Compound 13076 13116	nervonyl 4-hydroxy-trans-cinnamate ester
-T235	Compound 13148 13163	triacylglycerol
-T236	Compound 13185 13225	nervonyl 4-hydroxy-trans-cinnamate ester
-T237	Compound 13266 13320	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T238	Compound 13346 13400	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T239	Compound 13422 13476	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T240	Compound 13508 13548	nervonyl 4-hydroxy-trans-cinnamate ester
-T241	Compound 13631 13671	nervonyl 4-hydroxy-trans-cinnamate ester
-T242	Compound 13728 13743	Beta-Sitosterol
-T243	Compound 13837 13852	triacylglycerol
-T244	Compound 13861 13901	nervonyl 4-hydroxy-trans-cinnamate ester
-T245	Compound 13958 13973	dichloromethane
-T246	Synonym 13986 14002	Cordia dichotoma
-T247	Compound 14011 14065	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T248	Compound 14067 14107	nervonyl 4-hydroxy-trans-cinnamate ester
-T249	Compound 14109 14124	Beta-Sitosterol
-T250	Compound 14126 14137	Chlorophyll
-T251	PlantPart 14148 14154	leaves
-T252	Compound 14160 14175	Beta-Sitosterol
-T253	Compound 14181 14196	triacylglycerol
-T254	PlantPart 14207 14212	twigs
-T255	Compound 14232 14286	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T256	Compound 14351 14405	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T257	Compound 14449 14501	beta-sitosteryl-3beta-glucopyranoside-6'-O-palmitate
-T258	Compound 14505 14519	The fatty acid
-T259	Compound 14523 14577	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T260	Compound 14597 14610	palmitic acid
-T261	Compound 14731 14771	nervonyl 4-hydroxy-trans-cinnamate ester
-T262	Compound 14773 14788	Beta-Sitosterol
-T263	Compound 14790 14801	Chlorophyll
-T264	Compound 14803 14818	triacylglycerol
-T265	Compound 14839 14879	nervonyl 4-hydroxy-trans-cinnamate ester
-T266	Compound 14932 14947	beta-sitosterol
-T267	Compound 14950 14963	chlorophyll a
-T268	Compound 14968 15004	1,2-dilinoleoyl-3-linolenoylglycerol
-T269	Compound 15077 15091	The fatty acid
-T270	Compound 15120 15129	cinnamate
-T271	Compound 15133 15173	nervonyl 4-hydroxy-trans-cinnamate ester
-T272	Compound 15193 15206	nervonic acid
-T273	Compound 15234 15274	nervonyl 4-hydroxy-trans-cinnamate ester
-T274	Compound 15367 15382	triacylglycerol
-T275	Compound 15401 15437	1,2-dilinoleoyl-3-linolenoylglycerol
-T276	Compound 15474 15489	triacylglycerol
-T277	Compound 15571 15585	diacylglycerol
-T278	Compound 15605 15645	nervonyl 4-hydroxy-trans-cinnamate ester
-T279	Compound 15729 15744	Beta-Sitosterol
-T280	Compound 4317 4330	linoleic acid
-T281	Compound 15828 15841	linoleic acid
-T282	Compound 15890 15904	linolenic acid
-T283	Compound 15922 15937	triacylglycerol
-T284	Compound 15945 15999	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T285	Compound 16058 16112	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T286	Compound 16174 16224	beta-sitosterylbeta-glucopyranoside-6'-O-palmitate
-T287	Compound 16250 16265	beta-Sitosterol
-T288	Compound 16296 16350	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T289	Compound 16352 16392	nervonyl 4-hydroxy-trans-cinnamate ester
-T290	Compound 16394 16409	Beta-Sitosterol
-T291	Compound 16411 16422	Chlorophyll
-T292	Compound 16424 16439	triacylglycerol
-T293	Compound 16509 16524	Glucopyranoside
-T294	Compound 16543 16556	Palmitic acid
-T295	Compound 16557 16611	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T296	Compound 16613 16653	nervonyl 4-hydroxy-trans-cinnamate ester
-T297	Compound 16655 16670	Beta-Sitosterol
-T298	Compound 16672 16683	Chlorophyll
-T299	Compound 16685 16700	triacylglycerol
-T300	Compound 16730 16745	Beta-Sitosterol
-T301	Compound 16755 16770	triacylglycerol
-T302	Compound 16781 16796	Beta-Sitosterol
-T303	Compound 16802 16856	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T304	Compound 16871 16911	nervonyl 4-hydroxy-trans-cinnamate ester
-T305	Compound 16921 16975	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T306	Compound 16985 17000	Beta-Sitosterol
-T307	Compound 17010 17025	Beta-Sitosterol
-T308	Compound 17030 17070	nervonyl 4-hydroxy-trans-cinnamate ester
-T309	Compound 17075 17129	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T310	Compound 17139 17154	Beta-Sitosterol
-T311	Compound 17159 17213	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T312	Compound 17228 17282	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T313	Compound 17292 17346	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T314	Compound 17361 17415	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T315	Compound 17426 17466	nervonyl 4-hydroxy-trans-cinnamate ester
-T316	Compound 17481 17535	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T317	Compound 17545 17585	nervonyl 4-hydroxy-trans-cinnamate ester
-T318	Compound 17596 17636	nervonyl 4-hydroxy-trans-cinnamate ester
-T319	Compound 17646 17661	Beta-Sitosterol
-T320	Compound 17666 17681	triacylglycerol
-T321	Compound 17696 17707	Chlorophyll
-T322	Compound 17722 17776	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T323	Compound 18058 18073	Beta-Sitosterol
-T324	Compound 18086 18101	triacylglycerol
-T325	Compound 18127 18181	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T326	Compound 18266 18277	Chlorophyll
-T327	Compound 18292 18307	triacylglycerol
-T328	Compound 18309 18324	Beta-Sitosterol
-T329	Compound 18340 18355	triacylglycerol
-T330	Compound 18362 18377	Beta-Sitosterol
-T331	Compound 18402 18417	Beta-Sitosterol
-T332	Compound 18442 18457	Beta-Sitosterol
-T333	Compound 18470 18481	Chlorophyll
-T334	Compound 18501 18541	nervonyl 4-hydroxy-trans-cinnamate ester
-T335	Compound 18546 18557	Chlorophyll
-T336	Compound 18571 18586	triacylglycerol
-T337	Compound 18597 18637	nervonyl 4-hydroxy-trans-cinnamate ester
-T338	Compound 18652 18667	triacylglycerol
-T339	Compound 18669 18723	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T340	Compound 18754 18808	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T341	Compound 18818 18872	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T342	Compound 18881 18935	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T343	Compound 18945 18999	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T344	Compound 19008 19023	Beta-Sitosterol
-T345	Compound 19036 19076	nervonyl 4-hydroxy-trans-cinnamate ester
-T346	Compound 19090 19130	nervonyl 4-hydroxy-trans-cinnamate ester
-T347	Compound 19143 19158	triacylglycerol
-T348	Compound 19171 19225	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T349	Compound 19238 19292	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T350	Compound 19318 19372	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T351	Compound 19382 19436	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T352	Compound 19445 19499	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T353	Compound 19509 19549	nervonyl 4-hydroxy-trans-cinnamate ester
-T354	Compound 19558 19612	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T355	Compound 19621 19675	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T356	Compound 19685 19739	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T357	Compound 19748 19802	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T358	Compound 19812 19866	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T359	Compound 19875 19929	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T360	Compound 19951 20005	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T361	Compound 20018 20072	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T362	Compound 20096 20107	Chlorophyll
-T363	Compound 20109 20163	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T364	Compound 20173 20227	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T365	Compound 20236 20290	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T366	Compound 20312 20366	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T367	Compound 20411 20465	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T368	Compound 20493 20504	Chlorophyll
-T369	Compound 20522 20537	Beta-Sitosterol
-T370	Compound 20561 20576	Beta-Sitosterol
-T371	Compound 20600 20615	Beta-Sitosterol
-T372	Compound 20639 20654	Beta-Sitosterol
-T373	Compound 20667 20678	Chlorophyll
-T374	Compound 20695 20749	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T375	Compound 20751 20805	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T376	Compound 20810 20821	Chlorophyll
-T377	Compound 20835 20850	triacylglycerol
-T378	Compound 20852 20867	Beta-Sitosterol
-T379	Compound 20872 20926	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T380	Compound 20928 20968	nervonyl 4-hydroxy-trans-cinnamate ester
-T381	Compound 20986 21040	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T382	Compound 21049 21103	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T383	Compound 21113 21167	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T384	Compound 21177 21231	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T385	Compound 21241 21295	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T386	Compound 21305 21359	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T387	Compound 21369 21423	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T388	Compound 21433 21487	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T389	Compound 21512 21566	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T390	Compound 21630 21645	triacylglycerol
-T391	Compound 21654 21694	nervonyl 4-hydroxy-trans-cinnamate ester
-T392	Compound 21815 21869	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T393	Compound 21871 21911	nervonyl 4-hydroxy-trans-cinnamate ester
-T394	Compound 21913 21928	Beta-Sitosterol
-T395	Compound 21930 21941	Chlorophyll
-T396	Compound 21992 22046	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T397	CellLine 22113 22117	MCF7
-T398	BodyPart 22119 22125	breast
-T399	Compound 22210 22264	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T400	BodyPart 22303 22310	stomach
-T401	BioAct 22415 22424	hemolytic
-T402	Compound 22471 22525	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T403	Compound 22583 22637	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T404	Compound 22700 22754	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T405	Compound 22845 22855	tiliroside
-T406	Compound 22867 22882	triacylglycerol
-T407	Compound 22884 22938	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T408	Compound 22973 23004	4-hydroxy-trans-cinnamate ester
-T409	Compound 23016 23023	docosyl
-T410	Compound 23028 23063	tetracosyl 4-hydroxy-transcinnamate
-T411	Compound 23142 23152	superoxide
-T412	Compound 23180 23211	4-hydroxy-trans-cinnamate ester
-T413	Compound 23236 23254	4-hydroxycinnamate
-T414	Compound 23259 23288	1-eicosanyl 4hydroxycinnamate
-T415	Compound 23431 23446	Beta-Sitosterol
-T416	BodyPart 23503 23509	breast
-T417	CellLine 23510 23515	MCF-7
-T418	CellLine 23520 23529	MDA-MB231
-T419	Compound 23552 23567	Beta-Sitosterol
-T420	Compound 23646 23661	Beta-Sitosterol
-T421	Compound 23693 23704	betacatenin
-T422	Compound 23769 23784	Beta-Sitosterol
-T423	BioAct 23797 23807	anticancer
-T424	Compound 23840 23855	Beta-Sitosterol
-T425	CellLine 23886 23892	NPC1L1
-T426	Compound 23954 23969	Beta-Sitosterol
-T427	Compound 24078 24084	murine
-T428	Compound 24106 24117	Chlorophyll
-T429	Compound 24218 24229	chlorophyll
-T430	Illness 24272 24277	wound
-T431	BioAct 24288 24305	anti-inflammatory
-T432	Compound 24361 24368	oxalate
-T433	Compound 24415 24427	photodynamic
-T434	Compound 24671 24682	chlorophyll
-T435	Synonym 24735 24751	Cordia dichotoma
-T436	Compound 24865 24919	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T437	Compound 24921 24961	nervonyl 4-hydroxy-trans-cinnamate ester
-T438	Compound 24963 24978	Beta-Sitosterol
-T439	Compound 24980 24991	Chlorophyll
-T440	Compound 24993 25008	triacylglycerol
-T441	Compound 25021 25036	dichloromethane
-T442	PlantPart 25053 25059	leaves
-T443	PlantPart 7999 8004	stems
-T444	Synonym 25073 25089	Cordia dichotoma
-T445	BioAct 25135 25145	anticancer
-T446	BioAct 22071 22080	cytotoxic
-T447	BioAct 25177 25188	antioxidant
-T448	Compound 25201 25241	nervonyl 4-hydroxy-trans-cinnamate ester
-T449	Compound 25274 25289	Beta-Sitosterol
-T450	Illness 25295 25300	wound
-T451	Compound 25319 25330	Chlorophyll
-T452	Synonym 25392 25408	Cordia dichotoma
-T453	Compound 25436 25490	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T454	Compound 25492 25532	nervonyl 4-hydroxy-trans-cinnamate ester
-T455	Compound 25534 25549	Beta-Sitosterol
-T456	Compound 25551 25562	Chlorophyll
+T94	Compound 4317 4331	linoleic acids
+T95	ChemicalClass 4366 4376	flavonoids
+T96	Compound 4378 4388	kaempferol
+T97	Compound 4441 4448	butanol
+T98	PlantPart 4461 4467	fruits
+T99	Synonym 4471 4487	Cordia dichotoma
+T100	Compound 4548 4563	triacylglycerol
+T101	Compound 4572 4612	nervonyl 4-hydroxy-trans-cinnamate ester
+T102	ChemicalClass 4638 4646	flavonol
+T103	Compound 4647 4657	glycosides
+T104	Compound 4704 4711	butanol
+T105	Preparation 3512 3519	extract
+T106	PlantPart 4727 4733	leaves
+T107	Synonym 4737 4753	Cordia dichotoma
+T108	Compound 4759 4774	rosmarinic acid
+T109	Compound 4889 4943	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T110	ChemicalClass 4950 4963	triterpenoids
+T111	Compound 4974 4985	amino acids
+T112	Compound 4986 5040	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T113	Compound 5052 5067	rosmarinic acid
+T114	Synonym 5142 5158	Cordia dichotoma
+T115	Compound 5243 5294	beta-sitosteryl-3betaglucopyranoside-6'-O-palmitate
+T116	Compound 5297 5336	nervonyl 4-hydroxy-transcinnamate ester
+T117	Compound 5339 5354	beta-sitosterol
+T118	Compound 5361 5374	chlorophyll a
+T119	PlantPart 5384 5390	leaves
+T120	Compound 5396 5411	Beta-Sitosterol
+T121	Compound 5417 5453	1,2-dilinoleoyl-3-linolenoylglycerol
+T122	PlantPart 5463 5468	twigs
+T123	Synonym 5472 5488	Cordia dichotoma
+T124	Compound 5572 5626	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T125	Compound 5628 5668	nervonyl 4-hydroxy-trans-cinnamate ester
+T126	Synonym 5675 5691	Cordia dichotoma
+T127	Compound 5724 5776	beta-Sitosteryl-3beta-glucopyranoside-6'-O-palmitate
+T128	Compound 5779 5819	nervonyl 4-hydroxy-trans-cinnamate ester
+T129	Compound 5822 5837	beta-sitosterol
+T130	Compound 5840 5853	chlorophyll a
+T131	Compound 5859 5895	1,2-dilinoleoyl-3-linolenoylglycerol
+T132	Synonym 5901 5917	Cordia dichotoma
+T133	Compound 5978 5993	triacylglycerol
+T134	Compound 6002 6042	nervonyl 4-hydroxy-trans-cinnamate ester
+T135	Compound 6279 6293	Twodimensional
+T136	Compound 6651 6662	Chlorophyll
+T137	Compound 6823 6831	vanillin
+T138	PlantPart 6898 6904	leaves
+T139	PlantPart 6909 6914	twigs
+T140	Synonym 6918 6934	Cordia dichotoma
+T141	PlantPart 7255 7261	leaves
+T142	PlantPart 7274 7279	stems
+T143	Compound 7285 7296	Chlorophyll
+T144	Synonym 7304 7320	Cordia dichotoma
+T145	Preparation 7326 7332	ground
+T146	Preparation 7388 7396	filtered
+T147	PlantPart 7472 7478	leaves
+T148	Compound 7482 7497	Beta-Sitosterol
+T149	PlantPart 7507 7512	stems
+T150	Compound 7513 7567	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T151	Compound 7673 7680	acetone
+T152	Compound 7762 7777	triacylglycerol
+T153	PlantPart 8230 8236	Leaves
+T154	Compound 8245 8252	acetone
+T155	Compound 8294 8309	Beta-Sitosterol
+T156	Compound 8358 8398	nervonyl 4-hydroxy-trans-cinnamate ester
+T157	Compound 8400 8454	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T158	Compound 8470 8477	acetone
+T159	Compound 8519 8559	nervonyl 4-hydroxy-trans-cinnamate ester
+T160	Compound 8608 8623	Beta-Sitosterol
+T161	Compound 8677 8684	acetone
+T162	Compound 8726 8741	Beta-Sitosterol
+T163	Compound 8807 8818	Chlorophyll
+T164	Compound 8820 8831	Chlorophyll
+T165	Compound 8900 8907	acetone
+T166	Compound 8949 8960	Chlorophyll
+T167	Compound 9022 9076	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T168	Compound 9078 9093	triacylglycerol
+T169	PlantPart 9182 9187	Twigs
+T170	Compound 9196 9203	acetone
+T171	Compound 9245 9285	nervonyl 4-hydroxy-trans-cinnamate ester
+T172	Compound 9333 9348	triacylglycerol
+T173	Compound 9367 9374	acetone
+T174	Compound 9416 9431	Beta-Sitosterol
+T175	Compound 9480 9495	Beta-Sitosterol
+T176	Compound 9497 9512	Beta-Sitosterol
+T177	Compound 9555 9607	Beta-Sitosteryl-3beta-glucopyranoside-6'-O-palmitate
+T178	Compound 9669 9723	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T179	Compound 9782 9822	Nervonyl 4-hydroxy-trans-cinnamate ester
+T180	Compound 9973 9984	Chlorophyll
+T181	Compound 10009 10063	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T182	Compound 10076 10130	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T183	Compound 10166 10177	Chlorophyll
+T184	Compound 10245 10260	Beta-Sitosterol
+T185	Compound 10285 10300	Beta-Sitosterol
+T186	Compound 10315 10355	nervonyl 4-hydroxy-trans-cinnamate ester
+T187	Compound 10361 10401	nervonyl 4-hydroxy-trans-cinnamate ester
+T188	Compound 10414 10429	triacylglycerol
+T189	Compound 10443 10458	triacylglycerol
+T190	Compound 10463 10503	nervonyl 4-hydroxy-trans-cinnamate ester
+T191	Compound 10533 10587	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T192	Compound 10747 10787	nervonyl 4-hydroxy-trans-cinnamate ester
+T193	Compound 10823 10838	Beta-Sitosterol
+T194	Compound 10900 10954	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T195	Compound 10966 11020	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T196	Compound 11033 11087	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T197	Compound 11113 11128	Beta-Sitosterol
+T198	Compound 11153 11168	Beta-Sitosterol
+T199	Compound 11181 11221	nervonyl 4-hydroxy-trans-cinnamate ester
+T200	Compound 11260 11271	Chlorophyll
+T201	Compound 11283 11298	triacylglycerol
+T202	Compound 11337 11391	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T203	Compound 11416 11470	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T204	Compound 11509 11563	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T205	Compound 11586 11599	Chlorophyll a
+T206	Compound 11624 11639	Beta-Sitosterol
+T207	Compound 11716 11727	Chlorophyll
+T208	Compound 11729 11783	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T209	Compound 11831 11846	Beta-Sitosterol
+T210	Compound 11866 11881	Beta-Sitosterol
+T211	Compound 11901 11955	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T212	Compound 11974 12014	nervonyl 4-hydroxy-trans-cinnamate ester
+T213	Compound 12023 12038	Beta-Sitosterol
+T214	Compound 12058 12069	Chlorophyll
+T215	Compound 12088 12128	nervonyl 4-hydroxy-trans-cinnamate ester
+T216	Compound 12134 12174	nervonyl 4-hydroxy-trans-cinnamate ester
+T217	Compound 12194 12234	nervonyl 4-hydroxy-trans-cinnamate ester
+T218	Compound 12240 12280	nervonyl 4-hydroxy-trans-cinnamate ester
+T219	Compound 12301 12312	Chlorophyll
+T220	Compound 12331 12385	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T221	Compound 12435 12450	Beta-Sitosterol
+T222	Compound 12550 12561	Chlorophyll
+T223	Compound 12581 12596	triacylglycerol
+T224	Compound 12627 12681	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T225	Compound 12812 12846	2-dilinoleoyl-3-linolenoylglycerol
+T226	Compound 12871 12882	Chlorophyll
+T227	Compound 12892 12903	Chlorophyll
+T228	Compound 12905 12945	nervonyl 4-hydroxy-trans-cinnamate ester
+T229	Compound 12950 12961	Chlorophyll
+T230	Compound 12963 12971	glyceryl
+T231	Compound 12979 12990	Chlorophyll
+T232	Compound 13008 13019	Chlorophyll
+T233	Compound 13021 13029	glyceryl
+T234	Compound 13037 13052	triacylglycerol
+T235	Compound 13061 13069	glyceryl
+T236	Compound 13076 13116	nervonyl 4-hydroxy-trans-cinnamate ester
+T237	Compound 13148 13163	triacylglycerol
+T238	Compound 13185 13225	nervonyl 4-hydroxy-trans-cinnamate ester
+T239	Compound 13266 13320	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T240	Compound 13346 13400	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T241	Compound 13422 13476	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T242	Compound 13508 13548	nervonyl 4-hydroxy-trans-cinnamate ester
+T243	Compound 13631 13671	nervonyl 4-hydroxy-trans-cinnamate ester
+T244	Compound 13728 13743	Beta-Sitosterol
+T245	Compound 13837 13852	triacylglycerol
+T246	Compound 13861 13901	nervonyl 4-hydroxy-trans-cinnamate ester
+T247	Compound 13958 13973	dichloromethane
+T248	Synonym 13986 14002	Cordia dichotoma
+T249	Compound 14011 14065	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T250	Compound 14067 14107	nervonyl 4-hydroxy-trans-cinnamate ester
+T251	Compound 14109 14124	Beta-Sitosterol
+T252	Compound 14126 14137	Chlorophyll
+T253	PlantPart 14148 14154	leaves
+T254	Compound 14160 14175	Beta-Sitosterol
+T255	Compound 14181 14196	triacylglycerol
+T256	PlantPart 14207 14212	twigs
+T257	Compound 14232 14286	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T258	Compound 14351 14405	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T259	Compound 14449 14501	beta-sitosteryl-3beta-glucopyranoside-6'-O-palmitate
+T260	Compound 14505 14519	The fatty acid
+T261	Compound 14523 14577	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T262	Compound 14597 14610	palmitic acid
+T263	Compound 14731 14771	nervonyl 4-hydroxy-trans-cinnamate ester
+T264	Compound 14773 14788	Beta-Sitosterol
+T265	Compound 14790 14801	Chlorophyll
+T266	Compound 14803 14818	triacylglycerol
+T267	Compound 14839 14879	nervonyl 4-hydroxy-trans-cinnamate ester
+T268	Compound 14932 14947	beta-sitosterol
+T269	Compound 14950 14963	chlorophyll a
+T270	Compound 14968 15004	1,2-dilinoleoyl-3-linolenoylglycerol
+T271	Compound 15077 15091	The fatty acid
+T272	Compound 15120 15129	cinnamate
+T273	Compound 15133 15173	nervonyl 4-hydroxy-trans-cinnamate ester
+T274	Compound 15193 15206	nervonic acid
+T275	Compound 15234 15274	nervonyl 4-hydroxy-trans-cinnamate ester
+T276	Compound 15367 15382	triacylglycerol
+T277	Compound 15401 15437	1,2-dilinoleoyl-3-linolenoylglycerol
+T278	Compound 15474 15489	triacylglycerol
+T279	Compound 15571 15585	diacylglycerol
+T280	Compound 15605 15645	nervonyl 4-hydroxy-trans-cinnamate ester
+T281	Compound 15729 15744	Beta-Sitosterol
+T282	Compound 15828 15841	linoleic acid
+T283	Compound 15857 15870	linoleic acid
+T284	Compound 15890 15904	linolenic acid
+T285	Compound 15922 15937	triacylglycerol
+T286	Compound 15945 15999	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T287	Compound 16058 16112	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T288	Compound 16174 16224	beta-sitosterylbeta-glucopyranoside-6'-O-palmitate
+T289	Compound 16250 16265	beta-Sitosterol
+T290	Compound 16296 16350	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T291	Compound 16352 16392	nervonyl 4-hydroxy-trans-cinnamate ester
+T292	Compound 16394 16409	Beta-Sitosterol
+T293	Compound 16411 16422	Chlorophyll
+T294	Compound 16424 16439	triacylglycerol
+T295	Compound 16509 16524	Glucopyranoside
+T296	Compound 16543 16556	Palmitic acid
+T297	Compound 16557 16611	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T298	Compound 16613 16653	nervonyl 4-hydroxy-trans-cinnamate ester
+T299	Compound 16655 16670	Beta-Sitosterol
+T300	Compound 16672 16683	Chlorophyll
+T301	Compound 16685 16700	triacylglycerol
+T302	Compound 16730 16745	Beta-Sitosterol
+T303	Compound 16755 16770	triacylglycerol
+T304	Compound 16781 16796	Beta-Sitosterol
+T305	Compound 16802 16856	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T306	Compound 16871 16911	nervonyl 4-hydroxy-trans-cinnamate ester
+T307	Compound 16921 16975	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T308	Compound 16985 17000	Beta-Sitosterol
+T309	Compound 17010 17025	Beta-Sitosterol
+T310	Compound 17030 17070	nervonyl 4-hydroxy-trans-cinnamate ester
+T311	Compound 17075 17129	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T312	Compound 17139 17154	Beta-Sitosterol
+T313	Compound 17159 17213	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T314	Compound 17228 17282	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T315	Compound 17292 17346	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T316	Compound 17361 17415	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T317	Compound 17426 17466	nervonyl 4-hydroxy-trans-cinnamate ester
+T318	Compound 17481 17535	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T319	Compound 17545 17585	nervonyl 4-hydroxy-trans-cinnamate ester
+T320	Compound 17596 17636	nervonyl 4-hydroxy-trans-cinnamate ester
+T321	Compound 17646 17661	Beta-Sitosterol
+T322	Compound 17666 17681	triacylglycerol
+T323	Compound 17696 17707	Chlorophyll
+T324	Compound 17722 17776	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T325	Compound 18058 18073	Beta-Sitosterol
+T326	Compound 18086 18101	triacylglycerol
+T327	Compound 18127 18181	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T328	Compound 18266 18277	Chlorophyll
+T329	Compound 18292 18307	triacylglycerol
+T330	Compound 18309 18324	Beta-Sitosterol
+T331	Compound 18340 18355	triacylglycerol
+T332	Compound 18362 18377	Beta-Sitosterol
+T333	Compound 18402 18417	Beta-Sitosterol
+T334	Compound 18442 18457	Beta-Sitosterol
+T335	Compound 18470 18481	Chlorophyll
+T336	Compound 18501 18541	nervonyl 4-hydroxy-trans-cinnamate ester
+T337	Compound 18546 18557	Chlorophyll
+T338	Compound 18571 18586	triacylglycerol
+T339	Compound 18597 18637	nervonyl 4-hydroxy-trans-cinnamate ester
+T340	Compound 18652 18667	triacylglycerol
+T341	Compound 18669 18723	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T342	Compound 18754 18808	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T343	Compound 18818 18872	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T344	Compound 18881 18935	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T345	Compound 18945 18999	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T346	Compound 19008 19023	Beta-Sitosterol
+T347	Compound 19036 19076	nervonyl 4-hydroxy-trans-cinnamate ester
+T348	Compound 19090 19130	nervonyl 4-hydroxy-trans-cinnamate ester
+T349	Compound 19143 19158	triacylglycerol
+T350	Compound 19171 19225	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T351	Compound 19238 19292	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T352	Compound 19318 19372	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T353	Compound 19382 19436	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T354	Compound 19445 19499	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T355	Compound 19509 19549	nervonyl 4-hydroxy-trans-cinnamate ester
+T356	Compound 19558 19612	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T357	Compound 19621 19675	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T358	Compound 19685 19739	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T359	Compound 19748 19802	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T360	Compound 19812 19866	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T361	Compound 19875 19929	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T362	Compound 19951 20005	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T363	Compound 20018 20072	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T364	Compound 20096 20107	Chlorophyll
+T365	Compound 20109 20163	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T366	Compound 20173 20227	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T367	Compound 20236 20290	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T368	Compound 20312 20366	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T369	Compound 20411 20465	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T370	Compound 20493 20504	Chlorophyll
+T371	Compound 20522 20537	Beta-Sitosterol
+T372	Compound 20561 20576	Beta-Sitosterol
+T373	Compound 20600 20615	Beta-Sitosterol
+T374	Compound 20639 20654	Beta-Sitosterol
+T375	Compound 20667 20678	Chlorophyll
+T376	Compound 20695 20749	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T377	Compound 20751 20805	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T378	Compound 20810 20821	Chlorophyll
+T379	Compound 20835 20850	triacylglycerol
+T380	Compound 20852 20867	Beta-Sitosterol
+T381	Compound 20872 20926	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T382	Compound 20928 20968	nervonyl 4-hydroxy-trans-cinnamate ester
+T383	Compound 20986 21040	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T384	Compound 21049 21103	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T385	Compound 21113 21167	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T386	Compound 21177 21231	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T387	Compound 21241 21295	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T388	Compound 21305 21359	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T389	Compound 21369 21423	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T390	Compound 21433 21487	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T391	Compound 21512 21566	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T392	Compound 21630 21645	triacylglycerol
+T393	Compound 21654 21694	nervonyl 4-hydroxy-trans-cinnamate ester
+T394	Compound 21815 21869	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T395	Compound 21871 21911	nervonyl 4-hydroxy-trans-cinnamate ester
+T396	Compound 21913 21928	Beta-Sitosterol
+T397	Compound 21930 21941	Chlorophyll
+T398	Compound 21992 22046	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T399	CellLine 22113 22117	MCF7
+T400	BodyPart 22119 22125	breast
+T401	Compound 22210 22264	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T402	BodyPart 22303 22310	stomach
+T403	BioAct 22415 22424	hemolytic
+T404	Compound 22471 22525	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T405	Compound 22583 22637	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T406	Compound 22700 22754	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T407	Compound 22845 22855	tiliroside
+T408	Compound 22867 22882	triacylglycerol
+T409	Compound 22884 22938	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T410	Compound 22973 23004	4-hydroxy-trans-cinnamate ester
+T411	Compound 23016 23023	docosyl
+T412	Compound 23028 23063	tetracosyl 4-hydroxy-transcinnamate
+T413	Compound 23142 23152	superoxide
+T414	Compound 23180 23211	4-hydroxy-trans-cinnamate ester
+T415	Compound 23236 23254	4-hydroxycinnamate
+T416	Compound 23259 23288	1-eicosanyl 4hydroxycinnamate
+T417	Compound 23431 23446	Beta-Sitosterol
+T418	BodyPart 23503 23509	breast
+T419	CellLine 23510 23515	MCF-7
+T420	CellLine 23520 23529	MDA-MB231
+T421	Compound 23552 23567	Beta-Sitosterol
+T422	Compound 23646 23661	Beta-Sitosterol
+T423	Compound 23693 23704	betacatenin
+T424	Compound 23769 23784	Beta-Sitosterol
+T425	BioAct 23797 23807	anticancer
+T426	Compound 23840 23855	Beta-Sitosterol
+T427	CellLine 23886 23892	NPC1L1
+T428	Compound 23954 23969	Beta-Sitosterol
+T429	Compound 24078 24084	murine
+T430	Compound 24106 24117	Chlorophyll
+T431	Compound 24218 24229	chlorophyll
+T432	Illness 24272 24277	wound
+T433	BioAct 24288 24305	anti-inflammatory
+T434	Compound 24361 24368	oxalate
+T435	Compound 24415 24427	photodynamic
+T436	Compound 24671 24682	chlorophyll
+T437	Synonym 24735 24751	Cordia dichotoma
+T438	Compound 24865 24919	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T439	Compound 24921 24961	nervonyl 4-hydroxy-trans-cinnamate ester
+T440	Compound 24963 24978	Beta-Sitosterol
+T441	Compound 24980 24991	Chlorophyll
+T442	Compound 24993 25008	triacylglycerol
+T443	Compound 25021 25036	dichloromethane
+T444	PlantPart 25053 25059	leaves
+T445	PlantPart 7999 8004	stems
+T446	Synonym 25073 25089	Cordia dichotoma
+T447	BioAct 25135 25145	anticancer
+T448	BioAct 22071 22080	cytotoxic
+T449	BioAct 25177 25188	antioxidant
+T450	Compound 25201 25241	nervonyl 4-hydroxy-trans-cinnamate ester
+T451	Compound 25274 25289	Beta-Sitosterol
+T452	Illness 25295 25300	wound
+T453	Compound 25319 25330	Chlorophyll
+T454	Synonym 25392 25408	Cordia dichotoma
+T455	Compound 25436 25490	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
+T456	Compound 25492 25532	nervonyl 4-hydroxy-trans-cinnamate ester
+T457	Compound 25534 25549	Beta-Sitosterol
+T458	Compound 25551 25562	Chlorophyll
