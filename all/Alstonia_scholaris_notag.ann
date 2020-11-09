@@ -7,10 +7,7 @@ T6	Location 390 401	Philippines
 T7	Location 503 513	Binan City
 T8	Location 515 521	Laguna
 T9	Location 528 539	Philippines
-T10	Compound 540 547	3School
 T11	Location 670 679	Australia
-T12	Compound 747 762	dichloromethane
-T13	Preparation 763 770	extract
 T14	PlantPart 778 784	leaves
 T15	Synonym 788 806	Alstonia scholaris
 T16	Compound 842 853	erythrodiol
@@ -81,7 +78,6 @@ T80	Compound 2622 2630	linalool
 T81	Compound 2640 2655	tritetracontane
 T82	Compound 2665 2723	2-(3-methyl-1,3-butadienyl)-1,3,3-trimethyl-1-cyclohexanol
 T83	Compound 2733 2766	9-methyl-5methylene-8-decen-2-one
-T84	Preparation 2816 2823	extract
 T85	PlantPart 2831 2838	flowers
 T86	Synonym 2842 2860	Alstonia scholaris
 T87	Compound 2870 2882	alstoprenyol
@@ -153,40 +149,27 @@ T152	Compound 4720 4780	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid es
 T153	Compound 4783 4796	chlorophyll a
 T154	PlantPart 4806 4812	leaves
 T155	Synonym 4816 4834	Alstonia scholaris
-T156	Compound 5198 5206	vanillin
 T157	Synonym 5314 5332	Alstonia scholaris
 T158	PlantPart 5344 5350	leaves
 T159	Location 5400 5406	Manila
 T160	Compound 5659 5667	squalene
-T161	Compound 5824 5831	acetone
 T162	PlantPart 6296 6302	Leaves
 T163	Synonym 6306 6324	Alstonia scholaris
 T164	Synonym 6339 6357	Alstonia scholaris
 T165	PlantPart 6358 6364	leaves
-T166	Preparation 6381 6387	ground
-T167	Preparation 6439 6447	filtered
-T168	Preparation 5736 5743	extract
-T169	Compound 6583 6590	acetone
-T170	Compound 6639 6646	acetone
 T171	Compound 6724 6732	squalene
-T172	Compound 6751 6758	acetone
 T173	Compound 6857 6881	3a):alpha-amyrin acetate
-T174	Compound 6935 6942	acetone
 T175	Compound 7033 7046	chlorophyll a
-T176	Compound 7118 7125	acetone
 T177	Compound 7383 7398	beta-sitosterol
 T178	Compound 7404 7416	stigmasterol
 T179	Compound 7598 7609	erythrodiol
 T180	Compound 7611 7616	uvaol
 T181	Compound 7622 7629	betulin
 T182	Compound 7631 7639	squalene
-T183	Compound 7690 7697	acetone
 T184	Compound 7801 7815	oleanolic acid
 T185	Compound 7821 7837	2a):ursolic acid
-T186	Compound 7891 7898	acetone
 T187	Compound 8093 8153	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid esters
 T188	Compound 8237 8252	dichloromethane
-T189	Preparation 6508 6515	extract
 T190	PlantPart 8268 8274	leaves
 T191	Synonym 8278 8296	Alstonia scholaris
 T192	Compound 8305 8313	squalene
@@ -241,3 +224,88 @@ T240	Compound 10149 10157	squalene
 T241	Compound 10195 10203	squalene
 T242	Compound 10265 10280	beta-sitosterol
 T243	Compound 10286 10298	stigmasterol
+R1	hasSynonymPlantPart Arg1:T15 Arg2:T14	
+R2	hasSynonym Arg1:T47 Arg2:T46	
+T10	ChemicalClass 2117 2125	iridoids
+R3	hasCompound Arg1:T70 Arg2:T69	
+R4	hasCompound Arg1:T70 Arg2:T68	
+R5	hasCompound Arg1:T70 Arg2:T67	
+R6	hasCompound Arg1:T70 Arg2:T63	
+R7	hasCompound Arg1:T70 Arg2:T62	
+R8	hasCompound Arg1:T70 Arg2:T61	
+R9	hasCompound Arg1:T70 Arg2:T59	
+R10	hasCompound Arg1:T70 Arg2:T57	
+R11	hasCompound Arg1:T70 Arg2:T56	
+R12	hasCompound Arg1:T70 Arg2:T54	
+R13	hasSynonymPlantPart Arg1:T72 Arg2:T71	
+R14	hasCompound Arg1:T71 Arg2:T73	
+R15	hasCompound Arg1:T71 Arg2:T74	
+T12	Compound 2299 2315	2-dodecyloxirane
+R16	hasCompound Arg1:T71 Arg2:T12	
+R17	hasCompound Arg1:T71 Arg2:T75	
+R18	hasCompound Arg1:T71 Arg2:T76	
+R19	hasCompound Arg1:T71 Arg2:T77	
+R20	hasCompound Arg1:T71 Arg2:T78	
+T13	Compound 2558 2586	10,15-tetramethylheptadecane
+R21	hasCompound Arg1:T71 Arg2:T13	
+R22	hasCompound Arg1:T71 Arg2:T79	
+R23	hasCompound Arg1:T71 Arg2:T80	
+R24	hasCompound Arg1:T71 Arg2:T81	
+R25	hasCompound Arg1:T71 Arg2:T82	
+R26	hasCompound Arg1:T71 Arg2:T83	
+R27	hasSynonymPlantPart Arg1:T86 Arg2:T85	
+R28	hasCompound Arg1:T85 Arg2:T87	
+R29	hasCompound Arg1:T85 Arg2:T88	
+R30	hasCompound Arg1:T85 Arg2:T89	
+R31	hasCompound Arg1:T85 Arg2:T90	
+R32	hasCompound Arg1:T85 Arg2:T91	
+R33	hasCompound Arg1:T85 Arg2:T92	
+R34	hasCompound Arg1:T85 Arg2:T93	
+R35	hasSynonymPlantPart Arg1:T102 Arg2:T101	
+R36	hasCompound Arg1:T101 Arg2:T100	
+R37	hasCompound Arg1:T101 Arg2:T99	
+R38	hasCompound Arg1:T101 Arg2:T98	
+R39	hasCompound Arg1:T101 Arg2:T97	
+R40	hasCompound Arg1:T101 Arg2:T96	
+T84	Compound 3482 3489	acetate
+R41	hasSynonymPlantPart Arg1:T111 Arg2:T110	
+R42	hasCompound Arg1:T110 Arg2:T109	
+R43	hasCompound Arg1:T110 Arg2:T108	
+R44	hasCompound Arg1:T110 Arg2:T107	
+R45	hasCompound Arg1:T110 Arg2:T106	
+R46	hasCompound Arg1:T110 Arg2:T84	
+R47	hasSynonymPlantPart Arg1:T113 Arg2:T112	
+R48	hasCompound Arg1:T112 Arg2:T114	
+R49	hasCompound Arg1:T112 Arg2:T115	
+R50	hasCompound Arg1:T112 Arg2:T116	
+R51	hasCompound Arg1:T112 Arg2:T117	
+R52	hasCompound Arg1:T112 Arg2:T118	
+R53	hasCompound Arg1:T112 Arg2:T119	
+R54	hasCompound Arg1:T112 Arg2:T120	
+R55	hasCompound Arg1:T112 Arg2:T121	
+R56	hasCompound Arg1:T112 Arg2:T122	
+R57	hasCompound Arg1:T112 Arg2:T124	
+R58	hasCompound Arg1:T112 Arg2:T125	
+R59	hasCompound Arg1:T112 Arg2:T126	
+R60	hasSynonymPlantPart Arg1:T155 Arg2:T154	
+R61	hasCompound Arg1:T154 Arg2:T153	
+R62	hasCompound Arg1:T154 Arg2:T152	
+R63	hasCompound Arg1:T154 Arg2:T151	
+R64	hasCompound Arg1:T154 Arg2:T150	
+R65	hasCompound Arg1:T154 Arg2:T149	
+R66	hasCompound Arg1:T154 Arg2:T148	
+R67	hasCompound Arg1:T154 Arg2:T147	
+R68	hasCompound Arg1:T154 Arg2:T146	
+R69	hasCompound Arg1:T154 Arg2:T145	
+R70	hasCompound Arg1:T154 Arg2:T144	
+R71	hasCompound Arg1:T154 Arg2:T143	
+R72	hasCompound Arg1:T154 Arg2:T142	
+R73	isLocatedIn Arg1:T157 Arg2:T159	
+R74	hasSynonymPlantPart Arg1:T163 Arg2:T162	
+R75	hasSynonymPlantPart Arg1:T164 Arg2:T165	
+T156	Preparation 6381 6447	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
+R76	utilizePart Arg1:T156 Arg2:T165	
+R77	hasSynonymPlantPart Arg1:T191 Arg2:T190	
+R78	hasCompound Arg1:T190 Arg2:T192	
+R79	hasCompound Arg1:T190 Arg2:T193	
+R80	hasCompound Arg1:T190 Arg2:T194	
