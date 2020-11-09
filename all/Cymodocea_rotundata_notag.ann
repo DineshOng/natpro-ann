@@ -1,5 +1,4 @@
 T1	Synonym 239 258	Cymodocea rotundata
-T2	BodyPart 363 368	mouth
 T3	Location 410 421	Philippines
 T4	Synonym 424 443	Cymodocea rotundata
 T5	Synonym 524 543	Cymodocea rotundata
@@ -9,7 +8,6 @@ T8	ChemicalClass 833 842	alkaloids
 T9	Synonym 873 892	Cymodocea rotundata
 T10	Compound 931 946	p-coumaric acid
 T11	Synonym 949 968	Cymodocea rotundata
-T12	BioAct 991 1002	antioxidant
 T13	Compound 1023 1036	ascorbic acid
 T14	Location 1206 1217	Philippines
 T15	Compound 1275 1284	phthalate
@@ -31,13 +29,11 @@ T30	Compound 2299 2312	chlorophyll a
 T31	Compound 2330 2345	beta-sitosterol
 T32	Compound 2350 2362	stigmasterol
 T33	Compound 2391 2406	dichloromethane
-T34	Preparation 544 551	extract
 T35	Synonym 2418 2437	Cymodocea rotundata
 T36	Synonym 2497 2516	Cymodocea rotundata
 T37	BioAct 2559 2572	antibacterial
 T38	BioAct 2629 2642	antimicrobial
 T39	Synonym 2659 2678	Cymodocea rotundata
-T40	Preparation 691 698	extract
 T41	Synonym 2700 2719	Cymodocea rotundata
 T42	Family 2721 2734	Cymodoceaceae
 T43	Compound 2736 2795	beta-sitosteryl-3beta-glucopyranoside-6'-Ofatty acid esters
@@ -72,7 +68,6 @@ T71	Synonym 5382 5401	Cymodocea rotundata
 T72	PlantPart 5409 5415	leaves
 T73	Preparation 5421 5427	ground
 T74	Preparation 5479 5487	filtered
-T75	Preparation 969 976	extract
 T76	Synonym 5597 5616	Cymodocea rotundata
 T77	Compound 5715 5722	acetone
 T78	Compound 5770 5777	acetone
@@ -83,7 +78,6 @@ T82	Compound 6195 6207	stigmasterol
 T83	Compound 6261 6268	acetone
 T84	Compound 6357 6417	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid esters
 T85	Compound 6497 6512	dichloromethane
-T86	Preparation 2407 2414	extract
 T87	Synonym 6524 6543	Cymodocea rotundata
 T88	Compound 6572 6632	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid esters
 T89	Compound 6635 6648	chlorophyll a
@@ -108,6 +102,24 @@ T107	Synonym 7443 7462	Cymodocea rotundata
 T108	BioAct 7505 7518	antibacterial
 T109	BioAct 7575 7588	antimicrobial
 T110	Synonym 7605 7624	Cymodocea rotundata
-T111	Preparation 2679 2686	extract
 T112	Compound 7770 7783	ethyl acetate
 T113	Compound 7791 7798	diethyl
+R1	isLocatedIn Arg1:T1 Arg2:T3	
+T2	BioAct 985 1011	total antioxidant activity
+T12	BioAct 1084 1101	radical scavenger
+R2	hasBiologicalActivity Arg1:T13 Arg2:T12	
+R3	hasBiologicalActivity Arg1:T13 Arg2:T2	
+R4	hasCompound Arg1:T11 Arg2:T13	
+R5	hasCompound Arg1:T19 Arg2:T18	
+R6	hasCompound Arg1:T19 Arg2:T17	
+R7	hasCompound Arg1:T19 Arg2:T16	
+R8	hasCompound Arg1:T19 Arg2:T15	
+R9	hasCompound Arg1:T24 Arg2:T23	
+R10	hasCompound Arg1:T24 Arg2:T22	
+R11	hasCompound Arg1:T24 Arg2:T21	
+R12	hasCompound Arg1:T24 Arg2:T20	
+R13	hasCompound Arg1:T35 Arg2:T29	
+R14	hasCompound Arg1:T35 Arg2:T30	
+R15	hasCompound Arg1:T35 Arg2:T31	
+R16	hasCompound Arg1:T35 Arg2:T32	
+R17	hasCompound Arg1:T35 Arg2:T33	
