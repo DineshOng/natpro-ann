@@ -66,8 +66,6 @@ T69	PlantPart 5338 5344	Leaves
 T70	Synonym 5348 5367	Cymodocea rotundata
 T71	Synonym 5382 5401	Cymodocea rotundata
 T72	PlantPart 5409 5415	leaves
-T73	Preparation 5421 5427	ground
-T74	Preparation 5479 5487	filtered
 T76	Synonym 5597 5616	Cymodocea rotundata
 T77	Compound 5715 5722	acetone
 T78	Compound 5770 5777	acetone
@@ -85,7 +83,6 @@ T90	Compound 6666 6681	beta-sitosterol
 T91	Compound 6686 6698	stigmasterol
 T92	Compound 6718 6778	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid esters
 T93	Compound 6843 6903	beta-sitosteryl-3beta-glucopyranoside-6'-O-fatty acid esters
-T94	Compound 6906 6919	chlorophyll a
 T95	Compound 6925 6938	chlorophyll a
 T96	Compound 6940 6955	Beta-Sitosterol
 T97	Compound 6961 6976	beta-sitosterol
@@ -93,7 +90,6 @@ T98	Compound 6987 6999	stigmasterol
 T99	Compound 7005 7017	stigmasterol
 T100	BioAct 7147 7160	antibacterial
 T101	Compound 7174 7185	Chlorophyll
-T102	Illness 7231 7236	wound
 T103	BioAct 7260 7273	antibacterial
 T104	Compound 7287 7302	Beta-Sitosterol
 T105	Compound 7307 7319	stigmasterol
@@ -123,3 +119,22 @@ R14	hasCompound Arg1:T35 Arg2:T30
 R15	hasCompound Arg1:T35 Arg2:T31	
 R16	hasCompound Arg1:T35 Arg2:T32	
 R17	hasCompound Arg1:T35 Arg2:T33	
+R18	hasSynonymPlantPart Arg1:T64 Arg2:T63	
+R19	isLocatedIn Arg1:T64 Arg2:T65	
+R20	isLocatedIn Arg1:T64 Arg2:T66	
+R21	isLocatedIn Arg1:T64 Arg2:T67	
+R22	hasSynonymPlantPart Arg1:T70 Arg2:T69	
+R23	hasSynonymPlantPart Arg1:T71 Arg2:T72	
+T34	Preparation 5421 5487	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
+R24	utilizePart Arg1:T34 Arg2:T72	
+R25	hasCompound Arg1:T87 Arg2:T88	
+R26	hasCompound Arg1:T87 Arg2:T89	
+R27	hasCompound Arg1:T87 Arg2:T90	
+R28	hasCompound Arg1:T87 Arg2:T91	
+R29	hasCompound Arg1:T87 Arg2:T85	
+T40	Compound 6906 6919	chlorophyll a
+T73	BioAct 7231 7255	wound healing properties
+R30	hasBiologicalActivity Arg1:T101 Arg2:T73	
+R31	hasBiologicalActivity Arg1:T101 Arg2:T103	
+R32	hasBiologicalActivity Arg1:T105 Arg2:T106	
+R33	hasBiologicalActivity Arg1:T104 Arg2:T106	
