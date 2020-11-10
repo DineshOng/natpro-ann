@@ -159,7 +159,6 @@ T166	PlantPart 7502 7507	twigs
 T167	MedicinalPlant 6452 6455	dao
 T168	MedicinalPlant 7514 7517	dao
 T169	PlantPart 7538 7543	twigs
-T170	Preparation 7556 7562	ground
 T171	Compound 7598 7630	betasitosteryl fatty acid esters
 T172	Preparation 7646 7654	filtered
 T174	Compound 7790 7797	acetone
@@ -183,10 +182,8 @@ T191	PlantPart 9319 9326	flowers
 T192	MedicinalPlant 7534 7537	dao
 T193	MedicinalPlant 9333 9336	dao
 T194	PlantPart 9357 9364	flowers
-T195	Preparation 9377 9383	ground
 T196	Compound 9419 9451	betasitosteryl fatty acid esters
 T197	Preparation 9467 9475	filtered
-T198	Preparation 7715 7722	extract
 T199	Compound 9612 9619	acetone
 T200	Compound 9723 9757	glucopyranoside'Ofatty acid esters
 T201	Compound 9774 9788	anacardic acid
@@ -238,10 +235,8 @@ T246	Compound 11710 11717	acetone
 T247	MedicinalPlant 11287 11290	dao
 T248	Synonym 12213 12237	Dracontomelon daopetiole
 T249	Compound 12243 12275	betasitosteryl fatty acid esters
-T250	Preparation 12285 12291	ground
 T251	Compound 12327 12359	betasitosteryl fatty acid esters
 T252	Preparation 12375 12383	filtered
-T253	Preparation 9536 9543	extract
 T254	Compound 12519 12526	acetone
 T255	Compound 12602 12638	beta-sitosteryl-3betaglucopyranoside
 T256	Compound 12642 12661	O-fatty acid esters
@@ -257,7 +252,6 @@ T265	MedicinalPlant 12196 12199	dao
 T266	Compound 12911 12924	linoleic acid
 T267	Compound 12932 12946	anacardic acid
 T268	Compound 12991 12997	cardol
-T269	Compound 13035 13069	glucopyranoside'Ofatty acid esters
 T270	PlantPart 13091 13097	leaves
 T271	Compound 13099 13131	betasitosteryl fatty acid esters
 T272	Compound 13150 13164	betasitosterol
@@ -388,3 +382,87 @@ R85	hasSynonymPlantPart Arg1:T146 Arg2:T144
 R86	hasSynonymPlantPart Arg1:T146 Arg2:T302	
 R87	isLocatedIn Arg1:T146 Arg2:T147	
 R88	isLocatedIn Arg1:T146 Arg2:T148	
+R89	isLocatedIn Arg1:T146 Arg2:T149	
+R90	hasCompound Arg1:T167 Arg2:T150	
+R91	hasCompound Arg1:T167 Arg2:T151	
+R92	hasMedicinalPlantPart Arg1:T168 Arg2:T166	
+R93	hasMedicinalPlantPart Arg1:T192 Arg2:T169	
+T170	Preparation 7556 7593	ground in a blender, soaked in CH2Cl2
+R94	utilizePart Arg1:T170 Arg2:T169	
+R95	utilizePart Arg1:T172 Arg2:T169	
+R96	hasMedicinalPlantPart Arg1:T193 Arg2:T191	
+R97	hasMedicinalPlantPart Arg1:T215 Arg2:T194	
+T195	Preparation 9377 9414	ground in a blender, soaked in CH2Cl2
+R98	utilizePart Arg1:T195 Arg2:T194	
+R99	utilizePart Arg1:T197 Arg2:T194	
+R100	hasMedicinalPlantPart Arg1:T247 Arg2:T242	
+R101	hasMedicinalPlantPart Arg1:T247 Arg2:T241	
+R102	hasMedicinalPlantPart Arg1:T247 Arg2:T240	
+T198	PlantPart 11246 11253	petiole
+R103	hasMedicinalPlantPart Arg1:T247 Arg2:T198	
+T253	ChemicalClass 11300 11309	phenolics
+T303	ChemicalClass 11323 11329	lipids
+R104	hasSynonym Arg1:T265 Arg2:T248	
+T250	Preparation 12285 12322	ground in a blender, soaked in CH2Cl2
+T304	PlantPart 12183 12189	petole
+R105	hasMedicinalPlantPart Arg1:T265 Arg2:T304	
+R106	utilizePart Arg1:T250 Arg2:T304	
+R107	utilizePart Arg1:T252 Arg2:T304	
+T305	Synonym 12864 12879	Dracontomeladao
+R108	hasSynonymPlantPart Arg1:T305 Arg2:T270	
+T306	PlantPart 13079 13086	petiole
+R109	hasSynonymPlantPart Arg1:T305 Arg2:T306	
+T307	PlantPart 13141 13148	petiole
+R110	hasSynonymPlantPart Arg1:T305 Arg2:T307	
+R111	hasSynonymPlantPart Arg1:T305 Arg2:T273	
+T308	PlantPart 13174 13181	petiole
+R112	hasSynonymPlantPart Arg1:T305 Arg2:T308	
+R113	hasSynonymPlantPart Arg1:T305 Arg2:T274	
+R114	hasSynonymPlantPart Arg1:T305 Arg2:T275	
+T309	PlantPart 13232 13239	petiole
+R115	hasSynonymPlantPart Arg1:T305 Arg2:T309	
+R116	hasSynonymPlantPart Arg1:T305 Arg2:T277	
+R117	hasSynonymPlantPart Arg1:T305 Arg2:T278	
+R118	hasSynonymPlantPart Arg1:T305 Arg2:T280	
+R119	hasSynonymPlantPart Arg1:T305 Arg2:T281	
+R120	hasSynonymPlantPart Arg1:T305 Arg2:T282	
+R121	hasSynonymPlantPart Arg1:T305 Arg2:T284	
+R122	hasSynonymPlantPart Arg1:T305 Arg2:T285	
+R123	hasSynonymPlantPart Arg1:T305 Arg2:T287	
+R124	hasSynonymPlantPart Arg1:T305 Arg2:T289	
+R125	hasSynonymPlantPart Arg1:T305 Arg2:T290	
+R126	hasSynonymPlantPart Arg1:T305 Arg2:T292	
+T310	Compound 13476 13500	longchain fatty alcohols
+R127	hasSynonymPlantPart Arg1:T305 Arg2:T293	
+T311	Compound 13510 13533	long chain hydrocarbons
+T312	PlantPart 13007 13014	petiole
+R128	hasSynonymPlantPart Arg1:T305 Arg2:T312	
+T269	Compound 13016 13030	betasitosteryl
+T313	Compound 13030 13050	beta glucopyranoside
+T314	Compound 13051 13069	Ofatty acid esters
+R129	hasCompound Arg1:T312 Arg2:T268	
+R130	hasCompound Arg1:T306 Arg2:T269	
+R131	hasCompound Arg1:T306 Arg2:T313	
+R132	hasCompound Arg1:T306 Arg2:T314	
+R133	hasCompound Arg1:T270 Arg2:T313	
+R134	hasCompound Arg1:T270 Arg2:T314	
+R135	hasCompound Arg1:T270 Arg2:T269	
+R136	hasCompound Arg1:T307 Arg2:T271	
+R137	hasCompound Arg1:T308 Arg2:T272	
+R138	hasCompound Arg1:T273 Arg2:T272	
+R139	hasCompound Arg1:T274 Arg2:T272	
+R140	hasCompound Arg1:T275 Arg2:T272	
+R141	hasCompound Arg1:T309 Arg2:T276	
+R142	hasCompound Arg1:T277 Arg2:T276	
+R143	hasCompound Arg1:T278 Arg2:T276	
+R144	hasCompound Arg1:T280 Arg2:T279	
+R145	hasCompound Arg1:T281 Arg2:T279	
+R146	hasCompound Arg1:T282 Arg2:T279	
+R147	hasCompound Arg1:T284 Arg2:T283	
+R148	hasCompound Arg1:T285 Arg2:T283	
+R149	hasCompound Arg1:T287 Arg2:T286	
+R150	hasCompound Arg1:T289 Arg2:T288	
+R151	hasCompound Arg1:T290 Arg2:T288	
+R152	hasCompound Arg1:T292 Arg2:T291	
+R153	hasCompound Arg1:T293 Arg2:T310	
+R154	hasCompound Arg1:T293 Arg2:T311	
