@@ -27,17 +27,14 @@ T42	MedicinalPlant 1545 1552	binunga
 T43	Location 1625 1636	Philippines
 T44	PlantPart 1643 1649	leaves
 T45	Compound 1704 1711	acetone
-T46	Preparation 1712 1719	extract
 T47	PlantPart 1727 1733	leaves
 T48	Synonym 1737 1755	Macaranga tanarius
 T49	Synonym 1888 1906	Macaranga tanarius
 T50	PlantPart 1918 1922	leaf
-T51	Preparation 1923 1930	extract
 T52	BioAct 1941 1954	antimicrobial
 T53	Synonym 2083 2101	Macaranga tanarius
 T54	Compound 2211 2224	ascorbic acid
 T55	BioAct 2236 2247	antioxidant
-T56	Preparation 2394 2401	extract
 T57	Synonym 2405 2423	Macaranga tanarius
 T58	Synonym 2489 2507	Macaranga tanarius
 T59	Compound 2552 2564	macarangonol
@@ -52,7 +49,6 @@ T67	Compound 2677 2687	blumenol B
 T68	Compound 2693 2704	nymphaeol A
 T69	Compound 2706 2717	nymphaeol B
 T70	Compound 2723 2734	nymphaeol C
-T71	Compound 2736 2745	roseoside
 T72	ChemicalClass 2755 2762	flavone
 T73	Compound 2767 2784	tanariflavanone A
 T74	Compound 2786 2803	tanariflavanone B
@@ -66,12 +62,10 @@ T81	Compound 2923 2938	mallotinic acid
 T82	Compound 2950 2959	tanarinin
 T83	Compound 2961 2970	corilagin
 T84	Compound 2972 2984	macaranganin
-T85	Compound 2999 3018	acidphylanthusiin C
 T86	Compound 3020 3042	1,4-digalloylglucoside
 T87	Compound 3048 3070	3,4-digalloylglucoside
 T88	BioAct 3139 3152	antimicrobial
 T89	Compound 3162 3175	chlorophyll a
-T90	MedicinalPlant 3179 3193	chlorophyllide
 T91	PlantPart 3205 3211	leaves
 T92	Synonym 3215 3233	Macaranga tanarius
 T93	Compound 3236 3246	Polyprenol
@@ -80,16 +74,12 @@ T95	Compound 3350 3363	chlorophyll a
 T96	Compound 3372 3379	phyltyl
 T97	Compound 3386 3399	chlorophyll a
 T98	Compound 3452 3462	polyprenol
-T99	MedicinalPlant 3535 3549	chlorophyllide
 T100	Compound 3556 3569	chlorophyll a
 T101	Location 4060 4064	Anao
 T102	Compound 4088 4101	chlorophyll a
 T103	Synonym 4120 4138	Macaranga tanarius
 T104	PlantPart 4359 4365	leaves
 T105	Synonym 4369 4387	Macaranga tanarius
-T106	Illness 4401 4404	cut
-T107	Preparation 4460 4468	filtered
-T108	Preparation 4534 4541	extract
 T109	Compound 4642 4649	acetone
 T110	Compound 4688 4695	acetone
 T111	Compound 4786 4793	diethyl
@@ -97,7 +87,6 @@ T112	Compound 4810 4817	acetone
 T113	Compound 4963 4976	chlorophyll a
 T114	Compound 5046 5053	acetone
 T115	Compound 5138 5148	polyprenol
-T116	BioAct 5160 5173	Antimicrobial
 T117	Location 5260 5271	Philippines
 T118	Synonym 5339 5355	Candida albicans
 T119	Synonym 5367 5384	Bacillus subtilis
@@ -105,28 +94,21 @@ T120	Synonym 5396 5418	Pseudomonas aeruginosa
 T121	Synonym 5430 5446	Escherichia coli
 T122	Synonym 5458 5479	Staphylococcus aureus
 T123	BioAct 5587 5600	antimicrobial
-T124	Compound 5813 5828	dichloromethane
-T125	Preparation 5829 5836	extract
 T126	PlantPart 5854 5860	leaves
 T127	Synonym 5864 5882	Macaranga tanarius
-T128	MedicinalPlant 5892 5906	chlorophyllide
 T129	Compound 5911 5924	chlorophyll a
 T130	Compound 5930 5940	polyprenol
-T131	Compound 6050 6061	crystalline
 T132	Compound 6090 6105	dichloromethane
-T133	Preparation 6106 6113	extract
 T134	PlantPart 6131 6137	leaves
 T135	Synonym 6141 6159	Macaranga tanarius
 T136	Compound 6162 6173	crystalline
 T137	Compound 3968 3976	vanillin
 T138	Compound 6641 6654	chlorophyll a
-T139	MedicinalPlant 6678 6692	chlorophyllide
 T140	Compound 6707 6722	carboxylic acid
 T141	Compound 6735 6741	phytyl
 T142	Compound 6760 6775	carboxylic acid
 T143	Compound 6779 6792	chlorophyll a
 T144	Compound 6793 6806	Chlorophyll b
-T145	BodyPart 6818 6822	hand
 T146	Compound 6831 6839	aldehyde
 T147	Compound 6878 6891	chlorophyll a
 T148	Compound 6916 6929	chlorophyll a
@@ -143,7 +125,6 @@ T158	Compound 7331 7344	chlorophyll a
 T159	Compound 7354 7364	polyprenol
 T160	Compound 7420 7427	methine
 T161	Compound 7650 7665	carboxylic acid
-T162	Compound 7677 7685	an ester
 T163	Compound 7713 7721	carbonyl
 T164	Compound 7794 7803	methylene
 T165	Compound 7805 7812	methine
@@ -160,7 +141,6 @@ T175	Compound 8637 8650	chlorophyll a
 T176	Compound 8920 8930	polyprenol
 T177	Compound 8936 8946	polyprenol
 T178	Compound 8955 8965	polyprenol
-T179	MedicinalPlant 9496 9510	chlorophyllide
 T180	Compound 9631 9644	chlorophyll a
 T181	Compound 9678 9691	chlorophyll a
 T182	Compound 9696 9709	chlorophyll a
@@ -186,7 +166,6 @@ T201	Compound 10454 10464	polyprenol
 T202	Compound 10475 10485	polyprenol
 T203	Compound 10714 10720	Phytyl
 T204	Compound 11540 11554	propionic acid
-T205	BodyPart 11596 11600	hand
 T206	Compound 11726 11738	methyl ester
 T207	Compound 11961 11974	chlorophyll a
 T208	Compound 12090 12103	chlorophyll a
@@ -199,10 +178,7 @@ T214	Compound 12420 12433	chlorophyll a
 T215	Compound 12440 12453	chlorophyll a
 T216	Compound 12507 12518	Chlorophyll
 T217	Compound 12619 12632	chlorophyll a
-T218	Illness 12672 12677	wound
 T219	BioAct 12688 12705	anti-inflammatory
-T220	Compound 12738 12745	oxalate
-T221	Compound 12792 12804	photodynamic
 T222	Compound 6288 6299	chlorophyll
 T223	Compound 13001 13011	polyprenol
 T224	Compound 13100 13110	polyprenol
@@ -270,3 +246,64 @@ R7	hasBiologicalActivity Arg1:T28 Arg2:T29
 R8	hasSynonym Arg1:T42 Arg2:T41	
 R9	isLocatedIn Arg1:T41 Arg2:T43	
 R10	isLocatedIn Arg1:T42 Arg2:T43	
+R11	hasSynonymPlantPart Arg1:T48 Arg2:T47	
+R12	hasSynonymPlantPart Arg1:T49 Arg2:T50	
+T10	BioAct 2439 2457	radical-scavenging
+R13	hasCompound Arg1:T58 Arg2:T59	
+R14	hasCompound Arg1:T58 Arg2:T60	
+R15	hasCompound Arg1:T58 Arg2:T61	
+R16	hasCompound Arg1:T58 Arg2:T62	
+R17	hasCompound Arg1:T58 Arg2:T63	
+R18	hasCompound Arg1:T58 Arg2:T64	
+R19	hasCompound Arg1:T58 Arg2:T65	
+T14	ChemicalClass 2534 2550	euphorbiasteroid
+R20	hasCompound Arg1:T58 Arg2:T66	
+R21	hasCompound Arg1:T58 Arg2:T67	
+R22	hasCompound Arg1:T58 Arg2:T68	
+R23	hasCompound Arg1:T58 Arg2:T69	
+R24	hasCompound Arg1:T58 Arg2:T70	
+R25	hasCompound Arg1:T58 Arg2:T73	
+R26	hasCompound Arg1:T58 Arg2:T74	
+R27	hasCompound Arg1:T58 Arg2:T75	
+R28	hasCompound Arg1:T58 Arg2:T76	
+R29	belongsToClass Arg1:T73 Arg2:T72	
+R30	belongsToClass Arg1:T74 Arg2:T72	
+R31	belongsToClass Arg1:T75 Arg2:T72	
+R32	belongsToClass Arg1:T76 Arg2:T72	
+R33	hasCompound Arg1:T58 Arg2:T77	
+R34	hasCompound Arg1:T58 Arg2:T78	
+R35	hasCompound Arg1:T58 Arg2:T79	
+R36	hasCompound Arg1:T58 Arg2:T80	
+R37	hasCompound Arg1:T58 Arg2:T81	
+T21	Compound 2940 2948	geraniin
+R38	hasCompound Arg1:T58 Arg2:T21	
+R39	hasCompound Arg1:T58 Arg2:T82	
+R40	hasCompound Arg1:T58 Arg2:T83	
+R41	hasCompound Arg1:T58 Arg2:T84	
+T22	Compound 2986 3018	repanducinic acidphylanthusiin C
+R42	hasCompound Arg1:T58 Arg2:T22	
+R43	hasCompound Arg1:T58 Arg2:T86	
+R44	hasCompound Arg1:T58 Arg2:T87	
+T23	Compound 3179 3195	chlorophyllide a
+R45	hasSynonymPlantPart Arg1:T92 Arg2:T91	
+R46	hasCompound Arg1:T91 Arg2:T23	
+R47	hasCompound Arg1:T91 Arg2:T89	
+R48	hasCompound Arg1:T94 Arg2:T93	
+T24	Compound 3535 3551	chlorophyllide a
+T25	Location 4066 4072	Tarlac
+R49	hasSynonymPlantPart Arg1:T105 Arg2:T104	
+T26	Preparation 4401 4468	cut and homogenized, soaked in CH2Cl2 for three days, then filtered
+R50	utilizePart Arg1:T26 Arg2:T104	
+R51	hasSynonymPlantPart Arg1:T127 Arg2:T126	
+T27	Compound 5892 5908	chlorophyllide a
+R52	hasCompound Arg1:T126 Arg2:T27	
+R53	hasCompound Arg1:T126 Arg2:T129	
+R54	hasCompound Arg1:T126 Arg2:T130	
+R55	hasSynonymPlantPart Arg1:T135 Arg2:T134	
+T30	Compound 6678 6694	chlorophyllide a
+T31	Compound 9496 9512	chlorophyllide a
+T32	BioAct 12672 12685	wound healing
+T33	Compound 13201 13215	peptidoglycans
+T34	Compound 13220 13232	carbohydrate
+T35	BioAct 13346 13362	antidyslipidemic
+R56	hasBiologicalActivity Arg1:T232 Arg2:T233	
