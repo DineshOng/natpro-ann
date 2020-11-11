@@ -4,7 +4,6 @@ T3	Location 397 403	Manila
 T4	Location 410 421	Philippines
 T5	Location 484 490	Manila
 T6	Location 497 508	Philippines
-T7	Location 177 180	Sec
 T8	Location 587 593	Taipei
 T9	Location 599 605	Taiwan
 T10	Location 707 717	Binan City
@@ -32,10 +31,8 @@ T31	Compound 1399 1413	lupeol acetate
 T32	Compound 1415 1429	betasitosterol
 T33	Compound 1431 1443	stigmasterol
 T34	Compound 1445 1458	triglycerides
-T35	MedicinalPlant 1509 1514	genus
 T36	Family 1529 1539	Cycadaceae
 T37	MedicinalPlant 1754 1763	sago palm
-T38	Location 1802 1809	Tropics
 T39	Location 1833 1837	Asia
 T40	Location 1839 1845	Africa
 T41	Location 1857 1861	Asia
@@ -254,3 +251,35 @@ T253	Compound 14486 14505	affordedpinoresinol
 T254	Compound 14507 14520	lariciresinol
 T255	Compound 14522 14535	triglycerides
 T256	Location 14720 14731	Philippines
+R1	hasSynonymPlantPart Arg1:T2 Arg2:T1	
+R2	hasSynonymPlantPart Arg1:T13 Arg2:T14	
+T7	Compound 1045 1059	fatty alcohols
+R3	hasCompound Arg1:T14 Arg2:T15	
+R4	hasCompound Arg1:T14 Arg2:T16	
+R5	hasCompound Arg1:T14 Arg2:T17	
+R6	hasCompound Arg1:T14 Arg2:T18	
+R7	hasCompound Arg1:T14 Arg2:T19	
+R8	hasCompound Arg1:T14 Arg2:T20	
+R9	hasCompound Arg1:T14 Arg2:T21	
+R10	hasCompound Arg1:T14 Arg2:T22	
+R11	hasCompound Arg1:T14 Arg2:T7	
+T35	Genus 1477 1482	Cycas
+R12	belongsToFamily Arg1:T35 Arg2:T36	
+T38	Genus 2331 2336	Cycas
+R13	hasSynonymPlantPart Arg1:T65 Arg2:T64	
+R14	hasSynonymPlantPart Arg1:T65 Arg2:T61	
+R15	hasSynonymPlantPart Arg1:T65 Arg2:T56	
+R16	hasSynonymPlantPart Arg1:T65 Arg2:T51	
+R17	hasCompound Arg1:T51 Arg2:T47	
+R18	hasCompound Arg1:T51 Arg2:T48	
+R19	hasCompound Arg1:T51 Arg2:T50	
+R20	hasCompound Arg1:T56 Arg2:T52	
+R21	hasCompound Arg1:T56 Arg2:T53	
+R22	hasCompound Arg1:T56 Arg2:T54	
+R23	hasCompound Arg1:T56 Arg2:T55	
+R24	hasCompound Arg1:T61 Arg2:T57	
+R25	hasCompound Arg1:T61 Arg2:T58	
+R26	hasCompound Arg1:T61 Arg2:T59	
+R27	hasCompound Arg1:T61 Arg2:T60	
+R28	hasCompound Arg1:T64 Arg2:T62	
+R29	hasCompound Arg1:T64 Arg2:T63	
