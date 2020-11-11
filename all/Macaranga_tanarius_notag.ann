@@ -7,32 +7,16 @@ T6	Location 347 358	Philippines
 T7	Compound 359 372	chlorophyll a
 T8	Location 442 448	Manila
 T9	Location 450 461	Philippines
-T10	Compound 468 483	dichloromethane
-T11	Preparation 484 491	extract
 T12	PlantPart 509 515	leaves
 T13	Synonym 519 537	Macaranga tanarius
-T14	MedicinalPlant 547 561	chlorophyllide
 T15	Compound 566 579	chlorophyll a
 T16	Compound 585 595	polyprenol
 T17	Compound 623 636	chlorophyll a
 T18	Compound 718 728	polyprenol
 T19	BioAct 816 829	Antimicrobial
 T20	BioAct 867 880	antimicrobial
-T21	Synonym 914 930	Escherichia coli
-T22	Synonym 932 953	Staphylococcus aureus
-T23	Synonym 959 981	Pseudomonas aeruginosa
-T24	Synonym 993 1009	Candida albicans
-T25	Synonym 1014 1031	T. mentagrophytes
-T26	Synonym 1034 1050	Escherichia coli
-T27	Synonym 1072 1089	Bacillus subtilis
 T28	Compound 1114 1127	chlorophyll a
 T29	BioAct 1154 1167	antimicrobial
-T30	Synonym 1187 1209	Pseudomonas aeruginosa
-T31	Synonym 1214 1230	Candida albicans
-T32	Synonym 1252 1268	Escherichia coli
-T33	Synonym 1270 1291	Staphylococcus aureus
-T34	Synonym 1293 1310	Bacillus subtilis
-T35	Synonym 1326 1343	T. mentagrophytes
 T36	Synonym 1356 1374	Macaranga tanarius
 T37	Family 1376 1389	Euphorbiaceae
 T38	Compound 1391 1404	chlorophyll a
@@ -274,3 +258,15 @@ T273	Compound 14878 14891	chlorophyll a
 T274	Compound 14930 14943	chlorophyll a
 T275	Compound 14998 15013	chloramphenicol
 T276	BioAct 15098 15111	antimicrobial
+T277	Compound 118 128	Porphyrins
+R1	hasCompound Arg1:T2 Arg2:T277	
+R2	hasCompound Arg1:T2 Arg2:T1	
+R3	hasSynonymPlantPart Arg1:T13 Arg2:T12	
+T11	Compound 547 563	chlorophyllide a
+R4	hasCompound Arg1:T12 Arg2:T11	
+R5	hasCompound Arg1:T12 Arg2:T15	
+R6	hasCompound Arg1:T12 Arg2:T16	
+R7	hasBiologicalActivity Arg1:T28 Arg2:T29	
+R8	hasSynonym Arg1:T42 Arg2:T41	
+R9	isLocatedIn Arg1:T41 Arg2:T43	
+R10	isLocatedIn Arg1:T42 Arg2:T43	
