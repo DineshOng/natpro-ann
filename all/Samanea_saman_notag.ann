@@ -2,7 +2,6 @@ T1	Compound 40 53	triglycerides
 T2	ChemicalClass 134 145	Triterpenes
 T3	ChemicalClass 150 157	Sterols
 T4	Synonym 163 176	Samanea saman
-T5	Location 220 234	Mitzell Arenal
 T6	Location 375 385	Binan City
 T7	Location 387 393	Laguna
 T8	Location 395 406	Philippines
@@ -12,8 +11,6 @@ T11	Location 486 497	Philippines
 T12	Location 569 572	Sec
 T13	Location 576 582	Taipei
 T14	Location 584 590	Taiwan
-T15	Compound 598 613	dichloromethane
-T16	Preparation 614 621	extract
 T17	Synonym 625 638	Samanea saman
 T18	Compound 648 657	epilupeol
 T19	Compound 660 668	lupenone
@@ -47,11 +44,9 @@ T46	Family 1280 1288	Fabaceae
 T47	MedicinalPlant 1310 1316	acacia
 T48	MedicinalPlant 1320 1329	rain tree
 T49	Location 1339 1350	Philippines
-T50	Preparation 1393 1402	decoction
 T51	PlantPart 1410 1414	bark
 T52	PlantPart 1419 1425	leaves
 T53	Illness 1443 1451	diarrhea
-T54	Illness 1469 1478	dysentery
 T55	Illness 1480 1489	enteritis
 T56	Illness 1491 1496	colds
 T57	Illness 1498 1509	sore throat
@@ -237,3 +232,37 @@ T236	BioAct 11281 11296	antinociceptive
 T237	BioAct 11299 11316	anti-inflammatory
 T238	BioAct 11319 11335	anti-ulcerogenic
 T239	Compound 11564 11577	triglycerides
+R1	hasSynonymPlantPart Arg1:T17 Arg2:T21	
+R2	hasSynonymPlantPart Arg1:T17 Arg2:T24	
+R3	hasSynonymPlantPart Arg1:T17 Arg2:T29	
+R4	hasCompound Arg1:T21 Arg2:T18	
+R5	hasCompound Arg1:T21 Arg2:T19	
+R6	hasCompound Arg1:T21 Arg2:T20	
+R7	hasCompound Arg1:T24 Arg2:T22	
+R8	hasCompound Arg1:T24 Arg2:T23	
+R9	hasCompound Arg1:T29 Arg2:T25	
+R10	hasCompound Arg1:T29 Arg2:T26	
+R11	hasCompound Arg1:T29 Arg2:T27	
+R12	hasCompound Arg1:T29 Arg2:T28	
+R13	belongsToFamily Arg1:T45 Arg2:T46	
+R14	hasSynonym Arg1:T47 Arg2:T45	
+R15	hasSynonym Arg1:T48 Arg2:T45	
+T5	Preparation 1393 1402	decoction
+R16	isLocatedIn Arg1:T45 Arg2:T49	
+R17	hasSynonymPlantPart Arg1:T45 Arg2:T51	
+R18	hasSynonymPlantPart Arg1:T45 Arg2:T52	
+T15	Illness 1453 1478	acute bacillary dysentery
+R19	utilizePart Arg1:T5 Arg2:T51	
+R20	utilizePart Arg1:T5 Arg2:T52	
+R21	treats Arg1:T51 Arg2:T53	
+R22	treats Arg1:T51 Arg2:T15	
+R23	treats Arg1:T51 Arg2:T55	
+R24	treats Arg1:T51 Arg2:T56	
+R25	treats Arg1:T51 Arg2:T57	
+R26	treats Arg1:T51 Arg2:T58	
+R27	treats Arg1:T52 Arg2:T53	
+R28	treats Arg1:T52 Arg2:T15	
+R29	treats Arg1:T52 Arg2:T55	
+R30	treats Arg1:T52 Arg2:T56	
+R31	treats Arg1:T52 Arg2:T57	
+R32	treats Arg1:T52 Arg2:T58	
