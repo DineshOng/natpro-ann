@@ -1,8 +1,5 @@
 T1	Location 128 133	CODEN
 T2	Location 134 137	USA
-T3	ChemicalClass 165 171	sterol
-T4	Synonym 177 200	Aphanamixis polystachya
-T5	Compound 223 231	squalene
 T6	Location 470 480	Binan City
 T7	Location 482 488	Laguna
 T8	Location 490 501	Philippines
@@ -12,12 +9,8 @@ T11	Location 575 586	Philippines
 T12	Location 628 639	Philippines
 T13	Location 650 661	Quezon City
 T14	Location 663 674	Philippines
-T15	Compound 675 684	4National
-T16	Location 745 748	Sec
 T17	Location 752 758	Taipei
 T18	Location 760 766	Taiwan
-T19	Compound 775 790	dichloromethane
-T20	Preparation 791 798	extract
 T21	PlantPart 816 822	leaves
 T22	Synonym 826 849	Aphanamixis polystachya
 T23	Compound 871 884	alpha-copaene
@@ -54,8 +47,6 @@ T53	BioAct 1665 1676	antioxidant
 T54	Synonym 1785 1808	Aphanamixis polystachya
 T55	ChemicalClass 1841 1851	diterpenes
 T56	ChemicalClass 1882 1891	flavonoid
-T57	Compound 1892 1902	glycosides
-T58	Compound 1909 1917	chromone
 T59	ChemicalClass 1920 1931	triterpenes
 T60	ChemicalClass 1942 1956	sesquiterpenes
 T61	ChemicalClass 1963 1972	alkaloids
@@ -65,8 +56,6 @@ T64	Compound 2102 2112	polyprenol
 T65	Compound 2115 2130	beta-sitosterol
 T66	Compound 2133 2139	lutein
 T67	Compound 2146 2159	beta-carotene
-T68	Compound 2177 2192	dichloromethane
-T69	Preparation 1617 1624	extract
 T70	PlantPart 2208 2214	leaves
 T71	Synonym 2218 2241	Aphanamixis polystachya
 T72	Compound 2289 2301	alphacopaene
@@ -86,7 +75,6 @@ T85	Compound 2605 2620	beta-sitosterol
 T86	Compound 2623 2629	lutein
 T87	Compound 2636 2648	betacarotene
 T88	Compound 3217 3229	alphacopaene
-T89	Preparation 2193 2200	extract
 T90	Compound 3382 3389	acetone
 T91	Compound 3393 3408	dichloromethane
 T92	Compound 3652 3658	lutein
@@ -96,7 +84,6 @@ T95	Location 3927 3935	Bacnotan
 T96	Location 3937 3945	La Union
 T97	Location 3947 3958	Philippines
 T98	Synonym 3975 3998	Aphanamixis polystachya
-T99	Location 4092 4103	Philippines
 T100	Location 4114 4125	Quezon City
 T101	Location 4127 4138	Philippines
 T102	PlantPart 4243 4249	Leaves
@@ -104,12 +91,9 @@ T103	Synonym 4253 4276	Aphanamixis polystachya
 T104	PlantPart 4291 4297	leaves
 T105	Compound 4298 4310	alphacopaene
 T106	Synonym 4319 4342	Aphanamixis polystachya
-T107	Preparation 4390 4398	filtered
-T108	Preparation 3296 3303	extract
 T109	Compound 4537 4544	acetone
 T110	Compound 4681 4693	alphacopaene
 T111	Compound 4714 4721	acetone
-T112	Preparation 4464 4471	extract
 T113	Compound 4837 4845	squalene
 T114	Compound 4859 4872	beta-carotene
 T115	Compound 4928 4935	acetone
@@ -137,8 +121,6 @@ T136	Compound 5717 5729	alphacopaene
 T137	Compound 5762 5775	beta-carotene
 T138	Compound 5802 5815	beta-carotene
 T139	Compound 5839 5851	alphacopaene
-T140	Compound 6187 6202	dichloromethane
-T141	Preparation 4778 4785	extract
 T142	Synonym 6214 6237	Aphanamixis polystachya
 T143	Compound 6259 6271	alphacopaene
 T144	Compound 6274 6282	squalene
@@ -154,3 +136,51 @@ T153	Compound 6615 6625	polyprenol
 T154	Compound 6628 6643	beta-sitosterol
 T155	Compound 6646 6652	lutein
 T156	Compound 6659 6672	beta-carotene
+R1	hasSynonymPlantPart Arg1:T22 Arg2:T21	
+R2	hasCompound Arg1:T21 Arg2:T23	
+R3	hasCompound Arg1:T21 Arg2:T24	
+R4	hasCompound Arg1:T21 Arg2:T25	
+R5	hasCompound Arg1:T21 Arg2:T26	
+R6	hasCompound Arg1:T21 Arg2:T27	
+R7	hasCompound Arg1:T21 Arg2:T28	
+R8	belongsToFamily Arg1:T38 Arg2:T39	
+R9	isLocatedIn Arg1:T38 Arg2:T40	
+R10	isLocatedIn Arg1:T38 Arg2:T41	
+R11	isLocatedIn Arg1:T38 Arg2:T42	
+R12	isLocatedIn Arg1:T38 Arg2:T43	
+R13	isLocatedIn Arg1:T38 Arg2:T44	
+R14	hasSynonymPlantPart Arg1:T46 Arg2:T45	
+T3	BioAct 1426 1435	antitumor
+T4	BioAct 1442 1457	radioprotective
+T5	BioAct 1500 1511	antifeedant
+T15	BioAct 1516 1525	repellant
+R15	hasSynonymPlantPart Arg1:T49 Arg2:T50	
+T16	ChemicalClass 1892 1902	glycosides
+T19	ChemicalClass 1909 1917	chromone
+T20	ChemicalClass 1872 1879	lignans
+T57	ChemicalClass 1854 1863	limonoids
+R16	hasSynonymPlantPart Arg1:T71 Arg2:T70	
+R17	hasCompound Arg1:T70 Arg2:T62	
+R18	hasCompound Arg1:T70 Arg2:T63	
+R19	hasCompound Arg1:T70 Arg2:T65	
+R20	hasCompound Arg1:T70 Arg2:T66	
+R21	hasCompound Arg1:T70 Arg2:T67	
+R22	hasSynonymPlantPart Arg1:T94 Arg2:T93	
+R23	isLocatedIn Arg1:T94 Arg2:T95	
+R24	isLocatedIn Arg1:T94 Arg2:T96	
+R25	isLocatedIn Arg1:T94 Arg2:T97	
+T58	Location 4105 4112	Diliman
+R26	isLocatedIn Arg1:T98 Arg2:T58	
+R27	isLocatedIn Arg1:T98 Arg2:T100	
+R28	isLocatedIn Arg1:T98 Arg2:T101	
+R29	hasSynonymPlantPart Arg1:T103 Arg2:T102	
+R30	hasSynonymPlantPart Arg1:T106 Arg2:T104	
+R31	hasCompound Arg1:T104 Arg2:T105	
+T68	Preparation 4348 4398	soaked in CH2Cl2 for three days, and then filtered
+R32	utilizePart Arg1:T68 Arg2:T104	
+R33	hasCompound Arg1:T142 Arg2:T143	
+R34	hasCompound Arg1:T142 Arg2:T144	
+R35	hasCompound Arg1:T142 Arg2:T145	
+R36	hasCompound Arg1:T142 Arg2:T146	
+R37	hasCompound Arg1:T142 Arg2:T147	
+R38	hasCompound Arg1:T142 Arg2:T148	
