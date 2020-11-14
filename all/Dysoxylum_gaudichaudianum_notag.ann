@@ -1,6 +1,4 @@
-T1	BioAct 177 186	Cytotoxic
 T2	Synonym 202 227	Dysoxylum gaudichaudianum
-T3	Location 245 253	Mariquit
 T4	Compound 270 281	polyprenols
 T5	Location 470 480	Binan City
 T6	Location 482 488	Laguna
@@ -14,8 +12,6 @@ T13	Location 706 717	Philippines
 T14	Location 770 781	Taft Avenue
 T15	Location 783 789	Manila
 T16	Location 796 807	Philippines
-T17	Compound 808 817	5National
-T18	Location 910 913	Sec
 T19	Location 917 923	Taipei
 T20	Location 929 935	Taiwan
 T21	Location 1038 1048	Binan City
@@ -25,8 +21,6 @@ T24	Compound 1112 1120	Squalene
 T25	Compound 1123 1133	polyprenol
 T26	Compound 1136 1149	triglycerides
 T27	Compound 1156 1171	beta-sitosterol
-T28	Compound 1192 1207	dichloromethane
-T29	Preparation 1208 1215	extract
 T30	PlantPart 1223 1229	leaves
 T31	Synonym 1233 1258	Dysoxylum gaudichaudianum
 T32	BioAct 1285 1303	anti-proliferative
@@ -82,7 +76,6 @@ T81	Compound 2727 2738	polyprenols
 T82	Compound 2740 2753	triglycerides
 T83	Compound 2755 2769	betasitosterol
 T84	CellLine 2808 2812	HDFn
-T85	BioAct 2787 2796	cytotoxic
 T86	Synonym 2919 2944	Dysoxylum gaudichaudianum
 T87	Compound 2962 2970	squalene
 T88	Compound 2972 2982	polyprenol
@@ -107,8 +100,6 @@ T106	Illness 3518 3534	skin irritations
 T107	Illness 3536 3546	body aches
 T108	Illness 3548 3563	lung hemorrhage
 T109	Illness 3642 3656	food poisoning
-T110	Preparation 3697 3702	juice
-T111	Preparation 3703 3712	extracted
 T112	PlantPart 3722 3728	leaves
 T113	PlantPart 3799 3803	bark
 T114	Compound 3832 3844	dysoxylins A
@@ -120,7 +111,6 @@ T119	PlantPart 4113 4122	stem bark
 T120	Compound 4131 4152	p-hydroxyacetophenone
 T121	Compound 4154 4169	beta-sitosterol
 T122	Compound 4175 4187	stigmasterol
-T123	Compound 4206 4224	gaudichaudysolin A
 T124	PlantPart 4249 4253	bark
 T125	BioAct 2855 2864	cytotoxic
 T126	CellLine 4342 4346	HL60
@@ -131,9 +121,7 @@ T130	CellLine 4485 4489	MCF7
 T131	BodyPart 4497 4503	breast
 T132	Location 4642 4653	Philippines
 T133	ChemicalClass 4712 4725	triterpenoids
-T134	Location 4747 4755	Mariquit
 T135	BioAct 4764 4773	Cytotoxic
-T136	Location 4789 4794	IJPPR
 T137	Compound 4846 4890	24,25-epoxy-3Beta,23-dihydroxy-7-tirucallene
 T138	Compound 4892 4900	squalene
 T139	Compound 4902 4912	polyprenol
@@ -141,16 +129,11 @@ T140	Compound 4914 4927	linoleic acid
 T141	Compound 4932 4938	lutein
 T142	PlantPart 4948 4954	leaves
 T143	Synonym 4958 4979	Dysoxylum mollissimum
-T144	Compound 5025 5039	dicloromethane
 T145	PlantPart 5040 5044	leaf
-T146	Preparation 4089 4096	extract
 T147	Synonym 5056 5081	Dysoxylum gaudichaudianum
-T148	BodyPart 5150 5156	breast
 T149	CellLine 5165 5170	MCF-7
 T150	CellLine 5190 5195	HT-29
-T151	Compound 5249 5264	dichloromethane
 T152	PlantPart 5265 5269	leaf
-T153	Preparation 5045 5052	extract
 T154	Compound 5302 5310	squalene
 T155	Compound 5313 5324	polyprenols
 T156	Compound 5327 5340	triglycerides
@@ -166,7 +149,6 @@ T165	Compound 5593 5601	Squalene
 T166	Compound 5603 5614	polyprenols
 T167	Compound 5616 5629	triglycerides
 T168	Compound 5631 5645	betasitosterol
-T169	Location 5651 5657	Zeocin
 T170	CellLine 5683 5688	MCF-7
 T171	CellLine 5690 5697	HCT-116
 T172	CellLine 5699 5704	HT-29
@@ -175,7 +157,6 @@ T174	Compound 5746 5754	Squalene
 T175	Compound 5756 5767	polyprenols
 T176	Compound 5769 5782	triglycerides
 T177	Compound 5784 5798	betasitosterol
-T178	Location 5804 5810	Zeocin
 T179	CellLine 6150 6155	MCF-7
 T180	Compound 6188 6201	triglycerides
 T181	CellLine 6260 6267	HCT-116
@@ -183,7 +164,6 @@ T182	CellLine 6344 6349	HT-29
 T183	CellLine 6426 6430	HDFn
 T184	Location 6510 6518	Mariquit
 T185	BioAct 6527 6536	Cytotoxic
-T186	Location 6552 6557	IJPPR
 T187	Compound 6626 6634	Squalene
 T188	Compound 6636 6647	polyprenols
 T189	Compound 6649 6662	triglycerides
@@ -193,7 +173,6 @@ T192	PlantPart 6716 6722	leaves
 T193	Synonym 6726 6751	Dysoxylum gaudichaudianum
 T194	Compound 6830 6841	polyprenols
 T195	Compound 6847 6860	triglycerides
-T196	BodyPart 6870 6876	breast
 T197	PlantPart 6948 6954	leaves
 T198	PlantPart 6959 6964	twigs
 T199	Synonym 6968 6993	Dysoxylum gaudichaudianum
@@ -214,9 +193,7 @@ T213	Compound 7892 7900	Squalene
 T214	Compound 7902 7913	polyprenols
 T215	Compound 7915 7928	triglycerides
 T216	Compound 7930 7944	betasitosterol
-T217	Compound 7955 7970	dichloromethane
 T218	Synonym 7994 8019	Dysoxylum gaudichaudianum
-T219	BodyPart 8066 8072	breast
 T220	CellLine 8081 8086	MCF-7
 T221	CellLine 8103 8110	HCT-116
 T222	CellLine 8115 8120	HT-29
@@ -257,7 +234,6 @@ T256	Compound 9737 9750	triglycerides
 T257	Compound 9778 9792	betasitosterol
 T258	Compound 9800 9813	triglycerides
 T259	Location 9881 9889	Mariquit
-T260	BioAct 7483 7492	Cytotoxic
 T261	Location 9923 9928	IJPPR
 T262	Location 9983 9988	Gibco
 T263	Location 9990 9993	USA
@@ -333,7 +309,6 @@ T332	Compound 15024 15032	Squalene
 T333	Compound 15038 15052	betasitosterol
 T334	Compound 15072 15083	polyprenols
 T335	Compound 15089 15102	triglycerides
-T336	BioAct 7853 7862	Cytotoxic
 T337	Compound 15173 15181	Squalene
 T338	Compound 15183 15194	polyprenols
 T339	Compound 15196 15209	triglycerides
@@ -396,19 +371,15 @@ T395	Compound 16965 16978	triglycerides
 T396	Compound 17203 17214	polyprenols
 T397	Compound 17220 17233	triglycerides
 T398	CellLine 17292 17297	HT-29
-T399	BioAct 6602 6611	cytotoxic
 T400	Compound 17386 17394	squalene
 T401	CellLine 17420 17425	MCF-7
 T402	Compound 17448 17459	polyprenols
 T403	Compound 17468 17481	triglycerides
 T404	Compound 17496 17511	beta-sitosterol
 T405	Compound 17516 17526	polyprenol
-T406	BioAct 7876 7885	cytotoxic
 T407	Compound 17601 17616	dichloromethane
-T408	Preparation 5270 5277	extract
 T409	Synonym 17628 17653	Dysoxylum gaudichaudianum
 T410	PlantPart 17654 17660	leaves
-T411	Preparation 7980 7987	extract
 T412	BioAct 8878 8887	cytotoxic
 T413	CellLine 17755 17760	HT-29
 T414	CellLine 17765 17770	MCF-7
@@ -589,3 +560,137 @@ T588	Compound 25874 25887	triglycerides
 T589	Compound 25889 25903	betasitosterol
 T590	BioAct 18462 18471	cytotoxic
 T591	BodyPart 25932 25938	breast
+R1	hasSynonymPlantPart Arg1:T31 Arg2:T30	
+R2	hasCompound Arg1:T30 Arg2:T24	
+R3	hasCompound Arg1:T30 Arg2:T25	
+R4	hasCompound Arg1:T30 Arg2:T26	
+R5	hasCompound Arg1:T30 Arg2:T27	
+R6	affects Arg1:T32 Arg2:T34	
+R7	affects Arg1:T32 Arg2:T35	
+R8	affects Arg1:T32 Arg2:T36	
+R9	affects Arg1:T32 Arg2:T37	
+R10	affects Arg1:T41 Arg2:T44	
+R11	affects Arg1:T41 Arg2:T42	
+R12	affects Arg1:T41 Arg2:T47	
+R13	hasBiologicalActivity Arg1:T40 Arg2:T41	
+R14	hasBiologicalActivity Arg1:T39 Arg2:T41	
+R15	affects Arg1:T49 Arg2:T50	
+R16	affects Arg1:T49 Arg2:T52	
+R17	affects Arg1:T49 Arg2:T53	
+R18	hasBiologicalActivity Arg1:T48 Arg2:T49	
+R19	hasBiologicalActivity Arg1:T54 Arg2:T55	
+R20	affects Arg1:T55 Arg2:T56	
+R21	affects Arg1:T55 Arg2:T57	
+R22	hasBiologicalActivity Arg1:T54 Arg2:T60	
+R23	affects Arg1:T60 Arg2:T61	
+R24	hasBiologicalActivity Arg1:T63 Arg2:T62	
+R25	hasBiologicalActivity Arg1:T64 Arg2:T62	
+R26	hasBiologicalActivity Arg1:T65 Arg2:T62	
+R27	hasBiologicalActivity Arg1:T66 Arg2:T62	
+R28	affects Arg1:T62 Arg2:T68	
+T1	BioAct 2787 2799	cytotoxicity
+R29	hasBiologicalActivity Arg1:T83 Arg2:T1	
+R30	hasBiologicalActivity Arg1:T82 Arg2:T1	
+R31	hasBiologicalActivity Arg1:T81 Arg2:T1	
+R32	hasBiologicalActivity Arg1:T80 Arg2:T1	
+R33	affects Arg1:T1 Arg2:T84	
+R34	belongsToFamily Arg1:T95 Arg2:T96	
+R35	hasCompound Arg1:T95 Arg2:T97	
+R36	isLocatedIn Arg1:T95 Arg2:T98	
+R37	isLocatedIn Arg1:T95 Arg2:T100	
+R38	hasSynonym Arg1:T99 Arg2:T95	
+R39	utilizePart Arg1:T102 Arg2:T103	
+R40	utilizePart Arg1:T102 Arg2:T104	
+R41	treats Arg1:T103 Arg2:T105	
+R42	treats Arg1:T103 Arg2:T106	
+R43	treats Arg1:T103 Arg2:T107	
+R44	treats Arg1:T103 Arg2:T108	
+T3	Illness 3569 3598	sexually transmitted diseases
+R45	treats Arg1:T103 Arg2:T3	
+R46	treats Arg1:T104 Arg2:T105	
+R47	treats Arg1:T104 Arg2:T106	
+R48	treats Arg1:T104 Arg2:T107	
+R49	treats Arg1:T104 Arg2:T108	
+R50	treats Arg1:T104 Arg2:T3	
+R51	treats Arg1:T103 Arg2:T109	
+R52	treats Arg1:T104 Arg2:T109	
+R53	hasCompound Arg1:T113 Arg2:T114	
+R54	hasCompound Arg1:T113 Arg2:T115	
+R55	hasCompound Arg1:T113 Arg2:T116	
+R56	hasCompound Arg1:T113 Arg2:T117	
+R57	hasCompound Arg1:T119 Arg2:T120	
+R58	hasCompound Arg1:T119 Arg2:T121	
+R59	hasCompound Arg1:T119 Arg2:T122	
+T17	Compound 4206 4222	gaudichaudysolin
+R60	hasCompound Arg1:T124 Arg2:T17	
+R61	hasBiologicalActivity Arg1:T17 Arg2:T239	
+R62	affects Arg1:T239 Arg2:T126	
+R63	affects Arg1:T239 Arg2:T127	
+R64	affects Arg1:T239 Arg2:T128	
+R65	affects Arg1:T239 Arg2:T129	
+R66	affects Arg1:T239 Arg2:T130	
+R67	hasSynonymPlantPart Arg1:T147 Arg2:T145	
+T18	Illness 5150 5163	breast cancer
+T28	Illness 5176 5188	colon cancer
+R68	treats Arg1:T145 Arg2:T18	
+R69	treats Arg1:T145 Arg2:T28	
+R70	hasCompound Arg1:T152 Arg2:T154	
+R71	hasCompound Arg1:T152 Arg2:T155	
+R72	hasCompound Arg1:T152 Arg2:T156	
+R73	hasCompound Arg1:T152 Arg2:T157	
+R74	hasSynonymPlantPart Arg1:T163 Arg2:T162	
+R75	hasCompound Arg1:T162 Arg2:T161	
+R76	hasCompound Arg1:T162 Arg2:T160	
+R77	hasCompound Arg1:T162 Arg2:T159	
+R78	hasCompound Arg1:T162 Arg2:T158	
+T29	Compound 5651 5657	Zeocin
+R79	hasBiologicalActivity Arg1:T165 Arg2:T289	
+R80	hasBiologicalActivity Arg1:T166 Arg2:T289	
+R81	hasBiologicalActivity Arg1:T167 Arg2:T289	
+R82	hasBiologicalActivity Arg1:T168 Arg2:T289	
+R83	hasBiologicalActivity Arg1:T29 Arg2:T289	
+R84	affects Arg1:T289 Arg2:T170	
+R85	affects Arg1:T289 Arg2:T171	
+R86	affects Arg1:T289 Arg2:T172	
+R87	affects Arg1:T289 Arg2:T173	
+T85	Compound 5804 5810	Zeocin
+R88	hasSynonymPlantPart Arg1:T193 Arg2:T192	
+R89	hasCompound Arg1:T192 Arg2:T191	
+R90	hasCompound Arg1:T192 Arg2:T190	
+R91	hasCompound Arg1:T192 Arg2:T189	
+R92	hasCompound Arg1:T192 Arg2:T188	
+R93	hasCompound Arg1:T192 Arg2:T187	
+T110	BioAct 6602 6614	cytotoxicity
+R94	hasBiologicalActivity Arg1:T187 Arg2:T110	
+R95	hasBiologicalActivity Arg1:T188 Arg2:T110	
+R96	hasBiologicalActivity Arg1:T189 Arg2:T110	
+R97	hasBiologicalActivity Arg1:T190 Arg2:T110	
+R98	hasBiologicalActivity Arg1:T191 Arg2:T110	
+R99	hasSynonymPlantPart Arg1:T199 Arg2:T198	
+R100	hasSynonymPlantPart Arg1:T199 Arg2:T197	
+R101	hasSynonymPlantPart Arg1:T205 Arg2:T204	
+R102	hasCompound Arg1:T204 Arg2:T203	
+R103	hasCompound Arg1:T204 Arg2:T202	
+R104	hasCompound Arg1:T204 Arg2:T201	
+R105	hasCompound Arg1:T204 Arg2:T200	
+T111	BioAct 7483 7495	Cytotoxicity
+R106	hasBiologicalActivity Arg1:T206 Arg2:T111	
+R107	hasBiologicalActivity Arg1:T207 Arg2:T111	
+R108	hasBiologicalActivity Arg1:T208 Arg2:T111	
+R109	hasBiologicalActivity Arg1:T209 Arg2:T111	
+R110	hasCompound Arg1:T210 Arg2:T206	
+R111	hasCompound Arg1:T210 Arg2:T207	
+R112	hasCompound Arg1:T210 Arg2:T208	
+R113	hasCompound Arg1:T210 Arg2:T209	
+T123	BioAct 7853 7865	Cytotoxicity
+T134	BioAct 7876 7888	cytotoxicity
+R114	hasCompound Arg1:T218 Arg2:T216	
+R115	hasCompound Arg1:T218 Arg2:T215	
+R116	hasCompound Arg1:T218 Arg2:T214	
+R117	hasCompound Arg1:T218 Arg2:T213	
+R118	hasBiologicalActivity Arg1:T213 Arg2:T134	
+R119	hasBiologicalActivity Arg1:T214 Arg2:T134	
+R120	hasBiologicalActivity Arg1:T215 Arg2:T134	
+R121	hasBiologicalActivity Arg1:T216 Arg2:T134	
+T136	Illness 8066 8079	breast cancer
+T144	Illness 8089 8101	colon cancer
