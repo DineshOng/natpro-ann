@@ -233,8 +233,6 @@ T255	Compound 9686 9699	triglycerides
 T256	Compound 9737 9750	triglycerides
 T257	Compound 9778 9792	betasitosterol
 T258	Compound 9800 9813	triglycerides
-T259	Location 9881 9889	Mariquit
-T261	Location 9923 9928	IJPPR
 T262	Location 9983 9988	Gibco
 T263	Location 9990 9993	USA
 T264	Location 10139 10144	Gibco
@@ -389,7 +387,6 @@ T417	Preparation 17617 17624	extract
 T418	CellLine 18061 18068	HCT-116
 T419	BodyPart 18127 18131	hand
 T420	CellLine 18155 18159	HDFn
-T421	BioAct 10449 10458	cytotoxic
 T422	CellLine 18240 18245	HT-29
 T423	Compound 18258 18266	squalene
 T424	BioAct 18285 18303	anti-proliferative
@@ -399,7 +396,6 @@ T427	Compound 18378 18386	Squalene
 T428	Compound 18388 18399	polyprenols
 T429	Compound 18401 18414	triglycerides
 T430	Compound 18416 18430	betasitosterol
-T431	BioAct 10516 10525	cytotoxic
 T432	BioAct 12357 12366	cytotoxic
 T433	Compound 18620 18634	betasitosterol
 T434	Compound 18789 18797	Squalene
@@ -476,7 +472,6 @@ T504	Compound 22213 22226	triglycerides
 T505	Compound 22253 22269	Triacylglycerols
 T506	BodyPart 22355 22361	spleen
 T507	Compound 22425 22441	Triacylglycerols
-T508	PlantPart 10164 10168	seed
 T509	Compound 22495 22506	pomegranate
 T510	Synonym 22508 22523	Punica granatum
 T511	PlantPart 22480 22484	seed
@@ -694,3 +689,5 @@ R120	hasBiologicalActivity Arg1:T215 Arg2:T134
 R121	hasBiologicalActivity Arg1:T216 Arg2:T134	
 T136	Illness 8066 8079	breast cancer
 T144	Illness 8089 8101	colon cancer
+T146	BioAct 10449 10461	cytotoxicity
+T148	BioAct 10516 10528	cytotoxicity
