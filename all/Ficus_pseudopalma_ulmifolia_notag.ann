@@ -13,11 +13,8 @@ T12	Location 468 474	Manila
 T13	Location 481 492	Philippines
 T14	Location 578 589	Taft Avenue
 T15	Location 596 602	Manila
-T16	Compound 603 612	2National
 T17	Location 680 686	Taipei
 T18	Location 692 698	Taiwan
-T19	Compound 703 718	dichloromethane
-T20	Preparation 719 726	extract
 T21	PlantPart 744 750	leaves
 T22	Synonym 800 817	Ficus pseudopalma
 T23	Synonym 822 837	Ficus ulmifolia
@@ -41,18 +38,14 @@ T40	ChemicalClass 1150 1160	sitosterol
 T41	Compound 1166 1178	stigmasterol
 T42	Synonym 1359 1376	Ficus pseudopalma
 T43	Synonym 1381 1396	Ficus ulmifolia
-T44	Compound 1539 1554	dichloromethane
 T45	Synonym 1601 1618	Ficus pseudopalma
 T46	Location 1675 1686	Philippines
 T47	Preparation 1691 1700	decoction
 T48	PlantPart 1708 1714	leaves
-T49	BodyPart 1744 1750	kidney
 T50	Illness 1762 1770	diabetes
-T51	BodyPart 1848 1852	hand
 T52	Synonym 1854 1869	Ficus ulmifolia
 T53	PlantPart 1928 1934	leaves
 T54	PlantPart 1994 2000	fruits
-T55	Compound 2108 2123	dichloromethane
 T56	Synonym 2148 2165	Ficus pseudopalma
 T57	Synonym 2170 2185	Ficus ulmifolia
 T58	Synonym 2188 2205	Ficus pseudopalma
@@ -108,13 +101,10 @@ T107	Compound 4180 4186	phytol
 T108	Compound 4194 4207	beta-carotene
 T109	Compound 4209 4215	lutein
 T110	Compound 4225 4237	stigmasterol
-T111	Compound 4265 4280	dichloromethane
-T112	Preparation 4281 4288	extract
 T113	PlantPart 4306 4312	leaves
 T114	Synonym 4316 4333	Ficus pseudopalma
 T115	Compound 4337 4349	stigmasterol
 T116	Compound 4430 4437	acetone
-T117	Compound 4441 4456	dichloromethane
 T118	Compound 4484 4491	acetone
 T119	Compound 4495 4510	dichloromethane
 T120	Compound 4597 4605	squalene
@@ -128,9 +118,7 @@ T127	Compound 5045 5074	alpha-amyrin fatty acid ester
 T128	Compound 5105 5131	chain fatty acid methylene
 T129	Compound 5155 5168	beta-carotene
 T130	Compound 5170 5178	carbonyl
-T131	Compound 2520 2525	ester
 T132	Compound 5206 5219	beta-carotene
-T133	Compound 2509 2519	fatty acid
 T134	Compound 5311 5340	alpha-amyrin fatty acid ester
 T135	Compound 5359 5379	alpha-amyrin acetate
 T136	Compound 5445 5453	Ursenone
@@ -162,15 +150,11 @@ T161	Compound 6244 6256	stigmasterol
 T162	Compound 6262 6270	ursenone
 T163	Compound 6272 6280	oleanone
 T164	Compound 6286 6294	lupenone
-T165	Location 6468 6480	Alpha-Amyrin
 T166	Compound 6567 6573	lupeol
-T167	Location 6640 6652	Alpha-Amyrin
 T168	Synonym 6732 6749	Ficus pseudopalma
 T169	Compound 6752 6758	Lupeol
 T170	Compound 6892 6898	lupeol
-T171	BodyPart 6957 6963	kidney
 T172	Synonym 6974 6991	Ficus pseudopalma
-T173	Location 6994 7006	Alpha-Amyrin
 T174	Compound 7011 7022	beta-amyrin
 T175	BioAct 7047 7064	anti-inflammatory
 T176	Compound 7115 7127	alpha-amyrin
@@ -183,12 +167,9 @@ T182	BioAct 7599 7610	antioxidant
 T183	Compound 7640 7646	Lutein
 T184	Compound 7755 7770	Beta-Sitosterol
 T185	Illness 7847 7853	tumors
-T186	BodyPart 7872 7878	breast
 T187	Compound 7903 7915	Stigmasterol
-T188	ChemicalClass 7935 7941	sterol
 T189	Compound 8058 8067	bile acid
 T190	Compound 8128 8138	polyprenol
-T191	Preparation 8156 8163	extract
 T192	Synonym 8167 8181	Coccinia ethyl
 T193	Compound 8258 8266	ursenone
 T194	Compound 8268 8276	oleanone
@@ -199,14 +180,10 @@ T198	Compound 8431 8444	ethyl acetate
 T199	Compound 8486 8506	alpha-amyrin acetate
 T200	Compound 8512 8531	beta-amyrin acetate
 T201	Compound 8570 8580	polyprenol
-T202	Compound 8631 8646	dichloromethane
-T203	Preparation 8647 8654	extract
 T204	PlantPart 8672 8678	leaves
 T205	Synonym 8682 8697	Ficus ulmifolia
 T206	Compound 8781 8788	acetone
-T207	Compound 8792 8807	dichloromethane
 T208	Compound 8835 8842	acetone
-T209	Compound 8846 8861	dichloromethane
 T210	Compound 8948 8956	squalene
 T211	Compound 8962 8975	beta-carotene
 T212	Compound 9095 9108	ethyl acetate
@@ -217,7 +194,6 @@ T216	Compound 9229 9242	ethyl acetate
 T217	Compound 9285 9314	alpha-amyrin fatty acid ester
 T218	Compound 9320 9348	beta-amyrin fatty acid ester
 T219	Compound 9359 9366	acetone
-T220	Compound 9370 9385	dichloromethane
 T221	Compound 9424 9437	ethyl acetate
 T222	Compound 9467 9477	polyprenol
 T223	Compound 9487 9494	acetone
@@ -233,7 +209,6 @@ T232	Compound 9802 9817	dichloromethane
 T233	Compound 9852 9875	dichloromethane:diethyl
 T234	Compound 9914 9920	lutein
 T235	Compound 9963 9970	diethyl
-T236	Compound 9984 9999	dichloromethane
 T237	PlantPart 10026 10032	leaves
 T238	Synonym 10036 10053	Ficus pseudopalma
 T239	Synonym 10058 10073	Ficus ulmifolia
@@ -271,3 +246,100 @@ T270	ChemicalClass 11190 11197	Sterols
 T271	Synonym 11221 11238	Ficus pseudopalma
 T272	Synonym 11243 11258	Ficus ulmifolia
 T273	Compound 11346 11358	triglyceride
+R1	hasCompound Arg1:T23 Arg2:T24	
+R2	hasCompound Arg1:T23 Arg2:T25	
+R3	hasCompound Arg1:T23 Arg2:T26	
+R4	hasCompound Arg1:T23 Arg2:T27	
+R5	hasCompound Arg1:T23 Arg2:T28	
+R6	hasCompound Arg1:T22 Arg2:T24	
+R7	hasCompound Arg1:T22 Arg2:T25	
+R8	hasCompound Arg1:T22 Arg2:T26	
+R9	hasCompound Arg1:T22 Arg2:T27	
+R10	hasCompound Arg1:T22 Arg2:T28	
+R11	hasCompound Arg1:T29 Arg2:T30	
+R12	hasCompound Arg1:T29 Arg2:T31	
+R13	hasCompound Arg1:T29 Arg2:T32	
+R14	hasCompound Arg1:T29 Arg2:T33	
+R15	hasCompound Arg1:T34 Arg2:T35	
+R16	hasCompound Arg1:T34 Arg2:T36	
+R17	hasCompound Arg1:T34 Arg2:T37	
+R18	hasCompound Arg1:T34 Arg2:T38	
+R19	hasCompound Arg1:T34 Arg2:T39	
+R20	hasCompound Arg1:T34 Arg2:T41	
+R21	isLocatedIn Arg1:T45 Arg2:T46	
+T16	Illness 1744 1757	kidney stones
+R22	utilizePart Arg1:T47 Arg2:T48	
+R23	treats Arg1:T48 Arg2:T16	
+R24	treats Arg1:T48 Arg2:T50	
+R25	belongsToClass Arg1:T60 Arg2:T59	
+R26	belongsToClass Arg1:T61 Arg2:T59	
+R27	belongsToClass Arg1:T62 Arg2:T59	
+R28	belongsToClass Arg1:T63 Arg2:T59	
+R29	belongsToClass Arg1:T64 Arg2:T59	
+R30	belongsToClass Arg1:T65 Arg2:T59	
+R31	belongsToClass Arg1:T66 Arg2:T59	
+R32	belongsToClass Arg1:T67 Arg2:T59	
+R33	hasCompound Arg1:T58 Arg2:T60	
+R34	hasCompound Arg1:T58 Arg2:T61	
+R35	hasCompound Arg1:T58 Arg2:T62	
+R36	hasCompound Arg1:T58 Arg2:T63	
+R37	hasCompound Arg1:T58 Arg2:T64	
+R38	hasCompound Arg1:T58 Arg2:T65	
+R39	hasCompound Arg1:T58 Arg2:T66	
+R40	hasCompound Arg1:T58 Arg2:T67	
+R41	hasCompound Arg1:T58 Arg2:T68	
+T19	Compound 2502 2525	amyrin fatty acid ester
+R42	belongsToClass Arg1:T71 Arg2:T70	
+R43	belongsToClass Arg1:T72 Arg2:T70	
+R44	belongsToClass Arg1:T19 Arg2:T70	
+R45	belongsToClass Arg1:T73 Arg2:T70	
+R46	belongsToClass Arg1:T74 Arg2:T70	
+R47	belongsToClass Arg1:T75 Arg2:T70	
+R48	hasCompound Arg1:T69 Arg2:T71	
+R49	hasCompound Arg1:T69 Arg2:T72	
+R50	hasCompound Arg1:T69 Arg2:T19	
+R51	hasCompound Arg1:T69 Arg2:T73	
+R52	hasCompound Arg1:T69 Arg2:T74	
+R53	hasCompound Arg1:T69 Arg2:T75	
+R54	hasCompound Arg1:T69 Arg2:T76	
+R55	hasCompound Arg1:T69 Arg2:T77	
+R56	hasCompound Arg1:T69 Arg2:T78	
+R57	hasCompound Arg1:T69 Arg2:T79	
+R58	hasCompound Arg1:T69 Arg2:T80	
+R59	hasCompound Arg1:T89 Arg2:T90	
+R60	hasCompound Arg1:T89 Arg2:T91	
+T20	Location 3544 3557	Camarines Sur
+R61	hasSynonymPlantPart Arg1:T114 Arg2:T113	
+R62	hasCompound Arg1:T113 Arg2:T115	
+T44	Compound 6468 6488	Alpha-Amyrin acetate
+T49	BioAct 6518 6530	hypoglycemic
+R63	hasBiologicalActivity Arg1:T44 Arg2:T49	
+T51	BioAct 6584 6600	antiurolithiatic
+T55	BioAct 6605 6613	diuretic
+R64	hasBiologicalActivity Arg1:T166 Arg2:T51	
+R65	hasBiologicalActivity Arg1:T166 Arg2:T55	
+T111	Compound 6640 6660	Alpha-Amyrin acetate
+R66	hasCompound Arg1:T168 Arg2:T111	
+T112	Illness 6957 6970	kidney stones
+T117	Compound 6994 7006	Alpha-Amyrin
+R67	hasBiologicalActivity Arg1:T174 Arg2:T175	
+R68	hasBiologicalActivity Arg1:T117 Arg2:T175	
+T131	BioAct 7209 7218	analgesic
+R69	hasBiologicalActivity Arg1:T176 Arg2:T131	
+R70	hasBiologicalActivity Arg1:T177 Arg2:T131	
+R71	hasBiologicalActivity Arg1:T178 Arg2:T131	
+T133	Compound 7651 7661	zeaxanthin
+T165	Illness 7872 7886	breast cancers
+T167	BioAct 7397 7412	chemopreventive
+R72	hasBiologicalActivity Arg1:T180 Arg2:T167	
+T171	BioAct 7479 7495	cardioprotective
+R73	hasBiologicalActivity Arg1:T181 Arg2:T171	
+T173	Illness 7430 7450	colon carcinogenesis
+T186	BioAct 7563 7576	hypolipidemic
+R74	hasBiologicalActivity Arg1:T181 Arg2:T186	
+R75	hasBiologicalActivity Arg1:T181 Arg2:T182	
+T274	BioAct 7797 7810	proliferation
+R76	hasBiologicalActivity Arg1:T184 Arg2:T274	
+R77	hasSynonymPlantPart Arg1:T205 Arg2:T204	
+R78	hasSynonymPlantPart Arg1:T238 Arg2:T237	
+R79	hasSynonymPlantPart Arg1:T239 Arg2:T237	
