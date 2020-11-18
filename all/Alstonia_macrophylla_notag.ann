@@ -285,20 +285,14 @@ T303	Synonym 18739 18759	Alstonia macrophylla
 T304	PlantPart 18571 18575	bark
 T305	Synonym 18813 18833	Alstonia macrophylla
 T306	ChemicalClass 14979 14987	alkaloid
-T307	Family 18957 18967	Solanaceae
 T308	Compound 18976 18984	atropine
-T309	Synonym 19024 19039	Daboia russelli
 T310	Compound 19091 19106	beta-sitosterol
 T311	Compound 19111 19123	stigmasterol
 T313	Synonym 19178 19192	Pluchea indica
-T314	Compound 19238 19248	superoxide
 T315	Compound 19298 19304	Lupeol
 T316	Illness 19330 19340	hemorrhage
-T317	Synonym 19393 19407	Bothrops venom
-T318	Synonym 19480 19499	Naja philippinensis
 T319	BioAct 19500 19509	antivenom
 T320	Synonym 19582 19600	Alstonia scholaris
-T321	Synonym 19662 19677	Vipera russelli
 T322	Compound 19723 19730	alanine
 T323	Compound 19745 19754	aspartate
 T324	Compound 19773 19783	creatinine
@@ -329,7 +323,6 @@ T348	Synonym 21729 21749	Alstonia macrophylla
 T349	Synonym 22039 22059	Alstonia macrophylla
 T350	ChemicalClass 22090 22099	alkaloids
 T351	ChemicalClass 22104 22117	triterpenoids
-T352	BodyPart 22335 22341	breast
 T353	Synonym 22396 22416	Alstonia macrophylla
 T354	PlantPart 20110 20114	bark
 T355	Synonym 22586 22606	Alstonia macrophylla
@@ -392,7 +385,6 @@ T428	Location 29806 29809	USA
 T429	Compound 29765 29771	Zeocin
 T430	BioAct 13662 13671	cytotoxic
 T431	Synonym 30930 30950	Alstonia macrophylla
-T432	Synonym 31025 31044	Naja philippinensis
 T433	Compound 31251 31287	5,5'-dithio-bis-(2-nitrobenzoic acid
 T434	Compound 31363 31374	polystyrene
 T435	Compound 31390 31400	microplate
@@ -471,7 +463,6 @@ R44	hasSynonymPlantPart Arg1:T79 Arg2:T78
 R45	hasSynonymPlantPart Arg1:T79 Arg2:T76	
 T148	Illness 3826 3851	joint and muscle injuries
 R46	utilizePart Arg1:T80 Arg2:T78	
-R47	treats Arg1:T78 Arg2:T148	
 R48	hasSynonymPlantPart Arg1:T85 Arg2:T84	
 R49	hasSynonymPlantPart Arg1:T85 Arg2:T83	
 R50	isLocatedIn Arg1:T85 Arg2:T86	
@@ -561,12 +552,9 @@ T232	Illness 17819 17832	kidney cancer
 T289	Illness 17842 17855	breast cancer
 T291	Illness 17870 17882	colon cancer
 R125	hasSynonymPlantPart Arg1:T301 Arg2:T304	
-T368	BioAct 18594 18607	phospholipase
 R126	hasSynonymParent Arg1:T327 Arg2:T303	
-R127	belongsToFamily Arg1:T309 Arg2:T307	
-R128	hasCompound Arg1:T309 Arg2:T308	
 T372	ChemicalClass 19081 19089	steroids
-T378	ChemicalClass 19067 19076	coumestan
+T378	Compound 19067 19076	coumestan
 R129	belongsToClass Arg1:T310 Arg2:T372	
 R130	belongsToClass Arg1:T311 Arg2:T372	
 R131	hasCompound Arg1:T313 Arg2:T310	
@@ -584,13 +572,8 @@ R136	hasSynonymPlantPart Arg1:T358 Arg2:T359
 R137	isLocatedIn Arg1:T358 Arg2:T360	
 R138	isLocatedIn Arg1:T358 Arg2:T361	
 R139	isLocatedIn Arg1:T358 Arg2:T362	
-T364	Preparation 23012 23110	ground followed by soaking 3.0 g of the powdered biomass in 20 mL of dichloromethane (DCM) for 3 h
-R140	utilizePart Arg1:T364 Arg2:T394	
-T365	Preparation 23126 23172	filtered and then dried under nitrogen for 1 h
 T366	BioAct 24793 24802	Cytotoxic
 R141	hasSynonymPlantPart Arg1:T393 Arg2:T447	
-T367	Preparation 26585 26700	prepared in a 10 mm Mylar cup for elemental analysis using an EDX-7000 with a collimator set at 10 mm under vacuum.
-R142	utilizePart Arg1:T367 Arg2:T447	
 R143	hasSynonymPlantPart Arg1:T397 Arg2:T398	
 R144	isLocatedIn Arg1:T409 Arg2:T410	
 R145	isLocatedIn Arg1:T409 Arg2:T411	
@@ -599,3 +582,65 @@ T369	Illness 28304 28317	breast cancer
 T400	Illness 28327 28339	colon cancer
 T401	Illness 28348 28373	small cell lung carcinoma
 T407	Illness 28383 28413	human acute monocytic leukemia
+R147	hasSynonymPlantPart Arg1:T3 Arg2:T4	
+T408	Illness 3675 3688	skin diseases
+R148	treats Arg1:T73 Arg2:T408	
+R149	treats Arg1:T64 Arg2:T70	
+R150	hasPreparation Arg1:T68 Arg2:T64	
+R151	hasPreparation Arg1:T69 Arg2:T64	
+R47	treats Arg1:T80 Arg2:T148	
+R152	utilizePart Arg1:T325 Arg2:T81	
+T413	BodyPart 3918 3926	ingested
+R153	appliedTo Arg1:T325 Arg2:T413	
+T441	Illness 3945 3982	respiratory and auditory obstructions
+R154	treats Arg1:T325 Arg2:T441	
+T442	Compound 5080 5115	hydroxylated polyphenolic compounds
+R155	belongsToClass Arg1:T101 Arg2:T102	
+R156	affects Arg1:T430 Arg2:T222	
+T460	BioAct 16812 16821	cytotoxic
+R157	hasBiologicalActivity Arg1:T273 Arg2:T460	
+R158	affects Arg1:T460 Arg2:T275	
+R159	affects Arg1:T460 Arg2:T276	
+R160	affects Arg1:T460 Arg2:T277	
+R161	affects Arg1:T460 Arg2:T278	
+R162	affects Arg1:T460 Arg2:T279	
+T461	BioAct 17481 17498	antiproliferative
+T462	CellLine 17531 17536	MOR-P
+T463	CellLine 17541 17548	COR-L23
+R163	affects Arg1:T461 Arg2:T462	
+R164	affects Arg1:T461 Arg2:T463	
+T464	BioAct 18085 18097	cytotoxicity
+T465	CellLine 18101 18106	MOR-P
+T466	CellLine 18111 18118	COR-L23
+R165	affects Arg1:T464 Arg2:T465	
+R166	affects Arg1:T464 Arg2:T466	
+R167	hasCompound Arg1:T302 Arg2:T293	
+R168	hasCompound Arg1:T302 Arg2:T294	
+R169	hasCompound Arg1:T302 Arg2:T295	
+R170	hasCompound Arg1:T302 Arg2:T296	
+R171	hasCompound Arg1:T302 Arg2:T297	
+R172	hasCompound Arg1:T292 Arg2:T293	
+R173	hasCompound Arg1:T292 Arg2:T294	
+R174	hasCompound Arg1:T292 Arg2:T295	
+R175	hasCompound Arg1:T292 Arg2:T296	
+R176	hasCompound Arg1:T292 Arg2:T297	
+R177	hasBiologicalActivity Arg1:T293 Arg2:T464	
+R178	hasBiologicalActivity Arg1:T294 Arg2:T464	
+R179	hasBiologicalActivity Arg1:T295 Arg2:T464	
+R180	hasBiologicalActivity Arg1:T296 Arg2:T464	
+R181	hasBiologicalActivity Arg1:T297 Arg2:T464	
+R127	hasCompound Arg1:T313 Arg2:T378	
+T307	BioAct 20375 20387	cytotoxicity
+R128	hasBiologicalActivity Arg1:T333 Arg2:T307	
+R182	affects Arg1:T328 Arg2:T330	
+R183	affects Arg1:T328 Arg2:T331	
+R184	affects Arg1:T328 Arg2:T332	
+T309	CellLine 22304 22327	human colorectal cancer
+T314	CellLine 22329 22356	human breast adenocarcinoma
+T317	CellLine 22362 22393	human small cell lung carcinoma
+T318	BioAct 25392 25401	Cytotoxic
+R140	affects Arg1:T318 Arg2:T380	
+R185	affects Arg1:T318 Arg2:T381	
+R186	affects Arg1:T318 Arg2:T382	
+R187	affects Arg1:T318 Arg2:T383	
+R188	affects Arg1:T318 Arg2:T384	
