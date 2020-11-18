@@ -18,12 +18,10 @@ T17	Location 941 947	Taiwan
 T18	Location 1025 1035	Binan City
 T19	Location 1037 1048	Philippines
 T20	Synonym 1152 1175	Andrographis paniculata
-T21	Synonym 1188 1207	Naja philippinensis
 T22	BioAct 1338 1348	anti-venom
 T23	Synonym 1361 1384	Andrographis paniculata
 T24	PlantPart 1396 1401	roots
 T26	Compound 1472 1489	skullcapflavone I
-T27	Synonym 1581 1600	Naja philippinensis
 T28	BioAct 1777 1787	anti-venom
 T29	ChemicalClass 1874 1882	flavones
 T30	Compound 2018 2047	3,5-dimethylphenyl isocyanate
@@ -39,7 +37,6 @@ T43	Compound 4065 4075	hemoglobin
 T44	Location 4234 4240	Manila
 T45	Location 4242 4253	Philippines
 T46	Compound 4805 4834	3,5-dimethylphenyl isocyanate
-T47	Synonym 4900 4919	Naja philippinensis
 T48	Location 5178 5189	Philippines
 T50	Synonym 5524 5547	Andrographis paniculata
 T51	Illness 5651 5656	fever
@@ -73,18 +70,15 @@ T78	PlantPart 6442 6446	pods
 T79	Compound 6452 6475	14-deoxyandrographolide
 T80	PlantPart 6485 6490	stems
 T81	Synonym 6494 6517	Andrographis paniculata
-T82	Synonym 6579 6598	Naja philippinensis
 T83	BioAct 6613 6623	anti-venom
 T84	Compound 6642 6657	dichloromethane
 T85	Synonym 6673 6696	Andrographis paniculata
 T86	PlantPart 6697 6702	roots
 T87	Compound 6767 6800	5,2'-dihydroxy,8-dimethoxyflavone
-T88	Synonym 6881 6900	Naja philippinensis
 T91	Synonym 7555 7578	Andrographis paniculata
 T92	Family 7586 7597	Acanthaceae
 T93	Location 7635 7641	Bataan
 T94	Location 7643 7654	Philippines
-T95	Synonym 7749 7768	Naja philippinensis
 T96	Location 7867 7878	Philippines
 T97	Compound 7954 7973	n-hexadecanoic acid
 T101	Compound 8214 8243	3,5-dimethylphenyl isocyanate
@@ -335,7 +329,6 @@ R2	hasCompound Arg1:T3 Arg2:T4
 T381	Location 677 690	Machikaneyama
 R3	hasSynonymPlantPart Arg1:T23 Arg2:T24	
 R4	hasCompound Arg1:T24 Arg2:T26	
-R5	hasCompound Arg1:T47 Arg2:T46	
 T25	Illness 5627 5649	respiratory infections
 R6	hasSynonymPlantPart Arg1:T60 Arg2:T59	
 R7	hasCompound Arg1:T59 Arg2:T56	
@@ -360,7 +353,6 @@ R25	hasCompound Arg1:T78 Arg2:T74
 R26	hasCompound Arg1:T78 Arg2:T75	
 R27	hasCompound Arg1:T78 Arg2:T77	
 R28	hasCompound Arg1:T80 Arg2:T79	
-R29	hasCompound Arg1:T82 Arg2:T84	
 R30	hasBiologicalActivity Arg1:T84 Arg2:T83	
 R31	hasSynonymPlantPart Arg1:T85 Arg2:T86	
 R32	hasCompound Arg1:T86 Arg2:T330	
@@ -368,7 +360,6 @@ R33	hasCompound Arg1:T86 Arg2:T87
 R34	belongsToFamily Arg1:T91 Arg2:T92	
 R35	isLocatedIn Arg1:T91 Arg2:T93	
 R36	isLocatedIn Arg1:T91 Arg2:T94	
-R37	isLocatedIn Arg1:T95 Arg2:T96	
 T33	Preparation 7982 8079	ground in a blender, soaked in CH2Cl2 (dichloromethane) for a 24-hour interval, and then filtered
 T34	Preparation 10770 10891	mixing n-hexadecanoic acid, ml of the concentrate with 27 ml of high performance liquid chromatography (HPLC) grade water
 T35	Compound 13905 13913	methanol
@@ -414,3 +405,4 @@ R74	isLocatedIn Arg1:T307 Arg2:T306
 R75	isLocatedIn Arg1:T307 Arg2:T305	
 R76	affects Arg1:T375 Arg2:T317	
 R77	hasSynonymPlantPart Arg1:T318 Arg2:T319	
+R5	hasCompound Arg1:T85 Arg2:T84	
