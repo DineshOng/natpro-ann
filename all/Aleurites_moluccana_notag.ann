@@ -148,9 +148,9 @@ T163	Compound 8507 8531	3-acetylaleuritolic acid
 T164	ChemicalClass 8534 8544	Triterpene
 T165	Compound 8545 8570	3-acetyl aleuritolic acid
 T166	BioAct 8582 8595	antimicrobial
-T167	Synonym 8613 8622	S. aureus
-T168	Synonym 8627 8641	S. typhimurium
-T169	Synonym 8711 8723	O. gutturosa
+T167	CellLine 8613 8622	S. aureus
+T168	CellLine 8627 8641	S. typhimurium
+T169	CellLine 8711 8723	O. gutturosa
 T170	Compound 8850 8861	polyprenols
 T171	Compound 8864 8877	triglycerides
 T172	Compound 8880 8895	beta-sitosterol
@@ -243,11 +243,7 @@ R63	hasCompound Arg1:T103 Arg2:T106
 R64	hasSynonymPlantPart Arg1:T113 Arg2:T112	
 R65	hasCompound Arg1:T115 Arg2:T116	
 R66	hasSynonymPlantPart Arg1:T117 Arg2:T115	
-T92	Preparation 4685 4755	ground in a blender, soaked in CH2Cl2 for three days and then filtered
-R67	utilizePart Arg1:T92 Arg2:T115	
 R68	hasSynonymPlantPart Arg1:T131 Arg2:T130	
-T118	Preparation 5916 5986	ground in a blender, soaked in CH2Cl2 for three days and then filtered
-R69	utilizePart Arg1:T118 Arg2:T130	
 R70	hasSynonymPlantPart Arg1:T146 Arg2:T145	
 R71	hasCompound Arg1:T145 Arg2:T147	
 R72	hasCompound Arg1:T145 Arg2:T148	
@@ -267,6 +263,23 @@ R82	hasBiologicalActivity Arg1:T158 Arg2:T120
 R83	hasBiologicalActivity Arg1:T158 Arg2:T132	
 R84	belongsToClass Arg1:T165 Arg2:T164	
 R85	hasBiologicalActivity Arg1:T165 Arg2:T166	
-R86	hasCompound Arg1:T167 Arg2:T165	
-R87	hasCompound Arg1:T168 Arg2:T165	
 T133	BioAct 8656 8666	inhibitory
+R88	hasSynonymPlantPart Arg1:T21 Arg2:T20	
+R89	hasCompound Arg1:T20 Arg2:T22	
+R90	hasCompound Arg1:T20 Arg2:T23	
+R91	hasCompound Arg1:T20 Arg2:T24	
+R92	hasCompound Arg1:T20 Arg2:T25	
+R93	hasCompound Arg1:T20 Arg2:T26	
+R94	hasCompound Arg1:T20 Arg2:T27	
+R95	hasCompound Arg1:T20 Arg2:T28	
+T134	ChemicalClass 2398 2416	trinorditerpenoids
+R96	belongsToClass Arg1:T95 Arg2:T134	
+R67	affects Arg1:T166 Arg2:T167	
+R69	affects Arg1:T166 Arg2:T168	
+R86	affects Arg1:T133 Arg2:T169	
+T92	BioAct 8733 8743	inhibition
+T118	CellLine 8747 8767	DNA topoisomerase II
+R87	affects Arg1:T92 Arg2:T118	
+T143	BioAct 8777 8789	cytotoxicity
+T144	CellLine 8819 8823	A549
+R97	affects Arg1:T143 Arg2:T144	
