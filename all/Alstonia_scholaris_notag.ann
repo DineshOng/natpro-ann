@@ -46,7 +46,6 @@ T48	Illness 1687 1692	fever
 T49	Illness 1702 1710	diarrhea
 T50	Illness 1712 1721	dysentery
 T51	Illness 1723 1732	beri-beri
-T52	BodyPart 1752 1757	liver
 T53	Illness 1763 1769	ulcers
 T54	Compound 1815 1830	2,3-secofernane
 T55	ChemicalClass 1831 1844	triterpenoids
@@ -303,9 +302,23 @@ R72	hasCompound Arg1:T154 Arg2:T142
 R73	isLocatedIn Arg1:T157 Arg2:T159	
 R74	hasSynonymPlantPart Arg1:T163 Arg2:T162	
 R75	hasSynonymPlantPart Arg1:T164 Arg2:T165	
-T156	Preparation 6381 6447	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
-R76	utilizePart Arg1:T156 Arg2:T165	
 R77	hasSynonymPlantPart Arg1:T191 Arg2:T190	
 R78	hasCompound Arg1:T190 Arg2:T192	
 R79	hasCompound Arg1:T190 Arg2:T193	
 R80	hasCompound Arg1:T190 Arg2:T194	
+R81	hasCompound Arg1:T14 Arg2:T16	
+R82	hasCompound Arg1:T14 Arg2:T17	
+R83	hasCompound Arg1:T14 Arg2:T18	
+R84	hasCompound Arg1:T14 Arg2:T19	
+R85	hasCompound Arg1:T14 Arg2:T20	
+R86	hasCompound Arg1:T14 Arg2:T21	
+R87	hasCompound Arg1:T14 Arg2:T22	
+R88	hasCompound Arg1:T14 Arg2:T23	
+R89	hasCompound Arg1:T14 Arg2:T24	
+R90	hasCompound Arg1:T14 Arg2:T25	
+R91	hasCompound Arg1:T14 Arg2:T26	
+R92	hasCompound Arg1:T14 Arg2:T27	
+T52	Illness 1734 1757	congestion of the liver
+R93	hasCompound Arg1:T110 Arg2:T103	
+R94	hasCompound Arg1:T110 Arg2:T104	
+R95	hasCompound Arg1:T110 Arg2:T105	
