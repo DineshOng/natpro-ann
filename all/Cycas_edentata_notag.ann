@@ -126,8 +126,6 @@ T137	Compound 10009 10024	beta-sitosterol
 T138	Compound 10041 10068	alphaH-Isopimara-7,15-diene
 T139	Compound 10089 10101	stigmasterol
 T140	Compound 10118 10145	alphaH-Isopimara-7,15-diene
-T141	Compound 10281 10301	Education-Philippine
-T142	Location 10358 10369	Philippines
 R1	hasSynonymPlantPart Arg1:T13 Arg2:T18	
 R2	hasSynonymPlantPart Arg1:T13 Arg2:T22	
 R3	hasCompound Arg1:T18 Arg2:T14	
@@ -205,7 +203,5 @@ R70	hasSynonymPlantPart Arg1:T95 Arg2:T94
 T70	Preparation 5551 5617	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
 R71	utilizePart Arg1:T70 Arg2:T94	
 R72	hasSynonymPlantPart Arg1:T110 Arg2:T109	
-T96	Preparation 6500 6566	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
-R73	utilizePart Arg1:T96 Arg2:T109	
 R74	hasSynonymPlantPart Arg1:T127 Arg2:T128	
 R75	hasSynonymPlantPart Arg1:T127 Arg2:T129	
