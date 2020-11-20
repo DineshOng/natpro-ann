@@ -61,8 +61,6 @@ T62	PlantPart 2832 2837	roots
 T63	BioAct 2901 2913	anthelmintic
 T64	BioAct 2996 3013	anti-inflammatory
 T66	PlantPart 3085 3091	leaves
-T67	Compound 3134 3139	brine
-T68	Synonym 3147 3161	Artemia salina
 T69	Location 3274 3285	Taft Avenue
 T70	Location 3287 3293	Manila
 T71	Location 3300 3311	Philippines
@@ -386,9 +384,7 @@ T396	Compound 21913 21928	Beta-Sitosterol
 T397	Compound 21930 21941	Chlorophyll
 T398	Compound 21992 22046	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
 T399	CellLine 22113 22117	MCF7
-T400	BodyPart 22119 22125	breast
 T401	Compound 22210 22264	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
-T402	BodyPart 22303 22310	stomach
 T403	BioAct 22415 22424	hemolytic
 T404	Compound 22471 22525	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
 T405	Compound 22583 22637	Alpha-Sitosteryl-3alpha-glucopyranoside-6'-O-palmitate
@@ -514,8 +510,6 @@ R57	hasSynonymPlantPart Arg1:T140 Arg2:T139
 R58	hasSynonymPlantPart Arg1:T140 Arg2:T138	
 R59	hasSynonymPlantPart Arg1:T144 Arg2:T142	
 R60	hasSynonymPlantPart Arg1:T144 Arg2:T141	
-T97	Preparation 7326 7396	ground in a blender, soaked in CH2Cl2 for three days and then filtered
-R61	utilizePart Arg1:T97 Arg2:T141	
 R62	hasCompound Arg1:T147 Arg2:T148	
 R63	hasCompound Arg1:T149 Arg2:T150	
 R64	hasCompound Arg1:T153 Arg2:T156	
@@ -556,3 +550,21 @@ R92	hasCompound Arg1:T454 Arg2:T455
 R93	hasCompound Arg1:T454 Arg2:T456	
 R94	hasCompound Arg1:T454 Arg2:T457	
 R95	hasCompound Arg1:T454 Arg2:T458	
+R96	hasSynonymPlantPart Arg1:T22 Arg2:T27	
+R97	hasSynonymPlantPart Arg1:T22 Arg2:T30	
+R98	belongsToFamily Arg1:T47 Arg2:T48	
+T445	BioAct 2887 2899	antidiabetic
+T448	BioAct 2915 2929	antilarvicidal
+T452	BioAct 2931 2947	hepatoprotective
+T467	BioAct 2949 2964	immunomodulator
+T468	BioAct 2966 2979	antidysentery
+T469	BioAct 2981 2994	antidyspepsia
+T470	BioAct 3015 3024	antiulcer
+R61	hasCompound Arg1:T169 Arg2:T172	
+T67	CellLine 22092 22097	Bowes
+R99	affects Arg1:T145 Arg2:T67	
+T68	BioAct 22276 22288	cytotoxicity
+R100	hasBiologicalActivity Arg1:T401 Arg2:T68	
+T97	CellLine 22297 22325	human stomach adenocarcinoma
+T400	BioAct 22667 22682	anti-complement
+R101	hasBiologicalActivity Arg1:T405 Arg2:T400	
