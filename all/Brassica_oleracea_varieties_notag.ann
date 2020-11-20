@@ -105,8 +105,6 @@ T111	Compound 4201 4220	3,3'-Indolylmethane
 T112	Compound 4225 4242	indole-3-carbinol
 T113	Compound 4327 4339	trilinolenin
 T114	Compound 4584 4596	sulforaphane
-T116	Synonym 4716 4738	Pseudomonas aeruginosa
-T117	PlantPart 4757 4761	stem
 T118	BodyPart 4784 4790	breast
 T119	CellLine 4831 4835	MCF7
 T120	Compound 4866 4878	sulforaphane
@@ -365,11 +363,6 @@ T396	Compound 18096 18116	docosahexaenoic acid
 T397	Compound 18127 18147	alpha-linolenic acid
 T398	Compound 18160 18189	their fatty acid ethyl esters
 T399	BioAct 18208 18221	antibacterial
-T400	Synonym 18273 18293	Streptococcus mutans
-T401	Synonym 18295 18311	Candida albicans
-T402	Synonym 18313 18350	Aggregatibacter actinomycetemcomitans
-T403	Synonym 18352 18375	Fusobacterium nucleatum
-T404	Synonym 18381 18405	Porphyromonas gingivalis
 T405	BioAct 18425 18442	anti-inflammatory
 T406	Compound 18617 18637	alpha-linolenic acid
 T407	Compound 18780 18800	alpha-linolenic acid
@@ -425,8 +418,6 @@ R25	hasBiologicalActivity Arg1:T45 Arg2:T46
 R26	belongsToFamily Arg1:T61 Arg2:T60	
 T16	BioAct 2157 2182	cancer preventing effects
 R27	hasBiologicalActivity Arg1:T80 Arg2:T16	
-T17	BioAct 2278 2293	isothiocyanates
-R28	hasBiologicalActivity Arg1:T80 Arg2:T17	
 R29	hasCompound Arg1:T63 Arg2:T80	
 R30	hasCompound Arg1:T64 Arg2:T80	
 R31	hasCompound Arg1:T65 Arg2:T80	
@@ -444,8 +435,6 @@ T433	ChemicalClass 2796 2804	phenolic
 T232	ChemicalClass 2833 2847	glucosinolates
 T434	ChemicalClass 4048 4062	glucosinolates
 T435	Compound 4601 4607	erucin
-R34	hasCompound Arg1:T116 Arg2:T114	
-R35	hasCompound Arg1:T116 Arg2:T435	
 R36	hasSynonymPlantPart Arg1:T123 Arg2:T122	
 R37	isLocatedIn Arg1:T123 Arg2:T124	
 R38	isLocatedIn Arg1:T123 Arg2:T125	
@@ -479,16 +468,10 @@ R53	hasSynonymPlantPart Arg1:T185 Arg2:T184
 R54	hasCompound Arg1:T186 Arg2:T187	
 R55	hasSynonymPlantPart Arg1:T189 Arg2:T188	
 R56	hasCompound Arg1:T189 Arg2:T190	
-T191	Preparation 8134 8205	ground in a blender, soaked in CH2Cl2 for three days, and then filtered
-R57	utilizePart Arg1:T191 Arg2:T184	
-R58	utilizePart Arg1:T191 Arg2:T188	
 R59	hasCompound Arg1:T198 Arg2:T199	
 R60	hasCompound Arg1:T200 Arg2:T201	
 R61	hasCompound Arg1:T204 Arg2:T205	
 R62	hasCompound Arg1:T206 Arg2:T207	
-T192	Preparation 8529 8600	ground in a blender, soaked in CH2Cl2 for three days, and then filtered
-R63	utilizePart Arg1:T192 Arg2:T198	
-R64	utilizePart Arg1:T192 Arg2:T200	
 R65	hasCompound Arg1:T286 Arg2:T233	
 R66	hasCompound Arg1:T286 Arg2:T234	
 R67	hasCompound Arg1:T242 Arg2:T244	
@@ -570,9 +553,6 @@ R139	hasBiologicalActivity Arg1:T373 Arg2:T375
 R140	hasBiologicalActivity Arg1:T374 Arg2:T375	
 R141	hasBiologicalActivity Arg1:T372 Arg2:T375	
 T236	Compound 16937 16949	fibrosarcoma
-T243	BioAct 17188 17198	protective
-R142	hasBiologicalActivity Arg1:T383 Arg2:T243	
-R143	hasBiologicalActivity Arg1:T382 Arg2:T243	
 T249	BioAct 17335 17347	anti-oxidant
 R144	hasBiologicalActivity Arg1:T385 Arg2:T249	
 R145	hasBiologicalActivity Arg1:T398 Arg2:T399	
@@ -585,3 +565,100 @@ R151	hasBiologicalActivity Arg1:T424 Arg2:T428
 R152	hasBiologicalActivity Arg1:T425 Arg2:T428	
 R153	hasBiologicalActivity Arg1:T426 Arg2:T428	
 R154	hasBiologicalActivity Arg1:T427 Arg2:T428	
+T277	MedicinalPlant 1058 1069	red cabbage
+T282	MedicinalPlant 1109 1128	green/white cabbage
+T301	MedicinalPlant 1133 1141	broccoli
+R158	hasMedicinalPlantPart Arg1:T301 Arg2:T29	
+R159	hasMedicinalPlantPart Arg1:T282 Arg2:T29	
+R160	hasCompound Arg1:T277 Arg2:T28	
+T342	MedicinalPlant 1220 1227	mustard
+R161	hasSynonym Arg1:T342 Arg2:T32	
+T380	MedicinalPlant 1258 1264	radish
+R162	hasSynonym Arg1:T380 Arg2:T34	
+R163	hasCompound Arg1:T35 Arg2:T38	
+R164	hasCompound Arg1:T35 Arg2:T39	
+T393	MedicinalPlant 1371 1378	Mustard
+R165	hasMedicinalPlantPart Arg1:T393 Arg2:T40	
+T422	MedicinalPlant 1447 1453	radish
+R166	hasMedicinalPlantPart Arg1:T422 Arg2:T44	
+T444	MedicinalPlant 2085 2092	mustard
+R167	hasSynonym Arg1:T444 Arg2:T64	
+T445	MedicinalPlant 2116 2122	radish
+R168	hasSynonym Arg1:T445 Arg2:T65	
+T17	Compound 2278 2293	isothiocyanates
+T254	CellLine 2976 2980	HeLa
+T265	CellLine 2985 2989	HepG
+R28	affects Arg1:T79 Arg2:T254	
+R155	affects Arg1:T79 Arg2:T265	
+T271	ChemicalClass 3329 3341	anthocyanins
+T446	BioAct 3357 3369	antioxidants
+R156	hasBiologicalActivity Arg1:T82 Arg2:T446	
+T447	MedicinalPlant 3373 3384	red cabbage
+R157	hasCompound Arg1:T447 Arg2:T82	
+T448	BioAct 4118 4130	antioxidants
+R169	hasBiologicalActivity Arg1:T109 Arg2:T448	
+R170	hasBiologicalActivity Arg1:T110 Arg2:T448	
+T449	Compound 4171 4178	indoles
+R171	hasBiologicalActivity Arg1:T449 Arg2:T448	
+T450	Compound 4183 4198	isothiocyanates
+T451	MedicinalPlant 4574 4582	broccoli
+R172	hasBiologicalActivity Arg1:T450 Arg2:T448	
+T452	Compound 4540 4555	isothiocyanates
+R173	hasCompound Arg1:T451 Arg2:T452	
+T116	CellLine 4840 4846	SUM159
+T117	MedicinalPlant 6100 6107	mustard
+R34	hasSynonym Arg1:T117 Arg2:T154	
+T453	MedicinalPlant 6130 6136	radish
+R35	hasSynonym Arg1:T453 Arg2:T155	
+R57	hasSynonymPlantPart Arg1:T186 Arg2:T184	
+T191	MedicinalPlant 8448 8455	mustard
+R58	hasMedicinalPlantPart Arg1:T191 Arg2:T198	
+T454	MedicinalPlant 8490 8496	radish
+R174	hasMedicinalPlantPart Arg1:T454 Arg2:T200	
+T192	MedicinalPlant 8627 8634	mustard
+R63	hasMedicinalPlantPart Arg1:T192 Arg2:T204	
+T455	MedicinalPlant 8667 8673	radish
+R64	hasMedicinalPlantPart Arg1:T455 Arg2:T206	
+T456	MedicinalPlant 11508 11515	mustard
+R175	hasMedicinalPlantPart Arg1:T456 Arg2:T242	
+T457	MedicinalPlant 11757 11764	mustard
+R176	hasMedicinalPlantPart Arg1:T457 Arg2:T248	
+T458	MedicinalPlant 12594 12600	radish
+T459	MedicinalPlant 12809 12815	radish
+R177	hasMedicinalPlantPart Arg1:T458 Arg2:T264	
+R178	hasMedicinalPlantPart Arg1:T459 Arg2:T270	
+T460	MedicinalPlant 13058 13064	radish
+R179	hasMedicinalPlantPart Arg1:T460 Arg2:T276	
+R180	hasSynonymPlantPart Arg1:T285 Arg2:T283	
+T461	MedicinalPlant 13953 13960	mustard
+R181	hasSynonym Arg1:T461 Arg2:T303	
+T462	MedicinalPlant 13997 14003	radish
+R182	hasSynonym Arg1:T462 Arg2:T305	
+T463	MedicinalPlant 14104 14111	Mustard
+R183	hasMedicinalPlantPart Arg1:T463 Arg2:T310	
+T464	MedicinalPlant 14181 14187	radish
+R184	hasMedicinalPlantPart Arg1:T464 Arg2:T314	
+T465	MedicinalPlant 15280 15287	mustard
+R185	hasCompound Arg1:T465 Arg2:T343	
+R186	hasCompound Arg1:T465 Arg2:T344	
+T466	MedicinalPlant 15220 15226	radish
+R187	hasCompound Arg1:T466 Arg2:T341	
+R188	hasCompound Arg1:T466 Arg2:T340	
+R189	hasCompound Arg1:T466 Arg2:T339	
+T467	MedicinalPlant 15466 15473	mustard
+R190	hasCompound Arg1:T467 Arg2:T346	
+T468	MedicinalPlant 15693 15699	radish
+R191	hasCompound Arg1:T468 Arg2:T347	
+R192	hasCompound Arg1:T468 Arg2:T348	
+T469	MedicinalPlant 15705 15712	mustard
+R193	hasCompound Arg1:T469 Arg2:T352	
+R194	hasCompound Arg1:T469 Arg2:T353	
+T243	BioAct 17188 17239	protective effects against cardiovascular disorders
+R142	hasBiologicalActivity Arg1:T383 Arg2:T243	
+R143	hasBiologicalActivity Arg1:T382 Arg2:T243	
+T470	BioAct 17391 17398	inhibit
+T471	CellLine 17413 17453	human non-small cell lung carcinoma A549
+R195	affects Arg1:T470 Arg2:T471	
+R196	hasBiologicalActivity Arg1:T386 Arg2:T470	
+T472	BioAct 17860 17874	anticarcinogen
+R197	hasBiologicalActivity Arg1:T391 Arg2:T472	
