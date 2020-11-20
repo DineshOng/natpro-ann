@@ -80,14 +80,11 @@ T92	Family 7586 7597	Acanthaceae
 T93	Location 7635 7641	Bataan
 T94	Location 7643 7654	Philippines
 T96	Location 7867 7878	Philippines
-T97	Compound 7954 7973	n-hexadecanoic acid
-T101	Compound 8214 8243	3,5-dimethylphenyl isocyanate
 T102	Compound 8481 8487	phenyl
 T103	Compound 8686 8715	3,5-dimethylphenyl isocyanate
 T104	Compound 8835 8864	3,5-dimethylphenyl isocyanate
 T105	Compound 9135 9154	n-hexadecanoic acid
 T106	Compound 9306 9358	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
-T107	Synonym 9752 9771	Naja philippinensis
 T108	Location 9952 9957	Abcam
 T109	Location 9959 9968	Cambridge
 T110	Location 9970 9972	UK
@@ -120,7 +117,6 @@ T142	Compound 14571 14600	3,5-dimethylphenyl isocyanate
 T143	Compound 14676 14692	gamma-sitosterol
 T145	Location 14974 14981	Ibaraki
 T146	Location 14983 14988	Japan
-T148	Synonym 15648 15667	Naja philippinensis
 T149	Compound 16192 16244	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
 T151	Compound 16497 16512	dichloromethane
 T152	Compound 16547 16562	dichloromethane
@@ -240,7 +236,6 @@ T269	Compound 21909 21961	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
 T270	Compound 21963 21982	n-hexadecanoic acid
 T271	Compound 21998 22016	mostly fatty acids
 T272	Compound 22139 22158	n-hexadecanoic acid
-T273	Synonym 22229 22248	Naja philippinensis
 T275	Compound 22890 22896	natrin
 T276	Compound 22898 22909	disintegrin
 T277	PlantPart 23203 23208	roots
@@ -253,16 +248,13 @@ T283	ChemicalClass 23657 23666	flavonoid
 T285	PlantPart 23682 23686	root
 T286	PlantPart 23687 23691	bark
 T287	Synonym 23695 23718	Parinari curatellifolia
-T288	Synonym 23790 23805	Echis carinatus
 T289	Compound 23860 23877	aristolochic acid
 T290	Compound 24058 24073	beta-sitosterol
 T291	Compound 24078 24090	stigmasterol
 T292	PlantPart 24120 24124	root
 T294	Synonym 24136 24150	Pluchea indica
-T295	Compound 24188 24198	superoxide
 T296	ChemicalClass 24261 24269	flavones
 T297	Illness 24333 24343	hemorrhage
-T298	Synonym 24355 24369	Bothrops asper
 T299	PlantPart 24452 24456	leaf
 T300	Preparation 24457 24463	powder
 T301	Synonym 24467 24490	Andrographis paniculata
@@ -281,9 +273,7 @@ T317	CellLine 25710 25714	HDFn
 T318	Synonym 25780 25803	Andrographis paniculata
 T319	PlantPart 25804 25809	roots
 T321	Compound 26103 26155	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
-T325	Synonym 26537 26553	Naja sagittifera
 T326	Compound 26604 26623	n-hexadecanoic acid
-T328	Synonym 27371 27380	Naja naja
 T329	Compound 27565 27617	1-(1,1-dimethylethyl)-2-methyl-1,3-propanediyl ester
 T330	Compound 6746 6761	skullcapflavone
 T332	Compound 27896 27904	carbonyl
@@ -318,7 +308,6 @@ T368	Compound 31158 31187	3,5-dimethylphenyl isocyanate
 T369	Compound 31189 31208	n-hexadecanoic acid
 T370	Compound 31210 31226	gamma-sitosterol
 T371	BioAct 31311 31321	anti-venom
-T375	BioAct 25625 25634	cytotoxic
 T376	CellLine 31853 31857	HDFn
 T377	ChemicalClass 31937 31949	phytosterols
 T378	ChemicalClass 31967 31975	flavones
@@ -360,7 +349,6 @@ R33	hasCompound Arg1:T86 Arg2:T87
 R34	belongsToFamily Arg1:T91 Arg2:T92	
 R35	isLocatedIn Arg1:T91 Arg2:T93	
 R36	isLocatedIn Arg1:T91 Arg2:T94	
-T33	Preparation 7982 8079	ground in a blender, soaked in CH2Cl2 (dichloromethane) for a 24-hour interval, and then filtered
 T34	Preparation 10770 10891	mixing n-hexadecanoic acid, ml of the concentrate with 27 ml of high performance liquid chromatography (HPLC) grade water
 T35	Compound 13905 13913	methanol
 R38	belongsToClass Arg1:T157 Arg2:T156	
@@ -387,7 +375,6 @@ R57	belongsToClass Arg1:T179 Arg2:T172
 R58	belongsToClass Arg1:T180 Arg2:T172	
 R59	belongsToClass Arg1:T181 Arg2:T172	
 R60	belongsToClass Arg1:T182 Arg2:T172	
-R61	hasCompound Arg1:T273 Arg2:T272	
 R62	hasSynonymPlantPart Arg1:T287 Arg2:T286	
 R63	hasSynonymPlantPart Arg1:T287 Arg2:T285	
 R64	hasSynonymPlantPart Arg1:T294 Arg2:T292	
@@ -403,6 +390,21 @@ R72	hasSynonymPlantPart Arg1:T307 Arg2:T308
 R73	utilizePart Arg1:T309 Arg2:T308	
 R74	isLocatedIn Arg1:T307 Arg2:T306	
 R75	isLocatedIn Arg1:T307 Arg2:T305	
-R76	affects Arg1:T375 Arg2:T317	
 R77	hasSynonymPlantPart Arg1:T318 Arg2:T319	
 R5	hasCompound Arg1:T85 Arg2:T84	
+T21	Compound 7954 7973	n-hexadecanoic acid
+T27	Compound 8214 8243	3,5-dimethylphenyl isocyanate
+T33	Compound 24027 24036	Coumestan
+T47	BioAct 24165 24183	lipid peroxidation
+T82	BioAct 24188 24217	superoxide dismutase activity
+R29	hasBiologicalActivity Arg1:T291 Arg2:T47	
+R37	hasBiologicalActivity Arg1:T291 Arg2:T82	
+R61	hasBiologicalActivity Arg1:T290 Arg2:T47	
+R78	hasBiologicalActivity Arg1:T290 Arg2:T82	
+T88	Compound 24249 24259	Catequines
+T89	ChemicalClass 24271 24284	anthocyanines
+T90	ChemicalClass 24300 24307	tannins
+T95	BioAct 25621 25634	not cytotoxic
+R76	affects Arg1:T95 Arg2:T317	
+T97	BioAct 31807 31820	not cytotoxic
+R79	affects Arg1:T97 Arg2:T376	
