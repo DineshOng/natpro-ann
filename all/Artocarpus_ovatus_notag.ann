@@ -252,11 +252,6 @@ T273	Compound 13590 13600	polyprenol
 T274	Synonym 13606 13622	Coccinia grandis
 T275	Compound 13678 13694	Triacylglycerols
 T276	BioAct 13705 13718	antimicrobial
-T277	Synonym 13736 13745	S. aureus
-T278	Synonym 13747 13760	P. aeruginosa
-T279	Synonym 13762 13773	B. subtilis
-T280	Synonym 13775 13786	C. albicans
-T281	Synonym 13792 13809	T. mentagrophytes
 T282	Compound 13840 13853	triglycerides
 T283	Compound 14000 14013	Chlorophyll a
 T284	Compound 14114 14127	chlorophyll a
@@ -343,8 +338,6 @@ R60	hasCompound Arg1:T129 Arg2:T134
 R61	hasCompound Arg1:T144 Arg2:T145	
 R62	hasCompound Arg1:T144 Arg2:T146	
 R63	hasSynonymPlantPart Arg1:T149 Arg2:T148	
-T108	Preparation 6794 6872	ground in a blender, soaked in CH2Cl2 for Polyprenols, days and then filtered.
-R64	utilizePart Arg1:T108 Arg2:T148	
 R65	hasSynonymPlantPart Arg1:T242 Arg2:T241	
 R66	hasCompound Arg1:T241 Arg2:T243	
 R67	hasCompound Arg1:T241 Arg2:T244	
@@ -370,3 +363,8 @@ R80	hasBiologicalActivity Arg1:T275 Arg2:T276
 T239	BioAct 14167 14180	wound healing
 R81	hasBiologicalActivity Arg1:T284 Arg2:T239	
 R82	hasBiologicalActivity Arg1:T284 Arg2:T286	
+T240	PlantPart 2451 2457	timber
+R64	hasBiologicalActivity Arg1:T261 Arg2:T262	
+T108	CellLine 13014 13033	breast cancer cells
+R83	affects Arg1:T262 Arg2:T108	
+R84	hasBiologicalActivity Arg1:T143 Arg2:T262	
