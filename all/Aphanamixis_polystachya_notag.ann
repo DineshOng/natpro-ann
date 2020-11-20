@@ -176,11 +176,10 @@ R28	isLocatedIn Arg1:T98 Arg2:T101
 R29	hasSynonymPlantPart Arg1:T103 Arg2:T102	
 R30	hasSynonymPlantPart Arg1:T106 Arg2:T104	
 R31	hasCompound Arg1:T104 Arg2:T105	
-T68	Preparation 4348 4398	soaked in CH2Cl2 for three days, and then filtered
-R32	utilizePart Arg1:T68 Arg2:T104	
 R33	hasCompound Arg1:T142 Arg2:T143	
 R34	hasCompound Arg1:T142 Arg2:T144	
 R35	hasCompound Arg1:T142 Arg2:T145	
 R36	hasCompound Arg1:T142 Arg2:T146	
 R37	hasCompound Arg1:T142 Arg2:T147	
 R38	hasCompound Arg1:T142 Arg2:T148	
+R39	hasCompound Arg1:T73 Arg2:T72	
