@@ -177,7 +177,6 @@ T185	Compound 8342 8366	methyl fatty acid esters
 T186	PlantPart 8629 8639	Sarcotesta
 T187	PlantPart 8657 8667	sarcotesta
 T188	Synonym 8671 8686	Cycas lacrimans
-T192	Preparation 8098 8105	extract
 T193	Compound 8856 8872	triacylglycerols
 T194	Compound 8935 8942	acetone
 T195	Compound 8980 8987	acetone
@@ -397,11 +396,7 @@ R97	hasCompound Arg1:T147 Arg2:T141
 R98	hasCompound Arg1:T154 Arg2:T153	
 R99	hasSynonymPlantPart Arg1:T156 Arg2:T157	
 R100	hasSynonymPlantPart Arg1:T188 Arg2:T187	
-T140	Preparation 8700 8781	ground in a blender, soaked in CH2Cl2 for Beta-sitosterol, days and then filtered
-R101	utilizePart Arg1:T140 Arg2:T187	
 R102	hasSynonymPlantPart Arg1:T210 Arg2:T209	
-T182	Preparation 9914 9995	ground in a blender, soaked in CH2Cl2 for Beta-sitosterol, days and then filtered
-R103	utilizePart Arg1:T182 Arg2:T209	
 R104	hasSynonymPlantPart Arg1:T274 Arg2:T273	
 R105	hasCompound Arg1:T273 Arg2:T275	
 R106	hasCompound Arg1:T273 Arg2:T276	
@@ -449,3 +444,7 @@ R142	hasCompound Arg1:T302 Arg2:T304
 R143	belongsToFamily Arg1:T305 Arg2:T301	
 R144	hasCompound Arg1:T305 Arg2:T306	
 R145	hasCompound Arg1:T305 Arg2:T307	
+R146	isLocatedIn Arg1:T38 Arg2:T48	
+R147	isLocatedIn Arg1:T55 Arg2:T48	
+R148	isLocatedIn Arg1:T56 Arg2:T48	
+R149	isLocatedIn Arg1:T57 Arg2:T48	
