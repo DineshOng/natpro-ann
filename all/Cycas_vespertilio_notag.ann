@@ -175,7 +175,6 @@ T188	BioAct 10619 10630	antioxidant
 T189	Compound 10664 10675	Pinoresinol
 T190	CellLine 10752 10756	NF-B
 T191	Compound 10790 10809	affordedpinoresinol
-T192	BodyPart 10918 10923	brain
 T193	BioAct 11017 11027	antifungal
 T194	Compound 11094 11113	affordedpinoresinol
 T195	Compound 11208 11221	Lariciresinol
@@ -192,7 +191,6 @@ T207	BioAct 12090 12100	anxiolytic
 T209	Compound 12151 12165	lupeol acetate
 T210	BioAct 12199 12212	antimicrobial
 T211	Compound 12315 12330	Beta-Sitosterol
-T212	BodyPart 12387 12393	breast
 T213	CellLine 12394 12399	MCF-7
 T214	CellLine 12404 12414	MDA-MB-231
 T215	Compound 12438 12453	Beta-Sitosterol
@@ -213,11 +211,6 @@ T232	BioAct 13671 13684	antimutagenic
 T233	BioAct 13735 13746	antioxidant
 T234	Compound 13760 13777	Triacylglycerides
 T235	BioAct 13788 13801	antimicrobial
-T236	Synonym 13819 13828	S. aureus
-T237	Synonym 13830 13843	P. aeruginosa
-T238	Synonym 13845 13856	B. subtilis
-T239	Synonym 13858 13872	Cycas albicans
-T240	Synonym 13877 13894	T. mentagrophytes
 T241	Compound 13925 13938	triglycerides
 T244	Synonym 14272 14289	Cycas vespertilio
 T245	Location 14314 14325	Philippines
@@ -273,8 +266,6 @@ R36	isLocatedIn Arg1:T80 Arg2:T82
 R37	isLocatedIn Arg1:T80 Arg2:T83	
 R38	isLocatedIn Arg1:T80 Arg2:T84	
 R39	hasSynonymPlantPart Arg1:T89 Arg2:T90	
-T70	Preparation 4799 4865	ground in a blender, soaked in CH2Cl2 for 3 days and then filtered
-R40	utilizePart Arg1:T70 Arg2:T90	
 T77	Compound 8977 8991	Fatty alcohols
 R41	hasSynonymPlantPart Arg1:T156 Arg2:T157	
 R42	hasCompound Arg1:T157 Arg2:T158	
@@ -333,3 +324,6 @@ R78	hasCompound Arg1:T244 Arg2:T252
 T243	Compound 14458 14472	fatty alcohols
 R79	hasCompound Arg1:T244 Arg2:T243	
 T246	Compound 14494 14505	pinoresinol
+T70	BioAct 12747 12754	inhibit
+R40	affects Arg1:T70 Arg2:T221	
+R80	hasBiologicalActivity Arg1:T220 Arg2:T70	
