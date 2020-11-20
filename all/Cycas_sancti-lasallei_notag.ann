@@ -343,11 +343,6 @@ T369	BioAct 19615 19632	anti-inflammatory
 T370	BioAct 19658 19669	antioxidant
 T371	Compound 19683 19700	Triacylglycerides
 T372	BioAct 19711 19724	antimicrobial
-T373	Synonym 19742 19751	S. aureus
-T374	Synonym 19753 19766	P. aeruginosa
-T375	Synonym 19768 19779	B. subtilis
-T376	Synonym 19781 19795	Cycas albicans
-T377	Synonym 19801 19818	T. mentagrophytes
 T378	Compound 19849 19862	triglycerides
 T379	Compound 19966 19999	beta-sitosteryl fatty acid esters
 T380	Compound 20008 20016	squalene
@@ -360,7 +355,6 @@ T386	Compound 20288 20298	Oleic acid
 T387	Compound 20394 20404	Oleic acid
 T388	BodyPart 20490 20495	brain
 T389	Compound 20517 20527	Oleic acid
-T390	BodyPart 20643 20649	breast
 T391	CellLine 20660 20665	MCF-7
 T392	Compound 20679 20692	Linoleic acid
 T393	Compound 20708 20727	omega-6 fatty acids
@@ -520,19 +514,13 @@ R120	isLocatedIn Arg1:T137 Arg2:T203
 R121	isLocatedIn Arg1:T137 Arg2:T179	
 T218	Synonym 8316 8337	Cycas sancti-lasallei
 R122	hasSynonymPlantPart Arg1:T218 Arg2:T183	
-T184	Preparation 8350 8429	ground in a blender, soaked in CH2Cl2 for triglycerides, days and then filtered
-R123	utilizePart Arg1:T184 Arg2:T183	
 T185	Synonym 9138 9159	Cycas sancti-lasallei
 R124	hasSynonymPlantPart Arg1:T185 Arg2:T198	
 R125	hasCompound Arg1:T185 Arg2:T199	
 T186	Synonym 9992 10013	Cycas sancti-lasallei
 R126	hasSynonymPlantPart Arg1:T186 Arg2:T214	
-T200	Preparation 10026 10105	ground in a blender, soaked in CH2Cl2 for triglycerides, days and then filtered
-R127	utilizePart Arg1:T200 Arg2:T214	
 T201	Synonym 10832 10853	Cycas sancti-lasallei
 R128	hasSynonymPlantPart Arg1:T201 Arg2:T230	
-T202	Preparation 10865 10944	ground in a blender, soaked in CH2Cl2 for triglycerides, days and then filtered
-R129	utilizePart Arg1:T202 Arg2:T230	
 T215	Synonym 14948 14969	Cycas sancti-lasallei
 R130	hasSynonymPlantPart Arg1:T215 Arg2:T279	
 R131	hasSynonymPlantPart Arg1:T215 Arg2:T284	
@@ -582,3 +570,9 @@ R169	hasCompound Arg1:T233 Arg2:T412
 R170	hasCompound Arg1:T233 Arg2:T413	
 R171	hasBiologicalActivity Arg1:T415 Arg2:T416	
 R172	hasBiologicalActivity Arg1:T414 Arg2:T416	
+R173	isLocatedIn Arg1:T71 Arg2:T61	
+T184	BioAct 20528 20556	inhibited cancer cell growth
+T200	CellLine 20631 20638	SGC7901
+R123	affects Arg1:T184 Arg2:T200	
+R127	affects Arg1:T184 Arg2:T391	
+R129	hasBiologicalActivity Arg1:T389 Arg2:T184	
